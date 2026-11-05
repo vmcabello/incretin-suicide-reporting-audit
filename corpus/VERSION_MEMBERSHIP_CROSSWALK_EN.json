@@ -1,0 +1,1343 @@
+{
+  "historical122_all_retained_in182": true,
+  "new_since122": [
+    "EUCTR2012-005197-63:INITIAL_PARALLEL_CANDIDATE",
+    "NCT00099320:CANDIDATE_BLOCK",
+    "NCT00318422:CANDIDATE_BLOCK",
+    "NCT00324363:CANDIDATE_BLOCK",
+    "NCT00331851:CANDIDATE_BLOCK",
+    "NCT00333151:CANDIDATE_BLOCK",
+    "NCT00375492:CANDIDATE_BLOCK",
+    "NCT00381342:CANDIDATE_BLOCK",
+    "NCT00516074:CANDIDATE_BLOCK",
+    "NCT00603239:CANDIDATE_BLOCK",
+    "NCT00744367:CANDIDATE_BLOCK",
+    "NCT00744926:CANDIDATE_BLOCK",
+    "NCT00754988:CANDIDATE_BLOCK",
+    "NCT00823992:CANDIDATE_BLOCK",
+    "NCT00856609:CANDIDATE_BLOCK",
+    "NCT01018173:CANDIDATE_BLOCK",
+    "NCT01140893:CANDIDATE_BLOCK",
+    "NCT01455441:CANDIDATE_BLOCK",
+    "NCT01472640:CANDIDATE_BLOCK",
+    "NCT01612468:CANDIDATE_BLOCK",
+    "NCT01632163:CANDIDATE_BLOCK",
+    "NCT01753362:CANDIDATE_BLOCK",
+    "NCT01761318:CANDIDATE_BLOCK",
+    "NCT01795248:CANDIDATE_BLOCK",
+    "NCT02251431:CANDIDATE_BLOCK",
+    "NCT02351232:CANDIDATE_BLOCK",
+    "NCT02477865:CANDIDATE_BLOCK",
+    "NCT02477969:CANDIDATE_BLOCK",
+    "NCT02655770:CANDIDATE_BLOCK",
+    "NCT02660047:CANDIDATE_BLOCK",
+    "NCT02664441:CANDIDATE_BLOCK",
+    "NCT02673931:CANDIDATE_BLOCK",
+    "NCT02765399:CANDIDATE_BLOCK",
+    "NCT02860923:CANDIDATE_BLOCK",
+    "NCT02905864:CANDIDATE_BLOCK",
+    "NCT03007329:CANDIDATE_BLOCK",
+    "NCT03038620:CANDIDATE_BLOCK",
+    "NCT03048578:CANDIDATE_BLOCK",
+    "NCT03279731:CANDIDATE_BLOCK",
+    "NCT03341429:CANDIDATE_BLOCK",
+    "NCT03347890:CANDIDATE_BLOCK",
+    "NCT03361098:CANDIDATE_BLOCK",
+    "NCT03449654:CANDIDATE_BLOCK",
+    "NCT03466021:CANDIDATE_BLOCK",
+    "NCT03480022:CANDIDATE_BLOCK",
+    "NCT04061200:CANDIDATE_BLOCK",
+    "NCT04122716:CANDIDATE_BLOCK",
+    "NCT04504370:CANDIDATE_BLOCK",
+    "NCT04504396:CANDIDATE_BLOCK",
+    "NCT04777396:CANDIDATE_BLOCK",
+    "NCT04777409:CANDIDATE_BLOCK",
+    "NCT04889183:CANDIDATE_BLOCK",
+    "NCT04916470:CANDIDATE_BLOCK",
+    "NCT04998032:CANDIDATE_BLOCK",
+    "NCT05073835:CANDIDATE_BLOCK",
+    "NCT05303857:CANDIDATE_BLOCK",
+    "NCT05567796:CANDIDATE_BLOCK",
+    "NCT05680155:CANDIDATE_BLOCK",
+    "NCT05813795:CANDIDATE_BLOCK",
+    "NCT06065540:CANDIDATE_BLOCK"
+  ],
+  "not_prospectively_prespecified": true,
+  "old_missing_from182": [],
+  "records": [
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "ACTRN12617001613392:INITIAL_PARALLEL_CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": false,
+      "population_stratum": "not_established",
+      "unit_id": "ChiCTR1900023428:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "EUCTR2012-005197-63:INITIAL_PARALLEL_CANDIDATE"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "EUCTR2014-003923-23:INITIAL_PARALLEL_CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "EUCTR2019-000781-38:INITIAL_PARALLEL_CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "ISRCTN61129760:INITIAL_PARALLEL_CANDIDATE"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": false,
+      "population_stratum": "not_established",
+      "unit_id": "NCT00035984:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": false,
+      "population_stratum": "not_established",
+      "unit_id": "NCT00039013:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": false,
+      "population_stratum": "not_established",
+      "unit_id": "NCT00039026:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00099320:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00318422:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00318461:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00324363:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00331851:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00333151:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00375492:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00381342:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00395746:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00516074:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00577824:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00603239:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00688701:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00712673:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00713830:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00715624:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00734474:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00744367:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00744926:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00754988:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00763451:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00763815:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00765817:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": false,
+      "population_stratum": "not_established",
+      "unit_id": "NCT00781937:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00823992:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00838903:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00839527:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00849017:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00849056:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00856609:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00866658:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT00975286:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01018173:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01064687:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01140893:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01144338:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01147250:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01169779:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01179048:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01272219:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01272232:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": false,
+      "population_stratum": "eligible_subpopulation_admission",
+      "unit_id": "NCT01373216:INITIAL_PARALLEL_CANDIDATE"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01394952:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01406717:INITIAL_PARALLEL_CANDIDATE"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01455441:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01460069:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": false,
+      "population_stratum": "eligible_subpopulation_admission",
+      "unit_id": "NCT01472640:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01557166:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01558271:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01572740:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01612468:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01617434:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01620489:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01632163:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01652729:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01720446:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01733758:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01753362:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01761318:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01769378:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01784965:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01795248:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT01798706:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": false,
+      "population_stratum": "eligible_subpopulation_admission",
+      "unit_id": "NCT01836523:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02054897:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": false,
+      "population_stratum": "eligible_subpopulation_admission",
+      "unit_id": "NCT02098395:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02152371:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02160990:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02229383:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02229396:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02251431:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02288273:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02305381:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02351232:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02465515:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02477865:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02477969:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02597049:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02655770:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02660047:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": false,
+      "population_stratum": "eligible_subpopulation_admission",
+      "unit_id": "NCT02664441:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": false,
+      "population_stratum": "eligible_subpopulation_admission",
+      "unit_id": "NCT02673931:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02692716:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02750410:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02765399:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02827708:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02860923:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02863419:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": false,
+      "population_stratum": "not_established",
+      "unit_id": "NCT02905864:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02906930:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02963922:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02963935:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT02964247:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03007329:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03018028:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03021187:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03038620:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03048578:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03086330:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03279731:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": false,
+      "population_stratum": "not_established",
+      "unit_id": "NCT03341429:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03347890:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03353350:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03361098:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03449654:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03466021:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03480022:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03496298:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03574597:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03611582:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03713684:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03770728:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03819153:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03914326:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT03954834:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04039503:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04061200:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04074161:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04109547:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": false,
+      "population_stratum": "not_established",
+      "unit_id": "NCT04122716:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04504370:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04504396:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04560998:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04591626:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": false,
+      "population_stratum": "not_established",
+      "unit_id": "NCT04657016:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": false,
+      "population_stratum": "eligible_subpopulation_admission",
+      "unit_id": "NCT04777396:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": false,
+      "population_stratum": "eligible_subpopulation_admission",
+      "unit_id": "NCT04777409:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04788511:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04844918:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04847557:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04865770:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04889183:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04916470:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04998032:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT04998136:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": false,
+      "population_stratum": "not_established",
+      "unit_id": "NCT05024032:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05035095:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05040971:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05064735:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": false,
+      "population_stratum": "eligible_subpopulation_admission",
+      "unit_id": "NCT05073835:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05132088:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05303857:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05412004:GPI1"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05412004:GPI2"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05548647:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05564117:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05567796:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05649137:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05680155:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05691712:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": false,
+      "population_stratum": "not_established",
+      "unit_id": "NCT05813795:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05869903:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05872620:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": false,
+      "population_stratum": "eligible_subpopulation_admission",
+      "unit_id": "NCT05891496:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05931380:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05963022:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT05971940:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": false,
+      "population_stratum": "not_established",
+      "unit_id": "NCT06041217:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": false,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT06065540:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT06109311:CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "NCT06672172:INITIAL_PARALLEL_CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": false,
+      "population_stratum": "eligible_subpopulation_admission",
+      "unit_id": "NTR6323:INITIAL_PARALLEL_CANDIDATE_BLOCK"
+    },
+    {
+      "in_current_operational182": true,
+      "in_historical122": true,
+      "in_posthoc159": true,
+      "population_stratum": "entire_population_eligible_by_entry_criteria",
+      "unit_id": "UTN1111-1181-9567:INITIAL_PARALLEL_CANDIDATE"
+    }
+  ]
+}

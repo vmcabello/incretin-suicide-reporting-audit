@@ -1,0 +1,76 @@
+{
+  "events": [
+    {
+      "change": "Adult phase III/IV parallel placebo comparisons in type 2 diabetes or overweight/obesity; initial treated safety reference and planned follow-up; components and modalities distinct.",
+      "date": "2026-09-21",
+      "document": "protocol_history\\protocolo_v0_8.md",
+      "event": "Operational plan v0.8",
+      "prospectively_registered": false,
+      "public_timestamp_not_established": true,
+      "source_sha256": "4d6e46ec736a1abca0d50e183496500919af5ffa156ecf5bc8f068e2beda47f0",
+      "timing_and_provenance": "After first records were inspected; before definitive eligibility and any pooled effect, as stated in the preserved document."
+    },
+    {
+      "change": "Mandatory binge-eating disorder does not itself exclude an otherwise eligible adult population; BELIEVE considered under revised scope.",
+      "date": "2026-10-05",
+      "document": "protocol_history\\protocolo_v0_9.md",
+      "event": "Scope amendment v0.9",
+      "prospectively_registered": false,
+      "public_timestamp_not_established": true,
+      "source_sha256": "877a35d1ab3e24d048abef0ef97a3136a1ab62da74b28018b2cbb0d5e89be7cc",
+      "timing_and_provenance": "Explicitly formulated after BELIEVE results were known; not prospective specification."
+    },
+    {
+      "change": "Independent randomized population, source-based eligible exposure, fixed reference; any-complete-modality documentary union; zero-all-cause derivation requirements.",
+      "date": "2026-10-17",
+      "document": "protocol_history\\adendo_v0_11.json",
+      "event": "Population/unit amendment v0.11",
+      "prospectively_registered": false,
+      "public_timestamp_not_established": true,
+      "source_sha256": "907c4c8089044b7169b78011f230cc2ad9559d91fa6e9eae715d7720e19d009d",
+      "timing_and_provenance": "Retrospective operationalization, assisted human ratification; not universal independent blinded extraction."
+    },
+    {
+      "change": "Documentary modality coverage, confirmed bounded corpus, missing-source preservation, computational gates; clinical specification deferred.",
+      "date": "2026-10-27",
+      "document": "protocol_history\\tecnico_v3.json",
+      "event": "Technical specification v3",
+      "prospectively_registered": false,
+      "public_timestamp_not_established": true,
+      "source_sha256": "3a28f8ab8ac693f15e152f0139192ee01face38abca9a98481a76eb5d7b463e9",
+      "timing_and_provenance": "Ratified before documentary execution of that freeze, but after source/result inspection."
+    },
+    {
+      "change": "First bounded confirmed roster after directed source and identity reconciliation; global universe explicitly not certified.",
+      "date": "2026-10-28",
+      "document": "outputs/seguimento_ambiguidades360_2026-10-29/FLUXO_CONTABIL_CONSERVADO.json",
+      "event": "Bounded documentary corpus of 121 units",
+      "timing_and_provenance": "Source/result-informed operational corpus; no prospective registration."
+    },
+    {
+      "change": "New candidate membership/source assessments integrated into operational input;182units with5096 documentary positions.",
+      "date": "2026-10-30",
+      "document": "outputs/versao_final_documental_2026-10-30/pacote_final/dados/documental_entrada_final.json",
+      "event": "Expanded operational corpus of 182 units",
+      "timing_and_provenance": "Post-result additions retained with own judgments. The exact contribution of each intermediate freeze is not inferred from file dates alone."
+    },
+    {
+      "change": "Known missing earlier sources preserved cumulatively;159entire-population units prioritized;11eligible-subpopulation units and12population-unknown units retained in separate/complementary analyses.",
+      "date": "2026-11-01",
+      "document": "outputs/correcao_metodologica_final_2026-11-01/auditorias/AUDITORIA_ELEGIBILIDADE13.json",
+      "event": "Cumulative access-gap correction and post-hoc159 hierarchy",
+      "timing_and_provenance": "Explicitly selected after expert feedback and known results; exploratory, not prespecified."
+    },
+    {
+      "change": "No new selection votes or event coding in this metadata export; modality-separated hierarchy and independent-validation design are being prepared by the parent task.",
+      "date": "2026-11-04",
+      "event": "Editorial reconstruction requested",
+      "timing_and_provenance": "Post-hoc response to new editorial review; future independent validation remains prospective from its own locked sample onwards."
+    }
+  ],
+  "original_rule_analysis_not_falsely_reconstructed": true,
+  "public_deposit_or_DOI_not_created_by_this_export": true,
+  "registration": "No prospective or retrospective public registration identified in the supplied author confirmation",
+  "schema": "consolidated-protocol-amendment-chronology-v1",
+  "scope": "Dates from internal documents and named freezes; not legal timestamps or first public disclosure certificates"
+}

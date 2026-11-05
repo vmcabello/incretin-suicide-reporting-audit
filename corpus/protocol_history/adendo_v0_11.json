@@ -1,0 +1,126 @@
+{
+  "BELIEVE_hold_scope": "BELIEVE: bloqueio quantitativo das representações psiquiátricas aqui avaliadas, por ausência de correspondência entre exposição e evento. Não excluir a família documental nem proibir de antemão todo estimando futuro; novos dados podem permitir outra avaliação. A presente integração não libera riscos por tratamento recebido.",
+  "activation_basis": "Both supplied final returns explicitly approve all six sections and attest personal source review; historic proposal-language comments preserved verbatim.",
+  "actual_model_snapshot_id": null,
+  "all_eligibility_criteria_other_than_unit_operationalization_preserved": true,
+  "analyst": "AI assistant integrating reported human ratification and applying the ratified rule to documented facts",
+  "author_contact": false,
+  "clinical_meta_analysis_run": false,
+  "clinical_modality_handling": {
+    "AE_and_scales_not_summed_or_substituted": true,
+    "different_definitions_modalities_and_windows_in_separate_strata": true,
+    "final_clinical_statistical_plan_must_be_fixed_before_pooling": true,
+    "final_clinical_statistical_plan_ratified_by_these_returns": false,
+    "selection_by_favorable_effect_forbidden": true
+  },
+  "created_utc": "2026-10-18T02:38:56.074522+00:00",
+  "documentary_indicator": {
+    "components": [
+      "suicidal_ideation",
+      "suicide_attempt",
+      "suicide_death"
+    ],
+    "direct_and_derived_results_separately_labelled": true,
+    "each_planned_modality_still_shown_separately": true,
+    "label": "Existe pelo menos uma modalidade documentalmente reconstruível para o componente e a referência definidos",
+    "not_global_psychiatric_quality_or_perfect_followup": true,
+    "requires_complete_reference_population_and_window_in_at_least_one_modality": true,
+    "separate_proportions_not_a_global_score": true
+  },
+  "effective": true,
+  "final_numeric_release": false,
+  "final_universe_closed": false,
+  "global_zero_subset_rule": "Only explicit zero reported all-cause mortality in the whole documented parent set, same observed reporting window and a documented exposed subset; preserve missing followup as unknown and original denominators.",
+  "human_methodology_ratifications_received": 2,
+  "human_question_judgments_received": 2,
+  "human_returns_received": 2,
+  "human_source_review_attested_by_returns": true,
+  "identification_and_document_availability_cutoffs_finalized": false,
+  "independent_unit": "An independently randomized eligible population. NCT remains a parent-document grouping. Preserve unit/family correspondence and overlap.",
+  "integration_by": "AI assistant integrating the supplied paired final ratifications of all six v0.11 population sections",
+  "local_date": "2026-10-17",
+  "made_after_inspection_of_results": true,
+  "new_case_specific_human_judgments": 0,
+  "new_independent_human_reviews": 0,
+  "new_paid_AI_API_calls": 0,
+  "new_paid_AI_API_cost_USD": 0,
+  "operational_addendum_version": "0.11",
+  "operationally_adopted_by_reported_researcher_ratifications": true,
+  "original_human_reviews_modified": false,
+  "original_protocol_file_modified": false,
+  "population_rule_version": "0.11",
+  "population_sections": [
+    {
+      "text": "Admitir documentalmente uma família que cumpra os demais critérios quando fontes verificáveis demonstrarem participantes adultos (≥18 anos) com DM2 ou sobrepeso/obesidade no início da fase randomizada, com presença de elegíveis em pelo menos um braço de agonista e no placebo da mesma randomização. A pertença ao grupo deve ser determinada por características basais, com vínculo aos braços de origem. Médias, indicação do medicamento, idade permitida ou cirurgia bariátrica anterior, isoladamente, não comprovam essa composição.",
+      "title": "1. População e existência do subgrupo"
+    },
+    {
+      "text": "A referência é o conjunto basal elegível completo dentro do contraste e da fase de interesse. Um estrato publicado mais estreito pode comprovar que existem participantes elegíveis, mas não redefine a referência para coincidir com os dados disponíveis. Registrar separadamente a parte comprovada, a parte de elegibilidade incerta e a parte inelegível. Não criar proporção mínima de elegíveis. Este adendo não cria nem altera limiares diagnósticos de sobrepeso: preservar e explicitar o critério populacional aplicável já usado na revisão; divergências de definição permanecem sinalizadas para aplicação uniforme antes do fechamento.",
+      "title": "2. Definição fixa da referência"
+    },
+    {
+      "text": "Para integrar a auditoria de resultados finais, comprovar que houve exposição pertinente no contraste elegível e que a fase de referência foi encerrada. O número exato de expostos elegíveis por braço é um campo de reconstruibilidade, e sua ausência não deve, por si, excluir uma família cuja elegibilidade e existência de exposição estejam comprovadas. Quando a própria existência de participantes elegíveis expostos, o contraste ou o encerramento não puderem ser demonstrados, manter aguardando classificação. Inscrição ou número randomizado não prova administração de dose.",
+      "title": "3. Exposição versus denominador exato"
+    },
+    {
+      "text": "Registrar separadamente: elegibilidade documental; verificabilidade/completude da referência; e aptidão para síntese clínica. Em uma família já elegível, N de segurança ou janela incompletos impedem afirmar reconstrução completa e, quando necessários ao estimando, impedem o cálculo clínico. No indicador de existência de reconstrução completa, unidades elegíveis com exposição comprovada e fase encerrada permanecem no denominador mesmo quando o N exato da referência não é recuperável; não entram no numerador de reconstrução completa. Mostrar referência não verificável como categoria explícita, sem confundi-la com zero clínico ou não mensuração. Apresentar sensibilidades restritas às unidades com referência verificável e às populações integralmente elegíveis, identificando os denominadores distintos. A contagem final depende do fechamento do universo e da reconciliação das unidades independentes; subgrupos não são novos ensaios.",
+      "title": "4. Três decisões distintas"
+    },
+    {
+      "text": "Não exigir resultados psiquiátricos desagregados, instrumento específico ou ocorrência de eventos para admitir o subgrupo. Não atribuir eventos do conjunto misto ao estrato, não repartir eventos proporcionalmente, não tratar ausência de relato como zero e não substituir avaliados de escala por randomizados ou expostos. Uma representação restrita pode ser preservada como parcial; a síntese clínica exige sua própria definição, população, braços e janela compatíveis.",
+      "title": "5. Desfechos e dados faltantes"
+    },
+    {
+      "text": "Cada população randomizada independente mantém sua unidade original. Subgrupos e doses não criam novos ensaios; preservar sobreposições e controles compartilhados. Aplicar a regra uniformemente à base de 466 famílias, incluindo decisões anteriores potencialmente afetadas. Preservar fase III/IV, desenho paralelo, intervenção prevista, placebo verdadeiro, identidade e demais critérios atuais. A regra é uma operacionalização proposta após conhecimento de estudos e resultados, não uma prespecificação prospectiva. Sua vigência depende da ratificação dos pesquisadores; as fichas originais e o protocolo anterior permanecem arquivados.",
+      "title": "6. Unidade, uniformidade e cronologia"
+    }
+  ],
+  "previous_effective_addendum": "SRC-8c2546eb612d145bb862a1f9",
+  "previous_effective_addendum_sha256": "e6a4811957d7415ccf11e97600d03ed715f1c302094e6f3cb9c52f39808a7549",
+  "proposed_version_no_longer_pending": true,
+  "prospectively_prespecified": false,
+  "protocol_base_source_id": "SRC-877a35d1ab3e24d048abef0e",
+  "ratification_reported_completion_dates": [
+    "2026-10-17",
+    "2026-10-17"
+  ],
+  "ratification_reviewers": [
+    {
+      "archived_source_id": "SRC-7bbb77ca512c478bad4de15e",
+      "clinical_data_released": false,
+      "document_kind": "review_final",
+      "exported_utc": "2026-10-17T23:13:32.641Z",
+      "methodological_amendment_auto_applied": false,
+      "no_blinding_or_independence_inferred": true,
+      "original_source_id": "SRC-7bbb77ca512c478bad4de15e",
+      "packet_canonical_sha256": "afa229ec927fd7950ac34d0f6a217b97d1d60eb67e0cfd6d89fb3bf08e33cc6a",
+      "packet_id": "RATIFICACAO_POPULACOES_M127_01_2026-10-17_v1",
+      "review_completion_date": "2026-10-17",
+      "review_method": "Human ratification of a disclosed AI-authored scientific proposal; no independent blinded extraction inferred",
+      "reviewer_name": "Vitor",
+      "reviewer_role": "R1",
+      "sha256": "7bbb77ca512c478bad4de15eaf491093e1a2094c215677bdf897a3f5ffc47a08"
+    },
+    {
+      "archived_source_id": "SRC-c937621c06becd03df1fe9f1",
+      "clinical_data_released": false,
+      "document_kind": "review_final",
+      "exported_utc": "2026-10-17T23:13:32.641Z",
+      "methodological_amendment_auto_applied": false,
+      "no_blinding_or_independence_inferred": true,
+      "original_source_id": "SRC-c937621c06becd03df1fe9f1",
+      "packet_canonical_sha256": "afa229ec927fd7950ac34d0f6a217b97d1d60eb67e0cfd6d89fb3bf08e33cc6a",
+      "packet_id": "RATIFICACAO_POPULACOES_M127_01_2026-10-17_v1",
+      "review_completion_date": "2026-10-17",
+      "review_method": "Human ratification of a disclosed AI-authored scientific proposal; no independent blinded extraction inferred",
+      "reviewer_name": "Guilherme",
+      "reviewer_role": "R2",
+      "sha256": "c937621c06becd03df1fe9f15b18e0d2abe511bf6cf8dbaf57dc82eb49dd06bd"
+    }
+  ],
+  "ratification_source_packet": "SRC-d0602930b24afef57f41b2ba",
+  "ratified_packet_canonical_sha256": "afa229ec927fd7950ac34d0f6a217b97d1d60eb67e0cfd6d89fb3bf08e33cc6a",
+  "raw_returns_modified": false,
+  "review_method": "Human ratification of a disclosed AI-authored scientific proposal; no independent blinded extraction inferred",
+  "stage": "integration_ratified_population_rule_v011"
+}

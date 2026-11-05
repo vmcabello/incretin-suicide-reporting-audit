@@ -1,0 +1,17 @@
+{
+  "approval": "Both authors approved final manuscript and EJCP submission, confirmed by user on4November2026; repository publication explicitly requested by the user.",
+  "competing_interests": "None",
+  "doi": null,
+  "funding": "None",
+  "kind": "Research data and analysis code",
+  "licenses": {
+    "author_owned_classifications_and_documentation": "CC-BY-4.0",
+    "software": "MIT"
+  },
+  "manuscript_preprint_included": false,
+  "release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.0.0",
+  "released": "2026-11-04",
+  "repository": "https://github.com/vmcabello/incretin-suicide-reporting-audit",
+  "source_scope": "Fixed historical exploratory corpus; no exhaustive trial-universe claim",
+  "version": "v1.0.0"
+}

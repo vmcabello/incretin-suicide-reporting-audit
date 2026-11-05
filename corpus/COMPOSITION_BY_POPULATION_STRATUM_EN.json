@@ -1,0 +1,1749 @@
+{
+  "important_limits": [
+    "Registered interventions include background therapies and comparators; lists are retained rather than pretending every drug is the trial target.",
+    "Conditions are recorded registry conditions, not harmonized clinical indications.",
+    "Year is registered primary completion, not publication or disclosure year.",
+    "Lead sponsor is registry metadata, not a new funding/conflict adjudication.",
+    "13 units lack usable linked registry metadata in this bounded export; missing values remain explicit."
+  ],
+  "metadata_only_direct_counts": true,
+  "records": [
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "20% Human Albumin | Byetta (Lilly, Exenatide) | Conoxia (AGA, oxygen)",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 3,
+      "category_as_recorded": "AC2993 | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 3
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Albiglutide 30 mg weekly | Albiglutide 50 mg weekly | Liraglutide 0.9 mg daily | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Albiglutide 30 mg | Albiglutide 50 mg | Albiglutide matching placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Antidiabetic background therapy | Lixisenatide (AVE0010) | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "BYDUREON | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Background therapy | Efpeglenatide SAR439977 | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Background therapy: Metformin alone or in combination with SU | Efpeglenatide SAR439977 | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Basal Insulin | Lixisenatide (AVE0010) | Metformin | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Basal Insulin | Lixisenatide (AVE0010) | Placebo | Sulfonylurea",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Bydureon | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Byetta (exenatide) | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Cagrilintide | Placebo cagrilintide | Placebo semaglutide | Semaglutide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Dapagliflozin 10mg | Exenatide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Dapagliflozin | Exantide with Dapagliflozin | Exentide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Dapagliflozin | Exenatide | Exenatide matching Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Dulaglutide | Glimepiride | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Dulaglutide | Insulin Glargine | Metformin | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Dulaglutide | Insulin Glargine | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Dulaglutide | Metformin | Placebo | SGLT2 inhibitor",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Dulaglutide | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Ecnoglutide High Dosage | Ecnoglutide Low Dosage | Ecnoglutide Medium Dosage | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Ecnoglutide | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Efpeglenatide (SAR439977) | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Empagliflozin 25 MG | Semaglutide, 1.34 mg/mL",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Exenatide Once Weekly | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Exenatide once weekly suspension | Placebo | Sitagliptin",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Exenatide | Exenatide matching placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Exenatide | LY2189265 | Metformin | Pioglitazone | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 3,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Exenatide | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 3
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Exenatide | placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "GLP-1 receptor agonist | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Insulin glargine | Lixisenatide (AVE0010) | Metformin | Placebo | Thiazolidinedione (TZD)",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "LY2189265 | Liraglutide | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "LY2189265 | Metformin | Placebo solution | Placebo tablet | Sitagliptin",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Liraglutide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Liraglutide (Saxenda) 6Mg/Ml Inj Pen 3Ml or Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Liraglutide (Saxenda) 6Mg/Ml Inj Pen 3Ml | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Liraglutide 3 mg (Saxenda) | Liraglutide 3 mg placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Liraglutide 3.0 mg | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Liraglutide Pen Injector [Saxenda] | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Liraglutide Pen Injector [Saxenda] | Placebo Liraglutide Pen Injector",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Liraglutide | Liraglutide - Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 7,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Liraglutide | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 7
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Liraglutide | Placebo (for liraglutide)",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Liraglutide | Placebo (liraglutide) | Placebo (semaglutide) | Semaglutide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Liraglutide | Placebo | Semaglutide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Lixisenatide (AVE0010) | Metformin | Pioglitazone | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Lixisenatide (AVE0010) | Metformin | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Lixisenatide (AVE0010) | Metformin | Placebo | Sulfonylurea",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 3,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Lixisenatide (AVE0010) | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 3
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Metformin | PEX168(100µg) | PEX168(200µg) | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Metformin | Placebo (matching sitagliptin) | Placebo (matching taspoglutide) | Sitagliptin | Taspoglutide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 2,
+      "Entire-population design stratum (159)": 11,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Missing linked metadata",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 14
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Oral semaglutide | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Oral semaglutide | Placebo (semaglutide)",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 5,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Orforglipron | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 5
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "PEX168(100µg) | PEX168(200µg) | Placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 3,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Placebo (Semaglutide) | Semaglutide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 3
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Placebo (semaglutide 2.4 mg) | Semaglutide 2.4 mg",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Placebo (semaglutide) | Semagludtide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 9,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Placebo (semaglutide) | Semaglutide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 10
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Placebo I (Semaglutide) | Placebo II (Semaglutide) | Semaglutide 1.0 mg | Semaglutide 2.4 mg",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Placebo semaglutide | Semaglutide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Placebo | Saxenda",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 4,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Placebo | Semaglutide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 6
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Placebo | Semaglutide 2.4 MG/0.75 ML Subcutaneous Solution [WEGOVY]",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Placebo | Semaglutide 2.4 mg",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Placebo | Semaglutide 3 mg",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Placebo | Semaglutide Pen Injector",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 7,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Placebo | Tirzepatide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 8
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Placebo | exenatide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Placebo | liraglutide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 3,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Tirzepatide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 4
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "albiglutide | albiglutide uptitration | placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "albiglutide | glimepiride | metformin | pioglitazone | placebo to match albiglutide | placebo to match pioglitazone",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "albiglutide | glimepiride | metformin | placebo albiglutide | placebo glimepiride | placebo sitagliptin | sitagliptin",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "albiglutide | placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "efpeglenatide (SAR439977) | placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 6,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "exenatide | placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 6
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "glimepiride | insulin glargine | liraglutide | metformin",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "glimepiride | liraglutide | metformin | placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "glimepiride | liraglutide | rosiglitazone",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "insulin | liraglutide | placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "liraglutide | metformin | rosiglitazone",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 3,
+      "Entire-population design stratum (159)": 9,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "liraglutide | placebo",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 13
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "liraglutide | placebo | semaglutide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "liraglutide | sulfonylurea",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "metformin | pioglitazone | placebo | taspoglutide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "placebo (semaglutide) | semaglutide 50 mg",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 7,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "placebo | semaglutide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 7
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 3,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "placebo | taspoglutide",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 3
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "semaglutide 2.4 mg | semaglutide 2.4 mg (placebo)",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "supaglutide injection+metformin",
+      "dimension": "registered_interventions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Acute Coronary Syndrome",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Albuminuria | Obesity",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Alzheimers Disease",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Aortic Valve Disease | Brain Injury | Coronary Disease | Renal Failure | Shock, Cardiogenic | Stroke",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Binge-Eating Disorder",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Cardiac MRI | Diabetes Mellitus Type 2 | Diastolic Dysfunction | Myocardial Perfusion",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Cardiovascular Disease | Diabetes Mellitus Type 2 | Diastolic Dysfunction | Fatty Liver | Metabolic Syndrome",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Cardiovascular Disease | Diabetes Mellitus, Type 2",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Cardiovascular Diseases | Fat Disorder | Obesity, Visceral",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Chronic Heart Failure | Hyperglycemia",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Chronic Kidney Disease | Diabetes Mellitus, Type 2",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Chronic Kidney Disease | Left Ventricular Diastolic Dysfunction | Type 2 Diabetes Mellitus",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Craniopharyngiomas | Hypothalamic Obesity",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 3,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Diabetes Mellitus",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 3
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 6,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Diabetes Mellitus Type 2",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 6
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Diabetes Mellitus | Diabetes Type 2 | Endocrine System Diseases | Glucose Metabolism Disorders | Metabolic Disease",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 2,
+      "category_as_recorded": "Diabetes Mellitus, Non-Insulin-Dependent",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Diabetes Mellitus, Type 1 | Overweight",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 19,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Diabetes Mellitus, Type 2",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 20
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Diabetes Mellitus, Type 2 | Obesity",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Diabetes Mellitus, Type 2 | Obesity | Overweight",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Diabetes Mellitus, Type 2 | Peripheral Arterial Disease",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Diabetes Type 2",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 2,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Diabetes | Diabetes Mellitus, Type 1",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 20,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Diabetes | Diabetes Mellitus, Type 2",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 20
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Diabetes | Metabolic Syndrome | Obesity",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Early Alzheimer's Disease",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Early Alzheimer´s Disease",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Gestational Diabetes Mellitus",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Heart Failure With Preserved Ejection Fraction (HFpEF) and Diabetes Mellitus, Type 2",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Heart Failure With Preserved Ejection Fraction (HFpEF) | Obesity",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Hypothalamic Obesity",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 4,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Metabolism and Nutrition Disorder | Obesity",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 5
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Metabolism and Nutrition Disorder | Obesity | Obstructive Sleep Apnoea",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Metabolism and Nutrition Disorder | Obesity | Overweight",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Metabolism and Nutrition Disorder | Overweight or Obesity",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 2,
+      "Entire-population design stratum (159)": 10,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Missing linked metadata",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 13
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 12,
+      "Population eligibility not established (12)": 2,
+      "category_as_recorded": "Obesity",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 14
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Obesity Android | Polycystic Ovary Syndrome | Pre Diabetes",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Obesity | Obstructive Sleep Apnea",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Obesity | Osteoarthritis",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 9,
+      "Population eligibility not established (12)": 2,
+      "category_as_recorded": "Obesity | Overweight",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 11
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Obesity | Overweight | Overweight or Obesity",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Obesity | Overweight | Type 2 Diabetes",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Obesity | Type 2 Diabetes Mellitus",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Obesity | Weight Loss",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Older Adults | Pre-diabetes",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Overweight and Obesity",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Psoriasis",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Pulmonary Disease, Chronic Obstructive",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Steatosis, Liver | Type2 Diabetes",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "T2DM | Type 2 Diabetes Mellitus",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Type 1 Diabetes",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 12,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Type 2 Diabetes",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 12
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 22,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Type 2 Diabetes Mellitus",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 22
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Type 2 Diabetes Mellitus (T2DM)",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Type 2 Diabetes With Renal Manifestations",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Type2 Diabetes",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Weight Management",
+      "dimension": "registered_conditions_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 3,
+      "category_as_recorded": "2003",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 3
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "2005",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 7,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "2007",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 7
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 3,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "2008",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 3
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "2009",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 5,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "2010",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 6
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 13,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "2011",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 13
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 4,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "2012",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 4
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 8,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "2013",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 8
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 3,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "2014",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 3
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 3,
+      "Entire-population design stratum (159)": 10,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "2015",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 13
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 8,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "2016",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 8
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 6,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "2017",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 6
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 13,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "2018",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 13
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 8,
+      "Population eligibility not established (12)": 3,
+      "category_as_recorded": "2019",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 11
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 13,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "2020",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 14
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 6,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "2021",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 6
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 5,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "2022",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 6
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 12,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "2023",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 13
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 2,
+      "Entire-population design stratum (159)": 15,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "2024",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 18
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 3,
+      "Entire-population design stratum (159)": 7,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "2025",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 11
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 2,
+      "Entire-population design stratum (159)": 10,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Missing linked metadata",
+      "dimension": "study_primary_completion_year",
+      "overall_operational182": 13
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Amsterdam UMC, location VUmc",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Annesofie Faurschou",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 13,
+      "Population eligibility not established (12)": 3,
+      "category_as_recorded": "AstraZeneca",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 16
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Baylor Research Institute",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Claus Bogh Juhl",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Copenhagen University Hospital, Rigshospitalet",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 24,
+      "Population eligibility not established (12)": 2,
+      "category_as_recorded": "Eli Lilly and Company",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 26
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Flyvbjerg, Allan, DMSc",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 6,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "GlaxoSmithKline",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 6
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Hangzhou Sciwind Biosciences Co., Ltd.",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Hanmi Pharmaceutical Company Limited",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Helsinki University Central Hospital",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Henrik Gudbergsen",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 5,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Hoffmann-La Roche",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 5
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Hvidovre University Hospital",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Jiangsu Hansoh Pharmaceutical Co., Ltd.",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Kelly Allison",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Leiden University Medical Center",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Mayo Clinic",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Medical University of Vienna",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 2,
+      "Entire-population design stratum (159)": 10,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Missing linked metadata",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 13
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "NYU Langone Health",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 5,
+      "Entire-population design stratum (159)": 50,
+      "Population eligibility not established (12)": 2,
+      "category_as_recorded": "Novo Nordisk A/S",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 57
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "PegBio Co., Ltd.",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 15,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Sanofi",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 15
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Seattle Children's Hospital",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Shanghai Yinnuo Pharmaceutical Technology Co., Ltd.",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "Signe Torekov",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Stanford University",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 3,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Steno Diabetes Center Copenhagen",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 3
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 2,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Tina Vilsboll",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 1,
+      "Entire-population design stratum (159)": 0,
+      "Population eligibility not established (12)": 1,
+      "category_as_recorded": "University College, London",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 2
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "University Hospital, Bordeaux",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "University Hospital, Caen",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "University Medical Center Groningen",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "University at Buffalo",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "University of Erlangen-Nürnberg Medical School",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "University of Pennsylvania",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "University of Texas Southwestern Medical Center",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Woman's",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    },
+    {
+      "Documented eligible-subpopulation stratum (11)": 0,
+      "Entire-population design stratum (159)": 1,
+      "Population eligibility not established (12)": 0,
+      "category_as_recorded": "Zoltan Pataky",
+      "dimension": "sponsor_literal",
+      "overall_operational182": 1
+    }
+  ],
+  "unit_level_membership_source": "UNIT_LEVEL_TABLE_182_EN.json"
+}

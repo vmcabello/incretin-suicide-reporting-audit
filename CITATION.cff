@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this versioned dataset and code when reusing the audit."
+type: dataset
+title: "Incretin therapy suicide-related outcome reporting audit: data and code"
+version: 1.0.0
+date-released: 2026-11-04
+authors:
+  - family-names: "Santos"
+    given-names: "Vitor Motta Cabello dos"
+    orcid: "https://orcid.org/0000-0002-0667-7288"
+  - family-names: "Keltke"
+    given-names: "Guilherme"
+    orcid: "https://orcid.org/0009-0007-5415-0572"
+repository-code: "https://github.com/vmcabello/incretin-suicide-reporting-audit"
+url: "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.0.0"
+license: "CC-BY-4.0"
+abstract: "Exploratory documentary reconstructibility audit of a fixed historical corpus. Author-owned code is MIT licensed; original coding and documentation are CC BY 4.0. No clinical treatment-effect analysis is performed."

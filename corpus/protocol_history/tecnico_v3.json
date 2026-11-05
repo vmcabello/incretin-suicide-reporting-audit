@@ -1,0 +1,237 @@
+{
+  "R_synthetic_validation_performed": false,
+  "Rscript_on_PATH": false,
+  "clinical_R_candidate_reused_without_mutation": {
+    "locator": "",
+    "sha256": "e8dbff026977555d4c6dc734667c993ca29b3f52b74e3d3c02f8202a2920e506",
+    "source_id": "SRC-e8dbff026977555d4c6dc734"
+  },
+  "clinical_candidate_previously_prepared": {
+    "locator": "",
+    "sha256": "32c5fe0b045feb68928d1f4f0eb0522fb801fbb931697c755940bef44fcc1626",
+    "source_id": "SRC-32c5fe0b045feb68928d1f4f"
+  },
+  "clinical_core_reused_without_mutation": {
+    "locator": "",
+    "sha256": "109166d32e976b0b37a8ab2c1259227a6576d659501526c2fdd1cb116f1acfda",
+    "source_id": "SRC-109166d32e976b0b37a8ab2c"
+  },
+  "clinical_data_used": false,
+  "clinical_numeric_release": false,
+  "clinical_specification_status": "deferred_by_both_reviewers",
+  "clinical_technical_specification_ratified": false,
+  "correction": {
+    "locator": "",
+    "sha256": "69d77ac2bf9a96eab30e5f1ac80475d8a2a52cbe6cf108917e4b62d0166025f0",
+    "source_id": "SRC-69d77ac2bf9a96eab30e5f1a"
+  },
+  "created_utc": "2026-10-28T00:05:19.753952+00:00",
+  "documentary_code": {
+    "locator": "",
+    "sha256": "af50904c5e1ba43fa1bba035c02b466a03c66417052c22c1169049f43019ca08",
+    "source_id": "SRC-af50904c5e1ba43fa1bba035"
+  },
+  "documentary_synthetic_validation": {
+    "locator": "",
+    "sha256": "d27e8cfb157b3c50d4e933d890d28fb64860855020c63d2c1b4e60cce0d3c269",
+    "source_id": "SRC-d27e8cfb157b3c50d4e933d8"
+  },
+  "foundations_not_reopened": [
+    "independent randomized population",
+    "phaseIII/IV eligible placebo scope",
+    "three separate primary components",
+    "k/N confirmed corpus description",
+    "Wilson modeled interpretation",
+    "MHcommon-effectOR",
+    "strata and temporal bands",
+    "no automatic0.5",
+    "no repeating controls",
+    "no AE/scale sum"
+  ],
+  "future_code_changes_require_new_version_and_relevant_validation": true,
+  "methodology_sources": [
+    {
+      "checked_UTC": "2026-10-27T22:21:02.643268+00:00",
+      "id": "M-WILSON",
+      "kind": "official_software_documentation",
+      "support": "Wilson score is an available binomial interval method. The study-specific finite-corpus interpretation comes from the ratified local plan.",
+      "url": "https://www.statsmodels.org/stable/generated/statsmodels.stats.proportion.proportion_confint.html"
+    },
+    {
+      "checked_UTC": "2026-10-27T22:21:02.643268+00:00",
+      "id": "M-MH-RBG",
+      "kind": "official_software_documentation_and_original_reference",
+      "support": "Common OR; RBG variance reference Robins/Breslow/Greenland1986; shift_zeros=False avoids automatic0.5. Assumes independent units within/between strata.",
+      "url": "https://www.statsmodels.org/stable/generated/statsmodels.stats.contingency_tables.StratifiedTable.html"
+    },
+    {
+      "checked_UTC": "2026-10-27T22:21:02.643268+00:00",
+      "id": "M-GLMER",
+      "kind": "official_software_documentation",
+      "support": "Binomial GLMM maximum likelihood, quadrature controlled bynAGQ, adaptive quadrature limited to a scalar random-effect term. Local candidate uses one random treatment slope per trial.",
+      "url": "https://lme4.github.io/lme4/reference/glmer.html"
+    },
+    {
+      "checked_UTC": "2026-10-27T22:21:02.643268+00:00",
+      "id": "M-CONTROL",
+      "kind": "official_software_documentation",
+      "support": "Optimizer phases, optCtrl, derivative and convergence-control options. Setting details are local prespecified candidates, not empirically optimal settings inferred from results.",
+      "url": "https://lme4.github.io/lme4/reference/lmerControl.html"
+    },
+    {
+      "checked_UTC": "2026-10-27T22:21:02.643268+00:00",
+      "id": "M-CONVERGENCE",
+      "kind": "official_software_documentation",
+      "support": "Gradient/Hessian diagnostic limitations and Cholesky scaling; convergence warnings can be false positives. Our strict no-release rule is a conservative local choice, not proof every failed fit is invalid.",
+      "url": "https://lme4.github.io/lme4/reference/convergence.html"
+    },
+    {
+      "checked_UTC": "2026-10-27T22:21:02.643268+00:00",
+      "id": "M-SINGULAR",
+      "kind": "official_software_documentation",
+      "support": "Singularity flags a random-effect variance boundary; Wald inference may be problematic. It is distinguished from optimizer failure; not used to select the main estimator.",
+      "url": "https://lme4.github.io/lme4/reference/isSingular.html"
+    }
+  ],
+  "new_human_answers_generated": 0,
+  "newly_explicit_for_ratification": [
+    "Implementation of input/output gates for independent confirmed units and fixed references",
+    "Paired descriptive Δp/table with unresolved pairs explicit; no formal between-layer testing",
+    "Logical bounds only for reconciled jointly possible independent-unit scenarios",
+    "Final signoff of pre-existing19Oct MH/RBG/CI, dose and GLMM implementation details"
+  ],
+  "previous_version": {
+    "locator": "",
+    "sha256": "e2af12b2c1ee946c8a4d225c9024e5cd15860fa94d96c339d0d0d26e65fd076b",
+    "source_id": "SRC-e2af12b2c1ee946c8a4d225c"
+  },
+  "protocol_or_outputs_modified": false,
+  "ratification_evidence": {
+    "locator": "",
+    "sha256": "61d81e85299ab9da2d6e46934857e2b6f3a67a8346e0b2345b570e8149719ed4",
+    "source_id": "SRC-61d81e85299ab9da2d6e4693"
+  },
+  "ratified_candidate": {
+    "locator": "",
+    "sha256": "17a0fca58846897d3ab94965ee39f277f04c5688f01384fbe0ae882ab7152f6a",
+    "source_id": "SRC-17a0fca58846897d3ab94965"
+  },
+  "real_documentary_dataset_analysed": false,
+  "scope_of_change": "Expected-modality inventory, coverage, inapplicability and traceable missing cells only",
+  "sections": [
+    {
+      "id": "D01",
+      "status": "ratified_documentary_v3_subject_to_frozen_data_gates",
+      "text": "A unidade é a população randomizada independente elegível, exposta no contraste pertinente e com fase paralela de referência encerrada. k/N descreve esse corpus confirmado para ideação, tentativa e morte por suicídio, separadamente. Os casos de elegibilidade não esclarecida ficam em inventário próprio e não são codificados como exclusão, resultado ausente ou zero. O denominador confirmado não é apresentado como universo definitivo de todos os ensaios possíveis. A limitação das tentativas repetidas não demonstra exaustividade ou encerramento global da busca.",
+      "title": "Estimando e escopo confirmado"
+    },
+    {
+      "id": "D02",
+      "status": "ratified_documentary_v3_subject_to_frozen_data_gates",
+      "text": "Pertencimento ao N depende da elegibilidade, independência, exposição e encerramento, não de haver resultado psiquiátrico. Falta isolada do N exato ou da janela reconstruível não retira unidade já comprovadamente elegível, exposta e encerrada. Para entrar em k, pelo menos uma modalidade deve reconstruir o conjunto basal elegível completo, ambos os braços pertinentes e a janela fixa. Resultados diretos e derivados válidos são rotulados separadamente. Uma modalidade comprovadamente completa estabelece o indicador de existência mesmo se outra modalidade permanecer não esclarecida; um conflito factual relevante sobre a própria referência mantém o indicador pendente.",
+      "title": "Pertencimento ao denominador e numerador"
+    },
+    {
+      "id": "D03",
+      "status": "ratified_documentary_v3_subject_to_frozen_data_gates",
+      "text": "O programa exige um roster final em nível de unidade e células adjudicadas unidade × componente × modalidade × camada. Classificações completas diretas/derivadas são distintas de referência parcial, não reconstruível no corpus, fonte pública indisponível, referência não verificável e julgamento pendente. C/P/U da matriz654 não são convertidos automaticamente nessas classes finais. Célula ausente ou julgamento pendente não vira0. Um0 do indicador documental significa apenas ausência de reconstrução completa comprovada naquela referência adjudicada, nunca zero clínico. V3 exige inventário separado com todas as células unidade × componente × camada × modalidade × referência × janela. O catálogo completo e o roster de referências são vinculados ao manifesto por hash. Avaliação esperada ausente vira pendência virtual, sem inventar evidência; chave fora do plano, duplicata ou inventário incompleto são rejeitados. Não há migração automática de dados reais v2.",
+      "title": "Classificações que o código pode receber"
+    },
+    {
+      "id": "D04",
+      "status": "ratified_documentary_v3_subject_to_frozen_data_gates",
+      "text": "Para cada componente, p=k/N é a descrição principal. Se N=0, não há proporção. Se alguma classificação do indicador no N confirmado estiver pendente, não se publica um ponto como final para esse corpus. Após classificação e independência fechadas, Wilson95% usa z=Phi^-1(0,975), d=1+z²/N, centro=(p+z²/(2N))/d e meia-largura=z*sqrt[p(1-p)/N+z²/(4N²)]/d. O IC pressupõe unidades independentes e uma probabilidade binomial comum modelada; não mede erro de busca, acesso, vinculação, classificação ou incerteza de elegibilidade. As três proporções não são somadas em escore nem tratadas como três testes confirmatórios.",
+      "title": "Proporção e intervalo binomial modelado"
+    },
+    {
+      "id": "D05",
+      "status": "ratified_documentary_v3_subject_to_frozen_data_gates",
+      "text": "Cada modalidade planejada continua visível com sua referência e seu N. Não somar AE e escalas, pessoas e episódios, visitas positivas e pessoas, ou janelas sucessivas sem resolver recorrência. Doses e controles compartilhados não multiplicam ensaios no indicador documental. Protocolos-mestres só contribuem com randomizações independentes previamente comprovadas; resultados agregados não são repartidos proporcionalmente. Blocos sobrepostos, como SAFE, e a identidade EGP continuam nos seus estados próprios até resolver independência. Não se obtém um N final apenas de218famílias,220blocos ou654linhas. V3 distingue inaplicabilidade explicitamente adjudicada de ausência de linha. N confirmado total, N aplicável e unidades inaplicáveis são mostrados separadamente por modalidade. Inaplicabilidade não retira unidade do denominador primário; se todas as modalidades forem inaplicáveis, o indicador primário fica desconhecido. Nenhuma modalidade planejada desaparece da saída.",
+      "title": "Modalidades, dependências e controles"
+    },
+    {
+      "id": "D06",
+      "status": "ratified_documentary_v3_subject_to_frozen_data_gates",
+      "text": "A inclui artigo principal/suplementos; B1 acrescenta secundários compatíveis; B2 acrescenta registros; B3 acrescenta documentos regulatórios compatíveis. São camadas cumulativas de evidência, dependentes. Para o mesmo conjunto de unidades inicialmente identificado, apresentar pares(n11,n10,n01,n00), N de pares resolvidos e Δp=(n01−n10)/Npares. Pares pendentes são mostrados; se houver exclusão deles, a descrição é explicitamente condicional aos pares resolvidos. Ganho de resultados de ensaios conhecidos é separado do inventário de ensaios encontrados apenas na expansão. Não se força monotonicidade: correção de fonte ou conflito pode invalidar reconstrução antes considerada completa. Não realizar teste de subgrupos independentes entre camadas. Nenhum IC/pvalor pareado formal é especificado para execução principal; eventual reamostragem futura exige emenda com unidade de reamostragem por ensaio e diagnóstico próprio.",
+      "title": "Camadas de fontes e ganho"
+    },
+    {
+      "id": "D07",
+      "status": "ratified_documentary_v3_subject_to_frozen_data_gates",
+      "text": "O manifesto fixa exatamente bytes/hash, versão, origem, recuperação e o estatuto da disponibilidade no corte que se pretende descrever. Uma análise histórica do alvo19/10 usa apenas fontes/versionamento cuja contribuição histórica é verificável; versões atuais recuperadas depois, sem prova temporal, ficam separadas ou mantêm a classificação histórica não verificável. Uma análise adicional do corpus de versões efetivamente examinadas deve ser rotulada dessa maneira, sem afirmar disponibilidade pretérita. Datas internas de relatórios ou publicação do artigo não certificam a data pública da versão corrente. A aprovação de parar repetições não altera o corte por si.",
+      "title": "Datas e versões"
+    },
+    {
+      "id": "D08",
+      "status": "ratified_documentary_v3_subject_to_frozen_data_gates",
+      "text": "Com N confirmado fixo, k indicadores completos comprovados e u ainda pendentes, [k/N,(k+u)/N] é um limite lógico, não IC e não estimativa final. Para incerteza de elegibilidade, só se calculam cenários após identificar unidades adicionais únicas e conjuntos conjuntamente possíveis, com independência e sobreposição verificadas. Em um cenário que acrescenta m dessas unidades sem informação do indicador, os limites são[k/(N+m),(k+u+m)/(N+m)]; um envelope de cenários usa mínimo/máximo entre cenários documentados. Não inserir55famílias como m=55, nem contar aliases/ensaios sobrepostos duas vezes. Sem mapa de cenários plausíveis, apresentar o inventário qualitativo, sem fórmula numérica. Sensibilidades de referência inteiramente verificável, versões corrigidas, oportunidade de divulgação≥12meses e alto risco de viés seguem suas regras/denominadores próprios; a restrição não substitui o principal.",
+      "title": "Incertezas e sensibilidades"
+    },
+    {
+      "id": "C01",
+      "status": "clinical_candidate_deferred_not_ratified",
+      "text": "A síntese clínica é complementar e pode ser inviável. Só prossegue com contraste randomizado isolável, numerador e denominador adequados ao estimando, identidade dos participantes, elegibilidade, janela, modalidade e versão compatíveis, sem sobreposição. Estratificar por molécula, componente, modalidade, população de análise e faixas≤26,>26–56,>56–104,>104semanas; compartilhar faixa não estabelece compatibilidade clínica. Preservar N efetivamente avaliado em escalas, sem substituí-lo por expostos. OR,RR,HR,IRR e taxas não são intercambiáveis. Taxas exigem pessoa-tempo reportada ou exatamente derivável, jamais N×seguimento nominal/médio/máximo. Um único ensaio informativo é resultado individual, não metanálise.",
+      "title": "Viabilidade da síntese clínica aninhada"
+    },
+    {
+      "id": "C02",
+      "status": "clinical_candidate_deferred_not_ratified",
+      "text": "Para a tabela [[a,b],[c,d]](linhas ativo/controle; colunas pessoa com/sem evento), n=a+b+c+d, P=Σ(ad/n), Q=Σ(bc/n), ORMH=P/Q. A variância RBG do logORMH é metade de[Σ((a+d)ad/n²)/P² + Σ(((a+d)bc+(b+c)ad)/n²)/(PQ) + Σ((b+c)bc/n²)/Q²]. Para P,Q>0, IC95%=exp(logOR±z*sqrt(V)). Não aplicar correção automática de continuidade. P=Q=0 é não estimável; P=0<Q tem ponto0 e Q=0<P tem ponto∞, sem fabricar IC log-Wald finito. Zeros duplos e todos-com-evento em ambos braços ficam nas tabelas absolutas, sem peso artificial. O códigoPython candidato19/10 já foi validado em dados sintéticos; isso não libera dados clínicos atuais.",
+      "title": "MH, variância e fronteiras"
+    },
+    {
+      "id": "C03",
+      "status": "clinical_candidate_deferred_not_ratified",
+      "text": "Combinar todos os braços de doses elegíveis previamente definidos da mesma molécula, dentro da mesma randomização, somente se conjuntos de pessoas forem disjuntos e população, definição, modalidade, fase e janela coincidirem. Somar pessoas/N dos braços ativos e incluir placebo uma vez. Não selecionar doses pelo efeito. Se essas condições falharem, manter representações separadas e não colocar controles repetidos no mesmo conjunto; modelo multiarm/dependência diferente exige emenda própria, não substituição silenciosa.",
+      "title": "Doses e controles"
+    },
+    {
+      "id": "C04",
+      "status": "clinical_candidate_deferred_not_ratified",
+      "text": "Tentar apenas com≥5ensaios independentes, compatíveis e informativos: yij~Binomial(Nij,pij), logit(pij)=αi+(β+ui)xij, ui~N(0,τ²), xativo=+0,5/xplacebo=−0,5. Fórmula glmer:cbind(events,nonevents)~0+trial+trt+(0+trt|trial). ML com nAGQ=7, bobyqa nas duas fases, maxfun200000, rhobeg0,002,rhoend2e−7, sem busca automática de otimizador/estimador. IC normal-Wald95% para β transformado porexp, τ² e fronteira separados. Exigir código0, coeficiente/covariância finitos, Hessiana positiva, gradiente escalado porCholesky máximo≤0,002 e ausência de avisos não resolvidos de convergência/Hessiana/separação. isSingular(tol1e−4) marca fronteira da variância; isso não muda o estimador principal e requer cautela inferencial explícita. Sem estimação válida, relatar falha. Nenhum resgate automático Firth/0,5/AIC/Q/I². CongelarR,lme4,Matrix e validar sinteticamente essa rotina antes de qualquer entrada clínica; Rscript não estava noPATH nesta verificação.",
+      "title": "Sensibilidade binomial logística"
+    },
+    {
+      "id": "G01",
+      "status": "ratified_documentary_v3_subject_to_frozen_data_gates",
+      "text": "Ratificação do suplemento não equivale a confirmação das linhas de dados. O código documental exige roster de unidades independentes do corpus confirmado, manifesto de fontes e classificações de referência congelados. O núcleo clínico19/10 permanece bloqueado nas suas próprias portas, incluindo a validaçãoR ainda ausente; não trocar essas portas silenciosamente para executar subconjunto clínico após a nova decisão documental. Se a eventual síntese clínica usar um corpus disponível restrito, deve haver certificado/versão explícitos e análise de evidências ausentes correspondente. Registrar todas as escolhas como operacionalização retrospectiva, com alterações pós-inspeção preservadas, nunca prespecificação prospectiva. V3 acrescenta congelamento do inventário esperado e verificação de sua integridade/grade. Hashes demonstram integridade, não veracidade científica. A construção de inventário real exige fontes e decisões próprias. Os testes atuais usaram apenas dados fictícios; não liberam proporções reais nem o núcleo clínico.",
+      "title": "Portas de liberação e cronologia"
+    }
+  ],
+  "sources": [
+    {
+      "locator": "",
+      "sha256": "50b91bb1bf8cf9f6e96c62d4f1d62abbbc17e4c7c7ef0aa00b22304418cc5c82",
+      "source_id": "SRC-50b91bb1bf8cf9f6e96c62d4"
+    },
+    {
+      "locator": "",
+      "sha256": "32c5fe0b045feb68928d1f4f0eb0522fb801fbb931697c755940bef44fcc1626",
+      "source_id": "SRC-32c5fe0b045feb68928d1f4f"
+    },
+    {
+      "locator": "",
+      "sha256": "877a35d1ab3e24d048abef0ef97a3136a1ab62da74b28018b2cbb0d5e89be7cc",
+      "source_id": "SRC-877a35d1ab3e24d048abef0e"
+    },
+    {
+      "locator": "",
+      "sha256": "6117ed6acc2a2722104372a60d3a78507f920ca85ea626646455bdd884ccfd2a",
+      "source_id": "SRC-6117ed6acc2a2722104372a6"
+    },
+    {
+      "locator": "S23-BOUNDED-SEARCH-CLOSURE; preserve_unknown and confirmed corpus only",
+      "sha256": "aebcdfc7064701cad847cbdea703e5103e0cf89abfbfdc6346d79aeb0e935514",
+      "source_id": "SRC-aebcdfc7064701cad847cbde"
+    },
+    {
+      "locator": "S23-BOUNDED-SEARCH-CLOSURE; preserve_unknown and confirmed corpus only",
+      "sha256": "99a2997d956ceb421e8d019dac6f9fc9059c5f4c2d917de2ef1f86a9b01125c2",
+      "source_id": "SRC-99a2997d956ceb421e8d019d"
+    }
+  ],
+  "status": "DOCUMENTARY_SPECIFICATION_RATIFIED_CLINICAL_SPECIFICATION_DEFERRED",
+  "technical_ratification_scope": "documentary_only",
+  "technical_specification_ratified": true,
+  "version": "technical_supplement_v3_documentary_ratified_clinical_deferred"
+}

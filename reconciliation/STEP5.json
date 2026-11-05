@@ -1,0 +1,58 @@
+{
+  "complete_witness_has_priority_over_unrelated_gap": true,
+  "current_full_vital_followup_not_claimed": true,
+  "direct_counts_per_component": {
+    "placebo": {
+      "affected_people": 0,
+      "safety_N": 152
+    },
+    "semaglutide": {
+      "affected_people": 0,
+      "safety_N": 152
+    }
+  },
+  "final_analysis_recalculated": false,
+  "position_ids": [
+    "POS-9ddf7773f50446989d12",
+    "POS-179537d6146d9f0152bd",
+    "POS-7ee7b763c5fd3134f22b",
+    "POS-62a2e36ec4a6856cc48c",
+    "POS-ecc18b31e1a55de7c81d",
+    "POS-4bf2bad06f9412328d0f"
+  ],
+  "proposed_technical_resolution": "Retain the six inherited source-specific complete-direct positions pending independent validity assessment; do not recode them as unknown solely because another inventory entry was not obtained. The two raw returned judgments remain preserved.",
+  "scope": "Ideation and suicide attempt as adverse-event reports only, layersB1/B2/B3, exact inherited reference/window",
+  "sources": [
+    {
+      "locators": [
+        "PDF p20 eTable8 STEP5 columns and ideation/attempt rows",
+        "PDF p21 footnote: people with at least one event and safety analysis set"
+      ],
+      "reading_this_turn": "Scoped AI technical inspection; PDF20and21 also rendered and visually inspected; not a new human assessment",
+      "sha256": "23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c",
+      "source_id": "SRC-23e891d47a17c21baa1211bf"
+    },
+    {
+      "locators": [
+        "XML sec341 Reporting of Neuropsychiatric AEs: in-trial plus7weeks follow-up",
+        "XML sec344 Statistical Methods: exposed at least one dose; STEP5 analyzed separately"
+      ],
+      "reading_this_turn": "Scoped AI technical inspection; PDF20and21 also rendered and visually inspected; not a new human assessment",
+      "sha256": "4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9",
+      "source_id": "SRC-4715d6e6be70bf9015ab4907"
+    },
+    {
+      "locators": [
+        "XML sec1249 Trial design and participants: adults, BMI thresholds, placebo contrast",
+        "XML Statistical analysis: safety analysis set and in-trial definition; safety observation through week111"
+      ],
+      "reading_this_turn": "Scoped AI technical inspection; PDF20and21 also rendered and visually inspected; not a new human assessment",
+      "sha256": "004c57415274e43ef0c1e0f33774c44afa1b2bab74826ab94e3c29dd6e06c778",
+      "source_id": "SRC-004c57415274e43ef0c1e0f3"
+    }
+  ],
+  "status": "FROZEN_AE_WITNESS_SUPPORTED_BY_TECHNICAL_SOURCE_CHECK_NOT_NEW_HUMAN_VALIDATION",
+  "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+  "unrelated_gaps_not_erased": true,
+  "why": "Both explicit rows appear in eTable8 for STEP5; the footnote defines people with at least one event. Methods identify exposed SAS and in-trial observation plus seven weeks. Structured C-SSRS is a different modality with a different assessment window/respondent denominator."
+}

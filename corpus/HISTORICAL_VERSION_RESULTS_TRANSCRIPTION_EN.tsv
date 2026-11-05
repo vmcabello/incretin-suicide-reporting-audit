@@ -1,0 +1,13 @@
+version	scope	component	N	complete	not_complete	unknown	historical_conditional_bounds_transcribed
+2026-10-29 historical122	122 bounded operational units; before later candidate integration and cumulative-gap correction	suicidal_ideation	122	1	118	3	[0.00819672131147541, 0.03278688524590164]
+2026-10-29 historical122	122 bounded operational units; before later candidate integration and cumulative-gap correction	suicide_attempt	122	1	118	3	[0.00819672131147541, 0.03278688524590164]
+2026-10-29 historical122	122 bounded operational units; before later candidate integration and cumulative-gap correction	suicide_death	122	15	104	3	[0.12295081967213115, 0.14754098360655737]
+2026-10-30 historical182	182 expanded operational units; historical local status aggregation	suicidal_ideation	182	1	152	29	[0.005494505494505495, 0.16483516483516483]
+2026-10-30 historical182	182 expanded operational units; historical local status aggregation	suicide_attempt	182	1	152	29	[0.005494505494505495, 0.16483516483516483]
+2026-10-30 historical182	182 expanded operational units; historical local status aggregation	suicide_death	182	15	136	31	[0.08241758241758242, 0.25274725274725274]
+2026-11-01 corrected182	182 operational units with cumulative missing-source overlay	suicidal_ideation	182	1	144	37	[0.005494505494505495, 0.2087912087912088]
+2026-11-01 corrected182	182 operational units with cumulative missing-source overlay	suicide_attempt	182	1	144	37	[0.005494505494505495, 0.2087912087912088]
+2026-11-01 corrected182	182 operational units with cumulative missing-source overlay	suicide_death	182	15	130	37	[0.08241758241758242, 0.2857142857142857]
+2026-11-01 post-hoc159	159 entire-population units, post-hoc hierarchy and corrected cumulative unknowns	suicidal_ideation	159	1	132	26	[0.006289308176100629, 0.16981132075471697]
+2026-11-01 post-hoc159	159 entire-population units, post-hoc hierarchy and corrected cumulative unknowns	suicide_attempt	159	1	132	26	[0.006289308176100629, 0.16981132075471697]
+2026-11-01 post-hoc159	159 entire-population units, post-hoc hierarchy and corrected cumulative unknowns	suicide_death	159	15	118	26	[0.09433962264150944, 0.2578616352201258]

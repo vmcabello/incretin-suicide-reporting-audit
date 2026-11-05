@@ -1,0 +1,380 @@
+{
+  "current_user_reported_human_independence_preserved": true,
+  "material_narrative_corrections": [
+    {
+      "classification_effect": "No change in the documentary completeness indicator; do not relabel 1005 as exposed.",
+      "exposed": [
+        1004,
+        201,
+        201
+      ],
+      "randomized": [
+        1005,
+        201,
+        201
+      ],
+      "trial": "STEP UP",
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK"
+    }
+  ],
+  "new_irreducible_scientific_human_cases": 0,
+  "new_readings_are_technical_AI_adjudication_not_new_human_votes": true,
+  "pertinent_gaps_without_valid_witness_remain_unknown": true,
+  "positions_newly_checked": 51,
+  "previously_checked_STEP5": 6,
+  "reconstruction_does_not_prove_complete_vital_ascertainment_or_absence_of_clinical_risk": true,
+  "source_checks": [
+    {
+      "sha256": "704827a2232f64f35ec3d90bc31dc9cf0b863efa5ca8e11f61cd62848247f6ad",
+      "source_id": "SRC-704827a2232f64f35ec3d90b",
+      "verified": true
+    },
+    {
+      "sha256": "c15b0e74137feb19b699496ffcae4b91443e3314cbeef91c38358cec84846ca3",
+      "source_id": "SRC-c15b0e74137feb19b699496f",
+      "verified": true
+    },
+    {
+      "sha256": "d0057bb5db95a0736222d0b1ecd96dc184a49248755a9f04d48c21cecec10292",
+      "source_id": "SRC-d0057bb5db95a0736222d0b1",
+      "verified": true
+    },
+    {
+      "sha256": "7226e37b5a3131ec7c8856a3ff41ae13fa4ab5854ec2b5c6736761307377c2eb",
+      "source_id": "SRC-7226e37b5a3131ec7c8856a3",
+      "verified": true
+    },
+    {
+      "sha256": "e80523f07d7e31fe7ab3550aca68e6abfc2d62f56a989bdc08b6a5b148ce56c8",
+      "source_id": "SRC-e80523f07d7e31fe7ab3550a",
+      "verified": true
+    },
+    {
+      "sha256": "44d0dd4e9861f15d4a62bd805004f558c124de01709151fe81a8d5cf8833aeef",
+      "source_id": "SRC-44d0dd4e9861f15d4a62bd80",
+      "verified": true
+    },
+    {
+      "sha256": "85904d66b961058e43e683eec20a74ba4033b0e4899afb45ac0294d3d8cea473",
+      "source_id": "SRC-85904d66b961058e43e683ee",
+      "verified": true
+    },
+    {
+      "sha256": "dd8591da03ad8a8c53fb59e478c344590f0ed69a61374637eed7de293c882c75",
+      "source_id": "SRC-dd8591da03ad8a8c53fb59e4",
+      "verified": true
+    },
+    {
+      "sha256": "c72f731e42388b6c487227dad81361bf2b56f64ac8875063ae06dab8d9c2ce7c",
+      "source_id": "SRC-c72f731e42388b6c487227da",
+      "verified": true
+    },
+    {
+      "sha256": "aaa58e71bb0107b5228b487c03b7bb508bd5369937d6a62e403d9c3859aff12d",
+      "source_id": "SRC-aaa58e71bb0107b5228b487c",
+      "verified": true
+    },
+    {
+      "sha256": "3fc115527f80fde844481f4703c970bc3dcfcf0bbad84d62ff18adbe3df601c3",
+      "source_id": "SRC-3fc115527f80fde844481f47",
+      "verified": true
+    },
+    {
+      "sha256": "5dce9847109da9f3bda7d9f86cd7a11ba144bb910587874f87c1f79aa1b857b1",
+      "source_id": "SRC-5dce9847109da9f3bda7d9f8",
+      "verified": true
+    },
+    {
+      "sha256": "0a16d146000a107993cb580a48a928f5d28f4e176b288b171236a8985c81327e",
+      "source_id": "SRC-0a16d146000a107993cb580a",
+      "verified": true
+    },
+    {
+      "sha256": "b940ecca52e358709dc68a6c00405dce5b240e6258b491c137dc55500fe5a945",
+      "source_id": "SRC-b940ecca52e358709dc68a6c",
+      "verified": true
+    },
+    {
+      "sha256": "0a16d146000a107993cb580a48a928f5d28f4e176b288b171236a8985c81327e",
+      "source_id": "SRC-0a16d146000a107993cb580a",
+      "verified": true
+    },
+    {
+      "sha256": "b940ecca52e358709dc68a6c00405dce5b240e6258b491c137dc55500fe5a945",
+      "source_id": "SRC-b940ecca52e358709dc68a6c",
+      "verified": true
+    },
+    {
+      "sha256": "4e8b6e5755cfe47ccf9bdf3e9dbb54f7a5e9f919b9e1312b24234e41ce6191fb",
+      "source_id": "SRC-4e8b6e5755cfe47ccf9bdf3e",
+      "verified": true
+    },
+    {
+      "sha256": "b723e838394253fcaa50477dfc0a3de3f14112ab2896a9478d07b422bd651e70",
+      "source_id": "SRC-b723e838394253fcaa50477d",
+      "verified": true
+    },
+    {
+      "sha256": "88198dfa955eb9e1b03c00dc004f9380e690fe0cf2ad44d375eccbe096e0846f",
+      "source_id": "SRC-88198dfa955eb9e1b03c00dc",
+      "verified": true
+    },
+    {
+      "sha256": "a340c011e52f9440ddd3e020b004f9d66730f300dc5fa4a7371f1c3a825d6e0e",
+      "source_id": "SRC-a340c011e52f9440ddd3e020",
+      "verified": true
+    },
+    {
+      "sha256": "4ffc5bea39958298693d4c7c340173b79647651c940c95b7cf4b4233e7ddda4e",
+      "source_id": "SRC-4ffc5bea39958298693d4c7c",
+      "verified": true
+    },
+    {
+      "sha256": "928e5d0e0d010ed5308d084087859cb7ca3cef707ad7a948a643aef81b529f36",
+      "source_id": "SRC-928e5d0e0d010ed5308d0840",
+      "verified": true
+    },
+    {
+      "sha256": "8004a55f9a5aa9132d2868764899e526fd55e0518b8c6ccbb19354f48d7d0daa",
+      "source_id": "SRC-8004a55f9a5aa9132d286876",
+      "verified": true
+    },
+    {
+      "sha256": "3b27e4cd1f36de2a8bf588832ee385c4891d67406613d3f34f3c85377769528d",
+      "source_id": "SRC-3b27e4cd1f36de2a8bf58883",
+      "verified": true
+    },
+    {
+      "sha256": "aae90dd106a53892edfda7bf46a7757f66b534fa71023c3200582f26211325f8",
+      "source_id": "SRC-aae90dd106a53892edfda7bf",
+      "verified": true
+    },
+    {
+      "sha256": "5bd929df338d94e534d8c062eeaea661cde622f8c481d02f6a376a35e64c5d2b",
+      "source_id": "SRC-5bd929df338d94e534d8c062",
+      "verified": true
+    }
+  ],
+  "status": "TECHNICAL_PRIMARY_WITNESSES_RECONCILED_NO_SCIENTIFIC_BASE_OVERWRITE",
+  "total_complete_positions": 57,
+  "units": [
+    {
+      "evidence_file": "reconciliation/group_a.json",
+      "new_independent_human_vote": false,
+      "new_irreducible_scientific_review_case": false,
+      "position_ids": [
+        "POS-5f2e0fb1542b4f238af8",
+        "POS-e977470e72298315a45c",
+        "POS-799f831330678e95f134",
+        "POS-5e3a31f7fd24d9394cf9"
+      ],
+      "positions": 4,
+      "technical_reconciliation": "retain_inherited_complete_derived",
+      "unit_id": "NCT01169779:CANDIDATE_BLOCK"
+    },
+    {
+      "evidence_file": "reconciliation/group_a.json",
+      "new_independent_human_vote": false,
+      "new_irreducible_scientific_review_case": false,
+      "position_ids": [
+        "POS-39a6bbf0e424fb18cd43",
+        "POS-6ed5825e8b6710317e3a",
+        "POS-8427fd26daba3764d04c",
+        "POS-8e89751942cc4a500709"
+      ],
+      "positions": 4,
+      "technical_reconciliation": "retain_inherited_complete_derived",
+      "unit_id": "NCT03018028:CANDIDATE_BLOCK"
+    },
+    {
+      "evidence_file": "reconciliation/group_a.json",
+      "new_independent_human_vote": false,
+      "new_irreducible_scientific_review_case": false,
+      "position_ids": [
+        "POS-f2c985690c5db31b84b3",
+        "POS-f1153e35b463cdd99d28",
+        "POS-186b738bd72ceb409008",
+        "POS-b975d199a6b37288278f"
+      ],
+      "positions": 4,
+      "technical_reconciliation": "retain_inherited_complete_derived",
+      "unit_id": "NCT03086330:CANDIDATE_BLOCK"
+    },
+    {
+      "evidence_file": "reconciliation/group_a.json",
+      "new_independent_human_vote": false,
+      "new_irreducible_scientific_review_case": false,
+      "position_ids": [
+        "POS-bf58f796a4093e97c868",
+        "POS-028bc7700463332b11c0",
+        "POS-c072b18ff1d2ee7f0062",
+        "POS-514b8c9860685936dc3f"
+      ],
+      "positions": 4,
+      "technical_reconciliation": "retain_inherited_complete_derived",
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK"
+    },
+    {
+      "evidence_file": "reconciliation/group_a.json",
+      "new_independent_human_vote": false,
+      "new_irreducible_scientific_review_case": false,
+      "position_ids": [
+        "POS-7d579b70eb195381db78",
+        "POS-c257aa69e03ebae275c1",
+        "POS-83bfa15a2f28c848debb",
+        "POS-d28c840213574224be3b"
+      ],
+      "positions": 4,
+      "technical_reconciliation": "retain_inherited_complete_derived",
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK"
+    },
+    {
+      "evidence_file": "reconciliation/group_b.json",
+      "new_independent_human_vote": false,
+      "new_irreducible_scientific_review_case": false,
+      "position_ids": [
+        "POS-64fba5406c0e26471b00",
+        "POS-2d38e670cd786be01859",
+        "POS-9333f34d25e5e65363d4",
+        "POS-6b17703c2f0e185fcbb9"
+      ],
+      "positions": 4,
+      "technical_reconciliation": "retain_inherited_complete_derived",
+      "unit_id": "NCT04039503:CANDIDATE_BLOCK"
+    },
+    {
+      "evidence_file": "reconciliation/group_b.json",
+      "new_independent_human_vote": false,
+      "new_irreducible_scientific_review_case": false,
+      "position_ids": [
+        "POS-1725d4a3595c68a00f14",
+        "POS-2786dcc4347edf37c0eb",
+        "POS-1bbfb55488c6e4d099e6",
+        "POS-e9dd40cb479489c48481"
+      ],
+      "positions": 4,
+      "technical_reconciliation": "retain_inherited_complete_derived",
+      "unit_id": "NCT05963022:CANDIDATE_BLOCK"
+    },
+    {
+      "evidence_file": "reconciliation/group_b.json",
+      "new_independent_human_vote": false,
+      "new_irreducible_scientific_review_case": false,
+      "position_ids": [
+        "POS-4ea26568bd15e45bce7a",
+        "POS-bacd547f66aed69b2505"
+      ],
+      "positions": 2,
+      "technical_reconciliation": "retain_inherited_complete_derived",
+      "unit_id": "NCT05412004:GPI1"
+    },
+    {
+      "evidence_file": "reconciliation/group_b.json",
+      "new_independent_human_vote": false,
+      "new_irreducible_scientific_review_case": false,
+      "position_ids": [
+        "POS-ca54680bb0960c524ee2",
+        "POS-2f39c537a41431fd518d"
+      ],
+      "positions": 2,
+      "technical_reconciliation": "retain_inherited_complete_derived",
+      "unit_id": "NCT05412004:GPI2"
+    },
+    {
+      "evidence_file": "reconciliation/group_b.json",
+      "new_independent_human_vote": false,
+      "new_irreducible_scientific_review_case": false,
+      "position_ids": [
+        "POS-404e546c59da697eb2f4",
+        "POS-d0f23653e0889ecaa41e"
+      ],
+      "positions": 2,
+      "technical_reconciliation": "retain_inherited_complete_derived",
+      "unit_id": "NCT05564117:CANDIDATE_BLOCK"
+    },
+    {
+      "evidence_file": "reconciliation/group_c.json",
+      "new_independent_human_vote": false,
+      "new_irreducible_scientific_review_case": false,
+      "position_ids": [
+        "POS-f361dc96b1ed90ae20c3",
+        "POS-842216afba579549699b",
+        "POS-6ae54735d7d3d12589c5",
+        "POS-a800b5e3362b8cc32e89"
+      ],
+      "positions": 4,
+      "technical_reconciliation": "retain_inherited_complete_derived",
+      "unit_id": "NCT02160990:CANDIDATE_BLOCK"
+    },
+    {
+      "evidence_file": "reconciliation/group_c.json",
+      "new_independent_human_vote": false,
+      "new_irreducible_scientific_review_case": false,
+      "position_ids": [
+        "POS-f2c9dca35d703f8c7c37"
+      ],
+      "positions": 1,
+      "technical_reconciliation": "retain_inherited_complete_derived",
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK"
+    },
+    {
+      "evidence_file": "reconciliation/group_c.json",
+      "new_independent_human_vote": false,
+      "new_irreducible_scientific_review_case": false,
+      "position_ids": [
+        "POS-eb96481e3d48fc971d4f",
+        "POS-60c7cd0c9e74265d4c88",
+        "POS-ffbb015a165ded527568",
+        "POS-8828cb8935bfd7650b0b"
+      ],
+      "positions": 4,
+      "technical_reconciliation": "retain_inherited_complete_derived",
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK"
+    },
+    {
+      "evidence_file": "reconciliation/group_c.json",
+      "new_independent_human_vote": false,
+      "new_irreducible_scientific_review_case": false,
+      "position_ids": [
+        "POS-f06b5da5fb195fb35368",
+        "POS-dec9bf16f9ce470e9f2e",
+        "POS-6d4ffec15597d745a63c",
+        "POS-cb66a78038d3a2f56295"
+      ],
+      "positions": 4,
+      "technical_reconciliation": "retain_inherited_complete_derived",
+      "unit_id": "NCT05132088:CANDIDATE_BLOCK"
+    },
+    {
+      "evidence_file": "reconciliation/group_c.json",
+      "new_independent_human_vote": false,
+      "new_irreducible_scientific_review_case": false,
+      "position_ids": [
+        "POS-fbb6ff4f404cf823b302",
+        "POS-b3e4f92a192bdd2d0fa0",
+        "POS-1e2166b41ea48bbfd40d",
+        "POS-199caeb6ff0b948aaa74"
+      ],
+      "positions": 4,
+      "technical_reconciliation": "retain_inherited_complete_derived",
+      "unit_id": "NCT05035095:CANDIDATE_BLOCK"
+    },
+    {
+      "evidence_file": "reconciliation/STEP5.json",
+      "new_independent_human_vote": false,
+      "new_irreducible_scientific_review_case": false,
+      "position_ids": [
+        "POS-9ddf7773f50446989d12",
+        "POS-179537d6146d9f0152bd",
+        "POS-7ee7b763c5fd3134f22b",
+        "POS-62a2e36ec4a6856cc48c",
+        "POS-ecc18b31e1a55de7c81d",
+        "POS-4bf2bad06f9412328d0f"
+      ],
+      "positions": 6,
+      "technical_reconciliation": "retain_inherited_complete_direct_ideation_attempt_AE",
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK"
+    }
+  ],
+  "unrelated_access_gap_does_not_negate_valid_complete_witness": true
+}

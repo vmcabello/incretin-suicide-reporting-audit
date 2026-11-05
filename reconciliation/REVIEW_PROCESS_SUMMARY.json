@@ -1,0 +1,14 @@
+{
+  "body_provenance": "AI technical consolidation of retained position-specific evidence; no new full primary review",
+  "contradictions_documented_not_silently_rewritten": [
+    "Per-file human authorship and actual-corrected-decision declarations coexist with body text saying no missing human correction was transcribed.",
+    "R1 declares independent_human_assessment false, separate_before_discussion yes and shared_AI_consolidation true.",
+    "R2 declares independent_human_assessment true, separate_before_discussion no and shared_AI_consolidation false; its technical position bodies equal R1."
+  ],
+  "current_independent_agreement_estimated": false,
+  "earlier_direct_user_independence_declaration_preserved": true,
+  "independence_retracted": false,
+  "latest_position_bodies_identical": true,
+  "manuscript_interpretation": "The authors report independent human assessments. The transmitted technical reconsolidation does not retain two separately traceable corrected decision sets; no fresh inter-rater statistic is inferred from duplicate copies.",
+  "no_new_426_review_requested": true
+}

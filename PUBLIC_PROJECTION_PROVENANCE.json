@@ -1,0 +1,99 @@
+{
+  "all_numeric_boolean_null_fields_and_collection_structure_preserved": true,
+  "email_regex_false_positive_preserved": "10.2337@dc14-0024.pdf is an article filename, not an email address.",
+  "exact_scientific_result_sections_equal_to_private_release": [
+    "roster_sizes",
+    "modality_results",
+    "secondary_union_results",
+    "without_derived_completeness",
+    "illustrative_membership_scenarios"
+  ],
+  "files": [
+    {
+      "LF_line_endings": true,
+      "path": "input_snapshot/codigo/analise_final.py",
+      "portable_output_newline_only_patch": false,
+      "public_sha256": "745587929653dcc2f451f97cb1ce0b891158d85ca3b6c3d2d2622493f64d3dfb",
+      "scientific_analysis_logic_unchanged": true,
+      "source_sha256": "745587929653dcc2f451f97cb1ce0b891158d85ca3b6c3d2d2622493f64d3dfb"
+    },
+    {
+      "LF_line_endings": true,
+      "path": "current_analysis/analysis_by_modality.py",
+      "portable_output_newline_only_patch": true,
+      "public_sha256": "47d5ba449d6a5a2f93d3ba316aef9c0bd8904ce56fdf30f2fb11e2c90c90b71e",
+      "scientific_analysis_logic_unchanged": true,
+      "source_sha256": "4a733d5de2495b4ddc1ae34c240589faf3490291245ecf861bb2430d99ad053e"
+    },
+    {
+      "LF_line_endings": true,
+      "numeric_boolean_null_and_structure_identical": true,
+      "path": "input_snapshot/dados/documental_entrada_final.json",
+      "public_sha256": "1f6dc9f2808fc53ea329e6e3f08380137ca3229b4a05906284324adddfe4ac3d",
+      "semantic_JSON_identical_to_private_original": true,
+      "source_sha256": "7c0a7086b3b7b99f1d574d2b850b53368c35831bb9d011aa47cefa55773f4aae"
+    },
+    {
+      "LF_line_endings": true,
+      "numeric_boolean_null_and_structure_identical": true,
+      "path": "input_snapshot/dados/populacoes_final.json",
+      "public_sha256": "f1abde2a2f96204efb9962fbc21985a4b040c2b1b3129ebb292d8eb83024dc00",
+      "semantic_JSON_identical_to_private_original": true,
+      "source_sha256": "3b499bdf2b9655dbfc70cbadafe435fe26e2aedb3e5a4bc9f8dc8ae1d31b5424"
+    },
+    {
+      "LF_line_endings": true,
+      "numeric_boolean_null_and_structure_identical": true,
+      "path": "input_snapshot/dados/selecao_residual_final.json",
+      "public_sha256": "e9679f96f786bba19e28182dd2ebf90fd88c028f8905d9933d7a698e5020761d",
+      "semantic_JSON_identical_to_private_original": true,
+      "source_sha256": "838b31e253050bbf82f286c0e39905c5d3aee849a8c4e57b3e499c3fab700c2d"
+    },
+    {
+      "LF_line_endings": true,
+      "numeric_boolean_null_and_structure_identical": true,
+      "path": "input_snapshot/dados/lacunas_cumulativas.json",
+      "public_sha256": "16804d654c9fc8bd08c84c0546d723a937373ce1b4a1cd630aad3c549071c015",
+      "semantic_JSON_identical_to_private_original": true,
+      "source_sha256": "47a57c75f9cc473049be5052f1a3e98b39f4e45afdef9ec6059a675e260d7990"
+    },
+    {
+      "LF_line_endings": true,
+      "numeric_boolean_null_and_structure_identical": true,
+      "path": "input_snapshot/resultados/RESULTADO_DOCUMENTAL_FINAL.json",
+      "public_sha256": "e2e1d0d340f7db83d543865b034172d664a4d62de77dab151bae1e7bb3216b0c",
+      "semantic_JSON_identical_to_private_original": true,
+      "source_sha256": "dfb946db2460d61eeacc6ac58a9df03a533b12f66cf4f8c3da4143565a69e1aa"
+    },
+    {
+      "LF_line_endings": true,
+      "numeric_boolean_null_and_structure_identical": true,
+      "path": "current_input/documental_entrada_reconciliada.json",
+      "public_sha256": "c73a749c106e0db489412d03aba5f8c82e2779b9c7e354c7d0b85ed50188258a",
+      "semantic_JSON_identical_to_private_original": true,
+      "source_sha256": "6fdab9a63ffb0e233b91a9c4f460b262ab0b0b535f8683020f6113aac068be35"
+    }
+  ],
+  "no_raw_primary_fulltexts_no_raw_reviewer_returns_no_transcripts": true,
+  "path_placeholder_meaning": "[LOCAL_WORKSPACE], [LOCAL_USER] and [LOCAL_DRIVE] denote private source locations omitted from the public projection. Source identifiers, original source SHA-256 digests, locators and author rationales are retained.",
+  "portable_code_changes": "LF line endings in both scripts; analysis_by_modality.py output writing explicitly uses newline LF. No mathematical or scientific field logic changed.",
+  "release": "Public projection 2026-11-04",
+  "result_counts": {
+    "direct_only_cells": 9,
+    "illustrative_scenarios": 12,
+    "modality_cells": 84,
+    "union_cells": 36
+  },
+  "retained_original_hashes_meaning": "Embedded historical hashes identify private archived originals; they are not integrity claims about the sanitized public files. Current public file hashes must be checked against the public release manifest.",
+  "sanitization_counts": {
+    "email_strings_removed": 1,
+    "other_drive_prefixes_removed": 0,
+    "other_user_home_prefixes_removed": 0,
+    "strings_changed": 1,
+    "workspace_prefixes_removed": 0
+  },
+  "scientific_analysis_logic_unchanged": true,
+  "scope": "Author-coded data and standard-library analysis for a fixed historical corpus. No claim of exhaustive trial ascertainment.",
+  "serialization_note": "JSON is canonicalized and staged text uses LF line endings. Public hashes may differ due to serialization even when parsed JSON is exactly identical.",
+  "source_release": "integration_corrections426_20261104"
+}

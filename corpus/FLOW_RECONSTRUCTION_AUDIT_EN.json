@@ -1,0 +1,40 @@
+{
+  "all_block_parents_found_in_479": true,
+  "all_operational_units_found_in220": true,
+  "block_states": {
+    "DEPENDENCY_MAP_PRESERVED_NOT_INDEPENDENT_DENOMINATOR": 1,
+    "EXISTING_IDENTITY_HOLD_PRESERVED": 2,
+    "membership_unknown_35": 35,
+    "operational_unit_182": 182
+  },
+  "date": "2026-11-04",
+  "families_with_preserved_initial_occurrence_bridge": 195,
+  "family_dispositions": {
+    "awaiting_classification": 55,
+    "exclude_accepted": 152,
+    "include_documentary": 218,
+    "planning": 54
+  },
+  "important_limits": [
+    "66368 occurrences are database appearances, not66368unique articles.",
+    "479families are historical identifiers, not479independent eligible trials.",
+    "220blocks belong to218parents; dependencies and ambiguous identities prevent direct subtraction as a unique-trial PRISMA flow.",
+    "The explicit220->182->159 membership crosswalk does not establish a complete occurrence-to-family-to-report exclusion chain.",
+    "Missing native library files in the submitted package are not equivalent to missing local originals; originals must be included or properly indexed under applicable redistribution conditions.",
+    "Original-rule effects and comparisons by year/sponsor cannot be reconstructed from aggregate old counts alone.",
+    "No initial-screening decision or prior human procedure is reclassified by this export."
+  ],
+  "nodes": {
+    "candidate_blocks": 220,
+    "candidate_membership_unknown": 35,
+    "candidate_parent_families": 218,
+    "eligible_subpopulation_units": 11,
+    "historical_family_identifiers": 479,
+    "historical_initial_groups": 47092,
+    "initial_database_occurrences": 66368,
+    "operational_units": 182,
+    "population_not_established_units": 12,
+    "posthoc_entire_population_units": 159
+  },
+  "scope": "Read-only crosswalk of preserved administrative and scientific layers; no new statistical outcome analysis"
+}

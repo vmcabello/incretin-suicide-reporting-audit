@@ -1,0 +1,438 @@
+{
+  "no_new_human_decisions": true,
+  "not_a_claim_that_all_other_selection_decisions_were_independently_validated": true,
+  "records": [
+    {
+      "action": "Independent source-based review if promotion to an eligible population is sought; historical admission alone is insufficient.",
+      "issue_type": "population_eligibility_not_established",
+      "present_in_operational182": true,
+      "present_in_primary159": false,
+      "study": "Beinaglutida fase 3",
+      "unit_id": "ChiCTR1900023428:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independent source-based review if promotion to an eligible population is sought; historical admission alone is insufficient.",
+      "issue_type": "population_eligibility_not_established",
+      "present_in_operational182": true,
+      "present_in_primary159": false,
+      "study": "Evaluation of the Effect on Glucose Control of AC2993 in Patients With Type 2 Diabetes Mellitus",
+      "unit_id": "NCT00035984:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independent source-based review if promotion to an eligible population is sought; historical admission alone is insufficient.",
+      "issue_type": "population_eligibility_not_established",
+      "present_in_operational182": true,
+      "present_in_primary159": false,
+      "study": "Evaluation of the Effect on Glucose Control of AC2993 in Patients With Type 2 Diabetes Mellitus Treated With Metformin",
+      "unit_id": "NCT00039013:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independent source-based review if promotion to an eligible population is sought; historical admission alone is insufficient.",
+      "issue_type": "population_eligibility_not_established",
+      "present_in_operational182": true,
+      "present_in_primary159": false,
+      "study": "Evaluation of the Effect on Glucose Control of AC2993 in Patients With Type 2 Diabetes Mellitus Treated With a Sulfonylurea",
+      "unit_id": "NCT00039026:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independent source-based review if promotion to an eligible population is sought; historical admission alone is insufficient.",
+      "issue_type": "population_eligibility_not_established",
+      "present_in_operational182": true,
+      "present_in_primary159": false,
+      "study": "Comparison of Liraglutide Versus Placebo in Weight Loss Maintenance in Obese Subjects: SCALE - Maintenance",
+      "unit_id": "NCT00781937:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independent source-based review if promotion to an eligible population is sought; historical admission alone is insufficient.",
+      "issue_type": "population_eligibility_not_established",
+      "present_in_operational182": true,
+      "present_in_primary159": false,
+      "study": "Liraglutide 3 mg for Knee Osteoarthritis",
+      "unit_id": "NCT02905864:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independent source-based review if promotion to an eligible population is sought; historical admission alone is insufficient.",
+      "issue_type": "population_eligibility_not_established",
+      "present_in_operational182": true,
+      "present_in_primary159": false,
+      "study": "Evaluation of Liraglutide 3.0mg in Patients With Poor Weight-loss and a Suboptimal Glucagon-like Peptide-1 Response",
+      "unit_id": "NCT03341429:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independent source-based review if promotion to an eligible population is sought; historical admission alone is insufficient.",
+      "issue_type": "population_eligibility_not_established",
+      "present_in_operational182": true,
+      "present_in_primary159": false,
+      "study": "Combined Effects of GLP-1 Analogue and Exercise on Maintenance of Weight Loss and Health After Very-low Calorie Diet",
+      "unit_id": "NCT04122716:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independent source-based review if promotion to an eligible population is sought; historical admission alone is insufficient.",
+      "issue_type": "population_eligibility_not_established",
+      "present_in_operational182": true,
+      "present_in_primary159": false,
+      "study": "A Study of Tirzepatide (LY3298176) In Participants After A Lifestyle Weight Loss Program",
+      "unit_id": "NCT04657016:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independent source-based review if promotion to an eligible population is sought; historical admission alone is insufficient.",
+      "issue_type": "population_eligibility_not_established",
+      "present_in_operational182": true,
+      "present_in_primary159": false,
+      "study": "A Study of Tirzepatide (LY3298176) in Chinese Participants Without Type 2 Diabetes Who Have Obesity or Overweight (SURMOUNT-CN)",
+      "unit_id": "NCT05024032:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independent source-based review if promotion to an eligible population is sought; historical admission alone is insufficient.",
+      "issue_type": "population_eligibility_not_established",
+      "present_in_operational182": true,
+      "present_in_primary159": false,
+      "study": "A Phase 3 Study to Evaluate the Efficacy of XW003 in Adults With Overweight or Obesity",
+      "unit_id": "NCT05813795:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independent source-based review if promotion to an eligible population is sought; historical admission alone is insufficient.",
+      "issue_type": "population_eligibility_not_established",
+      "present_in_operational182": true,
+      "present_in_primary159": false,
+      "study": "A Research Study to See How Well Semaglutide Helps People Who Have a Body Weight Above the Healthy Weight Range",
+      "unit_id": "NCT06041217:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "Registro integral e resumo próprio examinados. A população de segurança admite exposição a pelo menos uma dose OU apenas procedimento VOP. A disjunção não estabelece que participantes em ambos os braços receberam medicamento. O resumo PMID25212693 só informa alocação e resultados vasculares. A busca dirigida NN2211-1799 encontrou relatórios regulatórios agregados, sem prova desagregada nova.",
+      "study": "The Effect of Liraglutide on Endothelial Function in Subjects With Type 2 Diabetes Mellitus",
+      "unit_id": "NCT00620282:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "CSR BP21572 confirma administração efetiva de taspoglutida e placebo e encerramento em2009. Há conflito de fase: registro CTgov PHASE3, CSR faseI na página1. O alvo é III/IV; exposição positiva não soluciona a fase e a unidade permanece desconhecida, sem exclusão automática.",
+      "study": "A Study of the Effect of Taspoglutide on Gastric Emptying in Patients With Type 2 Diabetes",
+      "unit_id": "NCT00809705:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "Registro com resultados, protocolo e resumo de resultados próprios examinados. A reação local documenta dose de liraglutida, mas foi zero no placebo. O resumo descreve alocação e resultados MET-LIRA versus MET-P sem prova específica de administração do placebo. Denominadores78/75, conclusão da terapia e calendário planejado não suprem esta lacuna.",
+      "study": "Combined Liraglutide and Metformin Therapy in Women With Previous Gestational Diabetes Mellitus (GDM)",
+      "unit_id": "NCT01234649:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "Resumo do relatório principal e texto primário secundário PMC4985916 examinados. Confirmam LIBRA, desenho e término da fase48semanas. O artigo secundário se limita ao braço placebo e o texto sobre injeção apresenta randomização/regime. Não se usa a exposição à insulina no run-in como exposição ao GLP1/placebo nem se infere dose apenas de alocação ou conclusão.",
+      "study": "LIBRA — LIraglutide and Beta-cell RepAir (LIBRA) Study",
+      "unit_id": "NCT01270789:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "Resumo do artigo de resultados e protocolo PMC3641449 examinados. A concentração plasmática confirma tratamento ativo, mas não a administração do placebo. Encerramento e participantes que completaram não foram tomados como prova de dose. Consulta dirigida ao EudraCT2010-021922-36 no navegador retornou ausência de resultados públicos.",
+      "study": "Liraglutide Treatment to Patients With Severe Renal Insufficiency",
+      "unit_id": "NCT01394341:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "Resumo próprio FREEDOM1 examinado. Relata randomização, resultados, procedimentos do dispositivo e interrupções por eventos, mas não explicita o conjunto efetivamente implantado/doseado em cada braço nem administração de placebo a participantes identificáveis. A ocorrência genérica de procedimento sem discriminação de braço não é usada como atalho para dose.",
+      "study": "A Study to Evaluate ITCA 650 for the Treatment of Type 2 Diabetes",
+      "unit_id": "NCT01455857:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "Resumo próprio FREEDOM-CVO examinado: randomização4156, eventos e populações deAE2074/2070. O denominador deAE não é definido ali como≥1dose. Acesso ao artigo Nature via ferramenta web parou no redirecionamento de identificação; não houve recuperação de texto integral nesta estratégia limitada. Conserva-se desconhecido, sem declarar ausência de tratamento.",
+      "study": "A Study to Evaluate Cardiovascular Outcomes in Patients With Type 2 Diabetes Treated With ITCA 650",
+      "unit_id": "NCT01455896:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "Dois resumos próprios e resultados do registro examinados: seis meses de liraglutida ou placebo, visitas concluídas e efeitos clínicos. O campo Interventions informa o regime de injeção, mas não declara população efetivamente doseada em ambos os braços. Não se converte66visitas completas ou71randomizados em exposição comprovada.",
+      "study": "Adding Liraglutide to High Dose Insulin: Breaking the Cycle",
+      "unit_id": "NCT01505673:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "Resumo próprio e dados do registro examinados. O resumo de Koska2021 informa randomização163 e resultados até18meses, sem descrição de população≥1dose; arquivo PMCXML antigo não contém corpo recuperado. Tentativa atual do serviço EPMC retornou500; PMC pelo web exibiu verificação de navegador. Não se usa melhora glicêmica ou N randomizado como dose.",
+      "study": "Effect of Bydureon on Carotid Atherosclerosis Progression in Type 2 Diabetes Mellitus",
+      "unit_id": "NCT02162550:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "Registro primário inteiro examinado: ensaio paralelo de exenatida em homens com obesidade, sem resultados ou referência de resultado própria. Busca dirigida pelo NCT retornou registro e espelhos, sem relatório primário que demonstrasse tratamento efetivo. Dose planejada e enrollment20 não viram exposição.",
+      "study": "GLP-1 Agonism Stimulates Browning of Subcutaneous White Adipose Tissue in Obesity Men",
+      "unit_id": "NCT02170324:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "Registro com resultados do piloto e busca dirigida NCT/TinaThethi examinados. EventosAE zero e populações6/5; descrições dos braços estão no futuro e informam visitas/calendário. O resumo de congresso encontrado descreve randomização11, sem prova de administração em ambos. Não se deduz recebimento a partir de zero eventos ou visitas.",
+      "study": "To Evaluate the Effect of Liraglutide on Ambulatory Blood Pressure-A Pilot Study",
+      "unit_id": "NCT02299388:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "Registro primário sem resultados e resumo Hygum2020 examinados. O resumo relata pacientes tratados em ambos os grupos, mas a ligação própria entre DOI10.1016/j.bone.2019.115197 e NCT02473809 não foi confirmada em identificador primário ou registro nativo conjunto nesta estratégia. Acesso ScienceDirect no navegador pediuCAPTCHA. Correspondência temática de60participantes/26semanas não autoriza fusão automática.",
+      "study": "LIRABONE — The Effect of Liraglutide on Bone Turnover, Bone Mass and Bone Cell Function",
+      "unit_id": "NCT02473809:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "Registro completo e protocolo local examinados: estudo de exenatida semanal em DM2 com albuminúria. Resultados trazem populaçãoAE7/8 e zero eventos, sem definição como exposta≥1dose ou relato concreto de administração. Busca dirigida pelo NCT/PareshDandona não recuperou resultado primário adicional verificável. Unknown preservado.",
+      "study": "1981 — GLP-1 Receptor Agonist Therapy and Albuminuria in Patients With Type 2 Diabetes",
+      "unit_id": "NCT03029351:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "Registro de resultados e protocolo local examinados. População adulta com cirurgia de manga gástrica; não há limiar explícito de IMC no momento da randomização3mesesapós cirurgia. Descrição de placebo usa passado e ativo usa futuro misturado; não estabelece inequivocamente dose efetiva em ambos. IMC médio, indicação cirúrgica e estadoCompleted não resolvem esses dois fatos.",
+      "study": "Effect of GLP-1 Receptor Agonism After Sleeve Gastrectomy",
+      "unit_id": "NCT03115424:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "O registro de resultados informa 14/14 iniciados e 12/13 concluintes; as três perdas foram cancelamentos de cirurgia. A vigilância de eventos começou no consentimento e as descrições dizem apenas que foram randomizados para receber a injeção. Portanto, os denominadores de eventos e os concluintes não provam, por definição, administração efetiva em ambos os braços.",
+      "study": "Metabolic Phenotyping During Stress Hyperglycemia in Cardiac Surgery Patients",
+      "unit_id": "NCT03743025:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "STOP: o registro próprio está concluído e informa 140 participantes, mas não contém resultados nem referência própria de resultados. As buscas pelo NCT e título recuperaram reproduções do registro e revisões secundárias; nenhum relatório de administração efetiva foi obtido nesta estratégia.",
+      "study": "STOP — Semaglutide Treatment On Coronary Progression",
+      "unit_id": "NCT03985384:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "Os resultados próprios registram cinco participantes em cada braço, todos concluintes, com vigilância de eventos por 24 semanas. Não foi encontrada definição de população que recebeu pelo menos uma dose; o escalonamento é descrição do braço. Mantém-se desconhecida a comprovação explícita de administração em ambos os braços.",
+      "study": "Impact of Semaglutide on CD34+ EPC and Fat Derived MSC",
+      "unit_id": "NCT04126603:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "O resumo próprio de congresso PMC11453302 identifica este NCT e relata execução e resultados em 30 mulheres, durante 16 semanas. O protocolo local continua sendo fonte prospectiva. O resumo não define população que recebeu pelo menos uma dose em cada braço; randomização e resposta clínica não foram convertidas em exposição.",
+      "study": "The Effects of Semaglutide on Taste, Tongue Tissue Transcriptome, Gastric Emptying and Central Neural Response in Women With PCOS and Obesity",
+      "unit_id": "NCT04263415:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "Foi localizado artigo de Thakur e colaboradores, DOI 10.1007/s11695-020-04850-4, mas seu resumo relata 23 randomizados e teto de 3 mg, enquanto o registro informa 16 participantes e teto de 1,8 mg. O NCT não aparece no resumo acessível. A semelhança de autores e cenário não basta para transferir a exposição do artigo ao registro.",
+      "study": "Laparocopic Sleeve Gastrectomy With or Without Liraglutide in Obese Patients",
+      "unit_id": "NCT04325581:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "O registro próprio JSWB-LRG2020-301 informa fase III encerrada e 414 participantes, sem resultados publicados no registro ou referência própria de resultados. O protocolo descreve injeções planejadas; não comprova sua administração. A busca dirigida não recuperou relatório próprio que feche essa lacuna.",
+      "study": "The Efficacy and Safety of Liraglutide on Body Weight Loss in Obese and Overweight Patients",
+      "unit_id": "NCT04605861:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "COMBAT_T2_NASH tem três braços, 192 participantes informados e conclusão real anterior ao corte, mas o registro próprio não contém resultados. O protocolo institucional de Frankfurt confirma identidade e desenho, sem documentar exposição realizada. Não se reutilizou evidência do outro ensaio COMBAT em diabetes tipo 1.",
+      "study": "COMBAT_T2_NASH — Combined Active Treatment in Type 2 Diabetes With NASH",
+      "unit_id": "NCT04639414:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "RAISE-KT terminou por baixa inclusão. Os resultados próprios informam sete/oito iniciados, cinco/sete concluintes e eventos avaliados em sete/oito. As descrições ainda usam o futuro e não definem recebimento de pelo menos uma dose; os números de iniciados, concluintes e eventos não foram tratados como expostos.",
+      "study": "RAISE-KT — Effect of Subcutaneous Semaglutide on Kidney Transplant Candidacy",
+      "unit_id": "NCT04741074:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "A comparação de dulaglutida com placebo pertence ao Aim 2, separado do componente observacional Aim 1. O registro informa oito/oito iniciados e sete/quatro concluintes. Eventos começaram a ser coletados no consentimento e incluem um episódio explicitamente anterior à medicação. Mantém-se a lacuna de administração efetiva; término administrativo e última avaliação são datas distintas.",
+      "study": "Perioperative Stress Hyperglycemia in General and Vascular Surgery Patients",
+      "unit_id": "NCT04862234:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "SIB: o registro próprio informa conclusão real e 69 participantes, sem resultados publicados. A expressão de recebimento na descrição do braço é acompanhada de escalonamento e retiradas futuras, caracterizando o plano. Não foi obtido relatório próprio que confirme administração efetiva em ambos os braços.",
+      "study": "SIB — Comparing Semaglutide Versus Placebo on Intestinal Barrier Function in Type 2 Diabetes Mellitus (SIB)",
+      "unit_id": "NCT04979130:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "SUPER1 compreende etapas IIb e III, com novas alocações. O suplemento oficial define os números como randomizados e tratados com pelo menos uma dose na Tabela 3, mas essa tabela é exclusivamente da fase IIb. Essa evidência não admite a fase III no universo alvo. O corpo integral da publicação da fase III não foi obtido; preservam-se as etapas e o desconhecido. A Tabela 1 suplementar contém critério de metformina incongruente com o resumo e registro de SUPER1; não foi usada para alterar a população.",
+      "study": "A Study of Efficacy and Safety of Supaglutide in Type 2 Diabetes Patients(SUPER-1)",
+      "unit_id": "NCT04994288:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "LSS: o registro próprio informa 119 participantes e conclusão real, sem resultados publicados; os braços são descritos no futuro. As buscas pelo NCT e título não recuperaram relatório próprio de administração. Um rótulo de agregador sobre resultados não sobrepõe a ausência de resultados na fonte primária lida.",
+      "study": "LSS — Latino Semaglutide Study",
+      "unit_id": "NCT05087342:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "CAMEO-SEMA: o registro próprio informa 81 participantes e conclusão real em 17/07/2026, sem resultados ou referência de resultados. O consentimento e o desenho não comprovam administração. A busca dirigida não recuperou relatório próprio de execução; não se importaram resultados de STEP-HFpEF.",
+      "study": "Cardiac and Metabolic Effects of Semaglutide in Heart Failure With Preserved Ejection Fraction",
+      "unit_id": "NCT05371496:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "RESETTLE: o registro próprio informa conclusão real em abril de 2026. Os grupos A e B são jovens adultos com obesidade, submetidos a semaglutida/placebo; C e D são referências sem intervenção e com avaliações basais. O protocolo e o plano estatístico são prospectivos. Não se converteram os 246 participantes do registro em expostos e não se contaram C/D como ensaios de intervenção.",
+      "study": "RESETTLE — Young Adults With Early-onset Obesity Treated With Semaglutide",
+      "unit_id": "NCT05574439:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "OASIS 3, estudo NN9932-4861: a Tabela 2 do relatório oficial EMA de 21/05/2026 define a coluna como randomizados/expostos e apresenta 199/199, incluindo 100 no ativo. Isso comprova exposição global em ambos os braços, sem usar os 200 inscritos do registro. A aplicação ao alvo estrito de IMC pelo menos 25 continua condicionada à regra asiática previamente ratificada ou a um subgrupo elegível demonstrado; a fonte aceita IMC a partir de 24 e diabetes tipo 2.",
+      "study": "OASIS 3 — Research Study Looking at How Well Semaglutide Tablets Taken Once Daily Work in Chinese Adults Who Are Above a Healthy Weight Range (OASIS 3)",
+      "unit_id": "NCT05890976:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "REDEFINE 6, NN9838-4827: o registro próprio informa conclusão real e 300 participantes. A fonte do patrocinador confirma o componente regional chinês do programa, sem documentar números dosados. As buscas pelo NCT, código e acrônimo não recuperaram relatório próprio de administração efetiva.",
+      "study": "REDEFINE 6 — A Research Study to See How Well CagriSema Helps People in China With Excess Body Weight Lose Weight",
+      "unit_id": "NCT05996848:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "TG103, SYSA1803-013: o registro próprio informa conclusão real e 675 participantes, sem resultados publicados. Não se transferiram dados dos ensaios de fase Ib ou fase II da mesma molécula. As fontes recuperadas reproduzem sobretudo o desenho; a administração efetiva nesta fase III e a população pelo limiar asiático permanecem lacunas explícitas.",
+      "study": "A Study of TG103 Injection in Non-diabetic Overweight or Obesity",
+      "unit_id": "NCT05997576:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "HM-EXC-301: o registro próprio confirma conclusão real. A apresentação oficial Hanmi contém resultados de 40 semanas, grupos 299/149 e eventos por braço, portanto há relato próprio de resultados obtido. Entretanto, o slide não define esses números como participantes que receberam pelo menos uma dose. A lacuna remanescente é a definição e comprovação da exposição; não é ausência de resultados.",
+      "study": "A Study to Evaluate Efficacy and Safety of HM11260C in Adult Obesity Patients Without Diabetes Mellitus",
+      "unit_id": "NCT06174779:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "ATTAIN-OSA: o artigo próprio é de desenho e características basais. Identifica GZ01/GZ02 como estudos independentes e descreve randomização em cada um; 363/349 são randomizados, não necessariamente dosados. O registro mais recente informa encerramento primário real em 21/07/2026 e final em 30/07/2026, portanto a fase não é mantida como em andamento. Falta comprovação de administração nos dois braços desta randomização específica.",
+      "study": "ATTAIN-OSA — A Master Protocol for Orforglipron in Participants With Obstructive Sleep Apnea and Obesity or Overweight",
+      "unit_id": "NCT06649045:GZ01"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "ATTAIN-OSA: o artigo próprio é de desenho e características basais. Identifica GZ01/GZ02 como estudos independentes e descreve randomização em cada um; 363/349 são randomizados, não necessariamente dosados. O registro mais recente informa encerramento primário real em 21/07/2026 e final em 30/07/2026, portanto a fase não é mantida como em andamento. Falta comprovação de administração nos dois braços desta randomização específica.",
+      "study": "ATTAIN-OSA — A Master Protocol for Orforglipron in Participants With Obstructive Sleep Apnea and Obesity or Overweight",
+      "unit_id": "NCT06649045:GZ02"
+    },
+    {
+      "action": "Independently review source-based eligibility/exposure/closure, preserving unknown if evidence remains unavailable.",
+      "issue_type": "candidate_membership_unknown",
+      "present_in_operational182": false,
+      "present_in_primary159": false,
+      "preserved_finding_verbatim": "SHR20004-302: a versão própria mais recente informa conclusão real em 2025, sem resultados. Uma versão antiga ainda indexada na web não revoga essa conclusão. Os resultados de HR17031, combinação de insulina com noiiglutida, pertencem a outros ensaios e não foram usados para comprovar exposição neste estudo.",
+      "study": "The Experiment of Noiiglutide Injection in Type 2 Diabetes Patients",
+      "unit_id": "NCT06649773:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Preserve outside the admitted independent corpus until source-based identity/dependence review; do not equate dependent block with a unique excluded trial.",
+      "issue_type": "identity_or_dependence_preserved",
+      "state": "DEPENDENCY_MAP_PRESERVED_NOT_INDEPENDENT_DENOMINATOR",
+      "study": "SAFEGUARD",
+      "unit_id": "NCT01744236:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Preserve outside the admitted independent corpus until source-based identity/dependence review; do not equate dependent block with a unique excluded trial.",
+      "issue_type": "identity_or_dependence_preserved",
+      "state": "EXISTING_IDENTITY_HOLD_PRESERVED",
+      "study": "Effect of Chronic Exenatide Therapy on Beta Cell Function and Insulin Sensitivity in T2DM",
+      "unit_id": "NCT02981069:CANDIDATE_BLOCK"
+    },
+    {
+      "action": "Preserve outside the admitted independent corpus until source-based identity/dependence review; do not equate dependent block with a unique excluded trial.",
+      "issue_type": "identity_or_dependence_preserved",
+      "state": "EXISTING_IDENTITY_HOLD_PRESERVED",
+      "study": "Can Exenatide Prevent Increase in EGP in Response to Dapagliflozin-induced Increase in Glucosuria",
+      "unit_id": "NCT03331289:CANDIDATE_BLOCK"
+    }
+  ]
+}

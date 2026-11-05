@@ -1,0 +1,647 @@
+{
+  "date": "2026-11-04",
+  "important_scope": "No manuscript, frozen analytical input or original reviewer return was edited. Recommendations apply only to the listed positions; independent eligibility review and other modalities/layers remain separate.",
+  "independence_statement": "The current user says R1 and R2 assessments were independent. Nothing here reclassifies them as assisted ratification.",
+  "review_mode": "AI technical source reconciliation after user-reported independent R1/R2 assessment",
+  "source_role_corrections": [
+    {
+      "role": "internal inherited-reference artifact, not a primary document whose absence defeats a complete original registry witness",
+      "source_id": "SRC-7964eba1c9d00ee0b31b5153"
+    }
+  ],
+  "source_route_corrections": [
+    {
+      "sha256": "3fc115527f80fde844481f4703c970bc3dcfcf0bbad84d62ff18adbe3df601c3",
+      "source_id": "SRC-3fc115527f80fde844481f47"
+    }
+  ],
+  "summary": {
+    "concrete_scientific_conflicts": 0,
+    "new_irreducible_human_adjudication_cases": 0,
+    "positions": 14,
+    "retain_complete_positions": 14,
+    "units": 5,
+    "unknown_positions": 0
+  },
+  "task": "Group B technical reconciliation of inherited complete death-derivation positions",
+  "units": [
+    {
+      "affected_position_count": 4,
+      "analytical_input_changed": false,
+      "arms": [
+        {
+          "all_cause_deaths_reported": 0,
+          "arm": "tirzepatide 5 mg",
+          "exposed_N": 116,
+          "suicide_deaths_derived": 0
+        },
+        {
+          "all_cause_deaths_reported": 0,
+          "arm": "tirzepatide 10 mg",
+          "exposed_N": 119,
+          "suicide_deaths_derived": 0
+        },
+        {
+          "all_cause_deaths_reported": 0,
+          "arm": "tirzepatide 15 mg",
+          "exposed_N": 120,
+          "suicide_deaths_derived": 0
+        },
+        {
+          "all_cause_deaths_reported": 0,
+          "arm": "placebo",
+          "exposed_N": 120,
+          "suicide_deaths_derived": 0
+        }
+      ],
+      "caveats": [
+        "All-cause-zero derivation is a subset inference limited to the public reporting scope; it is not a directly tabulated suicide-death count.",
+        "Documentary completeness does not certify ascertainment of vital status for every participant through the full calendar window. Withdrawals and losses remain limitations.",
+        "No death result is transferred to ideation, attempt or a structured suicidality modality.",
+        "These readings reconcile evidence and retrieval metadata. The original independent R1/R2 returns are preserved, and no new human vote is claimed."
+      ],
+      "complete_witness_reasoning": "All 475 randomized participants received treatment. The article defines the full exposed safety population and explicitly includes safety follow-up; it states that no deaths occurred during the study. A zero count for every suicide-death subset follows in each of the four arms within that reported scope.",
+      "corrected_source_route": "[LOCAL_WORKSPACE]/outputs\\conciliacao_auditoria756_2026-10-28\\apoio\\conciliacao756\\later_primary\\fontes_recuperadas\\SURPASS5_PMC.html",
+      "doi": "10.1001/jama.2022.0078",
+      "eligibility_assessment_separate_from_reconstructibility": {
+        "basis": "Adults with inadequately controlled type 2 diabetes, randomized phase 3 placebo-controlled trial; 475 treated.",
+        "status": "whole_population_supported_by_primary_article"
+      },
+      "evidence": [
+        {
+          "locators_read": [
+            "Methods: Study Design, Patients, Trial Procedures, Statistical Analysis",
+            "Results: Patient Disposition and Adverse Events",
+            "Table 3: title, all columns and footnotes a-f"
+          ],
+          "original_hash_verified": true,
+          "reading_role": "Technical AI examination of original source; not a new human vote",
+          "sha256": "3fc115527f80fde844481f4703c970bc3dcfcf0bbad84d62ff18adbe3df601c3",
+          "short_verbatim_support": [
+            "No deaths occurred during the study.",
+            "from the start of study treatment to the end of safety follow-up"
+          ],
+          "source_id": "SRC-3fc115527f80fde844481f47"
+        }
+      ],
+      "fixed_window": {
+        "planned_safety_followup_weeks": 4,
+        "safety_analysis_scope": "All randomized patients exposed to at least one dose, from start of treatment to end of safety follow-up.",
+        "treatment_weeks": 40
+      },
+      "followup_limitation": "451/475 completed the study. No claim of universal complete vital-status follow-up.",
+      "judgment": "retain_complete",
+      "new_human_adjudication_required": false,
+      "not_a_new_human_vote": true,
+      "positions": [
+        {
+          "frozen_status": "complete_derived",
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT04039503:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "A",
+            "unit_id": "NCT04039503:CANDIDATE_BLOCK",
+            "window_id": "NCT04039503:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-64fba5406c0e26471b00"
+        },
+        {
+          "frozen_status": "complete_derived",
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT04039503:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B1",
+            "unit_id": "NCT04039503:CANDIDATE_BLOCK",
+            "window_id": "NCT04039503:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-2d38e670cd786be01859"
+        },
+        {
+          "frozen_status": "complete_derived",
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT04039503:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B2",
+            "unit_id": "NCT04039503:CANDIDATE_BLOCK",
+            "window_id": "NCT04039503:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-9333f34d25e5e65363d4"
+        },
+        {
+          "frozen_status": "complete_derived",
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT04039503:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B3",
+            "unit_id": "NCT04039503:CANDIDATE_BLOCK",
+            "window_id": "NCT04039503:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-6b17703c2f0e185fcbb9"
+        }
+      ],
+      "public_source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8826179/",
+      "raw_returns_changed": false,
+      "retained_status": "complete_derived",
+      "scientific_content_conflict_identified": false,
+      "six_dimensions": {
+        "counting_unit": "supported_for_fixed_target",
+        "denominator": "supported_for_fixed_target",
+        "numerator": "supported_for_fixed_target",
+        "source_access": "supported_for_fixed_target",
+        "subpopulation": "supported_for_fixed_target",
+        "window": "supported_for_fixed_target"
+      },
+      "unit_id": "NCT04039503:CANDIDATE_BLOCK"
+    },
+    {
+      "affected_position_count": 4,
+      "analytical_input_changed": false,
+      "arms": [
+        {
+          "all_cause_deaths_reported": 0,
+          "arm": "tirzepatide 5 mg",
+          "exposed_N": 52,
+          "suicide_deaths_derived": 0
+        },
+        {
+          "all_cause_deaths_reported": 0,
+          "arm": "tirzepatide 10 mg",
+          "exposed_N": 51,
+          "suicide_deaths_derived": 0
+        },
+        {
+          "all_cause_deaths_reported": 0,
+          "arm": "tirzepatide 15 mg",
+          "exposed_N": 52,
+          "suicide_deaths_derived": 0
+        },
+        {
+          "all_cause_deaths_reported": 0,
+          "arm": "placebo",
+          "exposed_N": 51,
+          "suicide_deaths_derived": 0
+        }
+      ],
+      "caveats": [
+        "All-cause-zero derivation is a subset inference limited to the public reporting scope; it is not a directly tabulated suicide-death count.",
+        "Documentary completeness does not certify ascertainment of vital status for every participant through the full calendar window. Withdrawals and losses remain limitations.",
+        "No death result is transferred to ideation, attempt or a structured suicidality modality.",
+        "These readings reconcile evidence and retrieval metadata. The original independent R1/R2 returns are preserved, and no new human vote is claimed."
+      ],
+      "complete_witness_reasoning": "Table 3 reports zero deaths in all four arms, with explicit all-study no-death text. STAR Methods defines safety data through the 4-week follow-up, including data after rescue or treatment discontinuation; all 206 randomized participants received at least one dose.",
+      "dose_administration_deviation": "45 participants assigned 10 mg received 5 mg during weeks 24-40; the article retains assigned group analyses. This does not change zero all-cause mortality but must not be obscured in a dose-specific treatment-effect analysis.",
+      "eligibility_assessment_separate_from_reconstructibility": {
+        "basis": "Adults with type 2 diabetes, phase 3 randomized placebo-controlled trial.",
+        "status": "whole_population_supported_by_primary_article"
+      },
+      "evidence": [
+        {
+          "locators_read": [
+            "PDF p3: Patients and IWRS deviation",
+            "PDF p4: Figures 1 and 2 (visually inspected)",
+            "PDF p8: Safety",
+            "PDF p9: Table 3 and footnote a (visually inspected)",
+            "PDF pp14-16: STAR Methods, safety analysis set (p16 visually inspected)"
+          ],
+          "original_hash_verified": true,
+          "reading_role": "Technical AI examination of original source; not a new human vote",
+          "sha256": "5dce9847109da9f3bda7d9f86cd7a11ba144bb910587874f87c1f79aa1b857b1",
+          "short_verbatim_support": [
+            "There were no deaths during the study.",
+            "regardless of initiation of rescue therapy or adherence to study treatment"
+          ],
+          "source_id": "SRC-5dce9847109da9f3bda7d9f8"
+        }
+      ],
+      "fixed_window": {
+        "planned_safety_followup_weeks": 4,
+        "safety_analysis_scope": "mITT (all randomized exposed) during treatment and safety follow-up regardless of rescue or adherence.",
+        "treatment_weeks": 40
+      },
+      "followup_limitation": "Study discontinuation and one placebo loss to follow-up shown in Figure 2; no assertion of complete vital status.",
+      "judgment": "retain_complete",
+      "new_human_adjudication_required": false,
+      "not_a_new_human_vote": true,
+      "positions": [
+        {
+          "frozen_status": "complete_derived",
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05963022:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "A",
+            "unit_id": "NCT05963022:CANDIDATE_BLOCK",
+            "window_id": "NCT05963022:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-1725d4a3595c68a00f14"
+        },
+        {
+          "frozen_status": "complete_derived",
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05963022:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B1",
+            "unit_id": "NCT05963022:CANDIDATE_BLOCK",
+            "window_id": "NCT05963022:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-2786dcc4347edf37c0eb"
+        },
+        {
+          "frozen_status": "complete_derived",
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05963022:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B2",
+            "unit_id": "NCT05963022:CANDIDATE_BLOCK",
+            "window_id": "NCT05963022:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-1bbfb55488c6e4d099e6"
+        },
+        {
+          "frozen_status": "complete_derived",
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05963022:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B3",
+            "unit_id": "NCT05963022:CANDIDATE_BLOCK",
+            "window_id": "NCT05963022:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-e9dd40cb479489c48481"
+        }
+      ],
+      "raw_returns_changed": false,
+      "retained_status": "complete_derived",
+      "scientific_content_conflict_identified": false,
+      "six_dimensions": {
+        "counting_unit": "supported_for_fixed_target",
+        "denominator": "supported_for_fixed_target",
+        "numerator": "supported_for_fixed_target",
+        "source_access": "supported_for_fixed_target",
+        "subpopulation": "supported_for_fixed_target",
+        "window": "supported_for_fixed_target"
+      },
+      "unit_id": "NCT05963022:CANDIDATE_BLOCK",
+      "visual_pages_checked": [
+        4,
+        9,
+        16
+      ]
+    },
+    {
+      "affected_position_count": 2,
+      "analytical_input_changed": false,
+      "arms": [
+        {
+          "all_cause_deaths_reported": 0,
+          "arm": "tirzepatide MTD_GPI1",
+          "exposed_N": 114,
+          "registry_event_group": "EG000",
+          "suicide_deaths_derived": 0
+        },
+        {
+          "all_cause_deaths_reported": 0,
+          "arm": "placebo_GPI1",
+          "exposed_N": 120,
+          "registry_event_group": "EG001",
+          "suicide_deaths_derived": 0
+        }
+      ],
+      "caveats": [
+        "All-cause-zero derivation is a subset inference limited to the public reporting scope; it is not a directly tabulated suicide-death count.",
+        "Documentary completeness does not certify ascertainment of vital status for every participant through the full calendar window. Withdrawals and losses remain limitations.",
+        "No death result is transferred to ideation, attempt or a structured suicidality modality.",
+        "These readings reconcile evidence and retrieval metadata. The original independent R1/R2 returns are preserved, and no new human vote is claimed."
+      ],
+      "complete_witness_reasoning": "The original registry explicitly reports arm-specific all-cause deaths=0 with the full exposed denominators, baseline-through-follow-up window and treatment-regimen safety population. Its own participant-flow records distinguish GPI1 from GPI2 and align exposed counts. The main article corroborates no deaths in either trial; neither PAP population is pooled or transferred to the other.",
+      "do_not_transfer_to_earlier_layers_without_separate_scope_review": true,
+      "eligibility_assessment_separate_from_reconstructibility": {
+        "basis": "Primary registry and article: randomized phase 3, adults with obesity (article allows BMI>=27 in Japan); both arms satisfy excess-weight target. PAP distinction is unit identity, not an eligible subset inferred from total N.",
+        "status": "whole_population_supported"
+      },
+      "evidence": [
+        {
+          "locators_read": [
+            "protocolSection.identificationModule, designModule, eligibilityModule and statusModule",
+            "resultsSection.adverseEventsModule.timeFrame, description and eventGroups[0:4]",
+            "resultsSection.participantFlowModule.recruitmentDetails, groups, all milestones and dropWithdraws",
+            "resultsSection.baselineCharacteristicsModule.populationDescription, groups and denominators"
+          ],
+          "original_hash_verified": true,
+          "reading_role": "Technical AI examination of original source; not a new human vote",
+          "sha256": "0a16d146000a107993cb580a48a928f5d28f4e176b288b171236a8985c81327e",
+          "short_verbatim_support": [
+            "Baseline to Follow-up (Up To 56 Weeks)",
+            "All randomized participants who are exposed to at least 1 dose of study intervention."
+          ],
+          "source_id": "SRC-0a16d146000a107993cb580a"
+        },
+        {
+          "locators_read": [
+            "PDF p3: Participants and Trial Procedures",
+            "PDF p5: Statistical Analysis",
+            "PDF p9: explicit mortality statement",
+            "PDF p10: Table 4, both trials and all footnotes (visually inspected)"
+          ],
+          "original_hash_verified": true,
+          "reading_role": "Technical AI examination of original source; not a new human vote",
+          "sha256": "b940ecca52e358709dc68a6c00405dce5b240e6258b491c137dc55500fe5a945",
+          "short_verbatim_support": [
+            "There were no deaths reported in either trial."
+          ],
+          "source_id": "SRC-b940ecca52e358709dc68a6c"
+        }
+      ],
+      "fixed_window": {
+        "planned_safety_followup_weeks": 4,
+        "reported_timeframe": "Baseline to Follow-up (Up To 56 Weeks)",
+        "safety_analysis_scope": "All randomized exposed participants, treatment-regimen analysis; arm-specific eventGroups match exposed milestones.",
+        "treatment_weeks": 52
+      },
+      "followup_limitation": "GPI1 registry reports 3 lost to follow-up in tirzepatide; participant withdrawal and other discontinuation reasons remain. GPI2 exposed 119/114 differs from randomized 120/115.",
+      "independent_contrasts_preserved": true,
+      "judgment": "retain_complete",
+      "new_human_adjudication_required": false,
+      "not_a_new_human_vote": true,
+      "parent_registry_id": "NCT05412004",
+      "positions": [
+        {
+          "frozen_status": "complete_derived",
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05412004:GPI1::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B2",
+            "unit_id": "NCT05412004:GPI1",
+            "window_id": "NCT05412004:GPI1::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-4ea26568bd15e45bce7a"
+        },
+        {
+          "frozen_status": "complete_derived",
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05412004:GPI1::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B3",
+            "unit_id": "NCT05412004:GPI1",
+            "window_id": "NCT05412004:GPI1::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-bacd547f66aed69b2505"
+        }
+      ],
+      "raw_returns_changed": false,
+      "retained_status": "complete_derived",
+      "scientific_content_conflict_identified": false,
+      "six_dimensions": {
+        "counting_unit": "supported_for_fixed_target",
+        "denominator": "supported_for_fixed_target",
+        "numerator": "supported_for_fixed_target",
+        "source_access": "supported_for_fixed_target",
+        "subpopulation": "supported_for_fixed_target",
+        "window": "supported_for_fixed_target"
+      },
+      "unit_id": "NCT05412004:GPI1"
+    },
+    {
+      "affected_position_count": 2,
+      "analytical_input_changed": false,
+      "arms": [
+        {
+          "all_cause_deaths_reported": 0,
+          "arm": "tirzepatide MTD_GPI2",
+          "exposed_N": 119,
+          "registry_event_group": "EG002",
+          "suicide_deaths_derived": 0
+        },
+        {
+          "all_cause_deaths_reported": 0,
+          "arm": "placebo_GPI2",
+          "exposed_N": 114,
+          "registry_event_group": "EG003",
+          "suicide_deaths_derived": 0
+        }
+      ],
+      "caveats": [
+        "All-cause-zero derivation is a subset inference limited to the public reporting scope; it is not a directly tabulated suicide-death count.",
+        "Documentary completeness does not certify ascertainment of vital status for every participant through the full calendar window. Withdrawals and losses remain limitations.",
+        "No death result is transferred to ideation, attempt or a structured suicidality modality.",
+        "These readings reconcile evidence and retrieval metadata. The original independent R1/R2 returns are preserved, and no new human vote is claimed."
+      ],
+      "complete_witness_reasoning": "The original registry explicitly reports arm-specific all-cause deaths=0 with the full exposed denominators, baseline-through-follow-up window and treatment-regimen safety population. Its own participant-flow records distinguish GPI1 from GPI2 and align exposed counts. The main article corroborates no deaths in either trial; neither PAP population is pooled or transferred to the other.",
+      "do_not_transfer_to_earlier_layers_without_separate_scope_review": true,
+      "eligibility_assessment_separate_from_reconstructibility": {
+        "basis": "Primary registry and article: randomized phase 3, adults with obesity (article allows BMI>=27 in Japan); both arms satisfy excess-weight target. PAP distinction is unit identity, not an eligible subset inferred from total N.",
+        "status": "whole_population_supported"
+      },
+      "evidence": [
+        {
+          "locators_read": [
+            "protocolSection.identificationModule, designModule, eligibilityModule and statusModule",
+            "resultsSection.adverseEventsModule.timeFrame, description and eventGroups[0:4]",
+            "resultsSection.participantFlowModule.recruitmentDetails, groups, all milestones and dropWithdraws",
+            "resultsSection.baselineCharacteristicsModule.populationDescription, groups and denominators"
+          ],
+          "original_hash_verified": true,
+          "reading_role": "Technical AI examination of original source; not a new human vote",
+          "sha256": "0a16d146000a107993cb580a48a928f5d28f4e176b288b171236a8985c81327e",
+          "short_verbatim_support": [
+            "Baseline to Follow-up (Up To 56 Weeks)",
+            "All randomized participants who are exposed to at least 1 dose of study intervention."
+          ],
+          "source_id": "SRC-0a16d146000a107993cb580a"
+        },
+        {
+          "locators_read": [
+            "PDF p3: Participants and Trial Procedures",
+            "PDF p5: Statistical Analysis",
+            "PDF p9: explicit mortality statement",
+            "PDF p10: Table 4, both trials and all footnotes (visually inspected)"
+          ],
+          "original_hash_verified": true,
+          "reading_role": "Technical AI examination of original source; not a new human vote",
+          "sha256": "b940ecca52e358709dc68a6c00405dce5b240e6258b491c137dc55500fe5a945",
+          "short_verbatim_support": [
+            "There were no deaths reported in either trial."
+          ],
+          "source_id": "SRC-b940ecca52e358709dc68a6c"
+        }
+      ],
+      "fixed_window": {
+        "planned_safety_followup_weeks": 4,
+        "reported_timeframe": "Baseline to Follow-up (Up To 56 Weeks)",
+        "safety_analysis_scope": "All randomized exposed participants, treatment-regimen analysis; arm-specific eventGroups match exposed milestones.",
+        "treatment_weeks": 52
+      },
+      "followup_limitation": "GPI1 registry reports 3 lost to follow-up in tirzepatide; participant withdrawal and other discontinuation reasons remain. GPI2 exposed 119/114 differs from randomized 120/115.",
+      "independent_contrasts_preserved": true,
+      "judgment": "retain_complete",
+      "new_human_adjudication_required": false,
+      "not_a_new_human_vote": true,
+      "parent_registry_id": "NCT05412004",
+      "positions": [
+        {
+          "frozen_status": "complete_derived",
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05412004:GPI2::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B2",
+            "unit_id": "NCT05412004:GPI2",
+            "window_id": "NCT05412004:GPI2::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-ca54680bb0960c524ee2"
+        },
+        {
+          "frozen_status": "complete_derived",
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05412004:GPI2::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B3",
+            "unit_id": "NCT05412004:GPI2",
+            "window_id": "NCT05412004:GPI2::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-2f39c537a41431fd518d"
+        }
+      ],
+      "raw_returns_changed": false,
+      "retained_status": "complete_derived",
+      "scientific_content_conflict_identified": false,
+      "six_dimensions": {
+        "counting_unit": "supported_for_fixed_target",
+        "denominator": "supported_for_fixed_target",
+        "numerator": "supported_for_fixed_target",
+        "source_access": "supported_for_fixed_target",
+        "subpopulation": "supported_for_fixed_target",
+        "window": "supported_for_fixed_target"
+      },
+      "unit_id": "NCT05412004:GPI2"
+    },
+    {
+      "affected_position_count": 2,
+      "analytical_input_changed": false,
+      "arms": [
+        {
+          "all_cause_deaths_reported": 0,
+          "all_cause_mortality_denominator": 205,
+          "arm": "oral semaglutide 25 mg",
+          "exposed_N": 204,
+          "randomized_N": 205,
+          "suicide_deaths_derived_in_exposed_subset": 0
+        },
+        {
+          "all_cause_deaths_reported": 0,
+          "all_cause_mortality_denominator": 102,
+          "arm": "placebo",
+          "exposed_N": 102,
+          "randomized_N": 102,
+          "suicide_deaths_derived_in_exposed_subset": 0
+        }
+      ],
+      "caveats": [
+        "All-cause-zero derivation is a subset inference limited to the public reporting scope; it is not a directly tabulated suicide-death count.",
+        "Documentary completeness does not certify ascertainment of vital status for every participant through the full calendar window. Withdrawals and losses remain limitations.",
+        "No death result is transferred to ideation, attempt or a structured suicidality modality.",
+        "These readings reconcile evidence and retrieval metadata. The original independent R1/R2 returns are preserved, and no new human vote is claimed."
+      ],
+      "complete_witness_reasoning": "Mortality is explicitly zero among every randomized participant in both arms through week 71. The exposed population is a documented subset of that all-randomized population (204 of 205 and 102 of 102), so its reported all-cause and suicide-death subsets are also zero. The exposed denominators come from the actual safety-set milestone, not an automatic substitution of randomized N. The on-treatment AE restriction must not be applied to all-cause mortality, which the registry explicitly separates.",
+      "do_not_promote_article_A_B1_to_complete_from_its_on_treatment_table": true,
+      "eligibility_assessment_separate_from_reconstructibility": {
+        "basis": "Adults with BMI>=30 or BMI>=27 with a weight-related complication; randomized phase 3 oral semaglutide vs matching placebo.",
+        "status": "whole_population_supported"
+      },
+      "evidence": [
+        {
+          "locators_read": [
+            "protocolSection.identificationModule, designModule, eligibilityModule and statusModule",
+            "resultsSection.adverseEventsModule.timeFrame, description and eventGroups[0:2]",
+            "resultsSection.participantFlowModule.preAssignmentDetails, groups, all milestones and dropWithdraws",
+            "resultsSection.baselineCharacteristicsModule.populationDescription, groups and denominators"
+          ],
+          "original_hash_verified": true,
+          "reading_role": "Technical AI examination of original source; not a new human vote",
+          "sha256": "4e8b6e5755cfe47ccf9bdf3e9dbb54f7a5e9f919b9e1312b24234e41ce6191fb",
+          "short_verbatim_support": [
+            "From week 0 to week 71",
+            "all-cause mortality was assessed for all participants randomized in this study."
+          ],
+          "source_id": "SRC-4e8b6e5755cfe47ccf9bdf3e"
+        },
+        {
+          "locators_read": [
+            "PDF p2: Participants and Procedures",
+            "PDF p3: observation periods and analysis populations",
+            "PDF p4: disposition",
+            "PDF p8: Table 3 and footnote (visually inspected)",
+            "PDF p9: mortality statement"
+          ],
+          "original_hash_verified": true,
+          "reading_role": "Technical AI examination of original source; not a new human vote",
+          "sha256": "b723e838394253fcaa50477dfc0a3de3f14112ab2896a9478d07b422bd651e70",
+          "short_verbatim_support": [
+            "No deaths occurred.",
+            "during the treatment period"
+          ],
+          "source_id": "SRC-b723e838394253fcaa50477d"
+        }
+      ],
+      "fixed_window": {
+        "mortality_scope": "Registry explicitly distinguishes all-randomized all-cause mortality from on-treatment AE reporting.",
+        "planned_safety_followup_weeks": 7,
+        "reported_timeframe": "From week 0 to week 71",
+        "treatment_weeks": 64
+      },
+      "followup_limitation": "Registry lists 7 lost to follow-up per randomized arm. The publication defines in-trial to last contact and reports 290/307 attended week 71. Documentary zero is not proof of every participant vital status through week 71.",
+      "judgment": "retain_complete",
+      "new_human_adjudication_required": false,
+      "not_a_new_human_vote": true,
+      "positions": [
+        {
+          "frozen_status": "complete_derived",
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05564117:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B2",
+            "unit_id": "NCT05564117:CANDIDATE_BLOCK",
+            "window_id": "NCT05564117:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-404e546c59da697eb2f4"
+        },
+        {
+          "frozen_status": "complete_derived",
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05564117:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B3",
+            "unit_id": "NCT05564117:CANDIDATE_BLOCK",
+            "window_id": "NCT05564117:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-d0f23653e0889ecaa41e"
+        }
+      ],
+      "primary_publication_access_gap_status": "Own publication is present and hash verified; retire the claim that the main clinical article itself is unavailable. This does not establish retrieval/reading of every supplementary document.",
+      "raw_returns_changed": false,
+      "real_conflict_excluded": "Publication table and registry both report zero mortality; minor exposed-versus-randomized denominator distinction is explained, not conflicting death data.",
+      "retained_status": "complete_derived",
+      "scientific_content_conflict_identified": false,
+      "six_dimensions": {
+        "counting_unit": "supported_for_fixed_target",
+        "denominator": "supported_for_fixed_target",
+        "numerator": "supported_for_fixed_target",
+        "source_access": "supported_for_fixed_target",
+        "subpopulation": "supported_for_fixed_target",
+        "window": "supported_for_fixed_target"
+      },
+      "unit_id": "NCT05564117:CANDIDATE_BLOCK"
+    }
+  ]
+}

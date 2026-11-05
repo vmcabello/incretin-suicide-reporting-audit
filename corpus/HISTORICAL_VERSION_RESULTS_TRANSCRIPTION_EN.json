@@ -1,0 +1,182 @@
+{
+  "122_code_sha256": "af50904c5e1ba43fa1bba035c02b466a03c66417052c22c1169049f43019ca08",
+  "122_input_sha256": "0f9a1dcabd811e14fce869c595865472d0e92edc4761b8375cb3ca0465439f88",
+  "182_code_sha256": "546eac55cc90dbcd6878bf0c26ea347478e37bd1088cdf1013c3d7b29ebbd4a7",
+  "182_input_sha256": "7e1b14e379369e53ccaf15c45dcda7b556938ed5d5530e4f4eaf63dd703b4ef6",
+  "comparability_limits": "Across versions, both composition and classification/cumulative-access rules changed. These are not causal effects of a single amendment.",
+  "corrected_code_sha256": "745587929653dcc2f451f97cb1ce0b891158d85ca3b6c3d2d2622493f64d3dfb",
+  "corrected_input_sha256": "7c0a7086b3b7b99f1d574d2b850b53368c35831bb9d011aa47cefa55773f4aae",
+  "not_original_prespecified_rule_analysis": true,
+  "original_v08_analysis": "Not identifiable as an independently reproducible original-rule analysis from the inspected result snapshots. Do not relabel the122/182outputs as prospective or original-rule results.",
+  "records": [
+    {
+      "N": 122,
+      "complete": 1,
+      "component": "suicidal_ideation",
+      "historical_conditional_bounds_transcribed": [
+        0.00819672131147541,
+        0.03278688524590164
+      ],
+      "not_complete": 118,
+      "not_original_prespecified_rule_analysis": true,
+      "scope": "122 bounded operational units; before later candidate integration and cumulative-gap correction",
+      "unknown": 3,
+      "version": "2026-10-29 historical122"
+    },
+    {
+      "N": 122,
+      "complete": 1,
+      "component": "suicide_attempt",
+      "historical_conditional_bounds_transcribed": [
+        0.00819672131147541,
+        0.03278688524590164
+      ],
+      "not_complete": 118,
+      "not_original_prespecified_rule_analysis": true,
+      "scope": "122 bounded operational units; before later candidate integration and cumulative-gap correction",
+      "unknown": 3,
+      "version": "2026-10-29 historical122"
+    },
+    {
+      "N": 122,
+      "complete": 15,
+      "component": "suicide_death",
+      "historical_conditional_bounds_transcribed": [
+        0.12295081967213115,
+        0.14754098360655737
+      ],
+      "not_complete": 104,
+      "not_original_prespecified_rule_analysis": true,
+      "scope": "122 bounded operational units; before later candidate integration and cumulative-gap correction",
+      "unknown": 3,
+      "version": "2026-10-29 historical122"
+    },
+    {
+      "N": 182,
+      "complete": 1,
+      "component": "suicidal_ideation",
+      "historical_conditional_bounds_transcribed": [
+        0.005494505494505495,
+        0.16483516483516483
+      ],
+      "not_complete": 152,
+      "not_original_prespecified_rule_analysis": true,
+      "scope": "182 expanded operational units; historical local status aggregation",
+      "unknown": 29,
+      "version": "2026-10-30 historical182"
+    },
+    {
+      "N": 182,
+      "complete": 1,
+      "component": "suicide_attempt",
+      "historical_conditional_bounds_transcribed": [
+        0.005494505494505495,
+        0.16483516483516483
+      ],
+      "not_complete": 152,
+      "not_original_prespecified_rule_analysis": true,
+      "scope": "182 expanded operational units; historical local status aggregation",
+      "unknown": 29,
+      "version": "2026-10-30 historical182"
+    },
+    {
+      "N": 182,
+      "complete": 15,
+      "component": "suicide_death",
+      "historical_conditional_bounds_transcribed": [
+        0.08241758241758242,
+        0.25274725274725274
+      ],
+      "not_complete": 136,
+      "not_original_prespecified_rule_analysis": true,
+      "scope": "182 expanded operational units; historical local status aggregation",
+      "unknown": 31,
+      "version": "2026-10-30 historical182"
+    },
+    {
+      "N": 182,
+      "complete": 1,
+      "component": "suicidal_ideation",
+      "historical_conditional_bounds_transcribed": [
+        0.005494505494505495,
+        0.2087912087912088
+      ],
+      "not_complete": 144,
+      "not_original_prespecified_rule_analysis": true,
+      "scope": "182 operational units with cumulative missing-source overlay",
+      "unknown": 37,
+      "version": "2026-11-01 corrected182"
+    },
+    {
+      "N": 182,
+      "complete": 1,
+      "component": "suicide_attempt",
+      "historical_conditional_bounds_transcribed": [
+        0.005494505494505495,
+        0.2087912087912088
+      ],
+      "not_complete": 144,
+      "not_original_prespecified_rule_analysis": true,
+      "scope": "182 operational units with cumulative missing-source overlay",
+      "unknown": 37,
+      "version": "2026-11-01 corrected182"
+    },
+    {
+      "N": 182,
+      "complete": 15,
+      "component": "suicide_death",
+      "historical_conditional_bounds_transcribed": [
+        0.08241758241758242,
+        0.2857142857142857
+      ],
+      "not_complete": 130,
+      "not_original_prespecified_rule_analysis": true,
+      "scope": "182 operational units with cumulative missing-source overlay",
+      "unknown": 37,
+      "version": "2026-11-01 corrected182"
+    },
+    {
+      "N": 159,
+      "complete": 1,
+      "component": "suicidal_ideation",
+      "historical_conditional_bounds_transcribed": [
+        0.006289308176100629,
+        0.16981132075471697
+      ],
+      "not_complete": 132,
+      "not_original_prespecified_rule_analysis": true,
+      "scope": "159 entire-population units, post-hoc hierarchy and corrected cumulative unknowns",
+      "unknown": 26,
+      "version": "2026-11-01 post-hoc159"
+    },
+    {
+      "N": 159,
+      "complete": 1,
+      "component": "suicide_attempt",
+      "historical_conditional_bounds_transcribed": [
+        0.006289308176100629,
+        0.16981132075471697
+      ],
+      "not_complete": 132,
+      "not_original_prespecified_rule_analysis": true,
+      "scope": "159 entire-population units, post-hoc hierarchy and corrected cumulative unknowns",
+      "unknown": 26,
+      "version": "2026-11-01 post-hoc159"
+    },
+    {
+      "N": 159,
+      "complete": 15,
+      "component": "suicide_death",
+      "historical_conditional_bounds_transcribed": [
+        0.09433962264150944,
+        0.2578616352201258
+      ],
+      "not_complete": 118,
+      "not_original_prespecified_rule_analysis": true,
+      "scope": "159 entire-population units, post-hoc hierarchy and corrected cumulative unknowns",
+      "unknown": 26,
+      "version": "2026-11-01 post-hoc159"
+    }
+  ],
+  "results_transcribed_not_recomputed": true
+}

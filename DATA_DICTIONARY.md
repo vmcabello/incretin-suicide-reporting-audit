@@ -1,0 +1,13 @@
+# Essential data dictionary
+
+An **operational unit** is a retained randomized drug/placebo contrast. A family, bibliographic record, clinical report and documentary position are separate levels. A position has six identity fields: unit_id, component, stage, modality, reference_id and window_id. Its target is the baseline-eligible exposed population in both original arms over the initial parallel phase plus applicable planned observation after withdrawal.
+
+Components are suicidal ideation, suicide attempt and suicide death. Layer A uses main articles and supplements; B1 adds secondary reports; B2 adds registry results; B3 adds compatible regulatory evidence. Modalities are adverse-event reporting, suicide-specific structured assessment and all-cause mortality derivation. A modality cannot complete another modality by assumption.
+
+`complete_direct` and `complete_derived` require a validated witness for the exact target and both arms; derived completeness also requires a valid derivation. `partial_reference` and `not_reconstructible_in_examined_corpus` describe known finite examined scopes. They are documentary classifications, not clinical event zeros. `public_source_unavailable`, `reference_unverifiable`, unresolved conflicts, pertinent cumulative access gaps and incomplete source examination remain unknown.
+
+The indicator is existential when an exact valid complete witness exists. Without such a witness, a pertinent unresolved earlier gap continues in later cumulative layers. An unrelated inaccessible source does not negate an already valid exact-target proof. Exposure denominators, respondent denominators, ITT populations, people and episodes are kept distinct. STEP UP has 1004/201/201 exposed participants compared with 1005/201/201 randomized.
+
+The current 426-position technical consolidation retains 79 partial and 347 not-reconstructible statuses. It matches the historical source-scoped judgments. The 57 positive checks comprise six direct adverse-event positions in STEP 5 and 51 derived death positions across fifteen units. This reconciliation did not alter the published numerical indicator values. It is not a new full duplicate extraction or a reliability experiment. Author-reported independent human assessments and the limits of the transmitted technical provenance are disclosed in the manuscript and reconciliation summary.
+
+For admitted N units, k confirmed and u unknown, the conditional interval is k/N to (k+u)/N. It is not a confidence interval or a clinical risk estimate. No zero is imputed for unknown source content. The 159-unit hierarchy and modality-first presentation are post hoc. The corpus remains historical and nonexhaustive.

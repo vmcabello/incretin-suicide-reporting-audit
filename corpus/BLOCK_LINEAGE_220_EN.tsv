@@ -1,0 +1,221 @@
+unit_id	family_id	study	current_20261101_state	in_159_posthoc_corpus	in_182_operational_corpus	unknown_membership_not_exclusion
+ChiCTR1900023428:CANDIDATE_BLOCK	ChiCTR1900023428	Beinaglutida fase 3	operational_unit_182	false	true	false
+NCT00035984:CANDIDATE_BLOCK	NCT00035984	Evaluation of the Effect on Glucose Control of AC2993 in Patients With Type 2 Diabetes Mellitus	operational_unit_182	false	true	false
+NCT00039013:CANDIDATE_BLOCK	NCT00039013	DeFronzo 2005 / 2993-112	operational_unit_182	false	true	false
+NCT00039026:CANDIDATE_BLOCK	NCT00039026	Buse 2004 / Exenatide-113 — nova fonte recebida	operational_unit_182	false	true	false
+NCT00099320:CANDIDATE_BLOCK	NCT00099320	Safety and Efficacy of Exenatide in Patients With Type 2 Diabetes Using Thiazolidinediones or Thiazolidinediones and Metformin	operational_unit_182	true	true	false
+NCT00318422:CANDIDATE_BLOCK	NCT00318422	LEAD-1 — Effect of Liraglutide on Blood Glucose Control in Subjects With Type 2 Diabetes	operational_unit_182	true	true	false
+NCT00318461:CANDIDATE_BLOCK	NCT00318461	LEAD-2 — To Compare the Effect of Liraglutide When Given Together With Metformin With the Effect of Metformin Given Alone and With the Effect of Glimepiride and Metformin Given Together	operational_unit_182	true	true	false
+NCT00324363:CANDIDATE_BLOCK	NCT00324363	Gao 2009 / exenatida em população asiática — nova fonte recebida	operational_unit_182	true	true	false
+NCT00331851:CANDIDATE_BLOCK	NCT00331851	LEAD-5 — Effect of Liraglutide on Blood Glucose Control in Subjects With Type 2 Diabetes	operational_unit_182	true	true	false
+NCT00333151:CANDIDATE_BLOCK	NCT00333151	LEAD-4 — Effect of Liraglutide on Blood Glucose Control in Subjects With Type 2 Diabetes	operational_unit_182	true	true	false
+NCT00375492:CANDIDATE_BLOCK	NCT00375492	Effect on Weight Loss of Exenatide Versus Placebo	operational_unit_182	true	true	false
+NCT00381342:CANDIDATE_BLOCK	NCT00381342	Safety and Efficacy of Exenatide as Monotherapy	operational_unit_182	true	true	false
+NCT00395746:CANDIDATE_BLOCK	NCT00395746	Effect of Liraglutide in Combination With Sulfonylurea (SU) on Blood Glucose Control in Subjects With Type 2 Diabetes	operational_unit_182	true	true	false
+NCT00516074:CANDIDATE_BLOCK	NCT00516074	A Study to Assess the Effect of Exenatide Treatment on Mean 24-Hour Heart Rate in Patients With Type 2 Diabetes	operational_unit_182	true	true	false
+NCT00577824:CANDIDATE_BLOCK	NCT00577824	Efficacy and Safety of Exenatide in Japanese Patients With Type 2 Diabetes Who Are Treated With Oral Antidiabetic(s)	operational_unit_182	true	true	false
+NCT00603239:CANDIDATE_BLOCK	NCT00603239	Safety and Efficacy of Exenatide in Patients With Type 2 Diabetes Using a Thiazolidinedione or a Thiazolidinedione and Metformin	operational_unit_182	true	true	false
+NCT00620282:CANDIDATE_BLOCK	NCT00620282	The Effect of Liraglutide on Endothelial Function in Subjects With Type 2 Diabetes Mellitus	membership_unknown_35	false	false	true
+NCT00688701:CANDIDATE_BLOCK	NCT00688701	GETGOAL-MONO — GLP-1 Receptor Agonist Lixisenatide in Patients With Type 2 Diabetes for Glycemic Control and Safety Evaluation in Monotherapy	operational_unit_182	true	true	false
+NCT00712673:CANDIDATE_BLOCK	NCT00712673	GETGOAL-M	operational_unit_182	true	true	false
+NCT00713830:CANDIDATE_BLOCK	NCT00713830	GETGOAL-S	operational_unit_182	true	true	false
+NCT00715624:CANDIDATE_BLOCK	NCT00715624	GETGOAL-L	operational_unit_182	true	true	false
+NCT00734474:CANDIDATE_BLOCK	NCT00734474	A Study of LY2189265 Compared to Sitagliptin in Participants With Type 2 Diabetes Mellitus on Metformin	operational_unit_182	true	true	false
+NCT00744367:CANDIDATE_BLOCK	NCT00744367	A Study of Taspoglutide Versus Placebo for the Treatment of Patients With Type 2 Diabetes Mellitus Inadequately Controlled With Metformin Plus Pioglitazone.	operational_unit_182	true	true	false
+NCT00744926:CANDIDATE_BLOCK	NCT00744926	T-emerge 1	operational_unit_182	true	true	false
+NCT00754988:CANDIDATE_BLOCK	NCT00754988	A Study of Taspoglutide Versus Sitagliptin for the Treatment of Patients With Type 2 Diabetes Mellitus Inadequately Controlled With Metformin.	operational_unit_182	true	true	false
+NCT00763451:CANDIDATE_BLOCK	NCT00763451	GETGOAL-F1	operational_unit_182	true	true	false
+NCT00763815:CANDIDATE_BLOCK	NCT00763815	GETGOAL-P	operational_unit_182	true	true	false
+NCT00765817:CANDIDATE_BLOCK	NCT00765817	Buse 2011 / H8O-US-GWCO	operational_unit_182	true	true	false
+NCT00781937:CANDIDATE_BLOCK	NCT00781937	SCALE Maintenance	operational_unit_182	false	true	false
+NCT00809705:CANDIDATE_BLOCK	NCT00809705	A Study of the Effect of Taspoglutide on Gastric Emptying in Patients With Type 2 Diabetes	membership_unknown_35	false	false	true
+NCT00823992:CANDIDATE_BLOCK	NCT00823992	T-emerge7	operational_unit_182	true	true	false
+NCT00838903:CANDIDATE_BLOCK	NCT00838903	HARMONY 3	operational_unit_182	true	true	false
+NCT00839527:CANDIDATE_BLOCK	NCT00839527	A Study to Determine the Safety and Efficacy of Albiglutide in Subjects With Type 2 Diabetes	operational_unit_182	true	true	false
+NCT00849017:CANDIDATE_BLOCK	NCT00849017	Safety and Efficacy Study of Albiglutide in Type 2 Diabetes	operational_unit_182	true	true	false
+NCT00849056:CANDIDATE_BLOCK	NCT00849056	Safety and Efficacy of Albiglutide in Type 2 Diabetes	operational_unit_182	true	true	false
+NCT00856609:CANDIDATE_BLOCK	NCT00856609	The Effects of Exenatide (Byetta ) on Energy Expenditure and Weight Loss in Nondiabetic Obese Subjects	operational_unit_182	true	true	false
+NCT00866658:CANDIDATE_BLOCK	NCT00866658	GETGOAL-L-ASIA — GLP-1 Receptor Agonist Lixisenatide in Patients With Type 2 Diabetes for Glycemic Control and Safety Evaluation, on Top of Basal Insulin +/- Sulfonylurea (GETGOAL-L-ASIA)	operational_unit_182	true	true	false
+NCT00975286:CANDIDATE_BLOCK	NCT00975286	GetGoal-Duo1	operational_unit_182	true	true	false
+NCT01018173:CANDIDATE_BLOCK	NCT01018173	A Study of Taspoglutide in Patients With Inadequately Controlled Diabetes Mellitus Type 2 and Cardiovascular Disease	operational_unit_182	true	true	false
+NCT01064687:CANDIDATE_BLOCK	NCT01064687	AWARD-1	operational_unit_182	true	true	false
+NCT01140893:CANDIDATE_BLOCK	NCT01140893	EXEPUMP	operational_unit_182	true	true	false
+NCT01144338:CANDIDATE_BLOCK	NCT01144338	EXSCEL	operational_unit_182	true	true	false
+NCT01147250:CANDIDATE_BLOCK	NCT01147250	ELIXA	operational_unit_182	true	true	false
+NCT01169779:CANDIDATE_BLOCK	NCT01169779	GetGoal-M-Asia — Efficacy and Safety of Lixisenatide in Patients With Type 2 Diabetes Mellitus Insufficiently Controlled by Metformin	operational_unit_182	true	true	false
+NCT01179048:CANDIDATE_BLOCK	NCT01179048	LEADER	operational_unit_182	true	true	false
+NCT01234649:CANDIDATE_BLOCK	NCT01234649	Combined Liraglutide and Metformin Therapy in Women With Previous Gestational Diabetes Mellitus (GDM)	membership_unknown_35	false	false	true
+NCT01270789:CANDIDATE_BLOCK	NCT01270789	LIBRA — LIraglutide and Beta-cell RepAir (LIBRA) Study	membership_unknown_35	false	false	true
+NCT01272219:CANDIDATE_BLOCK	NCT01272219	SCALE Obesity and Prediabetes	operational_unit_182	true	true	false
+NCT01272232:CANDIDATE_BLOCK	NCT01272232	SCALE Diabetes	operational_unit_182	true	true	false
+NCT01394341:CANDIDATE_BLOCK	NCT01394341	Liraglutide Treatment to Patients With Severe Renal Insufficiency	membership_unknown_35	false	false	true
+NCT01394952:CANDIDATE_BLOCK	NCT01394952	REWIND	operational_unit_182	true	true	false
+NCT01455441:CANDIDATE_BLOCK	NCT01455441	The Effects of Physical Training and GLP-1 Receptor Agonist Liraglutide Treatment in Patients With Type 2 Diabetes	operational_unit_182	true	true	false
+NCT01455857:CANDIDATE_BLOCK	NCT01455857	A Study to Evaluate ITCA 650 for the Treatment of Type 2 Diabetes	membership_unknown_35	false	false	true
+NCT01455896:CANDIDATE_BLOCK	NCT01455896	A Study to Evaluate Cardiovascular Outcomes in Patients With Type 2 Diabetes Treated With ITCA 650	membership_unknown_35	false	false	true
+NCT01460069:CANDIDATE_BLOCK	NCT01460069	VIC-PSO1 / Faurschou2014online,2015issue	operational_unit_182	true	true	false
+NCT01472640:CANDIDATE_BLOCK	NCT01472640	LIVE	operational_unit_182	false	true	false
+NCT01505673:CANDIDATE_BLOCK	NCT01505673	Adding Liraglutide to High Dose Insulin: Breaking the Cycle	membership_unknown_35	false	false	true
+NCT01557166:CANDIDATE_BLOCK	NCT01557166	SCALE Sleep Apnea	operational_unit_182	true	true	false
+NCT01558271:CANDIDATE_BLOCK	NCT01558271	A Study of LY2189265 in Japanese Participants With Type 2 Diabetes Mellitus	operational_unit_182	true	true	false
+NCT01572740:CANDIDATE_BLOCK	NCT01572740	Efficacy and Safety of Liraglutide in Combination With Insulin Therapy Compared to Insulin Alone in Japanese Subjects With Type 2 Diabetes	operational_unit_182	true	true	false
+NCT01612468:CANDIDATE_BLOCK	NCT01612468	Liraglutide in Type 1 Diabetes	operational_unit_182	true	true	false
+NCT01617434:CANDIDATE_BLOCK	NCT01617434	The Effect of Liraglutide Versus Placebo When Added to Basal Insulin Analogues With or Without Metformin in Subjects With Type 2 Diabetes	operational_unit_182	true	true	false
+NCT01620489:CANDIDATE_BLOCK	NCT01620489	Efficacy and Safety of Liraglutide Versus Placebo as add-on to Existing Diabetes Medication in Subjects With Type 2 Diabetes and Moderate Renal Impairment	operational_unit_182	true	true	false
+NCT01632163:CANDIDATE_BLOCK	NCT01632163	Assessment of the Efficacy and Safety of Lixisenatide in Patients With Type 2 Diabetes Insufficiently Controlled With Basal Insulin +/- Metformin	operational_unit_182	true	true	false
+NCT01652729:CANDIDATE_BLOCK	NCT01652729	DURATION-NEO-2 — Comparison Study of the Glycemic Effects, Safety, and Tolerability of Exenatide Once Weekly Suspension to Sitagliptin and Placebo in Subjects With Type 2 Diabetes Mellitus	operational_unit_182	true	true	false
+NCT01720446:CANDIDATE_BLOCK	NCT01720446	SUSTAIN-6	operational_unit_182	true	true	false
+NCT01733758:CANDIDATE_BLOCK	NCT01733758	A Monotherapy Study to Evaluate the Efficacy and Safety of 2 Dose Levels of Albiglutide in Japanese Subjects With Type 2 Diabetes Mellitus (T2DM)	operational_unit_182	true	true	false
+NCT01744236:CANDIDATE_BLOCK	NCT01744236	SAFEGUARD	DEPENDENCY_MAP_PRESERVED_NOT_INDEPENDENT_DENOMINATOR	false	false	false
+NCT01753362:CANDIDATE_BLOCK	NCT01753362	Liraglutide In Overweight Patients With Type 1 Diabetes	operational_unit_182	true	true	false
+NCT01761318:CANDIDATE_BLOCK	NCT01761318	MAGNA VICTORIA — Effect of Liraglutide on Cardiovascular Endpoints in Diabetes Mellitus Type 2 Patients	operational_unit_182	true	true	false
+NCT01769378:CANDIDATE_BLOCK	NCT01769378	AWARD-8 — Study of How Dulaglutide Compares to Placebo in Participants With Type 2 Diabetes Who Are Also on Sulfonylurea Therapy (AWARD-8)	operational_unit_182	true	true	false
+NCT01784965:CANDIDATE_BLOCK	NCT01784965	Liraglutide and a Calorie Restricted Diet Augments Weight Loss and Decreases Risk of Type 2 Diabetes and CVD.	operational_unit_182	true	true	false
+NCT01795248:CANDIDATE_BLOCK	NCT01795248	The Impact of Liraglutide on Glucose Tolerance and the Risk of Type 2 Diabetes in Women With Previous Pregnancy-induced Diabetes	operational_unit_182	true	true	false
+NCT01798706:CANDIDATE_BLOCK	NCT01798706	GetGoal-O — Efficacy and Safety of Lixisenatide Versus Placebo on Top of Basal Insulin and/or Oral Antidiabetic Treatment in Older Type 2 Diabetic Patients	operational_unit_182	true	true	false
+NCT01836523:CANDIDATE_BLOCK	NCT01836523	ADJUNCT ONE	operational_unit_182	false	true	false
+NCT02054897:CANDIDATE_BLOCK	NCT02054897	SUSTAIN™1 — Efficacy and Safety of Semaglutide Once-weekly Versus Placebo in Drug-naïve Subjects With Type 2 Diabetes	operational_unit_182	true	true	false
+NCT02098395:CANDIDATE_BLOCK	NCT02098395	ADJUNCT TWO	operational_unit_182	false	true	false
+NCT02152371:CANDIDATE_BLOCK	NCT02152371	AWARD-9 — A Study of Dulaglutide (LY2189265) in Participants With Type II Diabetes	operational_unit_182	true	true	false
+NCT02160990:CANDIDATE_BLOCK	NCT02160990	Effect of Exenatide in Obese Patients With Accelerated Gastric Emptying	operational_unit_182	true	true	false
+NCT02162550:CANDIDATE_BLOCK	NCT02162550	Effect of Bydureon on Carotid Atherosclerosis Progression in Type 2 Diabetes Mellitus	membership_unknown_35	false	false	true
+NCT02170324:CANDIDATE_BLOCK	NCT02170324	GLP-1 Agonism Stimulates Browning of Subcutaneous White Adipose Tissue in Obesity Men	membership_unknown_35	false	false	true
+NCT02229383:CANDIDATE_BLOCK	NCT02229383	Phase III Study to Evaluate Safety and Efficacy of Added Exenatide Versus Placebo to Titrated Basal Insulin Glargine in Inadequately Controlled Patients With Type II Diabetes Mellitus	operational_unit_182	true	true	false
+NCT02229396:CANDIDATE_BLOCK	NCT02229396	Phase 3 28-Week Study With 24-Week and 52-week Extension Phases to Evaluate Efficacy and Safety of Exenatide Once Weekly and Dapagliflozin Versus Exenatide and Dapagliflozin Matching Placebo	operational_unit_182	true	true	false
+NCT02251431:CANDIDATE_BLOCK	NCT02251431	Extended Release Exenatide Versus Placebo In Diabetic Patients With Type 4 Cardiorenal Syndrome	operational_unit_182	true	true	false
+NCT02288273:CANDIDATE_BLOCK	NCT02288273	Study to Evaluate the Effect of BYDUREON on 24-hour Glucose Control in Metformin Treated Patients With Type 2 Diabetes.	operational_unit_182	true	true	false
+NCT02299388:CANDIDATE_BLOCK	NCT02299388	To Evaluate the Effect of Liraglutide on Ambulatory Blood Pressure-A Pilot Study	membership_unknown_35	false	false	true
+NCT02305381:CANDIDATE_BLOCK	NCT02305381	SUSTAIN™ 5 — Efficacy and Safety of Semaglutide Once-weekly Versus Placebo as add-on to Basal Insulin Alone or Basal Insulin in Combination With Metformin in Subjects With Type 2 Diabetes	operational_unit_182	true	true	false
+NCT02351232:CANDIDATE_BLOCK	NCT02351232	Lira Pump	operational_unit_182	true	true	false
+NCT02465515:CANDIDATE_BLOCK	NCT02465515	HARMONY Outcomes	operational_unit_182	true	true	false
+NCT02473809:CANDIDATE_BLOCK	NCT02473809	LIRABONE — The Effect of Liraglutide on Bone Turnover, Bone Mass and Bone Cell Function	membership_unknown_35	false	false	true
+NCT02477865:CANDIDATE_BLOCK	NCT02477865	PEX168 monoterapia	operational_unit_182	true	true	false
+NCT02477969:CANDIDATE_BLOCK	NCT02477969	Efficacy and Safety Study of PEX168 in Combination Therapy Diabetes Mellitus Type 2 Patients With Metformin	operational_unit_182	true	true	false
+NCT02597049:CANDIDATE_BLOCK	NCT02597049	AWARD-10 — A Study of Dulaglutide (LY2189265) in Participants With Type 2 Diabetes Mellitus	operational_unit_182	true	true	false
+NCT02655770:CANDIDATE_BLOCK	NCT02655770	Effect of Liraglutide on Diastolic Dysfunction on Cardiac MRI in Type 2 Diabetes Patients	operational_unit_182	true	true	false
+NCT02660047:CANDIDATE_BLOCK	NCT02660047	MAGNA VICTORIA — Effect of Liraglutide on Cardiovascular Endpoints in Diabetes Mellitus Type 2 Patients of South Asian Descent	operational_unit_182	true	true	false
+NCT02664441:CANDIDATE_BLOCK	NCT02664441	ECHO	operational_unit_182	false	true	false
+NCT02673931:CANDIDATE_BLOCK	NCT02673931	GLORIOUS	operational_unit_182	false	true	false
+NCT02692716:CANDIDATE_BLOCK	NCT02692716	PIONEER-6	operational_unit_182	true	true	false
+NCT02750410:CANDIDATE_BLOCK	NCT02750410	A Study of Dulaglutide in Japanese Participants With Type 2 Diabetes	operational_unit_182	true	true	false
+NCT02765399:CANDIDATE_BLOCK	NCT02765399	The Effect of Liraglutide Treatment on Postprandial Chylomicron and VLDL Kinetics, Liver Fat and de Novo Lipogenesis	operational_unit_182	true	true	false
+NCT02827708:CANDIDATE_BLOCK	NCT02827708	PIONEER 5 — Efficacy and Safety of Oral Semaglutide Versus Placebo in Subjects With Type 2 Diabetes and Moderate Renal Impairment	operational_unit_182	true	true	false
+NCT02860923:CANDIDATE_BLOCK	NCT02860923	CRANIOEXE — Efficacy and Safety of Exenatide in the Treatment of Hypothalamic Obesity After Craniopharyngioma Therapy	operational_unit_182	true	true	false
+NCT02863419:CANDIDATE_BLOCK	NCT02863419	PIONEER 4 — Efficacy and Safety of Oral Semaglutide Versus Liraglutide and Versus Placebo in Subjects With Type 2 Diabetes Mellitus	operational_unit_182	true	true	false
+NCT02905864:CANDIDATE_BLOCK	NCT02905864	LOSEIT — Liraglutide 3 mg for Knee Osteoarthritis	operational_unit_182	false	true	false
+NCT02906930:CANDIDATE_BLOCK	NCT02906930	PIONEER 1 — Efficacy and Safety of Oral Semaglutide Versus Placebo in Subjects With Type 2 Diabetes Mellitus Treated With Diet and Exercise Only	operational_unit_182	true	true	false
+NCT02963922:CANDIDATE_BLOCK	NCT02963922	SCALE™ Insulin — Effect and Safety of Liraglutide 3.0 mg in Subjects With Overweight or Obesity and Type 2 Diabetes Mellitus Treated With Basal Insulin	operational_unit_182	true	true	false
+NCT02963935:CANDIDATE_BLOCK	NCT02963935	SCALE™ IBT — Effect and Safety of Liraglutide 3.0 mg as an Adjunct to Intensive Behaviour Therapy for Obesity in a Non-specialist Setting	operational_unit_182	true	true	false
+NCT02964247:CANDIDATE_BLOCK	NCT02964247	LIRA-ADD2SGLT2i - Liraglutide Versus Placebo as add-on to SGLT2 Inhibitors.	operational_unit_182	true	true	false
+NCT02981069:CANDIDATE_BLOCK	NCT02981069	Effect of Chronic Exenatide Therapy on Beta Cell Function and Insulin Sensitivity in T2DM	EXISTING_IDENTITY_HOLD_PRESERVED	false	false	false
+NCT03007329:CANDIDATE_BLOCK	NCT03007329	EXENDA — Effects of Combined Dapagliflozin and Exenatide Versus Dapagliflozin and Placebo on Ectopic Lipids in Patients With Uncontrolled Type 2 Diabetes Mellitus.	operational_unit_182	true	true	false
+NCT03018028:CANDIDATE_BLOCK	NCT03018028	PIONEER 9 — Dose-response, Safety and Efficacy of Oral Semaglutide Versus Placebo and Versus Liraglutide, All as Monotherapy in Japanese Subjects With Type 2 Diabetes	operational_unit_182	true	true	false
+NCT03021187:CANDIDATE_BLOCK	NCT03021187	PIONEER 8 — Efficacy and Safety of Oral Semaglutide Versus Placebo in Subjects With Type 2 Diabetes Mellitus Treated With Insulin	operational_unit_182	true	true	false
+NCT03029351:CANDIDATE_BLOCK	NCT03029351	1981 — GLP-1 Receptor Agonist Therapy and Albuminuria in Patients With Type 2 Diabetes	membership_unknown_35	false	false	true
+NCT03038620:CANDIDATE_BLOCK	NCT03038620	Impact of Liraglutide 3.0 on Body Fat Distribution	operational_unit_182	true	true	false
+NCT03048578:CANDIDATE_BLOCK	NCT03048578	Clinical Efficacy and Safety of Using 3.0mg Liraglutide to Treat Weight Regain After Roux-en-Y Gastric Bypass Surgery	operational_unit_182	true	true	false
+NCT03086330:CANDIDATE_BLOCK	NCT03086330	SUSTAIN 9 — Efficacy and Safety of Semaglutide Once-weekly Versus Placebo as add-on to SGLT-2i in Subjects With Type 2 Diabetes Mellitus	operational_unit_182	true	true	false
+NCT03115424:CANDIDATE_BLOCK	NCT03115424	Effect of GLP-1 Receptor Agonism After Sleeve Gastrectomy	membership_unknown_35	false	false	true
+NCT03279731:CANDIDATE_BLOCK	NCT03279731	BELIEVE — Binge Eating Liraglutide Intervention	operational_unit_182	true	true	false
+NCT03331289:CANDIDATE_BLOCK	NCT03331289	Can Exenatide Prevent Increase in EGP in Response to Dapagliflozin-induced Increase in Glucosuria	EXISTING_IDENTITY_HOLD_PRESERVED	false	false	false
+NCT03341429:CANDIDATE_BLOCK	NCT03341429	BARIOPTIMISE — Evaluation of Liraglutide 3.0mg in Patients With Poor Weight-loss and a Suboptimal Glucagon-like Peptide-1 Response	operational_unit_182	false	true	false
+NCT03347890:CANDIDATE_BLOCK	NCT03347890	LIRAOB — Reward Mechanisms in Obesity	operational_unit_182	true	true	false
+NCT03353350:CANDIDATE_BLOCK	NCT03353350	AMPLITUDE-M	operational_unit_182	true	true	false
+NCT03361098:CANDIDATE_BLOCK	NCT03361098	DECREASE — DECREASE: Dapagliflozin Plus Exenatide on Central REgulation of Appetite in diabeteS typE 2	operational_unit_182	true	true	false
+NCT03449654:CANDIDATE_BLOCK	NCT03449654	LIRAFLAME — Effect of Liraglutide on Vascular Inflammation in Type-2 Diabetes	operational_unit_182	true	true	false
+NCT03466021:CANDIDATE_BLOCK	NCT03466021	Effects of Liraglutide in Chronic Obstructive Pulmonary Disease	operational_unit_182	true	true	false
+NCT03480022:CANDIDATE_BLOCK	NCT03480022	SAXAPCOS — Liraglutide 3mg (Saxenda) on Weight, Body Composition, Hormonal and Metabolic Parameters in Obese Women With PCOS	operational_unit_182	true	true	false
+NCT03496298:CANDIDATE_BLOCK	NCT03496298	AMPLITUDE-O	operational_unit_182	true	true	false
+NCT03548935:CANDIDATE_BLOCK	NCT03548935	STEP 1	operational_unit_182	true	true	false
+NCT03552757:CANDIDATE_BLOCK	NCT03552757	STEP 2	operational_unit_182	true	true	false
+NCT03574597:CANDIDATE_BLOCK	NCT03574597	SELECT	operational_unit_182	true	true	false
+NCT03611582:CANDIDATE_BLOCK	NCT03611582	STEP 3	operational_unit_182	true	true	false
+NCT03693430:CANDIDATE_BLOCK	NCT03693430	STEP 5	operational_unit_182	true	true	false
+NCT03713684:CANDIDATE_BLOCK	NCT03713684	AMPLITUDE-L — Efficacy and Safety of Efpeglenatide Versus Placebo in Patients With Type 2 Diabetes Mellitus Inadequately Controlled With Basal Insulin Alone or in Combination With Oral Antidiabetic Drug(s)	operational_unit_182	true	true	false
+NCT03743025:CANDIDATE_BLOCK	NCT03743025	Metabolic Phenotyping During Stress Hyperglycemia in Cardiac Surgery Patients	membership_unknown_35	false	false	true
+NCT03770728:CANDIDATE_BLOCK	NCT03770728	AMPLITUDE-S — Efficacy and Safety of Efpeglenatide Versus Placebo in Patients With Type 2 Diabetes Mellitus Inadequately Controlled With Metformin Alone or in Combination With Sulfonylurea	operational_unit_182	true	true	false
+NCT03811574:CANDIDATE_BLOCK	NCT03811574	STEP 6 — STEP 6: Research Study Investigating How Well Semaglutide Works in People Living With Overweight or Obesity	operational_unit_182	true	true	false
+NCT03819153:CANDIDATE_BLOCK	NCT03819153	FLOW — A Research Study to See How Semaglutide Works Compared to Placebo in People With Type 2 Diabetes and Chronic Kidney Disease	operational_unit_182	true	true	false
+NCT03914326:CANDIDATE_BLOCK	NCT03914326	SOUL — A Heart Disease Study of Semaglutide in Patients With Type 2 Diabetes	operational_unit_182	true	true	false
+NCT03954834:CANDIDATE_BLOCK	NCT03954834	SURPASS-1 — A Study of Tirzepatide (LY3298176) in Participants With Type 2 Diabetes Not Controlled With Diet and Exercise Alone	operational_unit_182	true	true	false
+NCT03985384:CANDIDATE_BLOCK	NCT03985384	STOP — Semaglutide Treatment On Coronary Progression	membership_unknown_35	false	false	true
+NCT04039503:CANDIDATE_BLOCK	NCT04039503	SURPASS-5 — A Study of Tirzepatide (LY3298176) Versus Placebo in Participants With Type 2 Diabetes Inadequately Controlled on Insulin Glargine With or Without Metformin	operational_unit_182	true	true	false
+NCT04061200:CANDIDATE_BLOCK	NCT04061200	EmpaSema / Sivalingam2024	operational_unit_182	true	true	false
+NCT04074161:CANDIDATE_BLOCK	NCT04074161	STEP 8 — Research Study to Investigate How Well Semaglutide Works Compared to Liraglutide in People Living With Overweight or Obesity	operational_unit_182	true	true	false
+NCT04109547:CANDIDATE_BLOCK	NCT04109547	PIONEER 11 — A Research Study Comparing a New Medicine Oral Semaglutide to Placebo in People With Type 2 Diabetes	operational_unit_182	true	true	false
+NCT04122716:CANDIDATE_BLOCK	NCT04122716	S-LiTE	operational_unit_182	false	true	false
+NCT04126603:CANDIDATE_BLOCK	NCT04126603	Impact of Semaglutide on CD34+ EPC and Fat Derived MSC	membership_unknown_35	false	false	true
+NCT04184622:CANDIDATE_BLOCK	NCT04184622	SURMOUNT-1	operational_unit_182	true	true	false
+NCT04251156:CANDIDATE_BLOCK	NCT04251156	STEP7 — Research Study of How Well Semaglutide Works in People Living With Overweight or Obesity.	operational_unit_182	true	true	false
+NCT04263415:CANDIDATE_BLOCK	NCT04263415	The Effects of Semaglutide on Taste, Tongue Tissue Transcriptome, Gastric Emptying and Central Neural Response in Women With PCOS and Obesity	membership_unknown_35	false	false	true
+NCT04325581:CANDIDATE_BLOCK	NCT04325581	Laparocopic Sleeve Gastrectomy With or Without Liraglutide in Obese Patients	membership_unknown_35	false	false	true
+NCT04504370:CANDIDATE_BLOCK	NCT04504370	PB119 — Safety and Efficacy of Pegylated Exenatine Injection (PB-119) in Drug-naïve T2DM Subjects	operational_unit_182	true	true	false
+NCT04504396:CANDIDATE_BLOCK	NCT04504396	Safety and Efficacy of PB-119 in Subjects With Type 2 Diabetes and Not Well-controlled by Metformin Monotherapy	operational_unit_182	true	true	false
+NCT04560998:CANDIDATE_BLOCK	NCT04560998	STRIDE — A Research Study to Compare a Medicine Called Semaglutide Against Placebo in People With Peripheral Arterial Disease and Type 2 Diabetes	operational_unit_182	true	true	false
+NCT04591626:CANDIDATE_BLOCK	NCT04591626	AWARD-CHN3 — A Study of Dulaglutide (LY2189265) in Chinese Participants With Type 2 Diabetes	operational_unit_182	true	true	false
+NCT04605861:CANDIDATE_BLOCK	NCT04605861	The Efficacy and Safety of Liraglutide on Body Weight Loss in Obese and Overweight Patients	membership_unknown_35	false	false	true
+NCT04639414:CANDIDATE_BLOCK	NCT04639414	COMBAT_T2_NASH — Combined Active Treatment in Type 2 Diabetes With NASH	membership_unknown_35	false	false	true
+NCT04657003:CANDIDATE_BLOCK	NCT04657003	SURMOUNT-2	operational_unit_182	true	true	false
+NCT04657016:CANDIDATE_BLOCK	NCT04657016	SURMOUNT-3	operational_unit_182	false	true	false
+NCT04741074:CANDIDATE_BLOCK	NCT04741074	RAISE-KT — Effect of Subcutaneous Semaglutide on Kidney Transplant Candidacy	membership_unknown_35	false	false	true
+NCT04777396:CANDIDATE_BLOCK	NCT04777396	EVOKE	operational_unit_182	false	true	false
+NCT04777409:CANDIDATE_BLOCK	NCT04777409	EVOKE Plus	operational_unit_182	false	true	false
+NCT04788511:CANDIDATE_BLOCK	NCT04788511	STEP-HFpEF — Research Study to Investigate How Well Semaglutide Works in People Living With Heart Failure and Obesity	operational_unit_182	true	true	false
+NCT04844918:CANDIDATE_BLOCK	NCT04844918	SURMOUNT-J	operational_unit_182	true	true	false
+NCT04847557:CANDIDATE_BLOCK	NCT04847557	A Study of Tirzepatide (LY3298176) in Participants With Heart Failure With Preserved Ejection Fraction (HFpEF) and Obesity: The SUMMIT Trial	operational_unit_182	true	true	false
+NCT04862234:CANDIDATE_BLOCK	NCT04862234	Perioperative Stress Hyperglycemia in General and Vascular Surgery Patients	membership_unknown_35	false	false	true
+NCT04865770:CANDIDATE_BLOCK	NCT04865770	REMODEL — A Research Study to Find Out How Semaglutide Works in the Kidneys Compared to Placebo, in People With Type 2 Diabetes and Chronic Kidney Disease (the REMODEL Trial)	operational_unit_182	true	true	false
+NCT04889183:CANDIDATE_BLOCK	NCT04889183	SMART — SeMaglutide and Albuminuria Reduction Trial in Obese Individuals Without Diabetes	operational_unit_182	true	true	false
+NCT04916470:CANDIDATE_BLOCK	NCT04916470	STEP HFpEF DM — Research Study to Look at How Well Semaglutide Works in People Living With Heart Failure, Obesity and Type 2 Diabetes	operational_unit_182	true	true	false
+NCT04979130:CANDIDATE_BLOCK	NCT04979130	SIB — Comparing Semaglutide Versus Placebo on Intestinal Barrier Function in Type 2 Diabetes Mellitus (SIB)	membership_unknown_35	false	false	true
+NCT04994288:CANDIDATE_BLOCK	NCT04994288	A Study of Efficacy and Safety of Supaglutide in Type 2 Diabetes Patients(SUPER-1)	membership_unknown_35	false	false	true
+NCT04998032:CANDIDATE_BLOCK	NCT04998032	A Study of Efficacy and Safety of Supaglutide in Type 2 Diabetes Patients On Metformin Treatment(SUPER-2)	operational_unit_182	true	true	false
+NCT04998136:CANDIDATE_BLOCK	NCT04998136	Research Study Investigating How Well Semaglutide Works in People From Thailand and South Korea Living With Obesity	operational_unit_182	true	true	false
+NCT05024032:CANDIDATE_BLOCK	NCT05024032	SURMOUNT-CN	operational_unit_182	false	true	false
+NCT05035095:CANDIDATE_BLOCK	NCT05035095	OASIS1	operational_unit_182	true	true	false
+NCT05040971:CANDIDATE_BLOCK	NCT05040971	STEP 10 — Research Study Looking at How Well Semaglutide Works in People Living With Obesity and Prediabetes	operational_unit_182	true	true	false
+NCT05064735:CANDIDATE_BLOCK	NCT05064735	STEP9	operational_unit_182	true	true	false
+NCT05073835:CANDIDATE_BLOCK	NCT05073835	BARI-STEP	operational_unit_182	false	true	false
+NCT05087342:CANDIDATE_BLOCK	NCT05087342	LSS — Latino Semaglutide Study	membership_unknown_35	false	false	true
+NCT05132088:CANDIDATE_BLOCK	NCT05132088	OASIS 2 — Research Study to Investigate How Well Semaglutide Tablets Taken Once Daily Work in East Asian People Who Are Overweight or Living With Obesity	operational_unit_182	true	true	false
+NCT05303857:CANDIDATE_BLOCK	NCT05303857	SEMA — Analyse the Effect of Semaglutide on Vascular Structure and Function in Patients With Early Type 2 Diabetes	operational_unit_182	true	true	false
+NCT05371496:CANDIDATE_BLOCK	NCT05371496	Cardiac and Metabolic Effects of Semaglutide in Heart Failure With Preserved Ejection Fraction	membership_unknown_35	false	false	true
+NCT05412004:GPI1	NCT05412004	SURMOUNT-OSA — Obstructive Sleep Apnea Master Protocol GPIF: A Study of Tirzepatide (LY3298176) in Participants With Obstructive Sleep Apnea	operational_unit_182	true	true	false
+NCT05412004:GPI2	NCT05412004	SURMOUNT-OSA — Obstructive Sleep Apnea Master Protocol GPIF: A Study of Tirzepatide (LY3298176) in Participants With Obstructive Sleep Apnea	operational_unit_182	true	true	false
+NCT05548647:CANDIDATE_BLOCK	NCT05548647	STABLE Wt Loss — Semaglutide Treatment, Appetite, and Eating Behavior: Long-term Effects	operational_unit_182	true	true	false
+NCT05564117:CANDIDATE_BLOCK	NCT05564117	OASIS 4 — Research Study Looking at How Well Semaglutide Tablets Taken Once Daily Work in People Who Have a Body Weight Above the Healthy Range	operational_unit_182	true	true	false
+NCT05567796:CANDIDATE_BLOCK	NCT05567796	REDEFINE 1 — A Research Study to See How Well CagriSema Helps People With Excess Body Weight Lose Weight	operational_unit_182	true	true	false
+NCT05574439:CANDIDATE_BLOCK	NCT05574439	RESETTLE — Young Adults With Early-onset Obesity Treated With Semaglutide	membership_unknown_35	false	false	true
+NCT05646706:CANDIDATE_BLOCK	NCT05646706	STEP UP — A Research Study to See How Semaglutide Helps People With Excess Weight, Lose Weight (STEP UP)	operational_unit_182	true	true	false
+NCT05649137:CANDIDATE_BLOCK	NCT05649137	A Research Study to See How Semaglutide Helps People With Excess Weight and Type 2 Diabetes Lose Weight	operational_unit_182	true	true	false
+NCT05680155:CANDIDATE_BLOCK	NCT05680155	A Phase 3 Study to Evaluate the Efficacy of XW003 Compared With Placebo in T2DM Patients	operational_unit_182	true	true	false
+NCT05691712:CANDIDATE_BLOCK	NCT05691712	SURPASS-CN-INS — A Study of Tirzepatide (LY3298176) in Chinese Participants With Type 2 Diabetes	operational_unit_182	true	true	false
+NCT05813795:CANDIDATE_BLOCK	NCT05813795	SLIMMER	operational_unit_182	false	true	false
+NCT05869903:CANDIDATE_BLOCK	NCT05869903	ATTAIN-1 — A Study of Orforglipron (LY3502970) in Adult Participants With Obesity or Overweight With Weight-Related Comorbidities	operational_unit_182	true	true	false
+NCT05872620:CANDIDATE_BLOCK	NCT05872620	ATTAIN-2 — A Study of Orforglipron in Adult Participants With Obesity or Overweight and Type 2 Diabetes	operational_unit_182	true	true	false
+NCT05890976:CANDIDATE_BLOCK	NCT05890976	OASIS 3 — Research Study Looking at How Well Semaglutide Tablets Taken Once Daily Work in Chinese Adults Who Are Above a Healthy Weight Range (OASIS 3)	membership_unknown_35	false	false	true
+NCT05891496:CANDIDATE_BLOCK	NCT05891496	NN6535-7519 / semaglutide in Alzheimer disease	operational_unit_182	false	true	false
+NCT05931380:CANDIDATE_BLOCK	NCT05931380	ATTAIN-J — A Study of Once-Daily Oral Orforglipron (LY3502970) in Japanese Adult Participants With Obesity Disease	operational_unit_182	true	true	false
+NCT05963022:CANDIDATE_BLOCK	NCT05963022	A Study of Tirzepatide (LY3298176) in Chinese Participants With Type 2 Diabetes (SURPASS-CN-MONO)	operational_unit_182	true	true	false
+NCT05971940:CANDIDATE_BLOCK	NCT05971940	ACHIEVE-1	operational_unit_182	true	true	false
+NCT05996848:CANDIDATE_BLOCK	NCT05996848	REDEFINE 6 — A Research Study to See How Well CagriSema Helps People in China With Excess Body Weight Lose Weight	membership_unknown_35	false	false	true
+NCT05997576:CANDIDATE_BLOCK	NCT05997576	A Study of TG103 Injection in Non-diabetic Overweight or Obesity	membership_unknown_35	false	false	true
+NCT06041217:CANDIDATE_BLOCK	NCT06041217	STEP12 — A Research Study to See How Well Semaglutide Helps People Who Have a Body Weight Above the Healthy Weight Range	operational_unit_182	false	true	false
+NCT06065540:CANDIDATE_BLOCK	NCT06065540	REIMAGINE 2 — A Research Study to See How Well CagriSema Compared to Semaglutide, Cagrilintide and Placebo Lowers Blood Sugar and Body Weight in People With Type 2 Diabetes Treated With Metformin With or Without an SGLT2 Inhibitor	operational_unit_182	true	true	false
+NCT06109311:CANDIDATE_BLOCK	NCT06109311	ACHIEVE-5 — A Study of Orforglipron (LY3502970) in Participants With Type 2 Diabetes and Inadequate Glycemic Control With Insulin Glargine, With or Without Metformin and/or SGLT-2 Inhibitor	operational_unit_182	true	true	false
+NCT06174779:CANDIDATE_BLOCK	NCT06174779	A Study to Evaluate Efficacy and Safety of HM11260C in Adult Obesity Patients Without Diabetes Mellitus	membership_unknown_35	false	false	true
+NCT06649045:GZ01	NCT06649045	ATTAIN-OSA — A Master Protocol for Orforglipron in Participants With Obstructive Sleep Apnea and Obesity or Overweight	membership_unknown_35	false	false	true
+NCT06649045:GZ02	NCT06649045	ATTAIN-OSA — A Master Protocol for Orforglipron in Participants With Obstructive Sleep Apnea and Obesity or Overweight	membership_unknown_35	false	false	true
+NCT06649773:CANDIDATE_BLOCK	NCT06649773	The Experiment of Noiiglutide Injection in Type 2 Diabetes Patients	membership_unknown_35	false	false	true
+ACTRN12617001613392:INITIAL_PARALLEL_CANDIDATE_BLOCK	ACTRN12617001613392	Brown — liraglutida após cirurgia bariátrica, Austrália	operational_unit_182	true	true	false
+EUCTR2014-003923-23:INITIAL_PARALLEL_CANDIDATE_BLOCK	EUCTR2014-003923-23	GRAVITAS	operational_unit_182	true	true	false
+EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK	EUCTR2016-001758-17	LAST	operational_unit_182	true	true	false
+EUCTR2019-000781-38:INITIAL_PARALLEL_CANDIDATE_BLOCK	EUCTR2019-000781-38	SEMPA	operational_unit_182	true	true	false
+NCT06672172:INITIAL_PARALLEL_CANDIDATE_BLOCK	NCT06672172	OUTSTAND-1 / HRS-7535-301 — safiglipron	operational_unit_182	true	true	false
+NTR6323:INITIAL_PARALLEL_CANDIDATE_BLOCK	NTR6323	GLOBE	operational_unit_182	false	true	false
+EUCTR2012-005197-63:INITIAL_PARALLEL_CANDIDATE	EUCTR2012-005197-63	LIPER2	operational_unit_182	true	true	false
+ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE	ACTRN12616001059459	Lixisenatida/metformina — esvaziamento gástrico	operational_unit_182	true	true	false
+ISRCTN61129760:INITIAL_PARALLEL_CANDIDATE	ISRCTN61129760	Liraglutida 3 mg versus placebo em adultos com psicose e sobrepeso/obesidade — Whicher 2021	operational_unit_182	true	true	false
+NCT01406717:INITIAL_PARALLEL_CANDIDATE	NCT01406717	SPIL1033 — confirmar vínculo com exenatida/CTRI no protocolo CLR_10_33	operational_unit_182	true	true	false
+NCT01373216:INITIAL_PARALLEL_CANDIDATE	NCT01373216	EXECUTIVE — placebo administrado ou cuidado sem substância?	operational_unit_182	false	true	false
+UTN1111-1181-9567:INITIAL_PARALLEL_CANDIDATE	UTN1111-1181-9567	ELAID	operational_unit_182	true	true	false

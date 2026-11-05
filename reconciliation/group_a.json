@@ -1,0 +1,793 @@
+{
+  "date": "2026-11-04",
+  "independence_of_received_R1_R2": "User directly confirmed independent assessments; original JSON answers and historical process fields remain unchanged.",
+  "input_hashes": {
+    "outputs\\integracao_retornos223_2026-11-04\\FOCUSED_COMPLETE_EVIDENCE_16.json": "082942f4f5dcec7533240a7e1ce2ee97fb7543165dccf21bf3bd2747b1b32487",
+    "outputs\\integracao_retornos223_2026-11-04\\MEMBERSHIP_RECONCILIATION_223.json": "148b5bb7f5e4993482314e5aaf287a0f213a8c6029f4e070fa83f022e5d3f04b"
+  },
+  "performed_by": "AI technical source adjudication, group A",
+  "schema": "technical_complete_witness_reconciliation_group_a_v1",
+  "scope": "Five assigned units / 20 original complete-derived death positions. No manuscript, frozen input, raw reviewer return or statistical result is changed by this file.",
+  "summary": {
+    "all_primary_original_hashes_verified": true,
+    "conflict": 0,
+    "decisive_mortality_table_pages_visually_checked": 5,
+    "documentary_not_clinical_zero": true,
+    "human_answers_overwritten": false,
+    "irreducible_new_human_decisions": 0,
+    "positions": 20,
+    "residual_scope_notes": [
+      "SUSTAIN9 registry generic42-day label differs from article planned5weeks; preserve both, use article-defined witness.",
+      "PIONEER9 article phase2/3a versus registryPHASE3; current independent inclusion and prior admission preserved, no universal phase-rule amendment inferred."
+    ],
+    "retain_complete": 20,
+    "units": 5,
+    "unknown": 0
+  },
+  "units": [
+    {
+      "additional_human_review_required": false,
+      "arms": [
+        {
+          "N_exposed": 196,
+          "arm": "Lixisenatide",
+          "derived_suicide_deaths": 0,
+          "reported_all_cause_deaths": 0
+        },
+        {
+          "N_exposed": 194,
+          "arm": "Placebo",
+          "derived_suicide_deaths": 0,
+          "reported_all_cause_deaths": 0
+        }
+      ],
+      "cumulative_rule_application": "The validated complete witness is available in layer A and remains available in B1/B2/B3. Unexamined or inaccessible additional sources do not negate this witness unless they present a material contradiction. Any genuine outstanding source gaps stay documented; they are not converted to negative outcomes.",
+      "eligibility_concerns_separate": [],
+      "internal_artifacts_reclassified": [
+        {
+          "contents_inspected": true,
+          "original_bytes_verified": true,
+          "role": "internal derived receipt, not an additional primary article or unobserved primary result",
+          "sha256": "3bd303ea4c2ec55f5dcd469d18d5c0aafa72d6a287d2facc8c25665d28f0200b",
+          "source_id": "SRC-3bd303ea4c2ec55f5dcd469d"
+        }
+      ],
+      "limitations": [
+        "The article reports treatment completion of 91.3% and 94.4%; do not present the zero as proven complete vital follow-up for every original participant. The inference is documentary and confined to reported study scope."
+      ],
+      "nct": "NCT01169779",
+      "phase": "PHASE3 in own registry; completed in December 2011.",
+      "population": "Adults with T2DM; the original entire safety population exposed to at least one double-blind dose. The randomized placebo N=195 and mITT Ns=195/193 are not the safety denominators.",
+      "positions": [
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT01169779:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "A",
+            "unit_id": "NCT01169779:CANDIDATE_BLOCK",
+            "window_id": "NCT01169779:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT01169779:CANDIDATE_BLOCK|suicide_death|A|reported_all_cause_mortality_derivation|NCT01169779:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT01169779:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-5f2e0fb1542b4f238af8",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        },
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT01169779:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B1",
+            "unit_id": "NCT01169779:CANDIDATE_BLOCK",
+            "window_id": "NCT01169779:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT01169779:CANDIDATE_BLOCK|suicide_death|B1|reported_all_cause_mortality_derivation|NCT01169779:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT01169779:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-e977470e72298315a45c",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        },
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT01169779:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B2",
+            "unit_id": "NCT01169779:CANDIDATE_BLOCK",
+            "window_id": "NCT01169779:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT01169779:CANDIDATE_BLOCK|suicide_death|B2|reported_all_cause_mortality_derivation|NCT01169779:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT01169779:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-799f831330678e95f134",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        },
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT01169779:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B3",
+            "unit_id": "NCT01169779:CANDIDATE_BLOCK",
+            "window_id": "NCT01169779:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT01169779:CANDIDATE_BLOCK|suicide_death|B3|reported_all_cause_mortality_derivation|NCT01169779:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT01169779:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-5e3a31f7fd24d9394cf9",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        }
+      ],
+      "reason": "Explicit trial-wide no-death report and arm-resolved fatal/all-cause zero, with own treated denominators and planned observation, support the existing documentary death derivation. Suicide deaths are a subset of all-cause deaths within that reported reference. This does not establish clinical absence beyond observed follow-up, and supplies no ideation/attempt or structured-assessment result.",
+      "source_scoped_status_supported": "complete_derived",
+      "sources": [
+        {
+          "original_bytes_verified": true,
+          "review_method": "AI technical reading of source text with direct visual verification of decisive mortality tables; not a new human vote or a claim of full-document independent human extraction.",
+          "review_scope": "p2 original parallel placebo trial; p3 all-treated safety definition and 24-week treatment followed by 3-day safety follow-up for all patients; p4 randomized versus treated Ns and attrition; p5 explicit study-wide no-death statement; p6 Table 2 fatal TEAEs by arm.",
+          "reviewed_pdf_pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "sha256": "704827a2232f64f35ec3d90bc31dc9cf0b863efa5ca8e11f61cd62848247f6ad",
+          "short_quotations": [
+            {
+              "locator": "PDF p5, Safety and tolerability",
+              "quote": "There were no deaths during the study."
+            }
+          ],
+          "source_id": "SRC-704827a2232f64f35ec3d90b",
+          "visually_checked_pdf_pages": [
+            6
+          ]
+        },
+        {
+          "original_bytes_verified": true,
+          "review_method": "AI technical reading of archived primary registry JSON; not a new human vote.",
+          "reviewed_locators": [
+            "protocolSection.identificationModule",
+            "protocolSection.designModule",
+            "protocolSection.eligibilityModule",
+            "protocolSection.statusModule",
+            "resultsSection.adverseEventsModule.description/timeFrame/eventGroups"
+          ],
+          "sha256": "c15b0e74137feb19b699496ffcae4b91443e3314cbeef91c38358cec84846ca3",
+          "source_id": "SRC-c15b0e74137feb19b699496f"
+        }
+      ],
+      "study": "GetGoal-M-Asia",
+      "technical_judgment": "retain_complete",
+      "technical_proposal_not_imported_as_human_answer": true,
+      "unit_id": "NCT01169779:CANDIDATE_BLOCK",
+      "window": "Initial randomized treatment 24 weeks and the explicitly planned 3-day safety follow-up; registry safety window is first dose through 3 days after last dose. Do not substitute longer windows from other GetGoal trials."
+    },
+    {
+      "additional_human_review_required": false,
+      "arms": [
+        {
+          "N_exposed": 49,
+          "arm": "Oral semaglutide 3 mg",
+          "derived_suicide_deaths": 0,
+          "reported_all_cause_deaths": 0
+        },
+        {
+          "N_exposed": 49,
+          "arm": "Oral semaglutide 7 mg",
+          "derived_suicide_deaths": 0,
+          "reported_all_cause_deaths": 0
+        },
+        {
+          "N_exposed": 48,
+          "arm": "Oral semaglutide 14 mg",
+          "derived_suicide_deaths": 0,
+          "reported_all_cause_deaths": 0
+        },
+        {
+          "N_exposed": 49,
+          "arm": "Placebo",
+          "derived_suicide_deaths": 0,
+          "reported_all_cause_deaths": 0
+        },
+        {
+          "N_exposed": 48,
+          "arm": "Liraglutide 0.9 mg",
+          "derived_suicide_deaths": 0,
+          "note": "Preserve separately; not an additional independent trial or repeated placebo.",
+          "reported_all_cause_deaths": 0
+        }
+      ],
+      "cumulative_rule_application": "The validated complete witness is available in layer A and remains available in B1/B2/B3. Unexamined or inaccessible additional sources do not negate this witness unless they present a material contradiction. Any genuine outstanding source gaps stay documented; they are not converted to negative outcomes.",
+      "eligibility_concerns_separate": [
+        {
+          "action": "Preserve the exact dual designation in the unit table and reuse the current inclusion judgment. Do not auto-exclude, relabel as pure phase 3a, or infer a universal new eligibility amendment.",
+          "finding": "The article is explicitly phase 2/3a, whereas its primary registry is PHASE3. This is not evidence that it is solely phase II.",
+          "irreducible_new_human_decision_required": false,
+          "kind": "mixed_phase_label_preserved",
+          "prior_membership": "Frozen whole-population primary admission is preserved, and the current independent returns both say include based on own PHASE3 registry.",
+          "prior_rule": "Archived protocol v0.8/v0.9 and technical v3 say phase III/IV (or 3/4). No explicit blanket combined-phase exclusion or combined II/III exception was located in the reviewed protocol versions."
+        }
+      ],
+      "internal_artifacts_reclassified": [
+        {
+          "contents_inspected": true,
+          "original_bytes_verified": true,
+          "role": "internal derived receipt, not an additional primary article or unobserved primary result",
+          "sha256": "7964eba1c9d00ee0b31b5153abb65c35534fd333b19e8df97c0e0abc3db04932",
+          "source_id": "SRC-7964eba1c9d00ee0b31b5153"
+        }
+      ],
+      "limitations": [
+        "Approximately 98% completed the trial; this is not proof of complete vital-status ascertainment. The zero derivation is confined to the reported in-trial safety population and period."
+      ],
+      "nct": "NCT03018028",
+      "phase": "Publication phase 2/3a; own registry PHASE3. Preserve both source labels.",
+      "population": "All 243 randomized patients received treatment; own SAS Ns 49/49/48/49/48, with all arms zero. Safety grouping is by actual product received for the majority of on-treatment observation, not a generic claim of ITT safety analysis.",
+      "positions": [
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT03018028:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "A",
+            "unit_id": "NCT03018028:CANDIDATE_BLOCK",
+            "window_id": "NCT03018028:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT03018028:CANDIDATE_BLOCK|suicide_death|A|reported_all_cause_mortality_derivation|NCT03018028:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT03018028:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-39a6bbf0e424fb18cd43",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        },
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT03018028:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B1",
+            "unit_id": "NCT03018028:CANDIDATE_BLOCK",
+            "window_id": "NCT03018028:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT03018028:CANDIDATE_BLOCK|suicide_death|B1|reported_all_cause_mortality_derivation|NCT03018028:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT03018028:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-6ed5825e8b6710317e3a",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        },
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT03018028:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B2",
+            "unit_id": "NCT03018028:CANDIDATE_BLOCK",
+            "window_id": "NCT03018028:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT03018028:CANDIDATE_BLOCK|suicide_death|B2|reported_all_cause_mortality_derivation|NCT03018028:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT03018028:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-8427fd26daba3764d04c",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        },
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT03018028:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B3",
+            "unit_id": "NCT03018028:CANDIDATE_BLOCK",
+            "window_id": "NCT03018028:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT03018028:CANDIDATE_BLOCK|suicide_death|B3|reported_all_cause_mortality_derivation|NCT03018028:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT03018028:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-8e89751942cc4a500709",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        }
+      ],
+      "reason": "Explicit trial-wide no-death report and arm-resolved fatal/all-cause zero, with own treated denominators and planned observation, support the existing documentary death derivation. Suicide deaths are a subset of all-cause deaths within that reported reference. This does not establish clinical absence beyond observed follow-up, and supplies no ideation/attempt or structured-assessment result.",
+      "source_scoped_status_supported": "complete_derived",
+      "sources": [
+        {
+          "original_bytes_verified": true,
+          "review_method": "AI technical reading of source text with direct visual verification of decisive mortality tables; not a new human vote or a claim of full-document independent human extraction.",
+          "review_scope": "pp1-2 phase 2/3a, adult Japanese T2DM, randomized placebo comparison; p3 52+5 weeks; p4 exposed participant flow; p7 safety observation definitions; p10 explicit no deaths in both in-trial and on-treatment periods; p12 Table 3.",
+          "reviewed_pdf_pages": [
+            1,
+            2,
+            3,
+            4,
+            6,
+            7,
+            10,
+            12
+          ],
+          "sha256": "d0057bb5db95a0736222d0b1ecd96dc184a49248755a9f04d48c21cecec10292",
+          "short_quotations": [
+            {
+              "locator": "PDF p10, Safety",
+              "quote": "No deaths were reported during either the on-treatment or in-trial observation periods"
+            }
+          ],
+          "source_id": "SRC-d0057bb5db95a0736222d0b1",
+          "visually_checked_pdf_pages": []
+        },
+        {
+          "original_bytes_verified": true,
+          "review_method": "AI technical reading of source text with direct visual verification of decisive mortality tables; not a new human vote or a claim of full-document independent human extraction.",
+          "review_scope": "Physical p11 safety definition: at least one dose, both observation periods and grouping by majority actual treatment; p38 Table S8 deaths 0 in all five arms in both periods, with explicit in-trial footnote.",
+          "reviewed_pdf_pages": [
+            10,
+            11,
+            12,
+            38
+          ],
+          "sha256": "7226e37b5a3131ec7c8856a3ff41ae13fa4ab5854ec2b5c6736761307377c2eb",
+          "short_quotations": [
+            {
+              "locator": "PDF p38, Table S8",
+              "quote": "Deaths"
+            }
+          ],
+          "source_id": "SRC-7226e37b5a3131ec7c8856a3",
+          "visually_checked_pdf_pages": [
+            38
+          ]
+        },
+        {
+          "original_bytes_verified": true,
+          "review_method": "AI technical reading of archived primary registry JSON; not a new human vote.",
+          "reviewed_locators": [
+            "protocolSection.identificationModule",
+            "protocolSection.designModule.phases",
+            "protocolSection.statusModule",
+            "protocolSection.eligibilityModule"
+          ],
+          "sha256": "e80523f07d7e31fe7ab3550aca68e6abfc2d62f56a989bdc08b6a5b148ce56c8",
+          "source_id": "SRC-e80523f07d7e31fe7ab3550a"
+        }
+      ],
+      "study": "PIONEER 9",
+      "technical_judgment": "retain_complete",
+      "technical_proposal_not_imported_as_human_answer": true,
+      "unit_id": "NCT03018028:CANDIDATE_BLOCK",
+      "window": "Week 0 to week 57: 52 weeks randomized treatment + 5 weeks follow-up. In-trial mortality includes premature product discontinuation and rescue medication."
+    },
+    {
+      "additional_human_review_required": false,
+      "arms": [
+        {
+          "N_exposed": 150,
+          "arm": "Semaglutide 1.0 mg",
+          "derived_suicide_deaths": 0,
+          "reported_all_cause_deaths": 0
+        },
+        {
+          "N_exposed": 151,
+          "arm": "Placebo",
+          "derived_suicide_deaths": 0,
+          "reported_all_cause_deaths": 0
+        }
+      ],
+      "cumulative_rule_application": "The validated complete witness is available in layer A and remains available in B1/B2/B3. Unexamined or inaccessible additional sources do not negate this witness unless they present a material contradiction. Any genuine outstanding source gaps stay documented; they are not converted to negative outcomes.",
+      "eligibility_concerns_separate": [],
+      "limitations": [
+        "294/302 completed the trial, with withdrawals/lost follow-up. In-trial is explicitly censored at withdrawal/last contact, so no claim of universally complete clinical follow-up follows."
+      ],
+      "nct": "NCT03086330",
+      "phase": "Phase 3b; completed trial reported in 2019.",
+      "population": "301 exposed of 302 randomized; semaglutide 150 rather than 151, placebo 151. Fatal outcomes explicitly use the full safety analysis set regardless of treatment exposure or rescue medication.",
+      "positions": [
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "A",
+            "unit_id": "NCT03086330:CANDIDATE_BLOCK",
+            "window_id": "NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT03086330:CANDIDATE_BLOCK|suicide_death|A|reported_all_cause_mortality_derivation|NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-f2c985690c5db31b84b3",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        },
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B1",
+            "unit_id": "NCT03086330:CANDIDATE_BLOCK",
+            "window_id": "NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT03086330:CANDIDATE_BLOCK|suicide_death|B1|reported_all_cause_mortality_derivation|NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-f1153e35b463cdd99d28",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        },
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B2",
+            "unit_id": "NCT03086330:CANDIDATE_BLOCK",
+            "window_id": "NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT03086330:CANDIDATE_BLOCK|suicide_death|B2|reported_all_cause_mortality_derivation|NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-186b738bd72ceb409008",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        },
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B3",
+            "unit_id": "NCT03086330:CANDIDATE_BLOCK",
+            "window_id": "NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT03086330:CANDIDATE_BLOCK|suicide_death|B3|reported_all_cause_mortality_derivation|NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-b975d199a6b37288278f",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        }
+      ],
+      "reason": "Explicit trial-wide no-death report and arm-resolved fatal/all-cause zero, with own treated denominators and planned observation, support the existing documentary death derivation. Suicide deaths are a subset of all-cause deaths within that reported reference. This does not establish clinical absence beyond observed follow-up, and supplies no ideation/attempt or structured-assessment result.",
+      "source_scoped_status_supported": "complete_derived",
+      "sources": [
+        {
+          "original_bytes_verified": true,
+          "review_method": "AI technical reading of source text with direct visual verification of decisive mortality tables; not a new human vote or a claim of full-document independent human extraction.",
+          "review_scope": "pp1-3 identity/phase 3b/entire T2DM population, 30+5-week design and flow; p6 fatal events use full safety set in-trial regardless of treatment exposure/rescue; p8 Table 3 fatal 0/0 and dagger definition; p9 explicit no deaths.",
+          "reviewed_pdf_pages": [
+            1,
+            2,
+            3,
+            6,
+            8,
+            9
+          ],
+          "sha256": "44d0dd4e9861f15d4a62bd805004f558c124de01709151fe81a8d5cf8833aeef",
+          "short_quotations": [
+            {
+              "locator": "PDF p9, Safety",
+              "quote": "There were no deaths during the trial."
+            }
+          ],
+          "source_id": "SRC-44d0dd4e9861f15d4a62bd80",
+          "visually_checked_pdf_pages": [
+            8
+          ]
+        },
+        {
+          "original_bytes_verified": true,
+          "review_method": "AI technical reading of archived primary registry JSON; not a new human vote.",
+          "reviewed_locators": [
+            "resultsSection.adverseEventsModule.timeFrame/description/eventGroups"
+          ],
+          "sha256": "85904d66b961058e43e683eec20a74ba4033b0e4899afb45ac0294d3d8cea473",
+          "source_id": "SRC-85904d66b961058e43e683ee"
+        }
+      ],
+      "study": "SUSTAIN 9",
+      "technical_judgment": "retain_complete",
+      "technical_proposal_not_imported_as_human_answer": true,
+      "unit_id": "NCT03086330:CANDIDATE_BLOCK",
+      "window": "Published planned phase: 30 weeks treatment + 5 weeks follow-up. Fatal-event in-trial data begin at randomization and end at last site contact, consent withdrawal, last investigator contact if lost, or death."
+    },
+    {
+      "additional_human_review_required": false,
+      "arms": [
+        {
+          "N_exposed": 199,
+          "arm": "Semaglutide 2.4 mg",
+          "derived_suicide_deaths": 0,
+          "reported_all_cause_deaths": 0
+        },
+        {
+          "N_exposed": 100,
+          "arm": "Semaglutide 1.7 mg",
+          "derived_suicide_deaths": 0,
+          "reported_all_cause_deaths": 0
+        },
+        {
+          "N_exposed": 101,
+          "arm": "Pooled placebo",
+          "derived_suicide_deaths": 0,
+          "reported_all_cause_deaths": 0
+        }
+      ],
+      "cumulative_rule_application": "The validated complete witness is available in layer A and remains available in B1/B2/B3. Unexamined or inaccessible additional sources do not negate this witness unless they present a material contradiction. Any genuine outstanding source gaps stay documented; they are not converted to negative outcomes.",
+      "eligibility_concerns_separate": [],
+      "limitations": [
+        "Keep the original actual-exposed denominators, pooled placebo and documented trial attrition. All-cause zero supports a documentary derived death count only, not direct structured suicidality measurement or full vital ascertainment."
+      ],
+      "nct": "NCT03811574",
+      "phase": "Phase 3a.",
+      "population": "400 exposed of 401 randomized: one semaglutide 1.7-mg participant unexposed. Whole entry population meets overweight/obesity criteria; T2DM subset is not substituted for the reference. Original two placebo groups are pooled in the article.",
+      "positions": [
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT03811574:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "A",
+            "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+            "window_id": "NCT03811574:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT03811574:CANDIDATE_BLOCK|suicide_death|A|reported_all_cause_mortality_derivation|NCT03811574:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT03811574:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-bf58f796a4093e97c868",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        },
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT03811574:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B1",
+            "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+            "window_id": "NCT03811574:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT03811574:CANDIDATE_BLOCK|suicide_death|B1|reported_all_cause_mortality_derivation|NCT03811574:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT03811574:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-028bc7700463332b11c0",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        },
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT03811574:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B2",
+            "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+            "window_id": "NCT03811574:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT03811574:CANDIDATE_BLOCK|suicide_death|B2|reported_all_cause_mortality_derivation|NCT03811574:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT03811574:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-c072b18ff1d2ee7f0062",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        },
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT03811574:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B3",
+            "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+            "window_id": "NCT03811574:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT03811574:CANDIDATE_BLOCK|suicide_death|B3|reported_all_cause_mortality_derivation|NCT03811574:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT03811574:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-514b8c9860685936dc3f",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        }
+      ],
+      "reason": "Explicit trial-wide no-death report and arm-resolved fatal/all-cause zero, with own treated denominators and planned observation, support the existing documentary death derivation. Suicide deaths are a subset of all-cause deaths within that reported reference. This does not establish clinical absence beyond observed follow-up, and supplies no ideation/attempt or structured-assessment result.",
+      "source_scoped_status_supported": "complete_derived",
+      "sources": [
+        {
+          "original_bytes_verified": true,
+          "review_method": "AI technical reading of source text with direct visual verification of decisive mortality tables; not a new human vote or a claim of full-document independent human extraction.",
+          "review_scope": "pp1/3 entire adult overweight/obesity population and phase 3a; p3 68+7-week period; pp4-5 SAS/period definitions and exposed flow; p10 explicit no deaths; p11 Table 3 fatal zero for all groups with in-trial asterisk.",
+          "reviewed_pdf_pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            10,
+            11
+          ],
+          "sha256": "dd8591da03ad8a8c53fb59e478c344590f0ed69a61374637eed7de293c882c75",
+          "short_quotations": [
+            {
+              "locator": "PDF p10, Safety",
+              "quote": "There were no deaths reported in this trial"
+            }
+          ],
+          "source_id": "SRC-dd8591da03ad8a8c53fb59e4",
+          "visually_checked_pdf_pages": [
+            11
+          ]
+        }
+      ],
+      "study": "STEP 6",
+      "technical_judgment": "retain_complete",
+      "technical_proposal_not_imported_as_human_answer": true,
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+      "window": "68-week initial randomized treatment followed by 7 weeks without treatment (week 75). Fatal row explicitly uses in-trial observation regardless of treatment discontinuation or other obesity therapy."
+    },
+    {
+      "additional_human_review_required": false,
+      "arms": [
+        {
+          "N_exposed": 249,
+          "arm": "Semaglutide 2.4 mg",
+          "derived_suicide_deaths": 0,
+          "reported_all_cause_deaths": 0
+        },
+        {
+          "N_exposed": 126,
+          "arm": "Placebo",
+          "derived_suicide_deaths": 0,
+          "reported_all_cause_deaths": 0
+        }
+      ],
+      "cumulative_rule_application": "The validated complete witness is available in layer A and remains available in B1/B2/B3. Unexamined or inaccessible additional sources do not negate this witness unless they present a material contradiction. Any genuine outstanding source gaps stay documented; they are not converted to negative outcomes.",
+      "eligibility_concerns_separate": [],
+      "limitations": [
+        "365/375 completed; no universal complete vital-status ascertainment. Table3 serious-event semaglutide13 participants/14 events must not be conflated with14participants or with fatal/suicide outcomes."
+      ],
+      "nct": "NCT04251156",
+      "phase": "Phase3a.",
+      "population": "All375 randomized received treatment:249/126. Whole entry population has T2DM or overweight/obesity. Type2diabetes subgroup64/32 is not the denominator for whole-trial fatal events.",
+      "positions": [
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT04251156:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "A",
+            "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+            "window_id": "NCT04251156:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT04251156:CANDIDATE_BLOCK|suicide_death|A|reported_all_cause_mortality_derivation|NCT04251156:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT04251156:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-7d579b70eb195381db78",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        },
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT04251156:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B1",
+            "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+            "window_id": "NCT04251156:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT04251156:CANDIDATE_BLOCK|suicide_death|B1|reported_all_cause_mortality_derivation|NCT04251156:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT04251156:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-c257aa69e03ebae275c1",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        },
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT04251156:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B2",
+            "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+            "window_id": "NCT04251156:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT04251156:CANDIDATE_BLOCK|suicide_death|B2|reported_all_cause_mortality_derivation|NCT04251156:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT04251156:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-83bfa15a2f28c848debb",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        },
+        {
+          "canonical_key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT04251156:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B3",
+            "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+            "window_id": "NCT04251156:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "canonical_key_joined": "NCT04251156:CANDIDATE_BLOCK|suicide_death|B3|reported_all_cause_mortality_derivation|NCT04251156:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL|NCT04251156:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+          "historical_status": "complete_derived",
+          "new_human_vote": false,
+          "position_id": "POS-d28c840213574224be3b",
+          "proposed_status": "complete_derived",
+          "scientific_disagreement_type": "missing_fresh_source_examination_or_unresolved_scope_in_preparation_resolved_by_named_primary_witness",
+          "technical_judgment": "retain_complete"
+        }
+      ],
+      "reason": "Explicit trial-wide no-death report and arm-resolved fatal/all-cause zero, with own treated denominators and planned observation, support the existing documentary death derivation. Suicide deaths are a subset of all-cause deaths within that reported reference. This does not establish clinical absence beyond observed follow-up, and supplies no ideation/attempt or structured-assessment result.",
+      "source_scoped_status_supported": "complete_derived",
+      "sources": [
+        {
+          "original_bytes_verified": true,
+          "review_method": "AI technical reading of source text with direct visual verification of decisive mortality tables; not a new human vote or a claim of full-document independent human extraction.",
+          "review_scope": "pp1-3 phase3a/adult eligible entry population and all-treated flow; p4 in-trial definition and 7-week AE observation; p5 median in-trial 51.1 weeks; p8 explicit no deaths; p10 Table 3 fatal0/0 dagger and complete footnotes.",
+          "reviewed_pdf_pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            8,
+            10
+          ],
+          "sha256": "c72f731e42388b6c487227dad81361bf2b56f64ac8875063ae06dab8d9c2ce7c",
+          "short_quotations": [
+            {
+              "locator": "PDF p8, Safety",
+              "quote": "No deaths were reported during the trial."
+            }
+          ],
+          "source_id": "SRC-c72f731e42388b6c487227da",
+          "visually_checked_pdf_pages": [
+            10
+          ]
+        },
+        {
+          "original_bytes_verified": true,
+          "review_method": "AI technical reading of source text with direct visual verification of decisive mortality tables; not a new human vote or a claim of full-document independent human extraction.",
+          "review_scope": "Physical PDF p17, Figure S1 visually verifies end of treatment at week44, follow-up to end of trial at week51, original parallel active/placebo arms.",
+          "reviewed_pdf_pages": [
+            17
+          ],
+          "sha256": "aaa58e71bb0107b5228b487c03b7bb508bd5369937d6a62e403d9c3859aff12d",
+          "short_quotations": [],
+          "source_id": "SRC-aaa58e71bb0107b5228b487c",
+          "visually_checked_pdf_pages": [
+            17
+          ]
+        }
+      ],
+      "study": "STEP 7",
+      "technical_judgment": "retain_complete",
+      "technical_proposal_not_imported_as_human_answer": true,
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "window": "44-week randomized treatment with planned 7-week post-treatment observation (week51); reported median in-trial duration51.1 weeks. The fatal row explicitly uses in-trial, from randomization to last contact, not just TEAEs."
+    }
+  ]
+}

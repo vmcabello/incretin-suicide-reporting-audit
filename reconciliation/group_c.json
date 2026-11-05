@@ -1,0 +1,738 @@
+{
+  "authority": "Technical AI source reconciliation only. Submitted independent human returns remain unchanged and are not represented as these new readings.",
+  "created_utc": "2026-11-04T18:43:09.085875+00:00",
+  "internal_artifact_retrieval_correction": {
+    "affected_positions": [
+      "POS-f2c9dca35d703f8c7c37",
+      "POS-ffbb015a165ded527568",
+      "POS-8828cb8935bfd7650b0b"
+    ],
+    "identity": "Internal prior reconciliation artifact, not an unavailable original publication.",
+    "recovered_path": "[LOCAL_WORKSPACE]/outputs\\conciliacao_auditoria756_2026-10-28\\REFERENCIAS_COMPLETAS_REAPROVEITADAS_8C.json",
+    "recovered_primary_evidence": false,
+    "role": "Provenance/mapping only; complete judgments above are supported by separately verified primary-source bytes.",
+    "sha256": "7964eba1c9d00ee0b31b5153abb65c35534fd333b19e8df97c0e0abc3db04932",
+    "source_id": "SRC-7964eba1c9d00ee0b31b5153"
+  },
+  "mutations": {
+    "frozen_results_changed": false,
+    "manuscript_changed": false,
+    "raw_returns_changed": false
+  },
+  "rules_applied": [
+    "A valid exact source-specific complete witness takes precedence over unrelated unavailable or unexamined sources for the existential cumulative reconstruction indicator.",
+    "This priority does not erase other access gaps and does not make every modality complete.",
+    "Zero all-cause/fatal counts allow a suicide-death zero derivation only for the same exposed population and observation period.",
+    "Universal zero completed-suicide statement over named trials can be disaggregated to own-trial arms when identity, exposure and window are established; nonzero pooled counts cannot.",
+    "Public reconstructibility of reported outcomes is distinct from complete vital ascertainment or proof of clinical absence."
+  ],
+  "schema_version": "1.0",
+  "step_up_exposure_correction": {
+    "direct_frozen_records_have_1005_numeric_literal": false,
+    "historical_1005_as_exposed_must_not_be_carried_forward": true,
+    "main_figure1_safety_denominator": 1004,
+    "main_table3_safety_denominator": 1004,
+    "not_a_substantive_primary_source_conflict": true,
+    "primary_sources_consistent": true,
+    "prominent_integration_requirement": "Use 1004/201/201 as exposed safety denominators. Reserve 1005/201/201 for randomized denominators only."
+  },
+  "summary": {
+    "conflict_positions": 0,
+    "denominator_narrative_corrections": 1,
+    "new_irreducible_human_cases": 0,
+    "positions": 17,
+    "retain_complete_positions": 17,
+    "units": 5,
+    "unknown_positions": 0
+  },
+  "task": "Directed primary-evidence reconciliation of five previously complete units",
+  "units": [
+    {
+      "affected_positions": [
+        {
+          "decision": "retain_complete",
+          "frozen_status": "complete_derived",
+          "human_return_not_overwritten": true,
+          "indicator_supported_by_exact_witness": 1,
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT02160990:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "A",
+            "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+            "window_id": "NCT02160990:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-f361dc96b1ed90ae20c3",
+          "reason_for_difference": "The returned rationale evaluates a registry-only or unexamined-source preparation scope. It does not identify an incompatible observed count in the complete primary witness. The cumulative indicator therefore needs witness-based technical reconciliation, with the returned judgments retained.",
+          "substantive_primary_evidence_conflict_found": false,
+          "supported_source_scoped_status": "complete_derived"
+        },
+        {
+          "decision": "retain_complete",
+          "frozen_status": "complete_derived",
+          "human_return_not_overwritten": true,
+          "indicator_supported_by_exact_witness": 1,
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT02160990:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B1",
+            "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+            "window_id": "NCT02160990:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-842216afba579549699b",
+          "reason_for_difference": "The returned rationale evaluates a registry-only or unexamined-source preparation scope. It does not identify an incompatible observed count in the complete primary witness. The cumulative indicator therefore needs witness-based technical reconciliation, with the returned judgments retained.",
+          "substantive_primary_evidence_conflict_found": false,
+          "supported_source_scoped_status": "complete_derived"
+        },
+        {
+          "decision": "retain_complete",
+          "frozen_status": "complete_derived",
+          "human_return_not_overwritten": true,
+          "indicator_supported_by_exact_witness": 1,
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT02160990:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B2",
+            "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+            "window_id": "NCT02160990:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-6ae54735d7d3d12589c5",
+          "reason_for_difference": "The returned rationale evaluates a registry-only or unexamined-source preparation scope. It does not identify an incompatible observed count in the complete primary witness. The cumulative indicator therefore needs witness-based technical reconciliation, with the returned judgments retained.",
+          "substantive_primary_evidence_conflict_found": false,
+          "supported_source_scoped_status": "complete_derived"
+        },
+        {
+          "decision": "retain_complete",
+          "frozen_status": "complete_derived",
+          "human_return_not_overwritten": true,
+          "indicator_supported_by_exact_witness": 1,
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT02160990:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B3",
+            "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+            "window_id": "NCT02160990:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-a800b5e3362b8cc32e89",
+          "reason_for_difference": "The returned rationale evaluates a registry-only or unexamined-source preparation scope. It does not identify an incompatible observed count in the complete primary witness. The cumulative indicator therefore needs witness-based technical reconciliation, with the returned judgments retained.",
+          "substantive_primary_evidence_conflict_found": false,
+          "supported_source_scoped_status": "complete_derived"
+        }
+      ],
+      "arms_and_derived_suicide_death_counts": [
+        {
+          "arm": "Exenatide 5 micrograms twice daily",
+          "derived_suicide_death_n": 0,
+          "exposed_n": 10
+        },
+        {
+          "arm": "Placebo",
+          "derived_suicide_death_n": 0,
+          "exposed_n": 10
+        }
+      ],
+      "caveats": [
+        "This is an all-cause-zero derivation, not a directly tabulated suicide outcome.",
+        "No C-SSRS completeness or absence of suicidal ideation/attempt is inferred.",
+        "The small pharmacodynamic purpose does not invalidate its explicitly registered phase IV status."
+      ],
+      "corrections_to_narrative_or_extraction": [],
+      "decision": "retain_complete",
+      "decision_type": "Technical AI reconciliation against primary evidence, not a new human vote or silent overwrite of independent reviewer returns.",
+      "eligible_population": "All randomized participants were adults with BMI 30-40 kg/m2 and accelerated gastric emptying. Diabetes excluded; baseline obesity independently meets population requirement in both arms.",
+      "fixed_reference": "Participants eligible at baseline who received at least one dose in the initial parallel comparison.",
+      "new_human_case_required_on_this_technical_evidence_alone": false,
+      "phase_check": {
+        "locator": "protocolSection.designModule.phases[0]",
+        "note": "Phase IV is explicitly registered; the pharmacodynamics wording in the article is not used to infer a numerical phase.",
+        "source_id": "SRC-a340c011e52f9440ddd3e020",
+        "status": "confirmed_PHASE4",
+        "value": "PHASE4"
+      },
+      "position_count": 4,
+      "reconciliation_reasoning": "The primary article gives zero deaths over the complete short trial and all participants completed. Thus zero suicide deaths can be logically derived separately for each of the two arms. The new unexamined-source designation does not refute this exact witness. Phase eligibility was independently checked in primary registry bytes and is confirmed.",
+      "sources_examined": [
+        {
+          "brief_quote": "there were no deaths or adverse events. All the participants completed the study.",
+          "finding": "Randomized placebo-controlled 10/10 obese adult participants, 30-day administration, safety assessments, all completed and explicitly no deaths.",
+          "locators_examined": [
+            "XML Study design (sec 164)",
+            "Participants (sec 174)",
+            "Safety assessments (sec 201)",
+            "Statistical analysis (sec 212)",
+            "Table 2 (table-wrap 274)",
+            "Adverse events (sec 524)"
+          ],
+          "primary_bytes_hash_verified": true,
+          "reading_scope": "Directed reading of the named primary-source scopes; no claim to full independent reading of all material attached to this unit.",
+          "sha256": "88198dfa955eb9e1b03c00dc004f9380e690fe0cf2ad44d375eccbe096e0846f",
+          "source_id": "SRC-88198dfa955eb9e1b03c00dc",
+          "visual_pdf_pages_examined": []
+        },
+        {
+          "brief_quote": null,
+          "finding": "Explicit PHASE4, randomized parallel allocation, adults with obesity, 30-day active/placebo regimens, 10/10 started and completed, and PMID26542264 identity bridge.",
+          "locators_examined": [
+            "protocolSection.designModule",
+            "protocolSection.eligibilityModule",
+            "protocolSection.descriptionModule.detailedDescription",
+            "protocolSection.armsInterventionsModule",
+            "resultsSection.participantFlowModule",
+            "protocolSection.referencesModule"
+          ],
+          "primary_bytes_hash_verified": true,
+          "reading_scope": "Directed reading of the named primary-source scopes; no claim to full independent reading of all material attached to this unit.",
+          "sha256": "a340c011e52f9440ddd3e020b004f9d66730f300dc5fa4a7371f1c3a825d6e0e",
+          "source_id": "SRC-a340c011e52f9440ddd3e020",
+          "visual_pdf_pages_examined": []
+        }
+      ],
+      "title": "Exenatide in obesity with accelerated gastric emptying",
+      "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+      "window": {
+        "complete_vital_status_claim": "The article explicitly states all participants completed; no claim is extended beyond this 30-day study.",
+        "coverage": "Entire 30-day study; all 20 participants completed.",
+        "planned_off_treatment_observation": "No additional planned post-treatment interval identified in the article or registry visit schedule examined.",
+        "treatment": "30 days"
+      }
+    },
+    {
+      "affected_positions": [
+        {
+          "decision": "retain_complete",
+          "frozen_status": "complete_derived",
+          "human_return_not_overwritten": true,
+          "indicator_supported_by_exact_witness": 1,
+          "key": {
+            "component": "suicide_death",
+            "modality": "adverse_event_reports",
+            "reference_id": "NCT04657003:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B3",
+            "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+            "window_id": "NCT04657003:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-f2c9dca35d703f8c7c37",
+          "reason_for_difference": "The returned rationale evaluates a registry-only or unexamined-source preparation scope. It does not identify an incompatible observed count in the complete primary witness. The cumulative indicator therefore needs witness-based technical reconciliation, with the returned judgments retained.",
+          "substantive_primary_evidence_conflict_found": false,
+          "supported_source_scoped_status": "complete_derived"
+        }
+      ],
+      "arms_and_derived_suicide_death_counts": [
+        {
+          "arm": "Tirzepatide 10 mg",
+          "derived_suicide_death_n": 0,
+          "exposed_n": 312
+        },
+        {
+          "arm": "Tirzepatide 15 mg",
+          "derived_suicide_death_n": 0,
+          "exposed_n": 311
+        },
+        {
+          "arm": "Placebo",
+          "derived_suicide_death_n": 0,
+          "exposed_n": 315
+        }
+      ],
+      "caveats": [
+        "Nonzero pooled ideation and attempt counts cannot be allocated to the individual GPHL trial.",
+        "Two all-cause deaths in the 10 mg arm are not suicides under the explicit FDA statement.",
+        "Follow-up losses exist; the judgment is public reconstructibility of reported outcomes, not verified complete vital status for every person."
+      ],
+      "corrections_to_narrative_or_extraction": [],
+      "decision": "retain_complete",
+      "decision_type": "Technical AI reconciliation against primary evidence, not a new human vote or silent overwrite of independent reviewer returns.",
+      "eligible_population": "Adults with type 2 diabetes and BMI at least 27 kg/m2; full GPHL population is eligible in all active and placebo arms.",
+      "fixed_reference": "Participants eligible at baseline who received at least one dose in the initial parallel comparison.",
+      "new_human_case_required_on_this_technical_evidence_alone": false,
+      "phase_check": {
+        "locators": [
+          "PDF44-47",
+          "PDF195"
+        ],
+        "source_id": "SRC-4ffc5bea39958298693d4c7c",
+        "status": "confirmed_phase3"
+      },
+      "position_count": 1,
+      "reconciliation_reasoning": "The FDA statement is universal over two named trials, hence a zero in each named GPHL arm is a valid logical disaggregation of that statement once own-trial exposure and window are verified. Retain only the inherited B3 reported-AE complete-derived position. Do not relabel as a directly tabulated suicide-death count, an all-cause-zero derivation, or C-SSRS completeness.",
+      "sources_examined": [
+        {
+          "brief_quote": "There were no completed suicides in tirzepatide phase 3 CWM trials GPHK and GPHL.",
+          "finding": "Regulatory review explicitly reports no completed suicides in both GPHK and GPHL; GPHL has no extension. Safety is all exposed subjects and all on/off-drug data through the four-week safety follow-up. Positive ideation/attempt and scale counts are pooled and cannot be assigned to GPHL.",
+          "locators_examined": [
+            "PDF44-48 identity, phase and eligibility",
+            "PDF50-52 scheduled follow-up and withdrawals",
+            "PDF74 GPHL denominators",
+            "PDF123 safety analysis population/window",
+            "PDF195-197 suicidality"
+          ],
+          "primary_bytes_hash_verified": true,
+          "reading_scope": "Directed reading of the named primary-source scopes; no claim to full independent reading of all material attached to this unit.",
+          "sha256": "4ffc5bea39958298693d4c7c340173b79647651c940c95b7cf4b4233e7ddda4e",
+          "source_id": "SRC-4ffc5bea39958298693d4c7c",
+          "visual_pdf_pages_examined": [
+            52,
+            195
+          ]
+        },
+        {
+          "brief_quote": null,
+          "finding": "GPHL exposure denominators 312/311/315 explicitly match received-at-least-one-dose flow and adverse-event population through week76. All-cause deaths are 2/0/0 for 10mg/15mg/placebo; this is not a contradiction to zero suicide deaths.",
+          "locators_examined": [
+            "resultsSection.participantFlowModule.groups/periods/milestones",
+            "resultsSection.adverseEventsModule.timeFrame/description/eventGroups"
+          ],
+          "primary_bytes_hash_verified": true,
+          "reading_scope": "Directed reading of the named primary-source scopes; no claim to full independent reading of all material attached to this unit.",
+          "sha256": "928e5d0e0d010ed5308d084087859cb7ca3cef707ad7a948a643aef81b529f36",
+          "source_id": "SRC-928e5d0e0d010ed5308d0840",
+          "visual_pdf_pages_examined": []
+        }
+      ],
+      "title": "SURMOUNT-2 / I8F-MC-GPHL",
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "window": {
+        "complete_vital_status_claim": false,
+        "coverage": "All on/off study-drug safety data through 4-week follow-up; registry baseline through week 76. No GPHL extension.",
+        "planned_off_treatment_observation": "4 weeks",
+        "treatment": "72 weeks"
+      }
+    },
+    {
+      "affected_positions": [
+        {
+          "decision": "retain_complete",
+          "frozen_status": "complete_derived",
+          "human_return_not_overwritten": true,
+          "indicator_supported_by_exact_witness": 1,
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05646706:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "A",
+            "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+            "window_id": "NCT05646706:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-eb96481e3d48fc971d4f",
+          "reason_for_difference": "The returned rationale evaluates a registry-only or unexamined-source preparation scope. It does not identify an incompatible observed count in the complete primary witness. The cumulative indicator therefore needs witness-based technical reconciliation, with the returned judgments retained.",
+          "substantive_primary_evidence_conflict_found": false,
+          "supported_source_scoped_status": "complete_derived"
+        },
+        {
+          "decision": "retain_complete",
+          "frozen_status": "complete_derived",
+          "human_return_not_overwritten": true,
+          "indicator_supported_by_exact_witness": 1,
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05646706:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B1",
+            "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+            "window_id": "NCT05646706:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-60c7cd0c9e74265d4c88",
+          "reason_for_difference": "The returned rationale evaluates a registry-only or unexamined-source preparation scope. It does not identify an incompatible observed count in the complete primary witness. The cumulative indicator therefore needs witness-based technical reconciliation, with the returned judgments retained.",
+          "substantive_primary_evidence_conflict_found": false,
+          "supported_source_scoped_status": "complete_derived"
+        },
+        {
+          "decision": "retain_complete",
+          "frozen_status": "complete_derived",
+          "human_return_not_overwritten": true,
+          "indicator_supported_by_exact_witness": 1,
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05646706:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B2",
+            "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+            "window_id": "NCT05646706:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-ffbb015a165ded527568",
+          "reason_for_difference": "The returned rationale evaluates a registry-only or unexamined-source preparation scope. It does not identify an incompatible observed count in the complete primary witness. The cumulative indicator therefore needs witness-based technical reconciliation, with the returned judgments retained.",
+          "substantive_primary_evidence_conflict_found": false,
+          "supported_source_scoped_status": "complete_derived"
+        },
+        {
+          "decision": "retain_complete",
+          "frozen_status": "complete_derived",
+          "human_return_not_overwritten": true,
+          "indicator_supported_by_exact_witness": 1,
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05646706:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B3",
+            "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+            "window_id": "NCT05646706:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-8828cb8935bfd7650b0b",
+          "reason_for_difference": "The returned rationale evaluates a registry-only or unexamined-source preparation scope. It does not identify an incompatible observed count in the complete primary witness. The cumulative indicator therefore needs witness-based technical reconciliation, with the returned judgments retained.",
+          "substantive_primary_evidence_conflict_found": false,
+          "supported_source_scoped_status": "complete_derived"
+        }
+      ],
+      "arms_and_derived_suicide_death_counts": [
+        {
+          "arm": "Semaglutide 7.2 mg",
+          "derived_suicide_death_n": 0,
+          "exposed_n": 1004,
+          "randomized_n": 1005
+        },
+        {
+          "arm": "Semaglutide 2.4 mg",
+          "derived_suicide_death_n": 0,
+          "exposed_n": 201,
+          "randomized_n": 201
+        },
+        {
+          "arm": "Placebo",
+          "derived_suicide_death_n": 0,
+          "exposed_n": 201,
+          "randomized_n": 201
+        }
+      ],
+      "caveats": [
+        "Derived from all fatal adverse events, not directly reported suicide deaths.",
+        "General psychiatric-disorder rows are on-treatment and nonspecific; no ideation or attempt completeness is inferred.",
+        "End-of-trial attendance is959/190/180 and does not establish complete vital status for every randomized participant."
+      ],
+      "corrections_to_narrative_or_extraction": [
+        {
+          "correct_value": 1004,
+          "distinct_randomized_value": 1005,
+          "field": "exposed_denominator_semaglutide_7_2mg",
+          "reason": "PDF4 flow and PDF11 Table3 independently distinguish randomized versus received-at-least-one-dose."
+        }
+      ],
+      "decision": "retain_complete",
+      "decision_type": "Technical AI reconciliation against primary evidence, not a new human vote or silent overwrite of independent reviewer returns.",
+      "eligible_population": "Adults with BMI at least30 kg/m2 without diabetes, all active/placebo arms eligible.",
+      "fixed_reference": "Participants eligible at baseline who received at least one dose in the initial parallel comparison.",
+      "new_human_case_required_on_this_technical_evidence_alone": false,
+      "phase_check": {
+        "locator": "PDF1 title/Methods",
+        "source_id": "SRC-8004a55f9a5aa9132d286876",
+        "status": "confirmed_phase3b"
+      },
+      "position_count": 4,
+      "reconciliation_reasoning": "The fatal-AE zero row is explicitly in-trial for the full exposed population, supporting zero suicide-death derivation at all inherited stages. Correct the high-dose exposed denominator to1004;1005 is the randomized denominator.",
+      "sources_examined": [
+        {
+          "brief_quote": "No fatal adverse events were reported in any group.",
+          "finding": "All three arms show zero fatal adverse events; asterisk specifically overrides the default on-treatment period to the in-trial period. Safety N is1004/201/201, not1005/201/201.",
+          "locators_examined": [
+            "PDF1 phase/identity",
+            "PDF3 eligibility, design and week81 safety window",
+            "PDF4 safety analysis set and Figure1",
+            "PDF9 no fatal adverse events",
+            "PDF11 Table3 fatal row and full footnote"
+          ],
+          "primary_bytes_hash_verified": true,
+          "reading_scope": "Directed reading of the named primary-source scopes; no claim to full independent reading of all material attached to this unit.",
+          "sha256": "8004a55f9a5aa9132d2868764899e526fd55e0518b8c6ccbb19354f48d7d0daa",
+          "source_id": "SRC-8004a55f9a5aa9132d286876",
+          "visual_pdf_pages_examined": [
+            11
+          ]
+        },
+        {
+          "brief_quote": null,
+          "finding": "In-trial interval covers all collected on/off-treatment points from randomization to last trial visit irrespective of discontinuation, dose reduction or other obesity therapy. Schedule includes week81 safety review.",
+          "locators_examined": [
+            "PDF10 observation periods",
+            "PDF13-14 assessment schedule through week81"
+          ],
+          "primary_bytes_hash_verified": true,
+          "reading_scope": "Directed reading of the named primary-source scopes; no claim to full independent reading of all material attached to this unit.",
+          "sha256": "3b27e4cd1f36de2a8bf588832ee385c4891d67406613d3f34f3c85377769528d",
+          "source_id": "SRC-3b27e4cd1f36de2a8bf58883",
+          "visual_pdf_pages_examined": []
+        }
+      ],
+      "title": "STEP UP",
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "window": {
+        "complete_vital_status_claim": false,
+        "coverage": "Safety through week81; fatal-AE row explicitly in-trial, including all collected on/off-treatment data until last trial visit.",
+        "planned_off_treatment_observation": "9 weeks",
+        "treatment": "72 weeks"
+      }
+    },
+    {
+      "affected_positions": [
+        {
+          "decision": "retain_complete",
+          "frozen_status": "complete_derived",
+          "human_return_not_overwritten": true,
+          "indicator_supported_by_exact_witness": 1,
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05132088:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "A",
+            "unit_id": "NCT05132088:CANDIDATE_BLOCK",
+            "window_id": "NCT05132088:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-f06b5da5fb195fb35368",
+          "reason_for_difference": "The returned rationale evaluates a registry-only or unexamined-source preparation scope. It does not identify an incompatible observed count in the complete primary witness. The cumulative indicator therefore needs witness-based technical reconciliation, with the returned judgments retained.",
+          "substantive_primary_evidence_conflict_found": false,
+          "supported_source_scoped_status": "complete_derived"
+        },
+        {
+          "decision": "retain_complete",
+          "frozen_status": "complete_derived",
+          "human_return_not_overwritten": true,
+          "indicator_supported_by_exact_witness": 1,
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05132088:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B1",
+            "unit_id": "NCT05132088:CANDIDATE_BLOCK",
+            "window_id": "NCT05132088:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-dec9bf16f9ce470e9f2e",
+          "reason_for_difference": "The returned rationale evaluates a registry-only or unexamined-source preparation scope. It does not identify an incompatible observed count in the complete primary witness. The cumulative indicator therefore needs witness-based technical reconciliation, with the returned judgments retained.",
+          "substantive_primary_evidence_conflict_found": false,
+          "supported_source_scoped_status": "complete_derived"
+        },
+        {
+          "decision": "retain_complete",
+          "frozen_status": "complete_derived",
+          "human_return_not_overwritten": true,
+          "indicator_supported_by_exact_witness": 1,
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05132088:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B2",
+            "unit_id": "NCT05132088:CANDIDATE_BLOCK",
+            "window_id": "NCT05132088:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-6d4ffec15597d745a63c",
+          "reason_for_difference": "The returned rationale evaluates a registry-only or unexamined-source preparation scope. It does not identify an incompatible observed count in the complete primary witness. The cumulative indicator therefore needs witness-based technical reconciliation, with the returned judgments retained.",
+          "substantive_primary_evidence_conflict_found": false,
+          "supported_source_scoped_status": "complete_derived"
+        },
+        {
+          "decision": "retain_complete",
+          "frozen_status": "complete_derived",
+          "human_return_not_overwritten": true,
+          "indicator_supported_by_exact_witness": 1,
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05132088:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B3",
+            "unit_id": "NCT05132088:CANDIDATE_BLOCK",
+            "window_id": "NCT05132088:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-cb66a78038d3a2f56295",
+          "reason_for_difference": "The returned rationale evaluates a registry-only or unexamined-source preparation scope. It does not identify an incompatible observed count in the complete primary witness. The cumulative indicator therefore needs witness-based technical reconciliation, with the returned judgments retained.",
+          "substantive_primary_evidence_conflict_found": false,
+          "supported_source_scoped_status": "complete_derived"
+        }
+      ],
+      "arms_and_derived_suicide_death_counts": [
+        {
+          "arm": "Oral semaglutide 50 mg",
+          "derived_suicide_death_n": 0,
+          "exposed_n": 134,
+          "randomized_n": 134
+        },
+        {
+          "arm": "Placebo",
+          "derived_suicide_death_n": 0,
+          "exposed_n": 66,
+          "randomized_n": 67
+        }
+      ],
+      "caveats": [
+        "Table title alone would incorrectly restrict the fatal row to on-treatment; footnote c is material.",
+        "Week75 attendance130/64 does not establish complete vital status of everyone.",
+        "Psychiatric SOC6/2 and medication error/misuse/overdose3/0 are nonspecific; no strict suicidal ideation or attempt counts are inferred."
+      ],
+      "corrections_to_narrative_or_extraction": [],
+      "decision": "retain_complete",
+      "decision_type": "Technical AI reconciliation against primary evidence, not a new human vote or silent overwrite of independent reviewer returns.",
+      "eligible_population": "East Asian adults with BMI at least27 plus two weight-related complications or at least35 plus one; all active/placebo arms meet excess-weight criterion.",
+      "fixed_reference": "Participants eligible at baseline who received at least one dose in the initial parallel comparison.",
+      "new_human_case_required_on_this_technical_evidence_alone": false,
+      "phase_check": {
+        "locator": "PDF1-2 trial design",
+        "source_id": "SRC-aae90dd106a53892edfda7bf",
+        "status": "confirmed_phase3a"
+      },
+      "position_count": 4,
+      "reconciliation_reasoning": "The fatal-event row with its explicit exception footnote supplies the required full reference/window witness. The return indicating source non-examination is reconciled by this directed primary reading, not by suppressing the human return. Retain complete-derived at the four inherited stages.",
+      "sources_examined": [
+        {
+          "brief_quote": "Fatal events",
+          "finding": "Fatal-event row is0/0 for exposed134/66. Footnote c overrides on-treatment table title to in-trial. Randomized134/67 is not the correct exposed denominator.",
+          "locators_examined": [
+            "PDF1-3 identity, eligibility,68+7 weeks and safety analysis sets",
+            "PDF4 Figure1",
+            "PDF9 Table3 fatal row and full footnotes"
+          ],
+          "primary_bytes_hash_verified": true,
+          "reading_scope": "Directed reading of the named primary-source scopes; no claim to full independent reading of all material attached to this unit.",
+          "sha256": "aae90dd106a53892edfda7bf46a7757f66b534fa71023c3200582f26211325f8",
+          "source_id": "SRC-aae90dd106a53892edfda7bf",
+          "visual_pdf_pages_examined": [
+            9
+          ]
+        }
+      ],
+      "title": "OASIS 2",
+      "unit_id": "NCT05132088:CANDIDATE_BLOCK",
+      "window": {
+        "complete_vital_status_claim": false,
+        "coverage": "Safety through week75; fatal-events row footnote c explicitly in-trial from randomization to last site contact regardless of discontinuation or other weight-lowering treatment.",
+        "planned_off_treatment_observation": "7 weeks",
+        "treatment": "68 weeks"
+      }
+    },
+    {
+      "affected_positions": [
+        {
+          "decision": "retain_complete",
+          "frozen_status": "complete_derived",
+          "human_return_not_overwritten": true,
+          "indicator_supported_by_exact_witness": 1,
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05035095:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "A",
+            "unit_id": "NCT05035095:CANDIDATE_BLOCK",
+            "window_id": "NCT05035095:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-fbb6ff4f404cf823b302",
+          "reason_for_difference": "The returned rationale evaluates a registry-only or unexamined-source preparation scope. It does not identify an incompatible observed count in the complete primary witness. The cumulative indicator therefore needs witness-based technical reconciliation, with the returned judgments retained.",
+          "substantive_primary_evidence_conflict_found": false,
+          "supported_source_scoped_status": "complete_derived"
+        },
+        {
+          "decision": "retain_complete",
+          "frozen_status": "complete_derived",
+          "human_return_not_overwritten": true,
+          "indicator_supported_by_exact_witness": 1,
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05035095:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B1",
+            "unit_id": "NCT05035095:CANDIDATE_BLOCK",
+            "window_id": "NCT05035095:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-b3e4f92a192bdd2d0fa0",
+          "reason_for_difference": "The returned rationale evaluates a registry-only or unexamined-source preparation scope. It does not identify an incompatible observed count in the complete primary witness. The cumulative indicator therefore needs witness-based technical reconciliation, with the returned judgments retained.",
+          "substantive_primary_evidence_conflict_found": false,
+          "supported_source_scoped_status": "complete_derived"
+        },
+        {
+          "decision": "retain_complete",
+          "frozen_status": "complete_derived",
+          "human_return_not_overwritten": true,
+          "indicator_supported_by_exact_witness": 1,
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05035095:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B2",
+            "unit_id": "NCT05035095:CANDIDATE_BLOCK",
+            "window_id": "NCT05035095:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-1e2166b41ea48bbfd40d",
+          "reason_for_difference": "The returned rationale evaluates a registry-only or unexamined-source preparation scope. It does not identify an incompatible observed count in the complete primary witness. The cumulative indicator therefore needs witness-based technical reconciliation, with the returned judgments retained.",
+          "substantive_primary_evidence_conflict_found": false,
+          "supported_source_scoped_status": "complete_derived"
+        },
+        {
+          "decision": "retain_complete",
+          "frozen_status": "complete_derived",
+          "human_return_not_overwritten": true,
+          "indicator_supported_by_exact_witness": 1,
+          "key": {
+            "component": "suicide_death",
+            "modality": "reported_all_cause_mortality_derivation",
+            "reference_id": "NCT05035095:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+            "stage": "B3",
+            "unit_id": "NCT05035095:CANDIDATE_BLOCK",
+            "window_id": "NCT05035095:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+          },
+          "position_id": "POS-199caeb6ff0b948aaa74",
+          "reason_for_difference": "The returned rationale evaluates a registry-only or unexamined-source preparation scope. It does not identify an incompatible observed count in the complete primary witness. The cumulative indicator therefore needs witness-based technical reconciliation, with the returned judgments retained.",
+          "substantive_primary_evidence_conflict_found": false,
+          "supported_source_scoped_status": "complete_derived"
+        }
+      ],
+      "arms_and_derived_suicide_death_counts": [
+        {
+          "arm": "Oral semaglutide 50 mg",
+          "derived_suicide_death_n": 0,
+          "exposed_n": 334,
+          "randomized_n": 334
+        },
+        {
+          "arm": "Placebo",
+          "derived_suicide_death_n": 0,
+          "exposed_n": 333,
+          "randomized_n": 333
+        }
+      ],
+      "caveats": [
+        "Safety analysis uses actual treatment received; this is retained as the exposed target, not assumed ITT.",
+        "End-of-trial attendance320/307 is less than334/333; documentary reconstruction is not proof of full vital ascertainment.",
+        "No structured suicidality or ideation/attempt completeness is inferred from nonspecific psychiatric adverse events."
+      ],
+      "corrections_to_narrative_or_extraction": [],
+      "decision": "retain_complete",
+      "decision_type": "Technical AI reconciliation against primary evidence, not a new human vote or silent overwrite of independent reviewer returns.",
+      "eligible_population": "Adults with BMI at least30 or at least27 and a weight-related complication; no diagnosed diabetes at screening. Both randomized groups meet the obesity/overweight criterion.",
+      "fixed_reference": "Participants eligible at baseline who received at least one dose in the initial parallel comparison.",
+      "new_human_case_required_on_this_technical_evidence_alone": false,
+      "phase_check": {
+        "locator": "PDF2 Study design",
+        "source_id": "SRC-5bd929df338d94e534d8c062",
+        "status": "confirmed_phase3"
+      },
+      "position_count": 4,
+      "reconciliation_reasoning": "Own primary article supplies exposure counts, eligible population, full planned initial observation and explicit zero-fatal row. Thus zero suicide deaths are logically derivable in both arms at all inherited stages. Appended protocol plans are not needed to invent observed counts.",
+      "sources_examined": [
+        {
+          "brief_quote": "No deaths occurred.",
+          "finding": "No deaths occurred; fatal-events0/0 carries dagger explicitly referring to in-trial. All334/333 randomized participants received at least one dose.",
+          "locators_examined": [
+            "PDF2 phase and identity",
+            "PDF3 eligibility,68+7 weeks and Figure1 exposed counts",
+            "PDF4 safety outcomes/window",
+            "PDF5 safety set and observation periods",
+            "PDF10-11 Table3 fatal row, no-deaths narrative, full footnotes"
+          ],
+          "primary_bytes_hash_verified": true,
+          "reading_scope": "Directed reading of the named primary-source scopes; no claim to full independent reading of all material attached to this unit.",
+          "sha256": "5bd929df338d94e534d8c062eeaea661cde622f8c481d02f6a376a35e64c5d2b",
+          "source_id": "SRC-5bd929df338d94e534d8c062",
+          "visual_pdf_pages_examined": [
+            10,
+            11
+          ]
+        }
+      ],
+      "title": "OASIS 1",
+      "unit_id": "NCT05035095:CANDIDATE_BLOCK",
+      "window": {
+        "complete_vital_status_claim": false,
+        "coverage": "Safety through week75. Fatal events specifically reported for in-trial interval regardless of treatment discontinuation or other weight-lowering therapy.",
+        "planned_off_treatment_observation": "7 weeks",
+        "treatment": "68 weeks"
+      }
+    }
+  ]
+}
