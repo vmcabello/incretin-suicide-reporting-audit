@@ -1,6 +1,6 @@
 {
-  "version": "v1.3.0",
-  "scope": "Public supporting directory with marked new-identifier subsets; original rows and scientific decisions retained.",
+  "version": "v1.4.0",
+  "scope": "Marked search subsets remain unchanged; chronology validator additionally accepts the received and integrated source-linked follow-up.",
   "files": [
     {
       "path": "CASE_REPRESENTATION_EDGES_EN.json",
@@ -114,8 +114,8 @@
     },
     {
       "path": "validate_marked_subsets.py",
-      "bytes": 6129,
-      "sha256": "d76469d158ee9712a51ba3118f63e17dd73f5414610b7ccf33e2496ac2ffd95d"
+      "bytes": 7891,
+      "sha256": "84f8510b5d53d7fa585327e812e493e3a07202564bbb7f7334fcaa8b00cad195"
     },
     {
       "path": "validate_search_trace.py",

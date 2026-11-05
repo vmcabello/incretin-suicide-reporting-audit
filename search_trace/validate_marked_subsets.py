@@ -71,15 +71,38 @@ def validate(root):
         history = read(chronology)
         assert semantic_sha(history['events'][:8]) == history['historical_first_eight_events_semantic_sha256']
         assert len(history['events']) >= 14
+        # The first 15 entries are the preserved v1.3.0 history. Receipt and
+        # execution of the subsequent source-linked exercise are append-only.
+        assert semantic_sha(history['events'][:15]) == history['pre_source_review109_first_fifteen_events_semantic_sha256']
         requested = [i for i, e in enumerate(history['events']) if e.get('status') == 'revision_requested_matched_source_human_work_not_established_by_this_chronology']
         assert len(requested) == 1
         assert history['events'][requested[0]-1]['journal_submission_sent'] is False
         # Later dated technical progress may be appended without rewriting the
         # preceding request or converting a prepared lot to completed readings.
         for event in history['events'][requested[0]+1:]:
-            assert event['status'] == 'sensitivity_completed_targeted_human_review_pending'
-            assert event['historical_primary_codes_changed'] is False
-            assert event['new_human_votes_created'] is False
+            status = event['status']
+            if status == 'sensitivity_completed_targeted_human_review_pending':
+                assert event['historical_primary_codes_changed'] is False
+                assert event['new_human_votes_created'] is False
+            elif status == 'targeted_source_review109_locked_returns_received':
+                assert event['positions_per_reviewer'] == 109
+                assert event['distinct_review_positions_in_previous_frame'] == 663
+                assert event['followup_is_subset_of_previous_663_frame'] is True
+                assert event['human_reading_or_independence_independently_certified'] is False
+                assert event['new_human_votes_created_by_technical_integration'] is False
+            elif status == 'targeted_source_review109_integrated_with_cumulative_gaps_preserved':
+                assert event['historical_snapshot_bytes_changed'] is False
+                assert event['new_integrated_results_added'] is True
+                assert event['historical_positive_positions_confirmed_in_two_exercises'] == 57
+                assert event['newly_positive_sampled_positions'] == 4
+                assert event['incomplete_reviewed_scopes_preserved_as_unknown'] == 13
+                assert event['new_human_votes_created_by_technical_integration'] is False
+                assert event['full_uniform_source_extraction_claimed'] is False
+            elif status == 'completed_public_support_release':
+                assert event['version'] == 'v1.4.0'
+                assert event['historical_snapshot_bytes_changed'] is False
+            else:
+                raise AssertionError('Unrecognized appended chronology event: '+status)
     for p in (root / 'SEARCH_UPDATE_REPRESENTATIONS_2558_EN.json', root / 'NEW_IDENTIFIER_SUBSET_MEMBERSHIP_2558_EN.json'):
         raw = p.read_bytes()
         assert b'\r\n' not in raw, p

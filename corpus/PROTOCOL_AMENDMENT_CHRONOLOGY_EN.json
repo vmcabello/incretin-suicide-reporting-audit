@@ -160,6 +160,43 @@
       "historical_primary_codes_changed": false,
       "new_human_votes_created": false,
       "source_protocol_sha256_original_bytes": "0fa27e24716f7de44926ec1be47cdd99ded41d9374c767de882717db9cd10f5a"
+    },
+    {
+      "date": "2026-11-05",
+      "event": "Source-linked follow-up returns received with declared independent human provenance",
+      "document": "source_review109/PAIRED_RATINGS_109.json and source_review109/INTEGRATION_STATUS.json",
+      "change": "Two locked 109-position sets across 59 dossiers received. Each declares human completion, separate formation before discussion, prior project exposure and no substantive AI judgment in final decisions. The 109 exact positions are a follow-up subset of the preceding 663-position frame, not 109 additional independently sampled positions.",
+      "timing_and_provenance": "Declared metadata preserve a technical lock time of 2026-11-05T17:15:46.341775+00:00. This is not independently certified first-reading or signature time. Source examination remains limited to the pages, sections and targets explicitly recorded; no full uniform source extraction or external/memory-blinded validation is claimed.",
+      "status": "targeted_source_review109_locked_returns_received",
+      "raw_return_sha256": {
+        "R1": "15c43173ab507718457c506b9a3e269e14a5e0d5db202dcd44bc65fabddcddd9",
+        "R2": "f9cab2b6821401cfe2672721e576b394f21d9c0ab2a4fc2dda67c8d41bb479ed"
+      },
+      "positions_per_reviewer": 109,
+      "dossiers": 59,
+      "distinct_review_positions_in_previous_frame": 663,
+      "followup_is_subset_of_previous_663_frame": true,
+      "human_reading_or_independence_independently_certified": false,
+      "new_human_votes_created_by_technical_integration": false
+    },
+    {
+      "date": "2026-11-05",
+      "event": "Source-linked follow-up integrated in a new analysis, retaining exact and cumulative comparisons",
+      "document": "source_review109/",
+      "status": "targeted_source_review109_integrated_with_cumulative_gaps_preserved",
+      "change": "All 37 previously indeterminate historical positive positions now have concordant complete-derived follow-up ratings, completing the historical 57-positive census together with 20 confirmations from the preceding exercise. Four newly positive sampled positions have targeted primary-content checks. Thirteen incompletely examined scopes remain unknown. The new conservative primary integration reuses positive witnesses only in layers admitting every source required by their proof, and propagates pertinent unresolved gaps cumulatively within the same outcome/modality/reference/window; an exact-key-only integration is retained as a sensitivity. No registry or regulatory proof is imported into an article-only layer.",
+      "timing_and_provenance": "Post-hoc integration of supplied locked votes. The two-stage 72-negative sample, fixed seed, original 37-positive requirement, source-layer rules and original return files are preserved. Positive technical checks are not additional human votes. Scope-limited unknowns and coding differences are not externally validated errors or estimates of accuracy. Source availability at 19 October 2026 is not uniformly certified.",
+      "historical_snapshot_bytes_changed": false,
+      "new_integrated_results_added": true,
+      "historical_positive_positions_confirmed_in_two_exercises": 57,
+      "newly_positive_sampled_positions": 4,
+      "additional_admissible_layer_indicators_are_technical_deductions_not_new_human_votes": true,
+      "additional_source_admissible_positive_witness_reuse_keys": 6,
+      "additional_strictly_forward_positive_witness_keys": 1,
+      "incomplete_reviewed_scopes_preserved_as_unknown": 13,
+      "new_human_votes_created_by_technical_integration": false,
+      "full_uniform_source_extraction_claimed": false,
+      "author_approval_of_new_manuscript_or_journal_submission_inferred": false
     }
   ],
   "original_rule_analysis_not_falsely_reconstructed": true,
@@ -170,5 +207,7 @@
   "historical_first_eight_events_preserved": true,
   "historical_first_eight_events_semantic_sha256": "229e19d06fc918bfba01f2f8eecd3cae3de21fd6cec15143624f8139ec3e23f4",
   "addendum_created_on": "2026-11-05",
-  "do_not_treat_historical_status_text_as_current_status": "Earlier entries report their status at their own date; later dated entries supersede progress statements without altering the preserved historical protocol."
+  "do_not_treat_historical_status_text_as_current_status": "Earlier entries report their status at their own date; later dated entries supersede progress statements without altering the preserved historical protocol.",
+  "pre_source_review109_first_fifteen_events_preserved": true,
+  "pre_source_review109_first_fifteen_events_semantic_sha256": "6285e497e4e00424eb07aee840cc789da1bdcf28287f3debf8072565eca2890e"
 }

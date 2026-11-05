@@ -1,0 +1,250 @@
+{
+  "schema": "source-bibliography-v1",
+  "metadata_read_from_originals": true,
+  "historical_cutoff_version_certified": false,
+  "sources": [
+    {
+      "source_prefix": "6f9b733",
+      "type": "primary_trial_article",
+      "title": "Once-Weekly Semaglutide in Adults with Overweight or Obesity",
+      "authors": [
+        "John P. H. Wilding",
+        "Rachel L. Batterham",
+        "Salvatore Calanna",
+        "Melanie Davies",
+        "Luc F. Van Gaal",
+        "Ildiko Lingvay",
+        "Barbara M. McGowan",
+        "Julio Rosenstock",
+        "Marie T. D. Tran",
+        "Thomas A. Wadden",
+        "Sean Wharton",
+        "Koutaro Yokote",
+        "Niels Zeuthen",
+        "Robert F. Kushner"
+      ],
+      "group": "STEP 1 Study Group",
+      "journal": "New England Journal of Medicine",
+      "year": 2021,
+      "volume": "384",
+      "issue": "11",
+      "pages": "989–1002",
+      "doi": "10.1056/NEJMoa2032183",
+      "first_online_date_in_original": "2021-02-10",
+      "issue_date_in_original": "2021-03-18",
+      "metadata_locator": "PDF p.1",
+      "version_note": "Supplied publisher PDF, footer downloaded 22 April 2021; not a current publisher-correction audit.",
+      "source_id": "SRC-6f9b733543eda61db264d37c",
+      "sha256": "6f9b733543eda61db264d37c580940b060ae1f7440c708e6670671b8d3eec3f0"
+    },
+    {
+      "source_prefix": "2beda1",
+      "type": "primary_pooled_trial_article",
+      "title": "Psychiatric Safety of Tirzepatide in People With Obesity and No Known Major Psychopathology: A Post Hoc Analysis of SURMOUNT",
+      "authors": [
+        "Thomas A. Wadden",
+        "Maria A. Oquendo",
+        "Robert F. Kushner",
+        "Dachuang Cao",
+        "Chrisanthi A. Karanikas",
+        "Afton Kechter",
+        "Madhumita A. Murphy"
+      ],
+      "journal": "Obesity",
+      "year": 2026,
+      "volume": "34",
+      "issue": "3",
+      "pages": "565–578",
+      "doi": "10.1002/oby.70122",
+      "received_date_in_original": "2025-07-18",
+      "revised_date_in_original": "2025-10-22",
+      "accepted_date_in_original": "2025-11-10",
+      "first_online_date_in_original": null,
+      "metadata_locator": "PDF p.1 for title/authors/year/volume/pages/DOI; running footer indicates 2026, issue3",
+      "version_note": "Supplied final paginated open-access PDF. Download footer states UNICAMP, 23 September 2026. That footer is an observation of the file, not independent certification of historical cutoff availability.",
+      "source_id": "SRC-2beda1e5ae1e8b0a65b108e9",
+      "sha256": "2beda1e5ae1e8b0a65b108e9b5cf7e53dec6b100b97e22535e5fdde63d9ad8e8"
+    },
+    {
+      "source_prefix": "4ffc5b",
+      "type": "regulatory_clinical_review",
+      "title": "Clinical Review: NDA 217806, Zepbound (tirzepatide)",
+      "authors": [
+        "Raymond Soccio"
+      ],
+      "institution": "US Food and Drug Administration, Center for Drug Evaluation and Research; Division of Diabetes, Lipid Disorders, and Obesity",
+      "year": 2023,
+      "journal": null,
+      "pages": "267 PDF pages; printed pp.194–196 correspond to PDF pp.195–197",
+      "doi": null,
+      "application_number": "217806Orig1s000",
+      "reference_id": "5274339",
+      "review_completion_date_in_original": "2023-11-07",
+      "received_date_in_original": "2023-05-08",
+      "metadata_locator": "PDF pp.1–2",
+      "version_note": "Clinical Review(s) PDF as supplied. Exact version at historical cutoff not independently certified.",
+      "source_id": "SRC-4ffc5bea39958298693d4c7c",
+      "sha256": "4ffc5bea39958298693d4c7c340173b79647651c940c95b7cf4b4233e7ddda4e"
+    },
+    {
+      "source_prefix": "88198d",
+      "type": "primary_trial_article",
+      "title": "Exenatide in obesity with accelerated gastric emptying: a randomized, pharmacodynamics study",
+      "authors": [
+        "Andres Acosta",
+        "Michael Camilleri",
+        "Duane Burton",
+        "Jessica O’Neill",
+        "Deborah Eckert",
+        "Paula Carlson",
+        "Alan R. Zinsmeister"
+      ],
+      "journal": "Physiological Reports",
+      "year": 2015,
+      "volume": "3",
+      "issue": "11",
+      "pages": "e12610",
+      "doi": "10.14814/phy2.12610",
+      "publication_date_in_original": "2015-11-05",
+      "pmc_release_date_in_original": "2015-11-09",
+      "pmid": "26542264",
+      "pmcid": "PMC4632965",
+      "metadata_locator": "Original XML front/journal-meta and front/article-meta",
+      "version_note": "Structured original full-text XML; release and article metadata read directly, not inferred from filename.",
+      "source_id": "SRC-88198dfa955eb9e1b03c00dc",
+      "sha256": "88198dfa955eb9e1b03c00dc004f9380e690fe0cf2ad44d375eccbe096e0846f"
+    },
+    {
+      "source_prefix": "e99077",
+      "type": "primary_trial_article",
+      "title": "Dulaglutide as add-on therapy to SGLT2 inhibitors in patients with inadequately controlled type 2 diabetes (AWARD-10): a 24-week, randomised, double-blind, placebo-controlled trial",
+      "authors": [
+        "Bernhard Ludvik",
+        "Juan P. Frías",
+        "Francisco J. Tinahones",
+        "Julio Wainstein",
+        "Honghua Jiang",
+        "Kenneth E. Robertson",
+        "Luis-Emilio García-Pérez",
+        "D. Bradley Woodward",
+        "Zvonko Milicevic"
+      ],
+      "journal": "Lancet Diabetes & Endocrinology",
+      "year": 2018,
+      "volume": "6",
+      "pages": "370–381",
+      "doi": "10.1016/S2213-8587(18)30023-8",
+      "first_online_date_in_original": "2018-02-23",
+      "corrected_version_date_in_original": "2018-05-23",
+      "metadata_locator": "PDF p.1",
+      "version_note": "Original explicitly states the online publication was corrected and corrected version first appeared23May2018. Supplied publisher PDF carries ClinicalKey download footer28October2026, so this exact local copy is not evidence it was archived before19October.",
+      "source_id": "SRC-e9907728c66e8c6f728bbb65",
+      "sha256": "e9907728c66e8c6f728bbb65160cd33f69174bbcda75153e19ff7a9c0850028a"
+    },
+    {
+      "source_prefix": "dbbddc",
+      "type": "trial_protocol",
+      "title": "A Randomized, Parallel-Arm, Double-Blind Study of Efficacy and Safety of Dulaglutide When Added to SGLT2 Inhibitors in Patients With Type 2 Diabetes Mellitus",
+      "authors": [
+        "Eli Lilly and Company"
+      ],
+      "year": 2016,
+      "protocol_version": "H9X-MC-GBGE(b)",
+      "nct_id": "NCT02597049",
+      "approval_date_in_original": "2016-03-28",
+      "metadata_locator": "PDF p.1",
+      "version_note": "Protocol version b, 85 PDF pages; document cover states approval date, not publication/deposit date.",
+      "source_id": "SRC-dbbddc56f1509c231be3d2ca",
+      "sha256": "dbbddc56f1509c231be3d2ca44595cab04d02539c53eb32bb8249e59f67fb4bd"
+    },
+    {
+      "source_prefix": "ed94ca",
+      "type": "statistical_analysis_plan",
+      "title": "A Randomized, Parallel-Arm, Double-Blind Study of Efficacy and Safety of Dulaglutide When Added to SGLT2 Inhibitors in Patients With Type 2 Diabetes Mellitus",
+      "authors": [
+        "Eli Lilly and Company"
+      ],
+      "year": 2016,
+      "plan_version": "H9X-MC-GBGE Statistical Analysis Plan V2",
+      "nct_id": "NCT02597049",
+      "approval_date_in_original": "2016-04-01",
+      "metadata_locator": "PDF p.1",
+      "version_note": "SAP version2, 32 PDF pages; cover approval date is not a proof of deposit or retrieval date.",
+      "source_id": "SRC-ed94ca0de7ead4d6bacced22",
+      "sha256": "ed94ca0de7ead4d6bacced22b1d676f8172553a6b7442186efcc9596cea419d0"
+    },
+    {
+      "source_prefix": "309815",
+      "type": "primary_trial_article",
+      "title": "Tirzepatide once weekly for the treatment of obesity in people with type 2 diabetes (SURMOUNT-2): a double-blind, randomised, multicentre, placebo-controlled, phase 3 trial",
+      "authors": [
+        "W. Timothy Garvey",
+        "Juan P. Frias",
+        "Ania M. Jastreboff",
+        "Carel W. le Roux",
+        "Naveed Sattar",
+        "Diego Aizenberg",
+        "Huzhang Mao",
+        "Shuyu Zhang",
+        "Nadia N. Ahmad",
+        "Mathijs C. Bunck",
+        "Imane Benabbad",
+        "Xiaotian M. Zhang"
+      ],
+      "group": "SURMOUNT-2 investigators",
+      "journal": "Lancet",
+      "year": 2023,
+      "volume": "402",
+      "pages": "613–626",
+      "doi": "10.1016/S0140-6736(23)01200-X",
+      "first_online_date_in_original": "2023-06-24",
+      "issue_date_in_original": "2023-08-19",
+      "metadata_locator": "PDF p.1",
+      "version_note": "Own trial article provides treatment allocation, treated denominators and all-cause death counts. Not the sole source of attempt-zero derivation.",
+      "source_id": "SRC-309815fc7ea758643ff59e8f",
+      "sha256": "309815fc7ea758643ff59e8f6a71c933f700c2f148626d18c071f12353647582"
+    },
+    {
+      "source_id": "SRC-928e5d0e0d010ed5308d0840",
+      "sha256": "928e5d0e0d010ed5308d084087859cb7ca3cef707ad7a948a643aef81b529f36",
+      "type": "trial_registry",
+      "title": "Efficacy and Safety of Tirzepatide Once Weekly in Participants With Type 2 Diabetes Who Have Obesity or Are Overweight: A Randomized, Double-Blind, Placebo-Controlled Trial (SURMOUNT-2)",
+      "nct_id": "NCT04657003",
+      "author_or_host": "ClinicalTrials.gov; sponsor as identified in registry",
+      "last_update_post_date_struct": {
+        "date": "2024-04-08",
+        "type": "ACTUAL"
+      },
+      "metadata_locator": "protocolSection.identificationModule and statusModule.lastUpdatePostDateStruct",
+      "version_note": "Last-update field recorded as supplied; actual versus estimated date type retained. Exact historical byte version not independently certified."
+    },
+    {
+      "source_id": "SRC-a340c011e52f9440ddd3e020",
+      "sha256": "a340c011e52f9440ddd3e020b004f9d66730f300dc5fa4a7371f1c3a825d6e0e",
+      "type": "trial_registry",
+      "title": "Effect of Exenatide in Obese Patients With Accelerated Gastric Emptying",
+      "nct_id": "NCT02160990",
+      "author_or_host": "ClinicalTrials.gov; sponsor as identified in registry",
+      "last_update_post_date_struct": {
+        "date": "2016-08-09",
+        "type": "ESTIMATED"
+      },
+      "metadata_locator": "protocolSection.identificationModule and statusModule.lastUpdatePostDateStruct",
+      "version_note": "Last-update field recorded as supplied; actual versus estimated date type retained. Exact historical byte version not independently certified."
+    },
+    {
+      "source_id": "SRC-aeab7982dc7024416ef0ef76",
+      "sha256": "aeab7982dc7024416ef0ef76cd3dedd5cebddf8d689aea411dfb1ac8cb9ad542",
+      "type": "trial_registry",
+      "title": "A Randomized, Parallel-Arm, Double-Blind Study of Efficacy and Safety of Dulaglutide When Added to SGLT2 Inhibitors in Patients With Type 2 Diabetes Mellitus",
+      "nct_id": "NCT02597049",
+      "author_or_host": "ClinicalTrials.gov; sponsor as identified in registry",
+      "last_update_post_date_struct": {
+        "date": "2020-06-17",
+        "type": "ACTUAL"
+      },
+      "metadata_locator": "protocolSection.identificationModule and statusModule.lastUpdatePostDateStruct",
+      "version_note": "Last-update field recorded as supplied; actual versus estimated date type retained. Exact historical byte version not independently certified."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schema": "source-linked-followup109-current-status-v1",
+  "date": "2026-11-05",
+  "version": "v1.4.0",
+  "status": "LOCKED_DECLARED_HUMAN_RETURNS_INTEGRATED_SOURCE_COVERAGE_LIMITS_PRESERVED",
+  "source_linked_positions_per_reviewer": 109,
+  "dossiers": 59,
+  "followup_is_subset_of_preceding_663_positions": true,
+  "author_reported_independent_human_assessment": true,
+  "external_or_memory_blinded_validation": false,
+  "independent_human_reading_or_authorship_certified_by_software": false,
+  "historical_57_positive_confirmation": {
+    "preceding_exercise": 20,
+    "source_linked_followup": 37,
+    "combined": 57
+  },
+  "newly_positive_sampled_positions": 4,
+  "incomplete_reviewed_scopes_preserved_unknown": 13,
+  "current_model": "accepted_conservative_cumulative_integration",
+  "change_counts": {
+    "exact_human_keys_effective_indicator_changed": 17,
+    "exact_human_keys_source_scoped_label_changed": 12,
+    "exact_human_position_keys_integrated": 109,
+    "exact_original_proof_reuse_in_earlier_admissible_layer_keys": 6,
+    "forward_incomplete_scope_effective_indicator_changes": 21,
+    "forward_incomplete_scope_keys_annotated": 22,
+    "principal_any_metadata_or_indicator_changed_keys": 137,
+    "principal_effective_indicator_changed_keys": 45,
+    "strictly_forward_positive_witness_effective_indicator_changes": 1,
+    "strictly_forward_positive_witness_keys": 1
+  },
+  "historical_snapshots_overwritten": false,
+  "new_human_votes_created_by_technical_reuse_or_gap_propagation": false,
+  "full_uniform_source_extraction_claimed": false,
+  "historical_cutoff_versions_uniformly_certified": false,
+  "renewed_manuscript_approval_inferred": false,
+  "journal_submission_sent": false,
+  "comparison_without_scope_gap_propagation_is_sensitivity": true
+}

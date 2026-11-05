@@ -1,0 +1,147 @@
+{
+  "accepted_position_ids": [
+    "POS-2d0448e75c22100c83c2",
+    "POS-6040eb8d44115b0ca53e",
+    "POS-9edde8c14b9719bfa779",
+    "POS-a608a5cb04ed71cf72d8"
+  ],
+  "human_labels_not_changed": true,
+  "minimal_source_sets": [
+    {
+      "additional_earlier_layers_supported_if_guard_passes": [
+        "A",
+        "B1",
+        "B2"
+      ],
+      "classification_supported": "complete_derived",
+      "component": "suicide_death",
+      "earliest_admissible_stage_if_guard_passes": "A",
+      "minimal_required_source_ids": [
+        "SRC-6f9b733543eda61db264d37c"
+      ],
+      "minimal_required_sources": [
+        {
+          "locator": "PDF pp.3,10; Table3 and full notes*,†,‡; printedp.998",
+          "sha256": "6f9b733543eda61db264d37c580940b060ae1f7440c708e6670671b8d3eec3f0",
+          "source_id": "SRC-6f9b733543eda61db264d37c"
+        }
+      ],
+      "modality": "adverse_event_reports",
+      "new_human_vote": false,
+      "positive_position_id_verified": "POS-a608a5cb04ed71cf72d8",
+      "reference_and_window_guard": "Use the exact reference_id/window_id of this verified position; no population or timing substitution.",
+      "scientific_basis": "The own NEJM article alone establishes the treated safety denominators, all-reported fatal-event cause list, and in-trial observation through the planned 75 weeks. Neither registry nor CSR is indispensable. Preserve the internal placebo fatal-participant/event discrepancy; do not claim a resolved all-cause participant total.",
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK"
+    },
+    {
+      "additional_earlier_layers_supported_if_guard_passes": [
+        "A",
+        "B1"
+      ],
+      "classification_supported": "complete_derived",
+      "component": "suicide_death",
+      "earliest_admissible_stage_if_guard_passes": "A",
+      "minimal_required_source_ids": [
+        "SRC-88198dfa955eb9e1b03c00dc"
+      ],
+      "minimal_required_sources": [
+        {
+          "locator": "OriginalXML sec3StudyDesign;sec4Participants;sec9Safety;sec22AdverseEvents;Table2",
+          "sha256": "88198dfa955eb9e1b03c00dc004f9380e690fe0cf2ad44d375eccbe096e0846f",
+          "source_id": "SRC-88198dfa955eb9e1b03c00dc"
+        }
+      ],
+      "modality": "adverse_event_reports",
+      "new_human_vote": false,
+      "positive_position_id_verified": "POS-9edde8c14b9719bfa779",
+      "reference_and_window_guard": "Use the exact reference_id/window_id of this verified position; no population or timing substitution.",
+      "scientific_basis": "The own original XML alone establishes 10 exposed participants per randomized arm, 30-day study, all completed, and the universal statement of no deaths or adverse events. Registry absence of deathsNumAffected is not used. The registry is confirmatory rather than indispensable.",
+      "unit_id": "NCT02160990:CANDIDATE_BLOCK"
+    },
+    {
+      "additional_earlier_layers_supported_if_guard_passes": [
+        "B2"
+      ],
+      "classification_supported": "complete_derived",
+      "component": "suicide_death",
+      "earliest_admissible_stage_if_guard_passes": "B2",
+      "minimal_required_source_ids": [
+        "SRC-e9907728c66e8c6f728bbb65",
+        "SRC-dbbddc56f1509c231be3d2ca"
+      ],
+      "minimal_required_sources": [
+        {
+          "locator": "AWARD-10publisherPDFpp.1,6,8;Methods;Table2 andmortalityparagraph",
+          "sha256": "e9907728c66e8c6f728bbb65160cd33f69174bbcda75153e19ff7a9c0850028a",
+          "source_id": "SRC-e9907728c66e8c6f728bbb65"
+        },
+        {
+          "locator": "ProtocolH9X-MC-GBGE(b),PDFpp.17–19,41–42,67–70;FigGBGE.1,§§4.1–4.2,8.2–8.2.1;ScheduleofActivities",
+          "sha256": "dbbddc56f1509c231be3d2ca44595cab04d02539c53eb32bb8249e59f67fb4bd",
+          "source_id": "SRC-dbbddc56f1509c231be3d2ca"
+        }
+      ],
+      "modality": "reported_all_cause_mortality_derivation",
+      "new_human_vote": false,
+      "positive_position_id_verified": "POS-2d0448e75c22100c83c2",
+      "reference_and_window_guard": "Use the exact reference_id/window_id of this verified position; no population or timing substitution.",
+      "scientific_basis": "The own corrected article supplies 142/141/140 treated denominators and the exhaustive 2/0/0 death count with the two non-suicide causes. Protocol GBGE(b) supplies the planned final Visit11/week24 or ET and rules out an additional routine observation visit, distinguishing subsequent passive related-SAE notification. SAP and registry corroborate but are not indispensable to this minimal chain. The article alone does not settle the observation-window issue to the same standard; do not promote A/B1.",
+      "unit_id": "NCT02597049:CANDIDATE_BLOCK"
+    },
+    {
+      "additional_earlier_layers_supported_if_guard_passes": [],
+      "classification_supported": "complete_derived",
+      "component": "suicide_attempt",
+      "earliest_admissible_stage_if_guard_passes": "B3",
+      "minimal_required_source_ids": [
+        "SRC-4ffc5bea39958298693d4c7c",
+        "SRC-2beda1e5ae1e8b0a65b108e9",
+        "SRC-928e5d0e0d010ed5308d0840"
+      ],
+      "minimal_required_sources": [
+        {
+          "locator": "FDA NDA217806ClinicalReview PDFpp.196–197, printedpp.195–196; completeSMQ/FMQparagraphs andcase narratives",
+          "sha256": "4ffc5bea39958298693d4c7c340173b79647651c940c95b7cf4b4233e7ddda4e",
+          "source_id": "SRC-4ffc5bea39958298693d4c7c"
+        },
+        {
+          "locator": "PrimarypublicationObesity2026 PDFpp.3,7–9;Methods2.2–2.4;Results3.2.5;Table6rows#16/#17",
+          "sha256": "2beda1e5ae1e8b0a65b108e9b5cf7e53dec6b100b97e22535e5fdde63d9ad8e8",
+          "source_id": "SRC-2beda1e5ae1e8b0a65b108e9"
+        },
+        {
+          "locator": "JSON protocolSection.identificationModule.secondaryIdInfos;resultsSection.adverseEventsModule.{timeFrame,description,eventGroups}",
+          "sha256": "928e5d0e0d010ed5308d084087859cb7ca3cef707ad7a948a643aef81b529f36",
+          "source_id": "SRC-928e5d0e0d010ed5308d0840"
+        }
+      ],
+      "modality": "adverse_event_reports",
+      "new_human_vote": false,
+      "positive_position_id_verified": "POS-6040eb8d44115b0ca53e",
+      "reference_and_window_guard": "Use the exact reference_id/window_id of this verified position; no population or timing substitution.",
+      "scientific_basis": "FDA supplies the exhaustive AE suicide-search set; the psychiatric publication supplies trial identity of both attempt participants and confirms no additional AE cases, with off-treatment safety follow-up. The own registry establishes GPHL/SURMOUNT-2 identity, treated arm denominators and baseline-through-week76 window. The regulatory source is indispensable in this accepted proof chain, so no earlier-layer promotion is authorized.",
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK"
+    }
+  ],
+  "minimal_source_sets_sha256": "bb7d74acefc9e7e8981f80eb48ee9d974c819a229838885879d6a5edad51feef",
+  "required_original_source_ids_by_position": {
+    "POS-2d0448e75c22100c83c2": [
+      "SRC-e9907728c66e8c6f728bbb65",
+      "SRC-dbbddc56f1509c231be3d2ca"
+    ],
+    "POS-6040eb8d44115b0ca53e": [
+      "SRC-4ffc5bea39958298693d4c7c",
+      "SRC-2beda1e5ae1e8b0a65b108e9",
+      "SRC-928e5d0e0d010ed5308d0840"
+    ],
+    "POS-9edde8c14b9719bfa779": [
+      "SRC-88198dfa955eb9e1b03c00dc"
+    ],
+    "POS-a608a5cb04ed71cf72d8": [
+      "SRC-6f9b733543eda61db264d37c"
+    ]
+  },
+  "status": "all_four_positive_witnesses_technically_supported",
+  "technical_confirmation_is_not_an_additional_human_vote": true,
+  "technical_source_audit_sha256": "a4f23964f15ec9ff9b9d790ad8a3ba1df22d824f8c8db029f22f84b7a1771e0e"
+}

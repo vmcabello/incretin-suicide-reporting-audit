@@ -1,0 +1,12 @@
+{
+  "schema": "regenerable-output-storage-policy-v1",
+  "files": {
+    "SOURCE_REVIEW109_EXACT_KEY_SENSITIVITY_INPUT.json": "a3ee1b6d8fc43e1e2c67fbb04a6fff36b640aece5ec56314f1af66b5b9349e7c",
+    "SOURCE_REVIEW109_INTEGRATED_INPUT.json": "901d3f7839b2769be21e4600b0000731ab2c239c453bd521aff251ea4b00a5ef"
+  },
+  "stored_in_public_projection": false,
+  "reason": "These two approximately25MB coded-input outputs are exactly reconstructible from the preserved historical input, minimal follow-up projection and accepted witness rules. Avoiding duplicate storage does not omit original source data needed for replay.",
+  "reproduce_command": "python reproduce.py --check",
+  "standalone_command": "python source_review109/integrate_source_review109.py --repository . --public-paired source_review109/HUMAN_SOURCE_REVIEW109_PAIRED.json --accepted-new-positives source_review109/ACCEPTANCE_FOUR_POSITIVE_WITNESSES.json --out replay/source_review109",
+  "validation": "The full root replay generates both files and compares exact SHA256 values with REPRODUCTION_MANIFEST.json. All other generated outputs must match distributed bytes."
+}

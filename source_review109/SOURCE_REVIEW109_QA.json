@@ -1,0 +1,20 @@
+{
+  "accepted_new_positive_ids": [
+    "POS-2d0448e75c22100c83c2",
+    "POS-6040eb8d44115b0ca53e",
+    "POS-9edde8c14b9719bfa779",
+    "POS-a608a5cb04ed71cf72d8"
+  ],
+  "all_13_incomplete_scopes_preserved_unknown": true,
+  "all_37_historical_positives_confirmed": true,
+  "change_log_reversible": true,
+  "exact_109_keys_match_selected_roster": true,
+  "historical_reproduced": true,
+  "no_cross_modality_reference_window_propagation": true,
+  "no_import_of_later_only_source_into_earlier_layer": true,
+  "pending_new_positive_ids": [],
+  "synthetic_tests": {
+    "all_passed": true,
+    "passed": 35
+  }
+}

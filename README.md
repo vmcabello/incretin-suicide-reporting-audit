@@ -4,49 +4,37 @@ Data and code accompanying **Public reconstructibility of suicide-related outcom
 
 Vitor Motta Cabello dos Santos (ORCID [0000-0002-0667-7288](https://orcid.org/0000-0002-0667-7288)) and Guilherme Keltke (ORCID [0009-0007-5415-0572](https://orcid.org/0009-0007-5415-0572)). Both authors are unaffiliated, Campinas, São Paulo, Brazil.
 
-## Scope
+## Current supporting revision: v1.4.0
 
-This is an exploratory documentary audit of a fixed historical corpus. It asks whether public reporting supports arm-specific reconstruction for an explicit population and observation window. It does not estimate a clinical suicide risk or a treatment effect, and does not claim exhaustive trial ascertainment.
+This is an exploratory documentary audit of a fixed historical corpus: 182 operational units, including 159 in a post-hoc whole-population stratum and 170 with supported populations including subgroups. Its 5,096 positions distinguish outcome, modality, cumulative source layer, reference population and observation window. A position is not a separate trial.
 
-- 182 operational units; 159 in the post-hoc whole-population stratum; 170 with supported populations including subgroups.
-- 5,096 documentary positions across outcomes, source layers and modalities.
-- 57 complete positions, 1,009 unknown positions and 4,030 not-complete positions. Positions are not distinct trials.
-- In the 159-unit B3 secondary union, confirmed reconstructions are 1 for ideation, 1 for attempt and 15 for death, with 26 unknown units per outcome. The death reconstructions are derived proofs. Main results keep modalities and direct/derived proofs separate.
+**Current integrated results are in `source_review109/`.** The directories named `current_input/` and `current_analysis/` retain the historical v1.3.0 snapshots and expected results; they are not overwritten or relabelled as the new analysis. Both versions and the earlier positive-only sensitivity remain exactly reproducible.
 
-Corpus-conditional identification intervals vary coded unknowns within the admitted corpus; they do not cover missed trials or selection/coding error. Full vital ascertainment is not established by a compatible zero-mortality report. Paired agreement is reported separately from technical witness reconciliation and does not establish accuracy.
+The new material integrates the source-linked follow-up of 109 positions in 59 dossiers. The authors declare separate human assessments before discussion, no substantive AI judgment in their final decisions and prior project exposure. This internal retrospective exercise is not external or memory-blinded validation. The 109 positions are a subset of the preceding 663-position reassessment: **there are not 772 distinct independently assessed positions**.
 
-## Additions in v1.3.0
+In the preceding source-limited exercise, 20 of 57 historical positive positions were confirmed and 37 were indeterminate. The follow-up confirms those 37 exact positions, giving 57 historical positives confirmed across the two exercises. The two-stage sample of 72 historical not-complete positions contains four new complete-derived judgments, 42 not-reconstructible judgments, 25 partial references and one unverifiable reference. None is a new complete-direct judgment. Exact paired cumulative-label agreement is 109/109; agreement does not establish accuracy.
 
-This supporting revision links the source-limited human reassessment explicitly to a numerical sensitivity. It does not replace, correct, or re-adjudicate the historical primary analysis. Of 57 historical complete positions, 20 remained complete in both current human returns and 37 remained unknown within the current source coverage. The latter are not demonstrated errors. Verification of their original source packages remains pending. A public protocol and neutral roster now specify a targeted follow-up of those 37 positives plus a two-phase sample of 72 historical not-complete positions, covering 109 positions in 59 units. Those assessments have not been completed; no new human decisions are inferred.
+Thirteen positions have incomplete pertinent source coverage. Their raw partial/unverifiable judgments are preserved, and their integrated indicators remain unknown. The principal integration preserves pertinent unresolved gaps cumulatively within the same outcome, modality, reference and window. A targeted integration without forward scope-gap propagation is retained as a sensitivity. Both models use the same admissibility guards for positive-proof reuse. Positive witness reuse is allowed only in source layers admitting all required sources; no registry or regulatory evidence is imported into an article-only proof. Derived updates on keys not directly rated are labelled technical deductions, not additional human votes. The sample is not extrapolated to unreviewed positions, and four of 72 is not reported as a corpus error rate.
 
-`validation_sensitivity/` preserves a positive-only scenario: only those 37 exact position statuses become their concordant current unknown label; all other 5,059 position statuses remain unchanged, including the 20 currently confirmed positives. The 5,039 positions outside the historical complete census are held fixed. Human labels, source records, proof flags, populations, windows, references, and modality/layer keys remain unchanged. This is not a wholesale replacement with the 663 source-limited reassessments, an accuracy estimate, or an extrapolation to unreviewed positions.
+### Current B3 secondary union, whole-population stratum (N=159)
 
-In the whole-population B3 secondary union (N=159), ideation and attempt each remain one direct reconstruction and 26 unknowns (0.63%-16.98%). Death changes from 15 derived reconstructions and 26 unknowns (9.43%-25.79%) to five derived reconstructions and 36 unknowns (3.14%-25.79%). These intervals are conditional on the corpus and the illustrative coding scenario. The full unit/position bridge, 84 modality cells, 36 union cells, nine direct-only summaries, and 12 illustrative membership scenarios are reproducible separately from the primary results.
+The principal presentation is modality-specific. This secondary union combines non-equivalent modalities and is shown here as an orientation to the current version.
 
-The search trail now marks nominal membership in the "new identifier" subsets directly on all 2,558 saved representations. The additional validator reproduces Table S1 from those flags and distinguishes the 14 PubMed native-export identifier differences already known to the master library. The protocol chronology now includes the November reassessment, author conference, and subsequent requested matched-source verification. Identifier subset membership creates no eligibility or classification vote.
+| Outcome | Confirmed reconstructions | Unknown units | Corpus-conditional identification interval |
+|---|---:|---:|---:|
+| Ideation | 1 (1 direct; 0 derived) | 32 | 0.63%-20.75% |
+| Attempt | 2 (1 direct; 1 derived) | 27 | 1.26%-18.24% |
+| Death | 17 (0 direct; 17 derived) | 28 | 10.69%-28.30% |
 
-Run `python reproduce.py --check` to reproduce the unchanged primary results, the existing coverage-limited code inventory and agreement analysis, the marked search subsets, and the new sensitivity. The additional 14 synthetic checks test the exact positive-only projection, valid-witness priority, unknown propagation, and separation of modalities and source layers. No manuscript preprint or full third-party report is distributed.
+These intervals vary coded unknowns within the admitted corpus. They do not cover missed studies or selection/coding error and are not confidence intervals, clinical risks or treatment effects. All death reconstructions remain derived; no direct suicide-death reconstruction is established. Structured assessments remain separate from adverse-event reports. A compatible zero-mortality report does not prove complete vital follow-up or clinical absence of suicide-related events.
 
-## Prior additions in v1.2.0
+Technical checks retain the STEP 1 source inconsistency: its table gives one placebo participant and three fatal events, while the footnote attributes three non-suicide causes to “one participant each.” This audit does not repair the total-person count; the limited cause-enumeration derivation and discrepancy are both disclosed. AWARD-10 uses the supplied corrected 23 May 2018 version. Source versions and access at the historical 19 October 2026 search date are **not uniformly certified**. Reading records cover specified pages and sections, not full extraction of every original source. The 13 incompletely examined scopes are not silently closed.
 
-This version adds corrected locked paired returns and source-limited descriptive agreement. The earlier tagged versions remain available. No renewed final manuscript approval or journal submission is inferred.
+No renewed author approval of the revised manuscript, journal submission or payment is inferred from these returns. The manuscript package is maintained separately; no manuscript preprint, third-party full text or identifiable raw reviewer return is distributed here.
 
-The two 663-position sets are preserved as returned in a privacy-minimised paired dataset. The authors declare separate assessment before discussion and disclose prior project exposure. Descriptive paired-label agreement is 663/663; kappa is 1 for nondegenerate margins and undefined for single-category margins. Agreement does not establish accuracy or full source re-extraction. Each reviewer declares original primary-source examination for 333/663 positions; the remaining 330 do not establish such examination.
+## Reproduce current and historical results
 
-The new human labels identify 20 complete positions. AI technical reconciliation retains all 57 historical positive witnesses, including 37 whose new source-limited human labels are unknown. Raw labels are not overwritten; 462 scope differences are not treated as 462 errors. The v1.2.0 technical integration identified no irreducible primary-content conflict; this did not establish complete matched-source human verification. The subsequent targeted verification remains pending. The 30-unit alternative-reference pilot contains partial source metadata and no compatible target-outcome numerators, so it does not provide a numerical ITT/on-treatment outcome sensitivity.
-
-All historical scientific input, classification and numerical reconstruction-result bytes are unchanged. The earlier search trail, coverage-limited code inventory and protocol are retained:
-
-- `search_trace/`: 2,558 saved database representations, 745 screening cases, recorded decisions and rationales, 1,717 reused prior-library groups, supported corpus links and itemised missing information. An identifier route is not scientific closure. Twelve prior-group rationales remain unrecovered; unestablished final links remain explicit.
-- `reason_inventory/`: position-level code inventory and portable reproducer. All historical annotations prohibit corpus-frequency inference. Code counts are not prevalence estimates of trial-level causes or of instrument non-use.
-- `validation_protocol/`: the dated design snapshot (57 historical complete positions, the preserved 426-position not-complete sample and 180 sampled unknowns), plus a nested 30-unit alternative-reference pilot. Its pending-return status is historical and remains unedited. Separate unfilled reviewer instruments remain in the local author package.
-- `validation/`: minimal locked paired ratings, descriptive cross-tabulations and agreement, source-scope limits, pilot, technical positive-witness reconciliation, integration actions, and sanitised source-route reconciliation. Recovery of 353 hash-matched file bindings establishes local availability, not new human reading. The remaining 135 bindings name 27 pre-existing inventory slots; they are not 135 distinct missing clinical reports. Current integration status is recorded here rather than retroactively changing the protocol.
-
-Run `python reproduce.py --check` to verify integrity, reproduce the unchanged numerical results and the added descriptive agreement, and validate the supporting exports. Extra reported raw-field coverage aggregates are distinguished from calculations reproducible from the minimal pair. This is research support material, not a journal major-revision decision or a manuscript preprint.
-
-## Reproduce the results
-
-Python **3.10 or newer** is sufficient. The analysis uses only the standard library and needs no network access or package installation.
+Python **3.10 or newer**, standard library only; no network or package installation is required.
 
 ```sh
 git clone https://github.com/vmcabello/incretin-suicide-reporting-audit.git
@@ -54,43 +42,46 @@ cd incretin-suicide-reporting-audit
 python reproduce.py --check
 ```
 
-This verifies the public file manifest, runs the 34 inherited analysis regression checks, recomputes the unchanged primary results and requires a byte-for-byte match to `current_analysis/RESULTS_BY_MODALITY.json`. It also reproduces the coverage-limited code inventory, checks the search trace and marked new-identifier subsets, recomputes descriptive paired agreement with subgroup/design weights, and exactly reproduces all 13 files of the positive-only sensitivity after 14 additional synthetic checks. To retain the historical primary output file:
+The command checks the root and supporting manifests; runs the inherited analysis tests; reproduces historical modality results, coverage-limited annotation counts and paired agreement; replays the marked search subsets and 109-position sampling design; reproduces the historical positive-only sensitivity; and reproduces the new source-linked integration and its sensitivity without forward scope-gap propagation. The GitHub Actions workflow performs the same check with Python 3.10 and 3.12. `--out` continues to export the preserved historical primary result, as documented in the earlier interface.
 
-```sh
-python reproduce.py --check --out replay/RESULTS_BY_MODALITY.json
-```
+The new integration includes reversible changes, minimal paired ratings, exact study/modality/layer links, preserved unknowns, source-acceptance provenance and a standalone reproducer. Technical audit projections include source identifiers, hashes and locators without redistributing licensed sources or private file paths.
 
-The result contains 84 modality-specific cells, 36 secondary-union cells, nine direct-only sensitivities and twelve illustrative membership scenarios. The GitHub Actions workflow runs the same check on Python 3.10 and 3.12.
+The two approximately 25 MB generated integrated-input files are not duplicated in the public repository. `OMITTED_REGENERABLE_OUTPUTS.json` records their expected hashes; the replay regenerates both from the preserved historical data and the minimal follow-up inputs and checks their exact SHA256 values. All other generated result files must match the distributed bytes.
 
-## Files
+## Preserved history and provenance
 
-| Path | Contents |
+- **v1.3.0:** `validation_sensitivity/` retains the positive-only scenario in which the 37 then-unconfirmed historical positives were set to unknown and all other 5,059 codes stayed fixed. In its N=159 B3 death union, k/u moved from 15/26 to 5/36. This is now a dated historical sensitivity, not the outcome of the completed follow-up.
+- **v1.2.0:** `validation/` retains the preceding 663-position paired returns, descriptive agreement and source-scope limits. Primary-source examination was recorded for 333/663 positions per assessor. Its 20/57 confirmation and 37 unknowns remain valid descriptions of that exercise, not current verification status.
+- `linked_review_protocol/` and `validation_protocol/` preserve their dated, pre-return design snapshots. Statements that readings were pending describe those historical documents. Current execution extent is documented separately; their fixed protocols, seeds and rosters are not retroactively edited.
+- `search_trace/` links 2,558 saved database representations to 745 screening cases and 1,717 reused prior-library groups. Nominal subset flags reproduce Table S1 and distinguish 14 PubMed export differences already known to the master library. Identifier matching does not create an eligibility or classification vote. Twelve historical group rationales remain unrecovered; unestablished links remain explicit.
+- `reason_inventory/` reproduces 5,096 structural annotation positions. These code inventories do not estimate corpus-wide mechanism prevalence or instrument non-use.
+- `corpus/PROTOCOL_AMENDMENT_CHRONOLOGY_EN.json` appends the 109-return receipt and integration, preserving all first 15 v1.3.0 events and the earlier eight-event prefix.
+
+## File map
+
+| Path | Role |
 |---|---|
-| `current_analysis/` | Current descriptive analysis and expected results |
-| `current_input/` | Versioned input with technical reconciliation provenance |
-| `input_snapshot/` | Required historical coded inputs and inherited aggregation rules |
-| `CORPUS_UNITS_182.csv` | Readable operational-unit roster and population strata |
-| `corpus/` | 479-family, 220-block and 182-unit crosswalks, protocol chronology and historical outputs |
-| `reconciliation/` | One 426-position technical consolidation and directed evidence for 57 complete positions |
-| `EVIDENCE_SOURCE_IDENTIFIERS.json` | Source IDs, original content hashes and available public retrieval pointers |
-| `PUBLIC_PROJECTION_PROVENANCE.json` | Serialization, minimal redactions and semantic-equivalence record |
-| `DATA_DICTIONARY.md` | Reference, classification and uncertainty definitions |
-| `validation_protocol/` | Preserved pre-return design and sampling replay; dated historical status |
-| `validation/` | Corrected locked paired labels, source-limited agreement, technical integration and pilot limits |
-| `validation_sensitivity/` | Source-limited human positive-only sensitivity, exact 57-positive and 5,096-position bridges, comparisons, and standalone reproducer |
-| `linked_review_protocol/` | Prepared targeted source-matched human verification protocol, neutral 109-position roster and empty-return schema; no completed assessments |
-| `update_manifest.py` | Local manifest regeneration; does not commit, tag or publish |
+| `source_review109/` | Current integrated results, scope-gap propagation sensitivity, minimal paired follow-up ratings, code, changes and technical source checks |
+| `current_analysis/`, `current_input/` | Preserved historical primary analysis and technically reconciled input |
+| `input_snapshot/` | Historical coded data and inherited aggregation rules |
+| `validation_sensitivity/` | Preserved v1.3.0 source-limited positive-only scenario and exact bridges |
+| `validation/`, `validation_protocol/` | Earlier paired exercise, source-scope limits, pilot and fixed design |
+| `linked_review_protocol/` | Original source-linked follow-up protocol and neutral selection roster |
+| `corpus/`, `CORPUS_UNITS_182.csv` | Families, blocks, operational units, population strata and amendment chronology |
+| `search_trace/` | Record-level search-update routes, nominal subset flags and validators |
+| `reason_inventory/` | Coverage-limited code inventory and reproducer |
+| `EVIDENCE_SOURCE_IDENTIFIERS.json` | Source identifiers, original content hashes and available public retrieval pointers |
+| `DATA_DICTIONARY.md` | Essential scientific and integrated-data definitions |
+| `MANIFEST.json`, `update_manifest.py` | Integrity inventory and local regeneration; no commit or publication action |
 
-Full third-party articles, licensed native bibliographic exports, raw identifiable reviewer returns, coordinator answer keys and conversation logs are not distributed. Source metadata and original source hashes are provenance pointers; they do not imply that the underlying full text is included or newly read. Some source identifiers denote internal receipts. Private routes are omitted from public corpus metadata. The original private working records remain preserved by the authors.
+Native licensed bibliographic exports, full third-party articles, raw identifiable reviewer returns, coordinator answer keys and conversation logs remain outside this public projection. Some source IDs denote internal receipts. Original hashes identify source bytes, not a new reading certificate or proof that a source was public at the historical cutoff. Author-owned code and classifications have separate licenses below.
 
 ## Version and citation
 
-The first public version was v1.0.0. The current supporting-data revision is **v1.3.0**, released on **5 November 2026**. Use the tagged release rather than the moving main branch for a versioned citation: [v1.3.0](https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.3.0). `CITATION.cff` supplies author and version metadata. No DOI is claimed. A future archival deposit may add a DOI without changing the reported results.
+The current supporting-data release is **v1.4.0**, released on **5 November 2026**. Use the immutable tagged release and its `CITATION.cff` rather than the moving branch. Earlier tagged versions remain available. No DOI is claimed.
 
-Santos VMC, Keltke G (2026). Incretin therapy suicide-related outcome reporting audit: data and code. Version v1.3.0. GitHub. https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.3.0.
-
-The repository contains supporting data and code; it does not contain a manuscript preprint. The journal submission package is prepared separately.
+Citation: Santos VMC, Keltke G (2026). Incretin therapy suicide-related outcome reporting audit: data and code. Version v1.4.0. GitHub. https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.4.0.
 
 ## Reuse
 
-Author-owned analysis code is released under the **MIT License** (`LICENSE`). Author-owned documentary classifications, compilation and documentation are released under **CC BY 4.0** (`DATA_LICENSE.md`). These permissions do not relicense source publications, registry-origin text or any third-party material. Preserve source attribution and identify modifications.
+Author-owned software is **MIT licensed** (`LICENSE`); author-owned classifications, compilation and documentation are **CC BY 4.0** (`DATA_LICENSE.md`). These licenses do not relicense source publications or other third-party material. Preserve attribution and identify modifications.

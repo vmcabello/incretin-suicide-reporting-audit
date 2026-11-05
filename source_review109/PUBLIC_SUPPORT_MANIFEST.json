@@ -1,0 +1,91 @@
+{
+  "version": "v1.4.0",
+  "scope": "Current source-linked follow-up support, privacy-minimised ratings, exact replay outputs, source audits and code; two large generated inputs are reproducible rather than stored twice.",
+  "files": [
+    {
+      "path": "ACCEPTANCE_FOUR_POSITIVE_WITNESSES.json",
+      "bytes": 7639,
+      "sha256": "7eff9557195fb0da66af8400e534277bf4719d330e9e6ca82cf8d4b1b3e9ccd8"
+    },
+    {
+      "path": "BIBLIOGRAPHY_EXACT_NEW_POSITIVES.json",
+      "bytes": 11287,
+      "sha256": "4a31f8839b29fde1ca8c52abed1125bc7d232da1741fd9c3f22e53222da425d5"
+    },
+    {
+      "path": "HUMAN_SOURCE_REVIEW109_PAIRED.json",
+      "bytes": 1570807,
+      "sha256": "8fedb43cce9a01863fc49430200a4e33e15cc11652fd1f176281aa9fd8adc454"
+    },
+    {
+      "path": "integrate_source_review109.py",
+      "bytes": 45653,
+      "sha256": "1900c71bd589de974e711d40fcacf65e784d2ee9a5b913bef38e07bd7e991aa1"
+    },
+    {
+      "path": "INTEGRATION_STATUS.json",
+      "bytes": 1781,
+      "sha256": "1fc4da972cbb29d17ef0dd9adf4069424de68fe088915041e835dcb66101bd47"
+    },
+    {
+      "path": "OMITTED_REGENERABLE_OUTPUTS.json",
+      "bytes": 1132,
+      "sha256": "df58c62a24340259121bc8397a63e66a56099b4bb87cd448406c7df15838f28f"
+    },
+    {
+      "path": "REPRODUCTION_MANIFEST.json",
+      "bytes": 1420,
+      "sha256": "151554424f9c9e34c1cb15925516830aecf53848901c924a8aa8ad5b753a6089"
+    },
+    {
+      "path": "SOURCE_REVIEW109_EDITOR_SUMMARY.json",
+      "bytes": 54468,
+      "sha256": "b4172156f6021d98a71660a6c3ed3eca18f1a2191e95d5b4c589ca15db4f0461"
+    },
+    {
+      "path": "SOURCE_REVIEW109_GROUPED_COUNTS.json",
+      "bytes": 26599,
+      "sha256": "f51f02831560773505b47622f8af5dae6b878a772db3ae04c5c1b9abdd3e47e9"
+    },
+    {
+      "path": "SOURCE_REVIEW109_INTEGRATION_RESULTS.json",
+      "bytes": 1503089,
+      "sha256": "46978556345ad7cf56169fb53c165b08f165a8e045ebdd91e84b6bfbacb36d40"
+    },
+    {
+      "path": "SOURCE_REVIEW109_POSITIVE_FORWARD_DEDUCTIONS.json",
+      "bytes": 7213,
+      "sha256": "d27bc1792deea86065e3cdea255b5cabaf216411f53b72cb16b0f1f913d42a4b"
+    },
+    {
+      "path": "SOURCE_REVIEW109_QA.json",
+      "bytes": 607,
+      "sha256": "eefed989c3c0138b9a92bb400e7aada50494d24d399ea6b14c02c94b0fcd907f"
+    },
+    {
+      "path": "SOURCE_REVIEW109_RESULT_TABLES.json",
+      "bytes": 1035142,
+      "sha256": "645bca699df046d8c5badb8c70b96db0fc545de369067f859efd5a2afee44b72"
+    },
+    {
+      "path": "SOURCE_REVIEW109_RESULTS_COMPARISON.csv",
+      "bytes": 111437,
+      "sha256": "c7ee0a2ba46eecc44a3c9abdc6ffae73fee64e539c9e500b0a6b6df34f6b2122"
+    },
+    {
+      "path": "SOURCE_REVIEW109_REVERSIBLE_CHANGE_LOG.json",
+      "bytes": 806070,
+      "sha256": "5851d406a39927af82646e3e50f17d6b38dc14a37ac25577002a0662a0726d5c"
+    },
+    {
+      "path": "TECHNICAL_AUDIT_FOUR_NEW_POSITIVES.json",
+      "bytes": 31143,
+      "sha256": "2d5e382e75365325dbce49857aa96c8e99e144cb47b134150692ebcba1f09323"
+    },
+    {
+      "path": "TECHNICAL_AUDIT_HISTORICAL_POSITIVES37.json",
+      "bytes": 109490,
+      "sha256": "0ab6688ea3b56fb21f77aebe09ccb927a8bca1118af6ae7654d313d00717c420"
+    }
+  ]
+}

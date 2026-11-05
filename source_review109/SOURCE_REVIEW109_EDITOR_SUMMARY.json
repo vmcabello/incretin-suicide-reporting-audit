@@ -1,0 +1,1625 @@
+{
+  "all_57_historical_positive_positions_now_confirmed_in_two_reported_internal_rounds": true,
+  "changed_keys_by_origin": {
+    "exact_human_keys_effective_indicator_changed": 17,
+    "exact_human_keys_source_scoped_label_changed": 12,
+    "exact_human_position_keys_integrated": 109,
+    "exact_original_proof_reuse_in_earlier_admissible_layer_keys": 6,
+    "forward_incomplete_scope_effective_indicator_changes": 21,
+    "forward_incomplete_scope_keys_annotated": 22,
+    "principal_any_metadata_or_indicator_changed_keys": 137,
+    "principal_effective_indicator_changed_keys": 45,
+    "strictly_forward_positive_witness_effective_indicator_changes": 1,
+    "strictly_forward_positive_witness_keys": 1
+  },
+  "four_of_72_is_not_a_corpus_error_rate": true,
+  "historical_20_of_57_source_limited_confirmation_preserved_as_past_round": true,
+  "historical_positive_confirmation_across_separate_rounds": {
+    "newly_rechecked_confirmed": 37,
+    "previously_confirmed": 20,
+    "total_historical_positive_positions_confirmed": 57
+  },
+  "linked_review_summary": {
+    "author_reported_independent_internal_assessments": true,
+    "by_design_group": [
+      {
+        "coverage": {
+          "sufficient_positive_witness_examined": 37
+        },
+        "current_cumulative": {
+          "complete_derived": 37
+        },
+        "current_source_scoped": {
+          "complete_derived": 37
+        },
+        "design_group": "census_pending_source_confirmation",
+        "positions": 37
+      },
+      {
+        "coverage": {
+          "comparable_relevant_source_union_examined": 55,
+          "incomplete_relevant_scope": 13,
+          "sufficient_positive_witness_examined": 4
+        },
+        "current_cumulative": {
+          "complete_derived": 4,
+          "not_reconstructible_in_examined_corpus": 42,
+          "partial_reference": 25,
+          "reference_unverifiable": 1
+        },
+        "current_source_scoped": {
+          "complete_derived": 4,
+          "not_reconstructible_in_examined_corpus": 48,
+          "partial_reference": 20
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "positions": 72
+      }
+    ],
+    "coverage": {
+      "comparable_relevant_source_union_examined": 55,
+      "incomplete_relevant_scope": 13,
+      "sufficient_positive_witness_examined": 41
+    },
+    "current_cumulative_classifications": {
+      "complete_derived": 41,
+      "not_reconstructible_in_examined_corpus": 42,
+      "partial_reference": 25,
+      "reference_unverifiable": 1
+    },
+    "current_source_scoped_classifications": {
+      "complete_derived": 41,
+      "not_reconstructible_in_examined_corpus": 48,
+      "partial_reference": 20
+    },
+    "exact_classification_agreement_positions": 109,
+    "external_or_memory_blinded_validation": false,
+    "grouped_by_design_component_layer_modality": [
+      {
+        "component": "suicide_death",
+        "current_human_cumulative": {
+          "complete_derived": 9
+        },
+        "current_human_source_scoped": {
+          "complete_derived": 9
+        },
+        "design_group": "census_pending_source_confirmation",
+        "historical_statuses": {
+          "complete_derived": 9
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "1": 9
+        },
+        "modality": "reported_all_cause_mortality_derivation",
+        "positions": 9,
+        "stage": "A"
+      },
+      {
+        "component": "suicide_death",
+        "current_human_cumulative": {
+          "complete_derived": 9
+        },
+        "current_human_source_scoped": {
+          "complete_derived": 9
+        },
+        "design_group": "census_pending_source_confirmation",
+        "historical_statuses": {
+          "complete_derived": 9
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "1": 9
+        },
+        "modality": "reported_all_cause_mortality_derivation",
+        "positions": 9,
+        "stage": "B1"
+      },
+      {
+        "component": "suicide_death",
+        "current_human_cumulative": {
+          "complete_derived": 9
+        },
+        "current_human_source_scoped": {
+          "complete_derived": 9
+        },
+        "design_group": "census_pending_source_confirmation",
+        "historical_statuses": {
+          "complete_derived": 9
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "1": 9
+        },
+        "modality": "reported_all_cause_mortality_derivation",
+        "positions": 9,
+        "stage": "B2"
+      },
+      {
+        "component": "suicide_death",
+        "current_human_cumulative": {
+          "complete_derived": 1
+        },
+        "current_human_source_scoped": {
+          "complete_derived": 1
+        },
+        "design_group": "census_pending_source_confirmation",
+        "historical_statuses": {
+          "complete_derived": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "1": 1
+        },
+        "modality": "adverse_event_reports",
+        "positions": 1,
+        "stage": "B3"
+      },
+      {
+        "component": "suicide_death",
+        "current_human_cumulative": {
+          "complete_derived": 9
+        },
+        "current_human_source_scoped": {
+          "complete_derived": 9
+        },
+        "design_group": "census_pending_source_confirmation",
+        "historical_statuses": {
+          "complete_derived": 9
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "1": 9
+        },
+        "modality": "reported_all_cause_mortality_derivation",
+        "positions": 9,
+        "stage": "B3"
+      },
+      {
+        "component": "suicidal_ideation",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 2
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 1,
+        "integrated_effective_indicators": {
+          "0": 2,
+          "unknown": 1
+        },
+        "modality": "adverse_event_reports",
+        "positions": 3,
+        "stage": "A"
+      },
+      {
+        "component": "suicidal_ideation",
+        "current_human_cumulative": {
+          "partial_reference": 3
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 2,
+        "integrated_effective_indicators": {
+          "0": 1,
+          "unknown": 2
+        },
+        "modality": "suicidality_specific_structured_assessment",
+        "positions": 3,
+        "stage": "A"
+      },
+      {
+        "component": "suicidal_ideation",
+        "current_human_cumulative": {
+          "partial_reference": 2
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 1,
+        "integrated_effective_indicators": {
+          "0": 1,
+          "unknown": 1
+        },
+        "modality": "adverse_event_reports",
+        "positions": 2,
+        "stage": "B1"
+      },
+      {
+        "component": "suicidal_ideation",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1,
+          "reference_unverifiable": 1
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 1,
+        "integrated_effective_indicators": {
+          "0": 2,
+          "unknown": 1
+        },
+        "modality": "suicidality_specific_structured_assessment",
+        "positions": 3,
+        "stage": "B1"
+      },
+      {
+        "component": "suicidal_ideation",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "0": 2
+        },
+        "modality": "adverse_event_reports",
+        "positions": 2,
+        "stage": "B2"
+      },
+      {
+        "component": "suicidal_ideation",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 1,
+        "integrated_effective_indicators": {
+          "0": 1,
+          "unknown": 1
+        },
+        "modality": "suicidality_specific_structured_assessment",
+        "positions": 2,
+        "stage": "B2"
+      },
+      {
+        "component": "suicidal_ideation",
+        "current_human_cumulative": {
+          "partial_reference": 2
+        },
+        "current_human_source_scoped": {
+          "partial_reference": 2
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 1,
+        "integrated_effective_indicators": {
+          "0": 1,
+          "unknown": 1
+        },
+        "modality": "adverse_event_reports",
+        "positions": 2,
+        "stage": "B3"
+      },
+      {
+        "component": "suicidal_ideation",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "0": 3
+        },
+        "modality": "suicidality_specific_structured_assessment",
+        "positions": 3,
+        "stage": "B3"
+      },
+      {
+        "component": "suicide_attempt",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 3
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 3
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "0": 3
+        },
+        "modality": "adverse_event_reports",
+        "positions": 3,
+        "stage": "A"
+      },
+      {
+        "component": "suicide_attempt",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 3
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 1,
+        "integrated_effective_indicators": {
+          "0": 2,
+          "unknown": 1
+        },
+        "modality": "suicidality_specific_structured_assessment",
+        "positions": 3,
+        "stage": "A"
+      },
+      {
+        "component": "suicide_attempt",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "0": 3
+        },
+        "modality": "adverse_event_reports",
+        "positions": 3,
+        "stage": "B1"
+      },
+      {
+        "component": "suicide_attempt",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "0": 3
+        },
+        "modality": "suicidality_specific_structured_assessment",
+        "positions": 3,
+        "stage": "B1"
+      },
+      {
+        "component": "suicide_attempt",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 2
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 2
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "0": 2
+        },
+        "modality": "adverse_event_reports",
+        "positions": 2,
+        "stage": "B2"
+      },
+      {
+        "component": "suicide_attempt",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "0": 3
+        },
+        "modality": "suicidality_specific_structured_assessment",
+        "positions": 3,
+        "stage": "B2"
+      },
+      {
+        "component": "suicide_attempt",
+        "current_human_cumulative": {
+          "complete_derived": 1,
+          "not_reconstructible_in_examined_corpus": 1
+        },
+        "current_human_source_scoped": {
+          "complete_derived": 1,
+          "not_reconstructible_in_examined_corpus": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "0": 1,
+          "1": 1
+        },
+        "modality": "adverse_event_reports",
+        "positions": 2,
+        "stage": "B3"
+      },
+      {
+        "component": "suicide_attempt",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 1,
+        "integrated_effective_indicators": {
+          "0": 2,
+          "unknown": 1
+        },
+        "modality": "suicidality_specific_structured_assessment",
+        "positions": 3,
+        "stage": "B3"
+      },
+      {
+        "component": "suicide_death",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "0": 3
+        },
+        "modality": "adverse_event_reports",
+        "positions": 3,
+        "stage": "A"
+      },
+      {
+        "component": "suicide_death",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 1,
+        "integrated_effective_indicators": {
+          "0": 1,
+          "unknown": 1
+        },
+        "modality": "reported_all_cause_mortality_derivation",
+        "positions": 2,
+        "stage": "A"
+      },
+      {
+        "component": "suicide_death",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 3
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 3
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "0": 3
+        },
+        "modality": "suicidality_specific_structured_assessment",
+        "positions": 3,
+        "stage": "A"
+      },
+      {
+        "component": "suicide_death",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 2
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 2
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 2,
+        "integrated_effective_indicators": {
+          "0": 1,
+          "unknown": 2
+        },
+        "modality": "adverse_event_reports",
+        "positions": 3,
+        "stage": "B1"
+      },
+      {
+        "component": "suicide_death",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "0": 2
+        },
+        "modality": "reported_all_cause_mortality_derivation",
+        "positions": 2,
+        "stage": "B1"
+      },
+      {
+        "component": "suicide_death",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 3
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 3
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "0": 3
+        },
+        "modality": "suicidality_specific_structured_assessment",
+        "positions": 3,
+        "stage": "B1"
+      },
+      {
+        "component": "suicide_death",
+        "current_human_cumulative": {
+          "complete_derived": 1,
+          "not_reconstructible_in_examined_corpus": 1
+        },
+        "current_human_source_scoped": {
+          "complete_derived": 1,
+          "not_reconstructible_in_examined_corpus": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "0": 1,
+          "1": 1
+        },
+        "modality": "adverse_event_reports",
+        "positions": 2,
+        "stage": "B2"
+      },
+      {
+        "component": "suicide_death",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "0": 2
+        },
+        "modality": "reported_all_cause_mortality_derivation",
+        "positions": 2,
+        "stage": "B2"
+      },
+      {
+        "component": "suicide_death",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 3
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 3
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "0": 3
+        },
+        "modality": "suicidality_specific_structured_assessment",
+        "positions": 3,
+        "stage": "B2"
+      },
+      {
+        "component": "suicide_death",
+        "current_human_cumulative": {
+          "complete_derived": 1,
+          "not_reconstructible_in_examined_corpus": 1
+        },
+        "current_human_source_scoped": {
+          "complete_derived": 1,
+          "not_reconstructible_in_examined_corpus": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "0": 1,
+          "1": 1
+        },
+        "modality": "adverse_event_reports",
+        "positions": 2,
+        "stage": "B3"
+      },
+      {
+        "component": "suicide_death",
+        "current_human_cumulative": {
+          "complete_derived": 1,
+          "not_reconstructible_in_examined_corpus": 1
+        },
+        "current_human_source_scoped": {
+          "complete_derived": 1,
+          "not_reconstructible_in_examined_corpus": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 1,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 0,
+        "integrated_effective_indicators": {
+          "0": 1,
+          "1": 1
+        },
+        "modality": "reported_all_cause_mortality_derivation",
+        "positions": 2,
+        "stage": "B3"
+      },
+      {
+        "component": "suicide_death",
+        "current_human_cumulative": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "current_human_source_scoped": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "design_group": "phase2_original_negative_probability_sample",
+        "historical_statuses": {
+          "not_reconstructible_in_examined_corpus": 2,
+          "partial_reference": 1
+        },
+        "incomplete_relevant_scope": 1,
+        "integrated_effective_indicators": {
+          "0": 2,
+          "unknown": 1
+        },
+        "modality": "suicidality_specific_structured_assessment",
+        "positions": 3,
+        "stage": "B3"
+      }
+    ],
+    "historical_complete_rechecked": 37,
+    "internal_paired_agreement": {
+      "cumulative_classification": {
+        "Cohen_kappa_internal_descriptive": 1.0,
+        "confidence_interval": null,
+        "kappa_not_estimable_reason": null,
+        "n": 109,
+        "not_an_external_accuracy_measure": true,
+        "observed_agreement": 1.0
+      },
+      "source_scoped_classification": {
+        "Cohen_kappa_internal_descriptive": 1.0,
+        "confidence_interval": null,
+        "kappa_not_estimable_reason": null,
+        "n": 109,
+        "not_an_external_accuracy_measure": true,
+        "observed_agreement": 1.0
+      }
+    },
+    "internal_paired_agreement_by_design_group": {
+      "census_pending_source_confirmation": {
+        "cumulative_classification": {
+          "Cohen_kappa_internal_descriptive": null,
+          "confidence_interval": null,
+          "kappa_not_estimable_reason": "Single-class margins",
+          "n": 37,
+          "not_an_external_accuracy_measure": true,
+          "observed_agreement": 1.0
+        },
+        "source_scoped_classification": {
+          "Cohen_kappa_internal_descriptive": null,
+          "confidence_interval": null,
+          "kappa_not_estimable_reason": "Single-class margins",
+          "n": 37,
+          "not_an_external_accuracy_measure": true,
+          "observed_agreement": 1.0
+        }
+      },
+      "phase2_original_negative_probability_sample": {
+        "cumulative_classification": {
+          "Cohen_kappa_internal_descriptive": 1.0,
+          "confidence_interval": null,
+          "kappa_not_estimable_reason": null,
+          "n": 72,
+          "not_an_external_accuracy_measure": true,
+          "observed_agreement": 1.0
+        },
+        "source_scoped_classification": {
+          "Cohen_kappa_internal_descriptive": 1.0,
+          "confidence_interval": null,
+          "kappa_not_estimable_reason": null,
+          "n": 72,
+          "not_an_external_accuracy_measure": true,
+          "observed_agreement": 1.0
+        }
+      }
+    },
+    "no_error_rate_extrapolated": true,
+    "no_external_accuracy_claim": true,
+    "no_naive_sampling_confidence_interval": true,
+    "paired_positions": 109,
+    "phase2_historical_negative_positions": 72,
+    "source_examinations": {
+      "R1": {
+        "by_examination_status": {
+          "auxiliary_only": 24,
+          "examined": 196,
+          "not_examined": 41
+        },
+        "case_count": 59,
+        "case_source_examinations": 261,
+        "distinct_source_ids": 233,
+        "position_count": 109
+      },
+      "R2": {
+        "by_examination_status": {
+          "auxiliary_only": 24,
+          "examined": 196,
+          "not_examined": 41
+        },
+        "case_count": 59,
+        "case_source_examinations": 261,
+        "distinct_source_ids": 233,
+        "position_count": 109
+      }
+    }
+  },
+  "primary_B3_whole_population_modalities": [
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicidal_ideation",
+      "confirmed_total": 1,
+      "corpus_conditional_identification_interval": [
+        0.006289308176100629,
+        0.1761006289308176
+      ],
+      "derived_confirmed": 0,
+      "derived_only_unit_ids": [],
+      "direct_confirmed": 1,
+      "direct_unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "modality": "adverse_event_reports",
+      "not_complete_in_examined_scope": 131,
+      "stage": "B3",
+      "unknown": 27,
+      "unknown_unit_ids": [
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01272232:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01652729:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicidal_ideation",
+      "confirmed_total": 0,
+      "corpus_conditional_identification_interval": [
+        0.0,
+        0.18238993710691823
+      ],
+      "derived_confirmed": 0,
+      "derived_only_unit_ids": [],
+      "direct_confirmed": 0,
+      "direct_unit_ids": [],
+      "modality": "suicidality_specific_structured_assessment",
+      "not_complete_in_examined_scope": 130,
+      "stage": "B3",
+      "unknown": 29,
+      "unknown_unit_ids": [
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01394952:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03086330:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT03611582:CANDIDATE_BLOCK",
+        "NCT04591626:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_attempt",
+      "confirmed_total": 2,
+      "corpus_conditional_identification_interval": [
+        0.012578616352201259,
+        0.16981132075471697
+      ],
+      "derived_confirmed": 1,
+      "derived_only_unit_ids": [
+        "NCT04657003:CANDIDATE_BLOCK"
+      ],
+      "direct_confirmed": 1,
+      "direct_unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "modality": "adverse_event_reports",
+      "not_complete_in_examined_scope": 132,
+      "stage": "B3",
+      "unknown": 25,
+      "unknown_unit_ids": [
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_attempt",
+      "confirmed_total": 0,
+      "corpus_conditional_identification_interval": [
+        0.0,
+        0.16981132075471697
+      ],
+      "derived_confirmed": 0,
+      "derived_only_unit_ids": [],
+      "direct_confirmed": 0,
+      "direct_unit_ids": [],
+      "modality": "suicidality_specific_structured_assessment",
+      "not_complete_in_examined_scope": 132,
+      "stage": "B3",
+      "unknown": 27,
+      "unknown_unit_ids": [
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT04657003:CANDIDATE_BLOCK",
+        "NCT04998032:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_death",
+      "confirmed_total": 3,
+      "corpus_conditional_identification_interval": [
+        0.018867924528301886,
+        0.18867924528301888
+      ],
+      "derived_confirmed": 3,
+      "derived_only_unit_ids": [
+        "NCT02160990:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT04657003:CANDIDATE_BLOCK"
+      ],
+      "direct_confirmed": 0,
+      "direct_unit_ids": [],
+      "modality": "adverse_event_reports",
+      "not_complete_in_examined_scope": 129,
+      "stage": "B3",
+      "unknown": 27,
+      "unknown_unit_ids": [
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02229396:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02765399:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_death",
+      "confirmed_total": 0,
+      "corpus_conditional_identification_interval": [
+        0.0,
+        0.16352201257861634
+      ],
+      "derived_confirmed": 0,
+      "derived_only_unit_ids": [],
+      "direct_confirmed": 0,
+      "direct_unit_ids": [],
+      "modality": "suicidality_specific_structured_assessment",
+      "not_complete_in_examined_scope": 133,
+      "stage": "B3",
+      "unknown": 26,
+      "unknown_unit_ids": [
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01272219:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_death",
+      "confirmed_total": 15,
+      "corpus_conditional_identification_interval": [
+        0.09433962264150944,
+        0.25157232704402516
+      ],
+      "derived_confirmed": 15,
+      "derived_only_unit_ids": [
+        "NCT01169779:CANDIDATE_BLOCK",
+        "NCT02160990:CANDIDATE_BLOCK",
+        "NCT02597049:CANDIDATE_BLOCK",
+        "NCT03018028:CANDIDATE_BLOCK",
+        "NCT03086330:CANDIDATE_BLOCK",
+        "NCT03811574:CANDIDATE_BLOCK",
+        "NCT04039503:CANDIDATE_BLOCK",
+        "NCT04251156:CANDIDATE_BLOCK",
+        "NCT05035095:CANDIDATE_BLOCK",
+        "NCT05132088:CANDIDATE_BLOCK",
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05646706:CANDIDATE_BLOCK",
+        "NCT05963022:CANDIDATE_BLOCK"
+      ],
+      "direct_confirmed": 0,
+      "direct_unit_ids": [],
+      "modality": "reported_all_cause_mortality_derivation",
+      "not_complete_in_examined_scope": 119,
+      "stage": "B3",
+      "unknown": 25,
+      "unknown_unit_ids": [
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT04061200:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    }
+  ],
+  "primary_B3_whole_population_union": [
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicidal_ideation",
+      "confirmed_total": 1,
+      "corpus_conditional_identification_interval": [
+        0.006289308176100629,
+        0.20754716981132076
+      ],
+      "derived_confirmed": 0,
+      "derived_only_unit_ids": [],
+      "direct_confirmed": 1,
+      "direct_unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "interpretation": "secondary_union_of_non_equivalent_modalities",
+      "not_complete_in_examined_scope": 126,
+      "stage": "B3",
+      "unknown": 32,
+      "unknown_unit_ids": [
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01272232:CANDIDATE_BLOCK",
+        "NCT01394952:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01652729:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03086330:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT03611582:CANDIDATE_BLOCK",
+        "NCT04591626:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_attempt",
+      "confirmed_total": 2,
+      "corpus_conditional_identification_interval": [
+        0.012578616352201259,
+        0.18238993710691823
+      ],
+      "derived_confirmed": 1,
+      "derived_only_unit_ids": [
+        "NCT04657003:CANDIDATE_BLOCK"
+      ],
+      "direct_confirmed": 1,
+      "direct_unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "interpretation": "secondary_union_of_non_equivalent_modalities",
+      "not_complete_in_examined_scope": 130,
+      "stage": "B3",
+      "unknown": 27,
+      "unknown_unit_ids": [
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT04998032:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_death",
+      "confirmed_total": 17,
+      "corpus_conditional_identification_interval": [
+        0.1069182389937107,
+        0.2830188679245283
+      ],
+      "derived_confirmed": 17,
+      "derived_only_unit_ids": [
+        "NCT01169779:CANDIDATE_BLOCK",
+        "NCT02160990:CANDIDATE_BLOCK",
+        "NCT02597049:CANDIDATE_BLOCK",
+        "NCT03018028:CANDIDATE_BLOCK",
+        "NCT03086330:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT03811574:CANDIDATE_BLOCK",
+        "NCT04039503:CANDIDATE_BLOCK",
+        "NCT04251156:CANDIDATE_BLOCK",
+        "NCT04657003:CANDIDATE_BLOCK",
+        "NCT05035095:CANDIDATE_BLOCK",
+        "NCT05132088:CANDIDATE_BLOCK",
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05646706:CANDIDATE_BLOCK",
+        "NCT05963022:CANDIDATE_BLOCK"
+      ],
+      "direct_confirmed": 0,
+      "direct_unit_ids": [],
+      "interpretation": "secondary_union_of_non_equivalent_modalities",
+      "not_complete_in_examined_scope": 114,
+      "stage": "B3",
+      "unknown": 28,
+      "unknown_unit_ids": [
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01272219:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02229396:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02765399:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT04061200:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    }
+  ],
+  "primary_model": "accepted_conservative_cumulative_integration",
+  "principal_all_5096_effective_position_counts": {
+    "complete": 68,
+    "not_complete_in_examined_scope": 3985,
+    "unknown": 1043
+  },
+  "principal_all_5096_source_scoped_status_counts": {
+    "complete_derived": 62,
+    "complete_direct": 6,
+    "not_reconstructible_in_examined_corpus": 3492,
+    "partial_reference": 731,
+    "public_source_unavailable": 570,
+    "reference_unverifiable": 235
+  },
+  "rounds_are_not_772_independent_assessments": true,
+  "status": "all_four_positive_witnesses_technically_supported",
+  "table_sizes_each_model": {
+    "illustrative_membership_scenarios": 12,
+    "modality_results": 84,
+    "secondary_union_results": 36,
+    "without_derived_completeness": 9
+  },
+  "targeted_sensitivity_without_scope_gap_propagation_B3_whole_population_union": [
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicidal_ideation",
+      "confirmed_total": 1,
+      "corpus_conditional_identification_interval": [
+        0.006289308176100629,
+        0.1761006289308176
+      ],
+      "derived_confirmed": 0,
+      "derived_only_unit_ids": [],
+      "direct_confirmed": 1,
+      "direct_unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "interpretation": "secondary_union_of_non_equivalent_modalities",
+      "not_complete_in_examined_scope": 131,
+      "stage": "B3",
+      "unknown": 27,
+      "unknown_unit_ids": [
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01272232:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_attempt",
+      "confirmed_total": 2,
+      "corpus_conditional_identification_interval": [
+        0.012578616352201259,
+        0.1761006289308176
+      ],
+      "derived_confirmed": 1,
+      "derived_only_unit_ids": [
+        "NCT04657003:CANDIDATE_BLOCK"
+      ],
+      "direct_confirmed": 1,
+      "direct_unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "interpretation": "secondary_union_of_non_equivalent_modalities",
+      "not_complete_in_examined_scope": 131,
+      "stage": "B3",
+      "unknown": 26,
+      "unknown_unit_ids": [
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_death",
+      "confirmed_total": 17,
+      "corpus_conditional_identification_interval": [
+        0.1069182389937107,
+        0.27044025157232704
+      ],
+      "derived_confirmed": 17,
+      "derived_only_unit_ids": [
+        "NCT01169779:CANDIDATE_BLOCK",
+        "NCT02160990:CANDIDATE_BLOCK",
+        "NCT02597049:CANDIDATE_BLOCK",
+        "NCT03018028:CANDIDATE_BLOCK",
+        "NCT03086330:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT03811574:CANDIDATE_BLOCK",
+        "NCT04039503:CANDIDATE_BLOCK",
+        "NCT04251156:CANDIDATE_BLOCK",
+        "NCT04657003:CANDIDATE_BLOCK",
+        "NCT05035095:CANDIDATE_BLOCK",
+        "NCT05132088:CANDIDATE_BLOCK",
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05646706:CANDIDATE_BLOCK",
+        "NCT05963022:CANDIDATE_BLOCK"
+      ],
+      "direct_confirmed": 0,
+      "direct_unit_ids": [],
+      "interpretation": "secondary_union_of_non_equivalent_modalities",
+      "not_complete_in_examined_scope": 116,
+      "stage": "B3",
+      "unknown": 26,
+      "unknown_unit_ids": [
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01272219:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT04061200:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    }
+  ]
+}

@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite this versioned dataset and code when reusing the audit."
 type: dataset
 title: "Incretin therapy suicide-related outcome reporting audit: data and code"
-version: 1.3.0
+version: 1.4.0
 date-released: 2026-11-05
 authors:
   - family-names: "Santos"
@@ -12,6 +12,6 @@ authors:
     given-names: "Guilherme"
     orcid: "https://orcid.org/0009-0007-5415-0572"
 repository-code: "https://github.com/vmcabello/incretin-suicide-reporting-audit"
-url: "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.3.0"
+url: "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.4.0"
 license: "CC-BY-4.0"
-abstract: "Exploratory documentary reconstructibility audit of a fixed historical corpus. Author-owned code is MIT licensed; original coding and documentation are CC BY 4.0. Supporting revision v1.3.0 adds a source-limited positive-only human-reassessment sensitivity; 20 of 57 historical complete positions remained complete and original-source verification of the other 37 remains pending. Historical primary results remain unchanged. No clinical treatment-effect analysis is performed."
+abstract: "Exploratory documentary reconstructibility audit of a fixed historical corpus. Version v1.4.0 integrates locked declared human source-linked follow-up returns for 109 positions already in the 663-position frame. All 57 historical positive positions are confirmed across the two exercises; four new sampled positives and 13 incompletely examined scopes enter a new cumulative integration. Historical inputs and results remain separately reproducible. No clinical treatment-effect analysis, external validation or uniform historical cutoff version certification is claimed."

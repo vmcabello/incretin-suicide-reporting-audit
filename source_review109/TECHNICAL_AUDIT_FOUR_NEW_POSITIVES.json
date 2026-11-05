@@ -1,0 +1,607 @@
+{
+  "schema": "technical-positive-source-audit-v1",
+  "date": "2026-11-05",
+  "scope": "Four newly positive positions in109returns; read-only documentary QA, not new human votes or replacements",
+  "raw_R1_sha256": "15c43173ab507718457c506b9a3e269e14a5e0d5db202dcd44bc65fabddcddd9",
+  "source_integrity": "12localoriginalsourcesverifiedagainstcatalogueSHA256",
+  "judgments_mutated": false,
+  "public_repository_mutated": false,
+  "source_examination_limit": "Targetedsectionsandfullrelevantnotesonly;notfullreadingofeveryoriginalsource",
+  "visual_QA": [
+    "STEP1Table3PDFp10",
+    "SURMOUNTpsychiatricTable6PDFp9",
+    "AWARD10Table2PDFp8"
+  ],
+  "findings": [
+    {
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "position_id": "POS-a608a5cb04ed71cf72d8",
+      "component": "suicide_death",
+      "stage": "B3",
+      "modality": "adverse_event_reports",
+      "received_cumulative_classification": "complete_derived",
+      "received_source_scoped_classification": "complete_derived",
+      "received_arm_numerators": {
+        "semaglutide2.4mg": {
+          "n": 0,
+          "counting_unit": "participants",
+          "scope": "Exact target and window stated in rationale"
+        },
+        "placebo": {
+          "n": 0,
+          "counting_unit": "participants",
+          "scope": "Exact target and window stated in rationale"
+        }
+      },
+      "received_denominators": {
+        "semaglutide2.4mg": {
+          "N": 1306,
+          "population": "Originalmente randomizados que receberam ao menos uma dose",
+          "window": "In-trial;68 semanas+7 semanas planejadas até 75",
+          "allocation": "original_randomized_arm"
+        },
+        "placebo": {
+          "N": 655,
+          "population": "Originalmente randomizados que receberam ao menos uma dose",
+          "window": "In-trial;68 semanas+7 semanas planejadas até 75",
+          "allocation": "original_randomized_arm"
+        }
+      },
+      "technical_conclusion": "supports_complete_derived_with_source_count_discrepancy_preserved",
+      "counts": {
+        "semaglutide2.4mg": {
+          "n": 0,
+          "N": 1306
+        },
+        "placebo": {
+          "n": 0,
+          "N": 655
+        }
+      },
+      "counting_unit": "participants; target zero is derived, not directly reported suicide-death counts",
+      "window": "Baseline to week75:68-week treatment plus7-week planned off-treatment follow-up; fatal events explicitly in-trial.",
+      "support_logic": "Table3 fatal-event footnote enumerates non-suicide causes in both arms. With the footnote presented as the causes of reported fatal events, zero suicide-death AE participants can be derived, despite an unresolved placebo all-cause participant-count discrepancy. Do not turn this documentary inference into a claim of clinical absence or use C-SSRS behavior categories as deaths.",
+      "caveats": [
+        "The printed placebo row shows 1(0.2%) participant and3fatal events, while footnote‡ says the three named causes occurred in one participant each. This is an internal source inconsistency, independently confirmed visually. The present audit does not repair it or assert that total deaths per arm are settled.",
+        "The received rationale states both observations but should make their inconsistency explicit; do not conflate three events with three unique persons.",
+        "No direct-complete classification is supported by this cause-subtraction witness."
+      ],
+      "sources": [
+        {
+          "source_id": "SRC-6f9b733543eda61db264d37c",
+          "sha256": "6f9b733543eda61db264d37c580940b060ae1f7440c708e6670671b8d3eec3f0",
+          "locator": "PDF pp.3,10; Table3 and full notes*,†,‡; printedp.998",
+          "technical_findings": "All1961randomized participants received a dose; SAS1306/655. Methods defineweek75and in-trial lastcontact. Fatal-event notes give sudden cardiac death for semaglutide and glioblastoma/aspirationpneumonia/severesepsis for placebo."
+        }
+      ]
+    },
+    {
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "position_id": "POS-6040eb8d44115b0ca53e",
+      "component": "suicide_attempt",
+      "stage": "B3",
+      "modality": "adverse_event_reports",
+      "received_cumulative_classification": "complete_derived",
+      "received_source_scoped_classification": "complete_derived",
+      "received_arm_numerators": {
+        "tirzepatide10mg": {
+          "n": 0,
+          "counting_unit": "participants",
+          "scope": "Exact target and window stated in rationale"
+        },
+        "tirzepatide15mg": {
+          "n": 0,
+          "counting_unit": "participants",
+          "scope": "Exact target and window stated in rationale"
+        },
+        "placebo": {
+          "n": 0,
+          "counting_unit": "participants",
+          "scope": "Exact target and window stated in rationale"
+        }
+      },
+      "received_denominators": {
+        "tirzepatide10mg": {
+          "N": 312,
+          "population": "Originalmente randomizados que receberam ao menos uma dose",
+          "window": "Baseline atravésweek 76:72 semanas paralelas+4 semanas follow-up",
+          "allocation": "original_randomized_arm"
+        },
+        "tirzepatide15mg": {
+          "N": 311,
+          "population": "Originalmente randomizados que receberam ao menos uma dose",
+          "window": "Baseline atravésweek 76:72 semanas paralelas+4 semanas follow-up",
+          "allocation": "original_randomized_arm"
+        },
+        "placebo": {
+          "N": 315,
+          "population": "Originalmente randomizados que receberam ao menos uma dose",
+          "window": "Baseline atravésweek 76:72 semanas paralelas+4 semanas follow-up",
+          "allocation": "original_randomized_arm"
+        }
+      },
+      "technical_conclusion": "supports_complete_derived_across_explicit_exhaustive_AE_search_and_trial_identity_bridge",
+      "counts": {
+        "tirzepatide10mg": {
+          "n": 0,
+          "N": 312
+        },
+        "tirzepatide15mg": {
+          "n": 0,
+          "N": 311
+        },
+        "placebo": {
+          "n": 0,
+          "N": 315
+        }
+      },
+      "counting_unit": "participants, not attempt episodes; the subject with two episodes is one participant",
+      "window": "Baseline toweek76;72-week parallel treatment plus4-week safetyfollow-up, includingoff-treatmentdata.",
+      "support_logic": "FDA primaryreview searches in GPHK/GPHL identify the same3AE subjects:1placeboideation and2tirzepatideattemptsubjects. The2026primarypooledpublication identifies both attempt/behavior subjects#16/#17 asSURMOUNT-1 and states AE reporting added no SI/SBcases beyondC-SSRS. The exhaustiveAE set and explicittrialidentities therefore leave noSURMOUNT-2attemptAEsubjects, separately in eacharm. Registry supplies originaltreatedarm denominators andweek76scope.",
+      "caveats": [
+        "The attempt inference depends on the exhaustive AE-search and trial-attribution bridge, not on all-cause mortality or completed-suicide zero.",
+        "FDA poolsGPHK/GPHL; the2026publication poolsSURMOUNT1/2/3. Neither pooled C-SSRS denominator may substitute forSURMOUNT-2denominators.",
+        "The2026publication distinguishesinterrupted/aborted/nonfatalattempts; for the zero withinSURMOUNT-2, allcandidatebehaviorcategories occur outside thattrial. No structured-modality completeness is established by this AEaudit."
+      ],
+      "sources": [
+        {
+          "source_id": "SRC-4ffc5bea39958298693d4c7c",
+          "sha256": "4ffc5bea39958298693d4c7c340173b79647651c940c95b7cf4b4233e7ddda4e",
+          "locator": "FDA NDA217806ClinicalReview PDFpp.196–197, printedpp.195–196; completeSMQ/FMQparagraphs andcase narratives",
+          "technical_findings": "Twoattemptparticipants in tirzepatidepool;one10mgparticipant withtwoepisodes,one15mgparticipant withinterruptedattempt. FDA expressly finds no other suicide-relatedAEsubjects."
+        },
+        {
+          "source_id": "SRC-2beda1e5ae1e8b0a65b108e9",
+          "sha256": "2beda1e5ae1e8b0a65b108e9b5cf7e53dec6b100b97e22535e5fdde63d9ad8e8",
+          "locator": "PrimarypublicationObesity2026 PDFpp.3,7–9;Methods2.2–2.4;Results3.2.5;Table6rows#16/#17",
+          "technical_findings": "Methods:allrandomizedtreatedsafetyset includingoff-treatmentdata through4weeksafetyfollowup. Table6identifiesbothSA/SBsubjects asSURMOUNT-1. AEreports add no cases beyondC-SSRS. Bothtrialassignmentscheckedvisually."
+        },
+        {
+          "source_id": "SRC-928e5d0e0d010ed5308d0840",
+          "sha256": "928e5d0e0d010ed5308d084087859cb7ca3cef707ad7a948a643aef81b529f36",
+          "locator": "JSON protocolSection.identificationModule.secondaryIdInfos;resultsSection.adverseEventsModule.{timeFrame,description,eventGroups}",
+          "technical_findings": "NCT04657003=I8F-MC-GPHL=SURMOUNT-2. Alltreated:312tirzepatide10mg,311tirzepatide15mg,315placebo. Baseline throughweek76. Registryall-cause2/0/0notusedtoinferattemptzero."
+        }
+      ]
+    },
+    {
+      "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+      "position_id": "POS-9edde8c14b9719bfa779",
+      "component": "suicide_death",
+      "stage": "B2",
+      "modality": "adverse_event_reports",
+      "received_cumulative_classification": "complete_derived",
+      "received_source_scoped_classification": "complete_derived",
+      "received_arm_numerators": {
+        "exenatide5mcgBID": {
+          "n": 0,
+          "counting_unit": "participants",
+          "scope": "Exact target and window stated in rationale"
+        },
+        "placebo": {
+          "n": 0,
+          "counting_unit": "participants",
+          "scope": "Exact target and window stated in rationale"
+        }
+      },
+      "received_denominators": {
+        "exenatide5mcgBID": {
+          "N": 10,
+          "population": "Originalmente randomizados que receberam ao menos uma dose",
+          "window": "30 dias período paralelo completo; sem follow-up adicional planejado descrito",
+          "allocation": "original_randomized_arm"
+        },
+        "placebo": {
+          "N": 10,
+          "population": "Originalmente randomizados que receberam ao menos uma dose",
+          "window": "30 dias período paralelo completo; sem follow-up adicional planejado descrito",
+          "allocation": "original_randomized_arm"
+        }
+      },
+      "technical_conclusion": "supports_complete_derived_from_universal_zero_AE_in_target_population_and_period",
+      "counts": {
+        "exenatide5mcgBID": {
+          "n": 0,
+          "N": 10
+        },
+        "placebo": {
+          "n": 0,
+          "N": 10
+        }
+      },
+      "counting_unit": "participants; all20participants treated/completed; universalzeroAEimplieszeropeople withdeathAE",
+      "window": "30-day initial parallel treatment; noadditionalplannedobservationdescribed inrevieweddesign.",
+      "support_logic": "PrimarytrialarticleStudyDesign/Participants/Safety/Disposition/AdverseEvents gives20randomized,10perarm,30days,allcompleted; explicitlynodeathsandnoAEs. This universalAEabsence in matchedpopulation/window allowszeroAE-suicidedeath derivation. RegistryzeroSAE/otherAEwiththreshold0independentlysupportsAEscope; missingdeathsNumAffectedisnotusedaszero.",
+      "caveats": [
+        "UniversalzeroAE supports only the AE modality; it is not a structured suicidality assessment.",
+        "No unreported additionalfollow-up is presumed. Zero applies to the stated30-daystudy."
+      ],
+      "sources": [
+        {
+          "source_id": "SRC-88198dfa955eb9e1b03c00dc",
+          "sha256": "88198dfa955eb9e1b03c00dc004f9380e690fe0cf2ad44d375eccbe096e0846f",
+          "locator": "OriginalXML sec3StudyDesign;sec4Participants;sec9Safety;sec22AdverseEvents;Table2",
+          "technical_findings": "ObesityBMI30–40;10exenatide5mcgBID/10placebo;30days. Safety andcompletioncover bothgroups."
+        },
+        {
+          "source_id": "SRC-a340c011e52f9440ddd3e020",
+          "sha256": "a340c011e52f9440ddd3e020b004f9d66730f300dc5fa4a7371f1c3a825d6e0e",
+          "locator": "JSONresultsSection.adverseEventsModule andparticipantFlowModule",
+          "technical_findings": "30days,frequencyThreshold0;seriousNumAffected0/10eacharm,otherNumAffected0/10eacharm;flowallcompleted. deathsNumAffectednotprovided."
+        }
+      ]
+    },
+    {
+      "unit_id": "NCT02597049:CANDIDATE_BLOCK",
+      "position_id": "POS-2d0448e75c22100c83c2",
+      "component": "suicide_death",
+      "stage": "B3",
+      "modality": "reported_all_cause_mortality_derivation",
+      "received_cumulative_classification": "complete_derived",
+      "received_source_scoped_classification": "complete_derived",
+      "received_arm_numerators": {
+        "dulaglutide1.5mg": {
+          "n": 0,
+          "counting_unit": "participants",
+          "derivation": "No braço 1,5 mg: 2 óbitos totais menos 1 por carcinoma uterino e 1 por pneumonia = 0; nos outros braços, 0 óbitos gerais implica 0 suicídios."
+        },
+        "dulaglutide0.75mg": {
+          "n": 0,
+          "counting_unit": "participants",
+          "derivation": "No braço 1,5 mg: 2 óbitos totais menos 1 por carcinoma uterino e 1 por pneumonia = 0; nos outros braços, 0 óbitos gerais implica 0 suicídios."
+        },
+        "placebo": {
+          "n": 0,
+          "counting_unit": "participants",
+          "derivation": "No braço 1,5 mg: 2 óbitos totais menos 1 por carcinoma uterino e 1 por pneumonia = 0; nos outros braços, 0 óbitos gerais implica 0 suicídios."
+        }
+      },
+      "received_denominators": {
+        "dulaglutide1.5mg": {
+          "N": 142,
+          "population": "Participantes elegíveis randomizados que receberam pelo menos uma dose; atribuição original.",
+          "window": "Fase paralela e observação programada de 24 semanas, visita 11 ou ET; sem período rotineiro adicional no calendário.",
+          "allocation": "original randomized arm"
+        },
+        "dulaglutide0.75mg": {
+          "N": 141,
+          "population": "Participantes elegíveis randomizados que receberam pelo menos uma dose; atribuição original.",
+          "window": "Fase paralela e observação programada de 24 semanas, visita 11 ou ET; sem período rotineiro adicional no calendário.",
+          "allocation": "original randomized arm"
+        },
+        "placebo": {
+          "N": 140,
+          "population": "Participantes elegíveis randomizados que receberam pelo menos uma dose; atribuição original.",
+          "window": "Fase paralela e observação programada de 24 semanas, visita 11 ou ET; sem período rotineiro adicional no calendário.",
+          "allocation": "original randomized arm"
+        }
+      },
+      "technical_conclusion": "supports_complete_derived_in_24_week_planned_observation_only",
+      "counts": {
+        "dulaglutide1.5mg": {
+          "n": 0,
+          "N": 142
+        },
+        "dulaglutide0.75mg": {
+          "n": 0,
+          "N": 141
+        },
+        "placebo": {
+          "n": 0,
+          "N": 140
+        }
+      },
+      "counting_unit": "unique participants; Table2deathrow andexplicitnarrative reporttwodistinctpatients",
+      "window": "Baseline toendofstudyup24weeks/Visit11orET; noadditionalroutinepost-treatmentvisit inprotocolschedule.",
+      "support_logic": "ArticleTable2showsall-causedeaths2/0/0in142/141/140exposed. Narrativeattributesboth1.5mgdeaths to uterine carcinomaandpneumonia; otherarmsno deaths. Causeenumerationyields2−1−1=0for1.5mg and0forothers. Protocolvisitcalendarendsweek24/ET and expresslydoesnotrequireactiveseekingofAEafterstudycompletion;passiveSAErelatedreportinglaterisnotanadditionalplannedobservationperiod.",
+      "caveats": [
+        "One0.75mgrandomizedparticipantneverreceiveddrug:142randomizedmustnotreplace141exposed.",
+        "The target is24-weekplannedobservation; nozero claimafterstudy discharge/reactiverelatedSAEreporting.",
+        "Unrelatedness todrugisnotusedascauseofdeathproof;theexplicituterinecarcinoma/pneumoniacauselistisused."
+      ],
+      "sources": [
+        {
+          "source_id": "SRC-e9907728c66e8c6f728bbb65",
+          "sha256": "e9907728c66e8c6f728bbb65160cd33f69174bbcda75153e19ff7a9c0850028a",
+          "locator": "AWARD-10publisherPDFpp.1,6,8;Methods;Table2 andmortalityparagraph",
+          "technical_findings": "SAS142/141/140;twodistinctdeaths1.5mgarm,oneuterinecarcinomaandonepneumonia;noothers. Table2columnsandfootnotecheckedvisually."
+        },
+        {
+          "source_id": "SRC-dbbddc56f1509c231be3d2ca",
+          "sha256": "dbbddc56f1509c231be3d2ca44595cab04d02539c53eb32bb8249e59f67fb4bd",
+          "locator": "ProtocolH9X-MC-GBGE(b),PDFpp.17–19,41–42,67–70;FigGBGE.1,§§4.1–4.2,8.2–8.2.1;ScheduleofActivities",
+          "technical_findings": "Visit11week24orETisfinalplannedvisit. Patientswithtreatmentdiscontinuation/rescueexpectedtoremainvisitsifable;actualstudywithdrawalendsET. No routinepost-treatmentvisit. After discharge, only relatedSAElearnedpassivelymustbereported;notactiveseeking."
+        },
+        {
+          "source_id": "SRC-ed94ca0de7ead4d6bacced22",
+          "sha256": "ed94ca0de7ead4d6bacced22b1d676f8172553a6b7442186efcc9596cea419d0",
+          "locator": "SAPVersion2PDFpp.10,19–20;§5.15.1",
+          "technical_findings": "Safetypopulationexposed;TEAEfirstoccurs/worsensafterfirstdose;deathsummariesduringtreatmentperiod. ThisSAPaloneisnotobservedcountproof."
+        },
+        {
+          "source_id": "SRC-aeab7982dc7024416ef0ef76",
+          "sha256": "aeab7982dc7024416ef0ef76cd3dedd5cebddf8d689aea411dfb1ac8cb9ad542",
+          "locator": "JSONresultsSection.adverseEventsModule.{timeFrame,description,eventGroups}",
+          "technical_findings": "Baseline toendofstudyup24weeks;allreceived≥1dose;deaths2/142,0/141,0/140."
+        }
+      ]
+    }
+  ],
+  "material_conflicts_requiring_changed_binary_completeness": [],
+  "preserved_source_discrepancies": [
+    {
+      "unit": "NCT03548935:CANDIDATE_BLOCK",
+      "issue": "Placebofatalrow1participant/3events vsfootnoteoneparticipantforeachof3causes",
+      "effect": "Do notresolveall-causeparticipanttotal; zero suicidedeathderivedfromcompletecausenarrativeisunchangedunderthereceivedrule."
+    }
+  ],
+  "important_limits": [
+    "No derivedzero is a clinicaltrue-zeroassertion.",
+    "Positivewitnesssufficiencycanholdwithoutreadingallotherrelatedfiles,providedall6dimensionsandpertinentwindowarematched.",
+    "The presenttechnicalauditneithercertifiesauthorexaminationbeyondtheirdeclarationsnorchangesprovenance."
+  ],
+  "accepted_position_ids": [
+    "POS-a608a5cb04ed71cf72d8",
+    "POS-6040eb8d44115b0ca53e",
+    "POS-9edde8c14b9719bfa779",
+    "POS-2d0448e75c22100c83c2"
+  ],
+  "acceptance_status": "ALL_FOUR_RECEIVED_COMPLETE_DERIVED_DECISIONS_TECHNICALLY_SUPPORTED_WITH_STATED_LIMITS",
+  "status": "all_four_positive_witnesses_technically_supported",
+  "assessment_date": "2026-11-05",
+  "cutoff_version_warning": "These files were technically examined on 5 November 2026. Printed publication, approval and registry-update dates are recorded below, but the exact bytes and their availability as of the historical 19 October 2026 cutoff were not independently certified by this source audit. Newly linked evidence must not be described as contemporaneous historical verification without separate provenance.",
+  "no_full_vital_status_assertion": "The documentary counts concern recorded outcomes in the stated observation windows. This audit does not establish complete vital-status follow-up for every randomized participant or absence of unobserved events.",
+  "bibliography": [
+    {
+      "source_prefix": "6f9b733",
+      "type": "primary_trial_article",
+      "title": "Once-Weekly Semaglutide in Adults with Overweight or Obesity",
+      "authors": [
+        "John P. H. Wilding",
+        "Rachel L. Batterham",
+        "Salvatore Calanna",
+        "Melanie Davies",
+        "Luc F. Van Gaal",
+        "Ildiko Lingvay",
+        "Barbara M. McGowan",
+        "Julio Rosenstock",
+        "Marie T. D. Tran",
+        "Thomas A. Wadden",
+        "Sean Wharton",
+        "Koutaro Yokote",
+        "Niels Zeuthen",
+        "Robert F. Kushner"
+      ],
+      "group": "STEP 1 Study Group",
+      "journal": "New England Journal of Medicine",
+      "year": 2021,
+      "volume": "384",
+      "issue": "11",
+      "pages": "989–1002",
+      "doi": "10.1056/NEJMoa2032183",
+      "first_online_date_in_original": "2021-02-10",
+      "issue_date_in_original": "2021-03-18",
+      "metadata_locator": "PDF p.1",
+      "version_note": "Supplied publisher PDF, footer downloaded 22 April 2021; not a current publisher-correction audit.",
+      "source_id": "SRC-6f9b733543eda61db264d37c",
+      "sha256": "6f9b733543eda61db264d37c580940b060ae1f7440c708e6670671b8d3eec3f0"
+    },
+    {
+      "source_prefix": "2beda1",
+      "type": "primary_pooled_trial_article",
+      "title": "Psychiatric Safety of Tirzepatide in People With Obesity and No Known Major Psychopathology: A Post Hoc Analysis of SURMOUNT",
+      "authors": [
+        "Thomas A. Wadden",
+        "Maria A. Oquendo",
+        "Robert F. Kushner",
+        "Dachuang Cao",
+        "Chrisanthi A. Karanikas",
+        "Afton Kechter",
+        "Madhumita A. Murphy"
+      ],
+      "journal": "Obesity",
+      "year": 2026,
+      "volume": "34",
+      "issue": "3",
+      "pages": "565–578",
+      "doi": "10.1002/oby.70122",
+      "received_date_in_original": "2025-07-18",
+      "revised_date_in_original": "2025-10-22",
+      "accepted_date_in_original": "2025-11-10",
+      "first_online_date_in_original": null,
+      "metadata_locator": "PDF p.1 for title/authors/year/volume/pages/DOI; running footer indicates 2026, issue3",
+      "version_note": "Supplied final paginated open-access PDF. Download footer states UNICAMP, 23 September 2026. That footer is an observation of the file, not independent certification of historical cutoff availability.",
+      "source_id": "SRC-2beda1e5ae1e8b0a65b108e9",
+      "sha256": "2beda1e5ae1e8b0a65b108e9b5cf7e53dec6b100b97e22535e5fdde63d9ad8e8"
+    },
+    {
+      "source_prefix": "4ffc5b",
+      "type": "regulatory_clinical_review",
+      "title": "Clinical Review: NDA 217806, Zepbound (tirzepatide)",
+      "authors": [
+        "Raymond Soccio"
+      ],
+      "institution": "US Food and Drug Administration, Center for Drug Evaluation and Research; Division of Diabetes, Lipid Disorders, and Obesity",
+      "year": 2023,
+      "journal": null,
+      "pages": "267 PDF pages; printed pp.194–196 correspond to PDF pp.195–197",
+      "doi": null,
+      "application_number": "217806Orig1s000",
+      "reference_id": "5274339",
+      "review_completion_date_in_original": "2023-11-07",
+      "received_date_in_original": "2023-05-08",
+      "metadata_locator": "PDF pp.1–2",
+      "version_note": "Clinical Review(s) PDF as supplied. Exact version at historical cutoff not independently certified.",
+      "source_id": "SRC-4ffc5bea39958298693d4c7c",
+      "sha256": "4ffc5bea39958298693d4c7c340173b79647651c940c95b7cf4b4233e7ddda4e"
+    },
+    {
+      "source_prefix": "88198d",
+      "type": "primary_trial_article",
+      "title": "Exenatide in obesity with accelerated gastric emptying: a randomized, pharmacodynamics study",
+      "authors": [
+        "Andres Acosta",
+        "Michael Camilleri",
+        "Duane Burton",
+        "Jessica O’Neill",
+        "Deborah Eckert",
+        "Paula Carlson",
+        "Alan R. Zinsmeister"
+      ],
+      "journal": "Physiological Reports",
+      "year": 2015,
+      "volume": "3",
+      "issue": "11",
+      "pages": "e12610",
+      "doi": "10.14814/phy2.12610",
+      "publication_date_in_original": "2015-11-05",
+      "pmc_release_date_in_original": "2015-11-09",
+      "pmid": "26542264",
+      "pmcid": "PMC4632965",
+      "metadata_locator": "Original XML front/journal-meta and front/article-meta",
+      "version_note": "Structured original full-text XML; release and article metadata read directly, not inferred from filename.",
+      "source_id": "SRC-88198dfa955eb9e1b03c00dc",
+      "sha256": "88198dfa955eb9e1b03c00dc004f9380e690fe0cf2ad44d375eccbe096e0846f"
+    },
+    {
+      "source_prefix": "e99077",
+      "type": "primary_trial_article",
+      "title": "Dulaglutide as add-on therapy to SGLT2 inhibitors in patients with inadequately controlled type 2 diabetes (AWARD-10): a 24-week, randomised, double-blind, placebo-controlled trial",
+      "authors": [
+        "Bernhard Ludvik",
+        "Juan P. Frías",
+        "Francisco J. Tinahones",
+        "Julio Wainstein",
+        "Honghua Jiang",
+        "Kenneth E. Robertson",
+        "Luis-Emilio García-Pérez",
+        "D. Bradley Woodward",
+        "Zvonko Milicevic"
+      ],
+      "journal": "Lancet Diabetes & Endocrinology",
+      "year": 2018,
+      "volume": "6",
+      "pages": "370–381",
+      "doi": "10.1016/S2213-8587(18)30023-8",
+      "first_online_date_in_original": "2018-02-23",
+      "corrected_version_date_in_original": "2018-05-23",
+      "metadata_locator": "PDF p.1",
+      "version_note": "Original explicitly states the online publication was corrected and corrected version first appeared23May2018. Supplied publisher PDF carries ClinicalKey download footer28October2026, so this exact local copy is not evidence it was archived before19October.",
+      "source_id": "SRC-e9907728c66e8c6f728bbb65",
+      "sha256": "e9907728c66e8c6f728bbb65160cd33f69174bbcda75153e19ff7a9c0850028a"
+    },
+    {
+      "source_prefix": "dbbddc",
+      "type": "trial_protocol",
+      "title": "A Randomized, Parallel-Arm, Double-Blind Study of Efficacy and Safety of Dulaglutide When Added to SGLT2 Inhibitors in Patients With Type 2 Diabetes Mellitus",
+      "authors": [
+        "Eli Lilly and Company"
+      ],
+      "year": 2016,
+      "protocol_version": "H9X-MC-GBGE(b)",
+      "nct_id": "NCT02597049",
+      "approval_date_in_original": "2016-03-28",
+      "metadata_locator": "PDF p.1",
+      "version_note": "Protocol version b, 85 PDF pages; document cover states approval date, not publication/deposit date.",
+      "source_id": "SRC-dbbddc56f1509c231be3d2ca",
+      "sha256": "dbbddc56f1509c231be3d2ca44595cab04d02539c53eb32bb8249e59f67fb4bd"
+    },
+    {
+      "source_prefix": "ed94ca",
+      "type": "statistical_analysis_plan",
+      "title": "A Randomized, Parallel-Arm, Double-Blind Study of Efficacy and Safety of Dulaglutide When Added to SGLT2 Inhibitors in Patients With Type 2 Diabetes Mellitus",
+      "authors": [
+        "Eli Lilly and Company"
+      ],
+      "year": 2016,
+      "plan_version": "H9X-MC-GBGE Statistical Analysis Plan V2",
+      "nct_id": "NCT02597049",
+      "approval_date_in_original": "2016-04-01",
+      "metadata_locator": "PDF p.1",
+      "version_note": "SAP version2, 32 PDF pages; cover approval date is not a proof of deposit or retrieval date.",
+      "source_id": "SRC-ed94ca0de7ead4d6bacced22",
+      "sha256": "ed94ca0de7ead4d6bacced22b1d676f8172553a6b7442186efcc9596cea419d0"
+    },
+    {
+      "source_prefix": "309815",
+      "type": "primary_trial_article",
+      "title": "Tirzepatide once weekly for the treatment of obesity in people with type 2 diabetes (SURMOUNT-2): a double-blind, randomised, multicentre, placebo-controlled, phase 3 trial",
+      "authors": [
+        "W. Timothy Garvey",
+        "Juan P. Frias",
+        "Ania M. Jastreboff",
+        "Carel W. le Roux",
+        "Naveed Sattar",
+        "Diego Aizenberg",
+        "Huzhang Mao",
+        "Shuyu Zhang",
+        "Nadia N. Ahmad",
+        "Mathijs C. Bunck",
+        "Imane Benabbad",
+        "Xiaotian M. Zhang"
+      ],
+      "group": "SURMOUNT-2 investigators",
+      "journal": "Lancet",
+      "year": 2023,
+      "volume": "402",
+      "pages": "613–626",
+      "doi": "10.1016/S0140-6736(23)01200-X",
+      "first_online_date_in_original": "2023-06-24",
+      "issue_date_in_original": "2023-08-19",
+      "metadata_locator": "PDF p.1",
+      "version_note": "Own trial article provides treatment allocation, treated denominators and all-cause death counts. Not the sole source of attempt-zero derivation.",
+      "source_id": "SRC-309815fc7ea758643ff59e8f",
+      "sha256": "309815fc7ea758643ff59e8f6a71c933f700c2f148626d18c071f12353647582"
+    },
+    {
+      "source_id": "SRC-928e5d0e0d010ed5308d0840",
+      "sha256": "928e5d0e0d010ed5308d084087859cb7ca3cef707ad7a948a643aef81b529f36",
+      "type": "trial_registry",
+      "title": "Efficacy and Safety of Tirzepatide Once Weekly in Participants With Type 2 Diabetes Who Have Obesity or Are Overweight: A Randomized, Double-Blind, Placebo-Controlled Trial (SURMOUNT-2)",
+      "nct_id": "NCT04657003",
+      "author_or_host": "ClinicalTrials.gov; sponsor as identified in registry",
+      "last_update_post_date_struct": {
+        "date": "2024-04-08",
+        "type": "ACTUAL"
+      },
+      "metadata_locator": "protocolSection.identificationModule and statusModule.lastUpdatePostDateStruct",
+      "version_note": "Last-update field recorded as supplied; actual versus estimated date type retained. Exact historical byte version not independently certified."
+    },
+    {
+      "source_id": "SRC-a340c011e52f9440ddd3e020",
+      "sha256": "a340c011e52f9440ddd3e020b004f9d66730f300dc5fa4a7371f1c3a825d6e0e",
+      "type": "trial_registry",
+      "title": "Effect of Exenatide in Obese Patients With Accelerated Gastric Emptying",
+      "nct_id": "NCT02160990",
+      "author_or_host": "ClinicalTrials.gov; sponsor as identified in registry",
+      "last_update_post_date_struct": {
+        "date": "2016-08-09",
+        "type": "ESTIMATED"
+      },
+      "metadata_locator": "protocolSection.identificationModule and statusModule.lastUpdatePostDateStruct",
+      "version_note": "Last-update field recorded as supplied; actual versus estimated date type retained. Exact historical byte version not independently certified."
+    },
+    {
+      "source_id": "SRC-aeab7982dc7024416ef0ef76",
+      "sha256": "aeab7982dc7024416ef0ef76cd3dedd5cebddf8d689aea411dfb1ac8cb9ad542",
+      "type": "trial_registry",
+      "title": "A Randomized, Parallel-Arm, Double-Blind Study of Efficacy and Safety of Dulaglutide When Added to SGLT2 Inhibitors in Patients With Type 2 Diabetes Mellitus",
+      "nct_id": "NCT02597049",
+      "author_or_host": "ClinicalTrials.gov; sponsor as identified in registry",
+      "last_update_post_date_struct": {
+        "date": "2020-06-17",
+        "type": "ACTUAL"
+      },
+      "metadata_locator": "protocolSection.identificationModule and statusModule.lastUpdatePostDateStruct",
+      "version_note": "Last-update field recorded as supplied; actual versus estimated date type retained. Exact historical byte version not independently certified."
+    }
+  ],
+  "public_projection": {
+    "private_source_copies_and_paths_included": false,
+    "raw_identifiable_reviewer_returns_included": false,
+    "limited_verbatim_excerpts_omitted": true,
+    "original_private_technical_audit_sha256": "a4f23964f15ec9ff9b9d790ad8a3ba1df22d824f8c8db029f22f84b7a1771e0e",
+    "no_new_human_votes": true,
+    "scientific_counts_scope_caveats_preserved": true
+  }
+}

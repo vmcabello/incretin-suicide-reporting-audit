@@ -1,0 +1,889 @@
+{
+  "author_reported_independent_internal_assessments": true,
+  "by_design_group": [
+    {
+      "coverage": {
+        "sufficient_positive_witness_examined": 37
+      },
+      "current_cumulative": {
+        "complete_derived": 37
+      },
+      "current_source_scoped": {
+        "complete_derived": 37
+      },
+      "design_group": "census_pending_source_confirmation",
+      "positions": 37
+    },
+    {
+      "coverage": {
+        "comparable_relevant_source_union_examined": 55,
+        "incomplete_relevant_scope": 13,
+        "sufficient_positive_witness_examined": 4
+      },
+      "current_cumulative": {
+        "complete_derived": 4,
+        "not_reconstructible_in_examined_corpus": 42,
+        "partial_reference": 25,
+        "reference_unverifiable": 1
+      },
+      "current_source_scoped": {
+        "complete_derived": 4,
+        "not_reconstructible_in_examined_corpus": 48,
+        "partial_reference": 20
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "positions": 72
+    }
+  ],
+  "coverage": {
+    "comparable_relevant_source_union_examined": 55,
+    "incomplete_relevant_scope": 13,
+    "sufficient_positive_witness_examined": 41
+  },
+  "current_cumulative_classifications": {
+    "complete_derived": 41,
+    "not_reconstructible_in_examined_corpus": 42,
+    "partial_reference": 25,
+    "reference_unverifiable": 1
+  },
+  "current_source_scoped_classifications": {
+    "complete_derived": 41,
+    "not_reconstructible_in_examined_corpus": 48,
+    "partial_reference": 20
+  },
+  "exact_classification_agreement_positions": 109,
+  "external_or_memory_blinded_validation": false,
+  "grouped_by_design_component_layer_modality": [
+    {
+      "component": "suicide_death",
+      "current_human_cumulative": {
+        "complete_derived": 9
+      },
+      "current_human_source_scoped": {
+        "complete_derived": 9
+      },
+      "design_group": "census_pending_source_confirmation",
+      "historical_statuses": {
+        "complete_derived": 9
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "1": 9
+      },
+      "modality": "reported_all_cause_mortality_derivation",
+      "positions": 9,
+      "stage": "A"
+    },
+    {
+      "component": "suicide_death",
+      "current_human_cumulative": {
+        "complete_derived": 9
+      },
+      "current_human_source_scoped": {
+        "complete_derived": 9
+      },
+      "design_group": "census_pending_source_confirmation",
+      "historical_statuses": {
+        "complete_derived": 9
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "1": 9
+      },
+      "modality": "reported_all_cause_mortality_derivation",
+      "positions": 9,
+      "stage": "B1"
+    },
+    {
+      "component": "suicide_death",
+      "current_human_cumulative": {
+        "complete_derived": 9
+      },
+      "current_human_source_scoped": {
+        "complete_derived": 9
+      },
+      "design_group": "census_pending_source_confirmation",
+      "historical_statuses": {
+        "complete_derived": 9
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "1": 9
+      },
+      "modality": "reported_all_cause_mortality_derivation",
+      "positions": 9,
+      "stage": "B2"
+    },
+    {
+      "component": "suicide_death",
+      "current_human_cumulative": {
+        "complete_derived": 1
+      },
+      "current_human_source_scoped": {
+        "complete_derived": 1
+      },
+      "design_group": "census_pending_source_confirmation",
+      "historical_statuses": {
+        "complete_derived": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "1": 1
+      },
+      "modality": "adverse_event_reports",
+      "positions": 1,
+      "stage": "B3"
+    },
+    {
+      "component": "suicide_death",
+      "current_human_cumulative": {
+        "complete_derived": 9
+      },
+      "current_human_source_scoped": {
+        "complete_derived": 9
+      },
+      "design_group": "census_pending_source_confirmation",
+      "historical_statuses": {
+        "complete_derived": 9
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "1": 9
+      },
+      "modality": "reported_all_cause_mortality_derivation",
+      "positions": 9,
+      "stage": "B3"
+    },
+    {
+      "component": "suicidal_ideation",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 2
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 1,
+      "integrated_effective_indicators": {
+        "0": 2,
+        "unknown": 1
+      },
+      "modality": "adverse_event_reports",
+      "positions": 3,
+      "stage": "A"
+    },
+    {
+      "component": "suicidal_ideation",
+      "current_human_cumulative": {
+        "partial_reference": 3
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 2,
+      "integrated_effective_indicators": {
+        "0": 1,
+        "unknown": 2
+      },
+      "modality": "suicidality_specific_structured_assessment",
+      "positions": 3,
+      "stage": "A"
+    },
+    {
+      "component": "suicidal_ideation",
+      "current_human_cumulative": {
+        "partial_reference": 2
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 1,
+      "integrated_effective_indicators": {
+        "0": 1,
+        "unknown": 1
+      },
+      "modality": "adverse_event_reports",
+      "positions": 2,
+      "stage": "B1"
+    },
+    {
+      "component": "suicidal_ideation",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1,
+        "reference_unverifiable": 1
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 1,
+      "integrated_effective_indicators": {
+        "0": 2,
+        "unknown": 1
+      },
+      "modality": "suicidality_specific_structured_assessment",
+      "positions": 3,
+      "stage": "B1"
+    },
+    {
+      "component": "suicidal_ideation",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "0": 2
+      },
+      "modality": "adverse_event_reports",
+      "positions": 2,
+      "stage": "B2"
+    },
+    {
+      "component": "suicidal_ideation",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 1,
+      "integrated_effective_indicators": {
+        "0": 1,
+        "unknown": 1
+      },
+      "modality": "suicidality_specific_structured_assessment",
+      "positions": 2,
+      "stage": "B2"
+    },
+    {
+      "component": "suicidal_ideation",
+      "current_human_cumulative": {
+        "partial_reference": 2
+      },
+      "current_human_source_scoped": {
+        "partial_reference": 2
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 1,
+      "integrated_effective_indicators": {
+        "0": 1,
+        "unknown": 1
+      },
+      "modality": "adverse_event_reports",
+      "positions": 2,
+      "stage": "B3"
+    },
+    {
+      "component": "suicidal_ideation",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "0": 3
+      },
+      "modality": "suicidality_specific_structured_assessment",
+      "positions": 3,
+      "stage": "B3"
+    },
+    {
+      "component": "suicide_attempt",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 3
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 3
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "0": 3
+      },
+      "modality": "adverse_event_reports",
+      "positions": 3,
+      "stage": "A"
+    },
+    {
+      "component": "suicide_attempt",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 3
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 1,
+      "integrated_effective_indicators": {
+        "0": 2,
+        "unknown": 1
+      },
+      "modality": "suicidality_specific_structured_assessment",
+      "positions": 3,
+      "stage": "A"
+    },
+    {
+      "component": "suicide_attempt",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "0": 3
+      },
+      "modality": "adverse_event_reports",
+      "positions": 3,
+      "stage": "B1"
+    },
+    {
+      "component": "suicide_attempt",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "0": 3
+      },
+      "modality": "suicidality_specific_structured_assessment",
+      "positions": 3,
+      "stage": "B1"
+    },
+    {
+      "component": "suicide_attempt",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 2
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 2
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "0": 2
+      },
+      "modality": "adverse_event_reports",
+      "positions": 2,
+      "stage": "B2"
+    },
+    {
+      "component": "suicide_attempt",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "0": 3
+      },
+      "modality": "suicidality_specific_structured_assessment",
+      "positions": 3,
+      "stage": "B2"
+    },
+    {
+      "component": "suicide_attempt",
+      "current_human_cumulative": {
+        "complete_derived": 1,
+        "not_reconstructible_in_examined_corpus": 1
+      },
+      "current_human_source_scoped": {
+        "complete_derived": 1,
+        "not_reconstructible_in_examined_corpus": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "0": 1,
+        "1": 1
+      },
+      "modality": "adverse_event_reports",
+      "positions": 2,
+      "stage": "B3"
+    },
+    {
+      "component": "suicide_attempt",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 1,
+      "integrated_effective_indicators": {
+        "0": 2,
+        "unknown": 1
+      },
+      "modality": "suicidality_specific_structured_assessment",
+      "positions": 3,
+      "stage": "B3"
+    },
+    {
+      "component": "suicide_death",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "0": 3
+      },
+      "modality": "adverse_event_reports",
+      "positions": 3,
+      "stage": "A"
+    },
+    {
+      "component": "suicide_death",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 1,
+      "integrated_effective_indicators": {
+        "0": 1,
+        "unknown": 1
+      },
+      "modality": "reported_all_cause_mortality_derivation",
+      "positions": 2,
+      "stage": "A"
+    },
+    {
+      "component": "suicide_death",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 3
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 3
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "0": 3
+      },
+      "modality": "suicidality_specific_structured_assessment",
+      "positions": 3,
+      "stage": "A"
+    },
+    {
+      "component": "suicide_death",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 2
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 2
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 2,
+      "integrated_effective_indicators": {
+        "0": 1,
+        "unknown": 2
+      },
+      "modality": "adverse_event_reports",
+      "positions": 3,
+      "stage": "B1"
+    },
+    {
+      "component": "suicide_death",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "0": 2
+      },
+      "modality": "reported_all_cause_mortality_derivation",
+      "positions": 2,
+      "stage": "B1"
+    },
+    {
+      "component": "suicide_death",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 3
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 3
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "0": 3
+      },
+      "modality": "suicidality_specific_structured_assessment",
+      "positions": 3,
+      "stage": "B1"
+    },
+    {
+      "component": "suicide_death",
+      "current_human_cumulative": {
+        "complete_derived": 1,
+        "not_reconstructible_in_examined_corpus": 1
+      },
+      "current_human_source_scoped": {
+        "complete_derived": 1,
+        "not_reconstructible_in_examined_corpus": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "0": 1,
+        "1": 1
+      },
+      "modality": "adverse_event_reports",
+      "positions": 2,
+      "stage": "B2"
+    },
+    {
+      "component": "suicide_death",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "0": 2
+      },
+      "modality": "reported_all_cause_mortality_derivation",
+      "positions": 2,
+      "stage": "B2"
+    },
+    {
+      "component": "suicide_death",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 3
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 3
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "0": 3
+      },
+      "modality": "suicidality_specific_structured_assessment",
+      "positions": 3,
+      "stage": "B2"
+    },
+    {
+      "component": "suicide_death",
+      "current_human_cumulative": {
+        "complete_derived": 1,
+        "not_reconstructible_in_examined_corpus": 1
+      },
+      "current_human_source_scoped": {
+        "complete_derived": 1,
+        "not_reconstructible_in_examined_corpus": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "0": 1,
+        "1": 1
+      },
+      "modality": "adverse_event_reports",
+      "positions": 2,
+      "stage": "B3"
+    },
+    {
+      "component": "suicide_death",
+      "current_human_cumulative": {
+        "complete_derived": 1,
+        "not_reconstructible_in_examined_corpus": 1
+      },
+      "current_human_source_scoped": {
+        "complete_derived": 1,
+        "not_reconstructible_in_examined_corpus": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 1,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 0,
+      "integrated_effective_indicators": {
+        "0": 1,
+        "1": 1
+      },
+      "modality": "reported_all_cause_mortality_derivation",
+      "positions": 2,
+      "stage": "B3"
+    },
+    {
+      "component": "suicide_death",
+      "current_human_cumulative": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "current_human_source_scoped": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "design_group": "phase2_original_negative_probability_sample",
+      "historical_statuses": {
+        "not_reconstructible_in_examined_corpus": 2,
+        "partial_reference": 1
+      },
+      "incomplete_relevant_scope": 1,
+      "integrated_effective_indicators": {
+        "0": 2,
+        "unknown": 1
+      },
+      "modality": "suicidality_specific_structured_assessment",
+      "positions": 3,
+      "stage": "B3"
+    }
+  ],
+  "historical_complete_rechecked": 37,
+  "internal_paired_agreement": {
+    "cumulative_classification": {
+      "Cohen_kappa_internal_descriptive": 1.0,
+      "confidence_interval": null,
+      "kappa_not_estimable_reason": null,
+      "n": 109,
+      "not_an_external_accuracy_measure": true,
+      "observed_agreement": 1.0
+    },
+    "source_scoped_classification": {
+      "Cohen_kappa_internal_descriptive": 1.0,
+      "confidence_interval": null,
+      "kappa_not_estimable_reason": null,
+      "n": 109,
+      "not_an_external_accuracy_measure": true,
+      "observed_agreement": 1.0
+    }
+  },
+  "internal_paired_agreement_by_design_group": {
+    "census_pending_source_confirmation": {
+      "cumulative_classification": {
+        "Cohen_kappa_internal_descriptive": null,
+        "confidence_interval": null,
+        "kappa_not_estimable_reason": "Single-class margins",
+        "n": 37,
+        "not_an_external_accuracy_measure": true,
+        "observed_agreement": 1.0
+      },
+      "source_scoped_classification": {
+        "Cohen_kappa_internal_descriptive": null,
+        "confidence_interval": null,
+        "kappa_not_estimable_reason": "Single-class margins",
+        "n": 37,
+        "not_an_external_accuracy_measure": true,
+        "observed_agreement": 1.0
+      }
+    },
+    "phase2_original_negative_probability_sample": {
+      "cumulative_classification": {
+        "Cohen_kappa_internal_descriptive": 1.0,
+        "confidence_interval": null,
+        "kappa_not_estimable_reason": null,
+        "n": 72,
+        "not_an_external_accuracy_measure": true,
+        "observed_agreement": 1.0
+      },
+      "source_scoped_classification": {
+        "Cohen_kappa_internal_descriptive": 1.0,
+        "confidence_interval": null,
+        "kappa_not_estimable_reason": null,
+        "n": 72,
+        "not_an_external_accuracy_measure": true,
+        "observed_agreement": 1.0
+      }
+    }
+  },
+  "no_error_rate_extrapolated": true,
+  "no_external_accuracy_claim": true,
+  "no_naive_sampling_confidence_interval": true,
+  "paired_positions": 109,
+  "phase2_historical_negative_positions": 72,
+  "source_examinations": {
+    "R1": {
+      "by_examination_status": {
+        "auxiliary_only": 24,
+        "examined": 196,
+        "not_examined": 41
+      },
+      "case_count": 59,
+      "case_source_examinations": 261,
+      "distinct_source_ids": 233,
+      "position_count": 109
+    },
+    "R2": {
+      "by_examination_status": {
+        "auxiliary_only": 24,
+        "examined": 196,
+        "not_examined": 41
+      },
+      "case_count": 59,
+      "case_source_examinations": 261,
+      "distinct_source_ids": 233,
+      "position_count": 109
+    }
+  }
+}
