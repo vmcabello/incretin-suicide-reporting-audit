@@ -1,0 +1,101 @@
+{
+  "version": "v1.1.0",
+  "scope": "Public supporting directory; scientific inputs unchanged.",
+  "files": [
+    {
+      "path": "CASE_REPRESENTATION_EDGES_EN.json",
+      "bytes": 542015,
+      "sha256": "33f6a9656d38734964dbce1db5f3d4468e695564689860ed8b0f1a7e1a2a2e4a"
+    },
+    {
+      "path": "CASE_REPRESENTATION_EDGES_EN.tsv",
+      "bytes": 363516,
+      "sha256": "15918cd74d7bf61f7d9c4a023750af6399a9fb52d476704e779aeb736d2bf46e"
+    },
+    {
+      "path": "DECISION_DICTIONARY_EN.json",
+      "bytes": 2599,
+      "sha256": "007e0258b615bb24e8a6fcc21d1edba3ebc7a941077d02d8cd796f3bdd7fbf46"
+    },
+    {
+      "path": "INPUT_PROVENANCE_INDEX_EN.json",
+      "bytes": 12072,
+      "sha256": "51610cf6834f4b834367e6c35ea621cebdfab905ecbf0043b86cc7eeba0a7cba"
+    },
+    {
+      "path": "MISSING_LINKS_AND_LIMITS_EN.json",
+      "bytes": 21413,
+      "sha256": "6f45ef5ea46e67058058b1003079d01d246afb3f123d6843b4e24771bd7342ea"
+    },
+    {
+      "path": "NATIVE_EXPORT_LOCATORS_EN.json",
+      "bytes": 12259,
+      "sha256": "5017dc781518a7884a8e32fff2c680a591e176af48d56fc3dc451c8af46f2657"
+    },
+    {
+      "path": "PRIOR_LIBRARY_DECISIONS_REUSED_EN.json",
+      "bytes": 4060443,
+      "sha256": "d7d5f0b416ba48248db9255e83d966654a4443ebbd0c0188d5895404878adc66"
+    },
+    {
+      "path": "PRIOR_LIBRARY_DECISIONS_REUSED_EN.tsv",
+      "bytes": 2197726,
+      "sha256": "a4defa8864ff559e5ecb397c90a156e01399f0b7b9abaa93630a87c6700d1ae0"
+    },
+    {
+      "path": "README_SEARCH_TRACE.txt",
+      "bytes": 1476,
+      "sha256": "9dda10b0fef660b9250fb6b780a7d720a220840b8ee24ae95331ccbbd47fb1d9"
+    },
+    {
+      "path": "RETURN_PROVENANCE_AND_METHOD_EN.json",
+      "bytes": 1443,
+      "sha256": "fb271725e2fca18e6a635a99ca8c21a9ff69af46be608c1192a963417a1b096a"
+    },
+    {
+      "path": "SEARCH_TRACE_README_EN.html",
+      "bytes": 3851,
+      "sha256": "f862cc9922d8fc99f83133f3c35791926620e6096ca967351e047852f9f19d39"
+    },
+    {
+      "path": "SEARCH_TRACE_SUMMARY_EN.json",
+      "bytes": 4428,
+      "sha256": "783dd8a44c861967b4c964364b8761ff5638533302c62d79a6c48665da2e1b88"
+    },
+    {
+      "path": "SEARCH_UPDATE_CASES_745_EN.json",
+      "bytes": 3922876,
+      "sha256": "751660fceb9e4addb8fec1516bfbec9da429dab0cd6dd643a1b8f051c14a3516"
+    },
+    {
+      "path": "SEARCH_UPDATE_CASES_745_EN.tsv",
+      "bytes": 2320729,
+      "sha256": "4419ea74ca35c51d50800b5a978413071792a570a861c2795960109684df7308"
+    },
+    {
+      "path": "SEARCH_UPDATE_REPRESENTATIONS_2558_EN.json",
+      "bytes": 6047806,
+      "sha256": "7c2c0901c1d093844118ec3ee33f04bdd85c1eb40ff996a7991587cd52c34290"
+    },
+    {
+      "path": "SEARCH_UPDATE_REPRESENTATIONS_2558_EN.tsv",
+      "bytes": 2800057,
+      "sha256": "9f8d72f4d89e6c818f88093aa4bd9b709d98dede44e1d7d51b1ca7480a6ffa14"
+    },
+    {
+      "path": "SEPARATE_REGISTRY55_AND_QUERY_ABSENCE_EN.json",
+      "bytes": 41317,
+      "sha256": "77f990f1873ca4035bf4f78540e9b302ac42f539539389bfd01019940d1046c9"
+    },
+    {
+      "path": "SEPARATE_REGISTRY55_AND_QUERY_ABSENCE_EN.tsv",
+      "bytes": 27266,
+      "sha256": "836256e3b248a110f40554cbf9a864a309c2dd0aeb96f62cd7e1dae3c1113aed"
+    },
+    {
+      "path": "validate_search_trace.py",
+      "bytes": 4792,
+      "sha256": "d01ea9142c4edd95b27e3870de247e89159f48bc673ca7abf9db0eec2d5ba6d8"
+    }
+  ]
+}

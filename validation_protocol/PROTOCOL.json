@@ -1,0 +1,75 @@
+{
+  "protocol_id": "MAJOR-REVIEW-SEPARATE-ASSESSMENT-663-20261104-v1",
+  "date": "2026-11-04",
+  "written_utc_before_selection": "2026-11-05T01:52:58Z",
+  "selection_has_not_yet_been_executed_when_written": true,
+  "status": "RETROSPECTIVE_PROTOCOL_FIXED_BEFORE_THIS_SELECTION_AND_NEW_ASSESSMENTS",
+  "source_release": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.0.0",
+  "scientific_scope": "New separately retained human documentary assessments of a fixed historically assembled trial corpus. The study results and earlier coding are already known. This is neither a prospectively registered audit nor external or memory-blinded validation.",
+  "historical_declaration": "The authors' earlier declaration of independent human assessment is preserved as declared. Missing separately traceable corrected decision sets prevent estimating paired reliability from the transmitted technical reconsolidation; that limitation does not retract the authors' declaration or erase earlier approvals in their own scope.",
+  "mandatory": "All 57 currently complete documentary positions, direct and derived, with exact six-part unit/component/layer/modality/reference/window keys. The 57 positions are repeated observations in fewer trials and are not treated as 57 independent clinical units.",
+  "not_complete_sample": {
+    "size": 426,
+    "reuse_exact_existing_selection": true,
+    "original_protocol": "Original deterministic 10%-per-stratum design; exact retained keys and probabilities are in SAMPLING_ROSTER.json",
+    "original_selection": "The 426 keys were fixed in the preceding protocol and reused without redrawing; replay uses the original seed EJCP-P4-20261104-VALIDATION-v1.",
+    "original_frame": "4030 positions with cumulative modality indicator 0",
+    "original_design": "ceiling(10% of each component/modality/layer/source-scoped-status stratum), selected by the fixed original SHA256 ordering",
+    "condition": "Exact key matching against the current public input is checked. Retain original inclusion probabilities and weights. Do not redraw to favor new sources, easier cases, different classifications or proposed corrections. Existing technical responses are not copied into the new forms."
+  },
+  "unknown_sample": {
+    "frame": "All 1009 current positions with a null cumulative modality indicator, including access gaps propagated from earlier source layers",
+    "size": 180,
+    "strata": [
+      "component",
+      "modality",
+      "stage"
+    ],
+    "allocation": "Proportional allocation of 180 to nonempty strata with a minimum two per stratum and largest-remainder balancing to exactly 180; cap by stratum size if needed. Ties are ordered lexically by the stratum key.",
+    "selection": "Sort canonical position keys within each stratum by SHA256 of seed + pipe + key and take its allocated number. Record N_h, n_h, probability n_h/N_h and weight N_h/n_h. No replacement for inaccessible sources.",
+    "seed": "EJCP-MAJOR-UNKNOWN180-20261104-v1",
+    "planning_rationale": "The size balances reviewer workload and coverage of every outcome/modality/layer stratum. Under simple random sampling, a 1009-position frame and 180 assessments give a worst-case normal-approximation 95% half-width of about 6.6 percentage points with finite-population correction; this is only a planning benchmark, not promised precision. Repeated positions in 43 trials are dependent. Actual reports must use the real stratified design, weights and trial-level dependence, and cannot claim 180 independent trials.",
+    "unknowns_not_selected": "Remain unknown in the analytical input. No unreviewed unknown is reclassified by extrapolation, by silence or by a neighboring source."
+  },
+  "nested_alternative_reference_pilot": {
+    "target_units": 30,
+    "no_additional_documentary_positions": true,
+    "candidate_frame": "Distinct units already represented among the 663 selected positions, with at least one selected-position source resolvable to local SHA256-matched original-format bytes. Structured registry JSON must have original protocolSection/Study/FullStudy keys. PDF/XML/DOCX routes require independently checked provenance; extension alone does not prove a primary source.",
+    "conservative_local_eligibility": "For reproducible initial allocation, require at least one hash-matched structured original registry JSON for a source attached to a selected position. A reviewer still verifies source identity, version, relevant content and eligibility. Supporting primary publications and supplements may be used if verified.",
+    "unit_selection": "Order eligible distinct units by SHA256(pilot_seed + pipe + unit_id), take 30 or all if fewer than 30. Record the finite frame, exclusions for absence of a verified local registry route and probabilities. This is a conditional local-source pilot, not a representative sample of every trial.",
+    "position_selection": "One already selected position per chosen unit; prefer the latest available cumulative layer B3, then B2, B1, A, and break same-layer ties by SHA256(pilot_seed + pipe + position_key). Do not choose by completeness or by availability of a favorable clinical count.",
+    "pilot_seed": "EJCP-MAJOR-ALTREF30-20261104-v1",
+    "comparisons": [
+      "ITT/as-randomized original contrast",
+      "On-treatment exposure-defined original contrast"
+    ],
+    "blank_extraction": "For each alternative, record exact arm labels, arm-specific target component count and denominator, counting unit, population definition, attribution by randomization versus treatment received, window, source version/page locator, direct-versus-derived nature and unknown reasons. Blank is unassessed, null/unknown is a documented scientific unknown, and zero can only be entered from explicit compatible evidence.",
+    "interpretation": "Compare reconstructibility across references within these same selected units and report counts and source limitations, not universal percentages or clinical risk. Unknown is allowed. This is a feasibility sensitivity pilot and does not silently redefine the article's main target reference."
+  },
+  "reviewer_collection": {
+    "R1": "Assigned assessor 1; identity supplied privately",
+    "R2": "Assigned assessor 2; identity supplied privately",
+    "separate_blank_packets": true,
+    "hide_previous_classifications_rationales_selection_stratum": true,
+    "source_only_packet": true,
+    "independence": "Each reviewer forms and seals a separate current return before accessing the other's current answers or discussing decisions. Each position records prior exposure, current separate formation and substantive AI help. Blank forms do not erase memory or make this external validation.",
+    "AI_role": "AI may retrieve and organize sources and validate structure. Do not use AI to propose, select, sign or fill the requested human decisions. Substantive AI-assisted decisions, if any, must be labeled as such and analyzed separately.",
+    "grouping": "Group selected positions by unit and reference so primary evidence can be read once where relevant; retain each distinct component/modality/layer/window answer. Do not require all 220 historical admission decisions again merely for this reliability exercise. A newly found identity/reference issue is escalated with evidence."
+  },
+  "post_return_plan": {
+    "requires_two_locked_returns": true,
+    "no_statistics_before_genuine_returns": true,
+    "reporting": "Report coverage, prior exposure, separate formation, substantive AI assistance, raw cross-tabulations, exact agreement, category-specific disagreement and adjudication by mandatory/unknown-sample/not-complete-sample stratum and modality/layer. Do not pool the enriched set as a representative unweighted accuracy estimate. Kappa, if useful and its margins support interpretation, is secondary and descriptive for the explicitly defined sample.",
+    "no_gold_standard": "R1/R2 agreement and consensus do not establish true accuracy. Differences from earlier coding are disagreement or correction rates relative to that coding, not a validated external error rate.",
+    "weights_and_dependence": "Use retained n_h/N_h probabilities for the 426 frame and new probabilities for the 180 frame; count complete positions separately. Any extrapolation concerns only its stated position frame, with trial-level dependence acknowledged. Do not extrapolate to undiscovered trials or uncertain-membership candidates.",
+    "adjudication": "After both returns are locked, preserve original votes and evidence, compare, resolve differences through documented discussion or a named additional assessor when needed, and keep unresolved cases unknown. Retain a change log and report effects on modality counts, denominators and conditional identification intervals.",
+    "expansion": "If a systematic scope/source/rule problem is detected, add a versioned targeted expansion without replacing the original probabilistic selections or hiding difficult cases."
+  },
+  "current_human_returns": 0,
+  "classification_or_clinical_result_changed_by_preparation": false,
+  "reporting_guidance": {
+    "citation": "Kottner J, Audigé L, Brorson S, et al. Guidelines for Reporting Reliability and Agreement Studies (GRRAS) were proposed. J Clin Epidemiol. 2011;64:96–106.",
+    "doi": "10.1016/j.jclinepi.2010.03.002",
+    "guidance_is_not_design_or_judgment_validation": true
+  }
+}

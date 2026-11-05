@@ -1,0 +1,35 @@
+{
+  "returns745": [
+    {
+      "reviewer_code": "R1",
+      "provenance": {
+        "artifact_id": "ART-d8bde23032c97e538160066d",
+        "project_relative_artifact": "outputs/triagem_atualizacao_745_2026-10-19/retornos_finais_2026-10-19/TRIAGEM_ATUALIZACAO_745_R1_FINAL.json",
+        "artifact_sha256": "d8bde23032c97e538160066d069657e7b72b5df874448ebbe96198e872c06ed3",
+        "locator": "answers[*]"
+      },
+      "returned_answers": 745,
+      "document_kind_as_recorded": "review_final",
+      "workflow_as_recorded": "AI_consulted",
+      "AI_proposals_visible_as_reported": true,
+      "independent_blinded_validation_established": false
+    },
+    {
+      "reviewer_code": "R2",
+      "provenance": {
+        "artifact_id": "ART-00e719d6161edbae725cbaf6",
+        "project_relative_artifact": "outputs/triagem_atualizacao_745_2026-10-19/retornos_finais_2026-10-19/TRIAGEM_ATUALIZACAO_745_R2_FINAL.json",
+        "artifact_sha256": "00e719d6161edbae725cbaf641a2752b3cbe882e9465b0b01299b2021c690db5",
+        "locator": "answers[*]"
+      },
+      "returned_answers": 745,
+      "document_kind_as_recorded": "review_final",
+      "workflow_as_recorded": "AI_consulted",
+      "AI_proposals_visible_as_reported": true,
+      "independent_blinded_validation_established": false
+    }
+  ],
+  "new_human_votes": 0,
+  "independent_validation_not_established_by_projection": true,
+  "full_source_reading_not_inferred_from_a_link": true
+}

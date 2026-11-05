@@ -1,0 +1,100 @@
+{
+  "records": [
+    {
+      "unit_id": "NCT01144338:CANDIDATE_BLOCK",
+      "study": "EXSCEL",
+      "alternative": "ITT / reported classified suicide deaths",
+      "retained_arm_data": {
+        "randomized_ITT_denominators": [
+          7356,
+          7396
+        ],
+        "deaths_classified_as_suicide": [
+          0,
+          1
+        ],
+        "deaths_unknown_cause": [
+          110,
+          142
+        ],
+        "registry_as_treated_SAE_denominators": [
+          7344,
+          7372
+        ]
+      },
+      "evidence_basis": "Retained source-scoped EXSCEL rationale and TechnicalCorrections426; Table S4 / own registry distinction already documented.",
+      "feasibility": "Potential pilot candidate for reporting the explicitly classified cause-of-death category under ITT. Not complete ascertainment of all true suicide deaths and not interchangeable with treated-as-randomized reference.",
+      "required_before_quantitative_sensitivity": "Verify exact source version, observation window, allocation convention and treatment of unclassified causes independently; then lock the alternative documentary outcome definition.",
+      "new_estimate_computed": false
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "study": "STEP 5",
+      "alternative": "Adverse-event safety population versus structured-assessment window",
+      "retained_arm_data": {
+        "placebo": {
+          "affected_people": 0,
+          "safety_N": 152
+        },
+        "semaglutide": {
+          "affected_people": 0,
+          "safety_N": 152
+        }
+      },
+      "evidence_basis": "reconciliation/STEP5.json; source-specific eTable8 and footnote, existing technical reconciliation only.",
+      "feasibility": "AE proof is already compatible with the retained safety specification; it is not a new alternative-reference sensitivity. Structured scales require respondent Ns and a104-week rather than111-week window.",
+      "required_before_quantitative_sensitivity": "Extract structured-assessment person-level counting rule, relevant respondent Ns by arm, visit windows and overlap. AE zeros cannot be transferred to structured scales.",
+      "new_estimate_computed": false
+    },
+    {
+      "unit_id": "NCT01169779:CANDIDATE_BLOCK",
+      "study": "GetGoal-M-Asia",
+      "alternative": "Randomized versus exposed safety population / known vital-status follow-up",
+      "retained_arm_data": {
+        "exposed_safety": [
+          {
+            "N_exposed": 196,
+            "arm": "Lixisenatide",
+            "derived_suicide_deaths": 0,
+            "reported_all_cause_deaths": 0
+          },
+          {
+            "N_exposed": 194,
+            "arm": "Placebo",
+            "derived_suicide_deaths": 0,
+            "reported_all_cause_deaths": 0
+          }
+        ],
+        "randomized_placebo_N": 195
+      },
+      "evidence_basis": "reconciliation/group_a.json; preserved own primary article Table1/Methods and limitations.",
+      "feasibility": "The recorded safety Ns196/194 and randomized placebo N195 establish that reference conventions differ. Zero reported all-cause deaths does not certify complete follow-up of all randomized participants.",
+      "required_before_quantitative_sensitivity": "Verify untreated/randomized participant outcome, allocation/receipt convention, exact window and follow-up completeness before ITT or vital-status claim.",
+      "new_estimate_computed": false
+    },
+    {
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "study": "STEP 1",
+      "alternative": "On-treatment or structured-assessment schedule",
+      "retained_arm_data": null,
+      "evidence_basis": "Recorded DOCUMENTED_INCOMPATIBILITY window annotation:7-week dose-gap convention and structured schedule68weeks versus initial follow-up75weeks.",
+      "feasibility": "A positive window incompatibility is documented, but the retained reason records alone do not supply a complete alternative arm-specific dataset.",
+      "required_before_quantitative_sensitivity": "Extract arm-specific numerators, exposed/randomized/respondent denominators, start/stop/rescue rules and post-withdrawal observations; do not turn a schedule into observed follow-up.",
+      "new_estimate_computed": false
+    },
+    {
+      "unit_id": "NCT02229396:CANDIDATE_BLOCK",
+      "study": "DURATION 8",
+      "alternative": "Initial phase versus104-week extension aggregate",
+      "retained_arm_data": null,
+      "evidence_basis": "Recorded window incompatibility and EXTENSION_AGGREGATE tag:28initial weeks plus24and52extension weeks.",
+      "feasibility": "Cumulative extension aggregate cannot isolate the initial reference without additional period-specific data.",
+      "required_before_quantitative_sensitivity": "Independently extract period-specific arms, exposed Ns and participant/event counts; preserve extension and original phase as different references.",
+      "new_estimate_computed": false
+    }
+  ],
+  "pilot_selection_not_prespecified": "Illustrative feasibility assessment requested after the results were known; no representative sample or numerical sensitivity is claimed.",
+  "new_clinical_analysis": false,
+  "new_primary_reextraction": false,
+  "source_scoped_counts_not_promoted_to_complete_reference": true
+}

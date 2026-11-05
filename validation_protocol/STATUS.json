@@ -1,0 +1,15 @@
+{
+  "status": "REQUIRES_REVIEWER_VALIDATION",
+  "genuine_new_R1_returns": 0,
+  "genuine_new_R2_returns": 0,
+  "agreement_or_error_rates_calculated": false,
+  "statistical_claim": "Design and sampling replay only, not reliability or accuracy results.",
+  "human_approval_inferred": false,
+  "original_public_release_edited": false,
+  "private_files_excluded": [
+    "Current blinded-form answers",
+    "Coordinator baseline with prior classifications",
+    "Local filesystem paths and primary texts",
+    "Personal contact information and signatures"
+  ]
+}

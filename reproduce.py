@@ -17,5 +17,13 @@ def main():
         if out.read_bytes()!=expected.read_bytes():raise SystemExit('Results differ from the versioned expected output')
         if a.out:
             a.out.parent.mkdir(parents=True,exist_ok=True);a.out.write_bytes(out.read_bytes())
-    print(json.dumps({'integrity_files':len(manifest['files']),'exact_result_reproduction':True,'clinical_effect_analysis':False}))
+    with tempfile.TemporaryDirectory(prefix='reason_inventory_') as td:
+        generated=Path(td)
+        subprocess.run([sys.executable,'-B',str(ROOT/'reason_inventory/quantify_recorded_reasons.py'),'--repository',str(ROOT),'--out',str(generated)],check=True)
+        expected_names=[f.name for f in generated.iterdir() if f.is_file()]
+        for name in expected_names:
+            if (generated/name).read_bytes()!=(ROOT/'reason_inventory'/name).read_bytes():
+                raise SystemExit('Recorded-reason inventory differs: '+name)
+    subprocess.run([sys.executable,'-B',str(ROOT/'search_trace/validate_search_trace.py'),'--root',str(ROOT/'search_trace')],check=True)
+    print(json.dumps({'integrity_files':len(manifest['files']),'exact_result_reproduction':True,'recorded_reason_outputs_reproduced':len(expected_names),'search_trace_checked':True,'human_reassessment_completed':False,'clinical_effect_analysis':False}))
 if __name__=='__main__':main()

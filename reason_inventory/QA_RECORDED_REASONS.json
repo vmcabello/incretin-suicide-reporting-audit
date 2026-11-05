@@ -1,0 +1,13 @@
+{
+  "checks": {
+    "5096_unique_positions_and_annotation_join": true,
+    "current_status_partition_matches_frozen_classifications": true,
+    "all_historical_corpus_frequency_permissions_false": true,
+    "current426_keys_subset_existing": true,
+    "each_candidate_table_status_partition_matches_count": true,
+    "no_new_classification_value": true,
+    "no_new_clinical_estimate": true
+  },
+  "all_passed": true,
+  "scientific_validity_not_established_by_computational_checks": true
+}

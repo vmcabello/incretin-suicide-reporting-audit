@@ -1,0 +1,12 @@
+{
+  "schema": "retained-reason-annotation-minimal-public-projection-v1",
+  "original_authorial_annotation_sha256": "d8aa58706723fe697a57671d4f7a82252cffc556fa83a36e1f1901635e2e2fee",
+  "projection_sha256": "a516484bfba1c46e734f1769d0c3ef3f740d57317da329be5da49b4fc34c3f86",
+  "records": 5096,
+  "not_full_original_schema": "This is a minimal public projection for reproducing administrative counts, not a claim to satisfy the full original annotation schema.",
+  "rules": "Keys, recorded mechanism codes, dimension subcodes, gate findings, scope limitations and provenance qualifiers copied without new scientific assignment. Full retained evidence is included only for existing DOCUMENTED_INCOMPATIBILITY codes.",
+  "position_statuses": "Effective status comes from the separately versioned current input and unchanged documentary classifier; historical annotation status is retained as provenance only.",
+  "frequency_permissions": "All original annotations prohibit corpus-frequency inference; the public projection preserves those false flags.",
+  "human_source_reinspection_or_validation": "None newly claimed.",
+  "excluded": "No reviewer names, private returns or private filesystem paths are introduced by this projection."
+}

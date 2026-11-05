@@ -1,0 +1,252 @@
+{
+  "records": [
+    {
+      "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/central/central_95.ris",
+      "sha256": "cfc87bde1649af5e3f93fc737ccd9aa777880eef1229f8e57952a532f01cf099",
+      "bytes": 276602,
+      "artifact_id": "ART-cfc87bde1649af5e3f93fc73"
+    },
+    {
+      "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/central/central_completa_12693_20261019.ris",
+      "sha256": "eeb39c820d456c91b2fbbc2f01527a4e740f42222435bd80d922278b90e23aae",
+      "bytes": 38997181,
+      "artifact_id": "ART-eeb39c820d456c91b2fbbc2f"
+    },
+    {
+      "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/embase/embase_20260921_20261004_327.ris",
+      "sha256": "2452d54276c32a9664a0f9bec00fdb0a77167fd350105a44bfba1ca880d1f51d",
+      "bytes": 1550420,
+      "artifact_id": "ART-2452d54276c32a9664a0f9be"
+    },
+    {
+      "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/embase/embase_20261005_20261019_280.ris",
+      "sha256": "993586d325d8870b7f1fbaa40969af6360842937da1f9f13cf2c5469fc47ad51",
+      "bytes": 1368355,
+      "artifact_id": "ART-993586d325d8870b7f1fbaa4"
+    },
+    {
+      "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/embase/embase_cadastros_55.ris",
+      "sha256": "73dab4d04a378d8076b1c4361a90ef91604b4d979459047f8c76e5d6ea4fa341",
+      "bytes": 248740,
+      "artifact_id": "ART-73dab4d04a378d8076b1c436"
+    },
+    {
+      "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/psycinfo/psycinfo_18.ris",
+      "sha256": "98b9441223ff08d2707b98d646499be7fcd3f8c016dbf8266b125243751a53bf",
+      "bytes": 44130,
+      "artifact_id": "ART-98b9441223ff08d2707b98d6"
+    },
+    {
+      "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/pubmed/ATUALIZACAO_COMPLETA.nbib",
+      "sha256": "759164c30cbb87942962116713a4a563157c97eafba53250aabd225e946891eb",
+      "bytes": 9903851,
+      "artifact_id": "ART-759164c30cbb879429621167"
+    },
+    {
+      "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/pubmed/ATUALIZACAO_COMPLETA.xml",
+      "sha256": "89a035a8f227c4ced5745ea956384fe82131df12f7251513c57ebdf3ead9ed4f",
+      "bytes": 42707314,
+      "artifact_id": "ART-89a035a8f227c4ced5745ea9"
+    },
+    {
+      "project_relative_artifact": "outputs/conferencia_bibliografica_pendente_2026-10-12/retorno_Vitor_2026-10-13/triagem_Vitor_9809_final_2026-10-13.json",
+      "sha256": "f6e0af321dfaf8308795c0cc2ba177c469ca1487494990b4b6cfd6cd2923afb7",
+      "bytes": 4192792,
+      "artifact_id": "ART-f6e0af321dfaf8308795c0cc"
+    },
+    {
+      "project_relative_artifact": "outputs/conferencia_pos_triagem745_2026-10-19/MATRIZ_745_ROTAS_POS_CONFERENCIA.json",
+      "sha256": "36577e95236c303449a517d9d39a0b5bb99bd4c67d29b76e1331e8748d4c3e9d",
+      "bytes": 2756233,
+      "artifact_id": "ART-36577e95236c303449a517d9"
+    },
+    {
+      "project_relative_artifact": "outputs/consolidacao_auditoria_2026-10-01/pendentes_antigos_600/parecer_R1_pendentes_antigos_600.xlsx",
+      "sha256": "ccd7cf6976d63de2ec8faa51f2e95d0b3a01e71de6ec68bdbf09f4632a992dd0",
+      "bytes": 560516,
+      "artifact_id": "ART-ccd7cf6976d63de2ec8faa51"
+    },
+    {
+      "project_relative_artifact": "outputs/exportacoes_2026-09-24/central_completo_12597.ris",
+      "sha256": "94d087f6d43d643347a3fa0ce4a5b220d6e4ee639dd7db0e90593c9c5c58ec10",
+      "bytes": 37383245,
+      "artifact_id": "ART-94d087f6d43d643347a3fa0c"
+    },
+    {
+      "project_relative_artifact": "outputs/exportacoes_2026-09-24/central_diagnostico_25.ris",
+      "sha256": "8b44b20ad2cf1a32168bd979ea45ab20a203c31f2cf6ac95488725eef9ea6bf0",
+      "bytes": 82833,
+      "artifact_id": "ART-8b44b20ad2cf1a32168bd979"
+    },
+    {
+      "project_relative_artifact": "outputs/exportacoes_2026-09-24/central_lotes/central_1800_2023.ris",
+      "sha256": "c14fee090d4631fe0294c9dacc7974399ee540e6f32932d925c7dd306dbd4d00",
+      "bytes": 28857176,
+      "artifact_id": "ART-c14fee090d4631fe0294c9da"
+    },
+    {
+      "project_relative_artifact": "outputs/exportacoes_2026-09-24/central_lotes/central_2024_2025.ris",
+      "sha256": "458b62a8922bcebbfde16544f0dcb06c6c5ebf6a3bdd231bf703e2015eca444f",
+      "bytes": 7289743,
+      "artifact_id": "ART-458b62a8922bcebbfde16544"
+    },
+    {
+      "project_relative_artifact": "outputs/exportacoes_2026-09-24/central_lotes/central_2026.ris",
+      "sha256": "201789d9d4ffdac7a96fe2a41840100ba013a5e56c02805cfe9f0a3b2fa87c8e",
+      "bytes": 2542455,
+      "artifact_id": "ART-201789d9d4ffdac7a96fe2a4"
+    },
+    {
+      "project_relative_artifact": "outputs/exportacoes_2026-09-24/embase_clinical_trials_3034.ris",
+      "sha256": "2a83dd579e319faeb4da53c06e7e51d8f2096179cb2904c7af90865b0cf00803",
+      "bytes": 11671202,
+      "artifact_id": "ART-2a83dd579e319faeb4da53c0"
+    },
+    {
+      "project_relative_artifact": "outputs/exportacoes_2026-09-24/embase_completo_28234.ris",
+      "sha256": "74e1d1d53bc68d6813373eac4ba701eb28bfb336cb27b28b4240c354c6242576",
+      "bytes": 127178506,
+      "artifact_id": "ART-74e1d1d53bc68d6813373eac"
+    },
+    {
+      "project_relative_artifact": "outputs/exportacoes_2026-09-24/embase_lotes/embase_articles_00001_10000.ris",
+      "sha256": "211b7bb3e2cb75aa4c5197db0290a85b5dfb5b807087e78d4f99d3a9c0017f65",
+      "bytes": 47602353,
+      "artifact_id": "ART-211b7bb3e2cb75aa4c5197db"
+    },
+    {
+      "project_relative_artifact": "outputs/exportacoes_2026-09-24/embase_lotes/embase_articles_10001_20000.ris",
+      "sha256": "864b88b3d652b37dc46ecf9046f52cd5ff7f65764bd1071f320fd5ae75dd645c",
+      "bytes": 45263991,
+      "artifact_id": "ART-864b88b3d652b37dc46ecf90"
+    },
+    {
+      "project_relative_artifact": "outputs/exportacoes_2026-09-24/embase_lotes/embase_articles_20001_28234.ris",
+      "sha256": "45c6702527337f0a333c15571a7d2c1867aab02a33e9d97e77171b52962de546",
+      "bytes": 34312162,
+      "artifact_id": "ART-45c6702527337f0a333c1557"
+    },
+    {
+      "project_relative_artifact": "outputs/exportacoes_2026-09-24/fontes_anteriores/psycinfo/psycinfo_1259.ris",
+      "sha256": "f7dbcdbf848b68f1503e6571006431d8e63c18209b5cff028a7c8c2dd6a4d0d0",
+      "bytes": 3392109,
+      "artifact_id": "ART-f7dbcdbf848b68f1503e6571"
+    },
+    {
+      "project_relative_artifact": "outputs/exportacoes_2026-09-24/fontes_anteriores/pubmed/pubmed_24278.nbib",
+      "sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f",
+      "bytes": 119259314,
+      "artifact_id": "ART-a2f201fc5d1bd8822975cc62"
+    },
+    {
+      "project_relative_artifact": "outputs/integracao_elegibilidade_local580_2026-10-24/base_operacional_47092.sqlite3",
+      "sha256": "cf7686b8686e74bd2cebeaebd0d60fbbb96e002db35d75f441fabda11cefd248",
+      "bytes": 16142336,
+      "artifact_id": "ART-cf7686b8686e74bd2cebeaeb"
+    },
+    {
+      "project_relative_artifact": "outputs/integracao_reconciliacao_51_2026-10-02_v2/revisor_original/reconciliacao_prioritaria_2026-10-02.json",
+      "sha256": "0bab1f75c0d1110297fe32bb34f09c1ea9e9a49b6604297b178381020fae4acd",
+      "bytes": 32325,
+      "artifact_id": "ART-0bab1f75c0d1110297fe32bb"
+    },
+    {
+      "project_relative_artifact": "outputs/integracao_resumos4_2026-10-20/MATRIZ_35_ROTAS_APOS_4_FONTES.json",
+      "sha256": "2f9cedb02136063cdfaddeba16d1ac4cd3017b4a0684bc099d1d7bd9830b6e7c",
+      "bytes": 167494,
+      "artifact_id": "ART-2f9cedb02136063cdfaddeba"
+    },
+    {
+      "project_relative_artifact": "outputs/integracao_retorno35540_2026-10-24/OVERLAY_DECISOES_HUMANAS_35934.json",
+      "sha256": "b01706899f8d1011983e06e2626e3ed8d7f144ced67cd735f3baf1f203b5deb4",
+      "bytes": 188407372,
+      "artifact_id": "ART-b01706899f8d1011983e06e2"
+    },
+    {
+      "project_relative_artifact": "outputs/integracao_seguimento12_Vitor_2026-10-13/base_consolidada_47092.sqlite3",
+      "sha256": "1d20733ca6288bc190ef8827d4bda13c1ddaaf74106e5b64d28f4658b5fa6ed9",
+      "bytes": 580546560,
+      "artifact_id": "ART-1d20733ca6288bc190ef8827"
+    },
+    {
+      "project_relative_artifact": "outputs/integracao_triagem745_2026-10-19/MATRIZ_TRIAGEM_745_INTEGRADA.json",
+      "sha256": "b9a36b40ffd7121a4145d551869df3073402983a09b68664abd1ae9e0ba0cf52",
+      "bytes": 2665993,
+      "artifact_id": "ART-b9a36b40ffd7121a4145d551"
+    },
+    {
+      "project_relative_artifact": "outputs/reconciliacao_central_completa_2026-10-19/REGISTROS_ATUALIZACAO_COM_VINCULOS.json",
+      "sha256": "5512b819eb80a061f9542cc8458d929158474f38c03d2d04ca68ac743a7b19be",
+      "bytes": 12035473,
+      "artifact_id": "ART-5512b819eb80a061f9542cc8"
+    },
+    {
+      "project_relative_artifact": "outputs/reconstrucao_metodologica_ejcp_2026-11-04/lote_unico_revisores/json_finais_2026-11-04/R1_Vitor_FINAL.json",
+      "sha256": "9ffca7335b48a48ccbecb5b848f7170b93c19da499b44c75e494dd3fae5d8ae5",
+      "bytes": 7184122,
+      "artifact_id": "ART-9ffca7335b48a48ccbecb5b8"
+    },
+    {
+      "project_relative_artifact": "outputs/reconstrucao_metodologica_ejcp_2026-11-04/lote_unico_revisores/json_finais_2026-11-04/R2_Guilherme_FINAL.json",
+      "sha256": "6519ac3c3b3737aad522741deb3331dfbe19544e8075f4e599d1ef6386367abb",
+      "bytes": 7184108,
+      "artifact_id": "ART-6519ac3c3b3737aad522741d"
+    },
+    {
+      "project_relative_artifact": "outputs/reconstrucao_metodologica_ejcp_2026-11-04/online_resource_3/FAMILIES_479_DERIVATION_EN.json",
+      "sha256": "fcadd43d5ca7726497d9fb7f34ac0c7f52075ed97be786dccd8d0ab2bec70fcb",
+      "bytes": 3233665,
+      "artifact_id": "ART-fcadd43d5ca7726497d9fb7f"
+    },
+    {
+      "project_relative_artifact": "outputs/reconstrucao_metodologica_ejcp_2026-11-04/online_resource_3/UNIT_LEVEL_TABLE_182_EN.json",
+      "sha256": "1e2fd60098c4e968bfb4de0319dbf4415ff34278d77fb6b444c131756a2efe87",
+      "bytes": 1492131,
+      "artifact_id": "ART-1e2fd60098c4e968bfb4de03"
+    },
+    {
+      "project_relative_artifact": "outputs/revisao_usuario_100_pos_triagem_2026-09-29/submitted_decisions_132.json",
+      "sha256": "f12fc7c8b202532788d9a9e39b966f31a6d91182b2fb06b8e85358221a78bee8",
+      "bytes": 252781,
+      "artifact_id": "ART-f12fc7c8b202532788d9a9e3"
+    },
+    {
+      "project_relative_artifact": "outputs/triagem_atualizacao_745_2026-10-19/PACOTE_745_SEM_DECISOES.json",
+      "sha256": "4146446f4d2d903b059f78ee0610858c9345284fab988223227453db142ca8e1",
+      "bytes": 8088219,
+      "artifact_id": "ART-4146446f4d2d903b059f78ee"
+    },
+    {
+      "project_relative_artifact": "outputs/triagem_atualizacao_745_2026-10-19/retornos_finais_2026-10-19/TRIAGEM_ATUALIZACAO_745_R1_FINAL.json",
+      "sha256": "d8bde23032c97e538160066d069657e7b72b5df874448ebbe96198e872c06ed3",
+      "bytes": 1044704,
+      "artifact_id": "ART-d8bde23032c97e538160066d"
+    },
+    {
+      "project_relative_artifact": "outputs/triagem_atualizacao_745_2026-10-19/retornos_finais_2026-10-19/TRIAGEM_ATUALIZACAO_745_R2_FINAL.json",
+      "sha256": "00e719d6161edbae725cbaf641a2752b3cbe882e9465b0b01299b2021c690db5",
+      "bytes": 1055103,
+      "artifact_id": "ART-00e719d6161edbae725cbaf6"
+    },
+    {
+      "project_relative_artifact": "outputs/triagem_local_v3_2026-09-28/reference_100.json",
+      "sha256": "8e6fbdef5fd1ddca6eefcf27e7a490abcb981e655deda3306029e4883e18556e",
+      "bytes": 27461,
+      "artifact_id": "ART-8e6fbdef5fd1ddca6eefcf27"
+    },
+    {
+      "project_relative_artifact": "work/reconstrucao_metodologica_ejcp_20261104/buscas/INVENTARIO_NATIVOS_LOCAIS_E_DIREITOS.json",
+      "sha256": "7aca9160cf588c1c9e20755a079b2671d924a20fd5485e3a90af5bbdb63ee465",
+      "bytes": 18765,
+      "artifact_id": "ART-7aca9160cf588c1c9e20755a"
+    },
+    {
+      "project_relative_artifact": "work/reconstrucao_metodologica_ejcp_20261104/buscas/VERSOES_10_FECHAMENTO_TECNICO.json",
+      "sha256": "690e75151f5f617af8c0e857d9104215ca9c6eb2cbaf6cf56b0090d747e64339",
+      "bytes": 41432,
+      "artifact_id": "ART-690e75151f5f617af8c0e857"
+    }
+  ],
+  "absolute_paths_not_published": true,
+  "local_raw_inputs_not_redistributed": true
+}

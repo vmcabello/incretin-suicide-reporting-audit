@@ -1,0 +1,286 @@
+{
+  "records": [
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "numerator",
+      "reason_subcode": "DOCUMENTED_INCOMPATIBILITY",
+      "recorded_positions": 1,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "numerator",
+      "reason_subcode": "INFORMATION_NOT_PRESENTED_IN_EXAMINED_SCOPE",
+      "recorded_positions": 2671,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "numerator",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "recorded_positions": 2311,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "numerator",
+      "reason_subcode": "SOURCE_NOT_OBTAINED",
+      "recorded_positions": 57,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "numerator",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "recorded_positions": 56,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "denominator",
+      "reason_subcode": "DOCUMENTED_INCOMPATIBILITY",
+      "recorded_positions": 111,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "denominator",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "recorded_positions": 4869,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "denominator",
+      "reason_subcode": "SOURCE_NOT_OBTAINED",
+      "recorded_positions": 56,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "denominator",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "recorded_positions": 60,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "window",
+      "reason_subcode": "DOCUMENTED_INCOMPATIBILITY",
+      "recorded_positions": 4,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "window",
+      "reason_subcode": "INFORMATION_NOT_PRESENTED_IN_EXAMINED_SCOPE",
+      "recorded_positions": 1,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "window",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "recorded_positions": 4979,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "window",
+      "reason_subcode": "SOURCE_NOT_OBTAINED",
+      "recorded_positions": 56,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "window",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "recorded_positions": 56,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "subpopulation",
+      "reason_subcode": "DOCUMENTED_INCOMPATIBILITY",
+      "recorded_positions": 2,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "subpopulation",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "recorded_positions": 3945,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "subpopulation",
+      "reason_subcode": "SOURCE_NOT_OBTAINED",
+      "recorded_positions": 28,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "subpopulation",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "recorded_positions": 1121,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "counting_unit",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "recorded_positions": 4924,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "counting_unit",
+      "reason_subcode": "SOURCE_NOT_OBTAINED",
+      "recorded_positions": 56,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "counting_unit",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "recorded_positions": 116,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "source_access",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "recorded_positions": 3709,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "source_access",
+      "reason_subcode": "SOURCE_NOT_OBTAINED",
+      "recorded_positions": 283,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "historical_instrument5096",
+      "dimension": "source_access",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "recorded_positions": 1104,
+      "batch_positions": 5096,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "technical426_existing_reconsolidation",
+      "dimension": "numerator",
+      "reason_subcode": "INFORMATION_NOT_PRESENTED_IN_EXAMINED_SCOPE",
+      "recorded_positions": 256,
+      "batch_positions": 426,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "technical426_existing_reconsolidation",
+      "dimension": "numerator",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "recorded_positions": 170,
+      "batch_positions": 426,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "technical426_existing_reconsolidation",
+      "dimension": "denominator",
+      "reason_subcode": "DOCUMENTED_INCOMPATIBILITY",
+      "recorded_positions": 14,
+      "batch_positions": 426,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "technical426_existing_reconsolidation",
+      "dimension": "denominator",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "recorded_positions": 412,
+      "batch_positions": 426,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "technical426_existing_reconsolidation",
+      "dimension": "window",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "recorded_positions": 426,
+      "batch_positions": 426,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "technical426_existing_reconsolidation",
+      "dimension": "subpopulation",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "recorded_positions": 330,
+      "batch_positions": 426,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "technical426_existing_reconsolidation",
+      "dimension": "subpopulation",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "recorded_positions": 96,
+      "batch_positions": 426,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "technical426_existing_reconsolidation",
+      "dimension": "counting_unit",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "recorded_positions": 421,
+      "batch_positions": 426,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "technical426_existing_reconsolidation",
+      "dimension": "counting_unit",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "recorded_positions": 5,
+      "batch_positions": 426,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "technical426_existing_reconsolidation",
+      "dimension": "source_access",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "recorded_positions": 330,
+      "batch_positions": 426,
+      "independent_human_validation_not_established": true
+    },
+    {
+      "batch": "technical426_existing_reconsolidation",
+      "dimension": "source_access",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "recorded_positions": 96,
+      "batch_positions": 426,
+      "independent_human_validation_not_established": true
+    }
+  ],
+  "batches_not_independent_or_additive": true,
+  "technical426_does_not_replace_historical_instrument_or_create_new_labels": true
+}

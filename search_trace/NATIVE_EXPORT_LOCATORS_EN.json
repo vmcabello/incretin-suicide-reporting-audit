@@ -1,0 +1,276 @@
+{
+  "records": [
+    {
+      "native_file_id": "NATIVE-89a035a8f227c4ced5745ea9",
+      "native_export_basename": "ATUALIZACAO_COMPLETA.xml",
+      "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/pubmed/ATUALIZACAO_COMPLETA.xml",
+      "sha256": "89a035a8f227c4ced5745ea956384fe82131df12f7251513c57ebdf3ead9ed4f",
+      "bytes": 42707314,
+      "format": "PUBMED_XML",
+      "records_in_file": 1822,
+      "fulltext_or_abstracts_redistributed": false,
+      "bulk_redistribution_permission_established": false
+    },
+    {
+      "native_file_id": "NATIVE-2452d54276c32a9664a0f9be",
+      "native_export_basename": "embase_20260921_20261004_327.ris",
+      "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/embase/embase_20260921_20261004_327.ris",
+      "sha256": "2452d54276c32a9664a0f9bec00fdb0a77167fd350105a44bfba1ca880d1f51d",
+      "bytes": 1550420,
+      "format": "RIS",
+      "records_in_file": 327,
+      "fulltext_or_abstracts_redistributed": false,
+      "bulk_redistribution_permission_established": false
+    },
+    {
+      "native_file_id": "NATIVE-993586d325d8870b7f1fbaa4",
+      "native_export_basename": "embase_20261005_20261019_280.ris",
+      "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/embase/embase_20261005_20261019_280.ris",
+      "sha256": "993586d325d8870b7f1fbaa40969af6360842937da1f9f13cf2c5469fc47ad51",
+      "bytes": 1368355,
+      "format": "RIS",
+      "records_in_file": 280,
+      "fulltext_or_abstracts_redistributed": false,
+      "bulk_redistribution_permission_established": false
+    },
+    {
+      "native_file_id": "NATIVE-98b9441223ff08d2707b98d6",
+      "native_export_basename": "psycinfo_18.ris",
+      "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/psycinfo/psycinfo_18.ris",
+      "sha256": "98b9441223ff08d2707b98d646499be7fcd3f8c016dbf8266b125243751a53bf",
+      "bytes": 44130,
+      "format": "RIS",
+      "records_in_file": 18,
+      "fulltext_or_abstracts_redistributed": false,
+      "bulk_redistribution_permission_established": false
+    },
+    {
+      "native_file_id": "NATIVE-cfc87bde1649af5e3f93fc73",
+      "native_export_basename": "central_95.ris",
+      "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/central/central_95.ris",
+      "sha256": "cfc87bde1649af5e3f93fc737ccd9aa777880eef1229f8e57952a532f01cf099",
+      "bytes": 276602,
+      "format": "RIS",
+      "records_in_file": 95,
+      "fulltext_or_abstracts_redistributed": false,
+      "bulk_redistribution_permission_established": false
+    },
+    {
+      "native_file_id": "NATIVE-eeb39c820d456c91b2fbbc2f",
+      "native_export_basename": "central_completa_12693_20261019.ris",
+      "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/central/central_completa_12693_20261019.ris",
+      "sha256": "eeb39c820d456c91b2fbbc2f01527a4e740f42222435bd80d922278b90e23aae",
+      "bytes": 38997181,
+      "format": "RIS",
+      "records_in_file": 12693,
+      "fulltext_or_abstracts_redistributed": false,
+      "bulk_redistribution_permission_established": false
+    },
+    {
+      "native_file_id": "NATIVE-94d087f6d43d643347a3fa0c",
+      "native_export_basename": "central_completo_12597.ris",
+      "project_relative_artifact": "outputs/exportacoes_2026-09-24/central_completo_12597.ris",
+      "sha256": "94d087f6d43d643347a3fa0ce4a5b220d6e4ee639dd7db0e90593c9c5c58ec10",
+      "bytes": 37383245,
+      "format": "RIS",
+      "records_in_file": 12597,
+      "fulltext_or_abstracts_redistributed": false,
+      "bulk_redistribution_permission_established": false
+    },
+    {
+      "native_file_id": "NATIVE-73dab4d04a378d8076b1c436",
+      "native_export_basename": "embase_cadastros_55.ris",
+      "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/embase/embase_cadastros_55.ris",
+      "sha256": "73dab4d04a378d8076b1c4361a90ef91604b4d979459047f8c76e5d6ea4fa341",
+      "bytes": 248740,
+      "format": "RIS",
+      "records_in_file": 55,
+      "fulltext_or_abstracts_redistributed": false,
+      "bulk_redistribution_permission_established": false
+    }
+  ],
+  "all20_saved_native_artifacts_inventory": [
+    {
+      "path": "outputs/atualizacao_buscas_2026-10-19/central/central_95.ris",
+      "format": ".ris",
+      "records_in_file": 95,
+      "role": "primary_or_update_production_artifact",
+      "sha256": "cfc87bde1649af5e3f93fc737ccd9aa777880eef1229f8e57952a532f01cf099",
+      "bytes": 276602,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/atualizacao_buscas_2026-10-19/central/central_completa_12693_20261019.ris",
+      "format": ".ris",
+      "records_in_file": 12693,
+      "role": "primary_or_update_production_artifact",
+      "sha256": "eeb39c820d456c91b2fbbc2f01527a4e740f42222435bd80d922278b90e23aae",
+      "bytes": 38997181,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/atualizacao_buscas_2026-10-19/embase/embase_20260921_20261004_327.ris",
+      "format": ".ris",
+      "records_in_file": 327,
+      "role": "primary_or_update_production_artifact",
+      "sha256": "2452d54276c32a9664a0f9bec00fdb0a77167fd350105a44bfba1ca880d1f51d",
+      "bytes": 1550420,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/atualizacao_buscas_2026-10-19/embase/embase_20261005_20261019_280.ris",
+      "format": ".ris",
+      "records_in_file": 280,
+      "role": "primary_or_update_production_artifact",
+      "sha256": "993586d325d8870b7f1fbaa40969af6360842937da1f9f13cf2c5469fc47ad51",
+      "bytes": 1368355,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/atualizacao_buscas_2026-10-19/embase/embase_cadastros_55.ris",
+      "format": ".ris",
+      "records_in_file": 55,
+      "role": "primary_or_update_production_artifact",
+      "sha256": "73dab4d04a378d8076b1c4361a90ef91604b4d979459047f8c76e5d6ea4fa341",
+      "bytes": 248740,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/atualizacao_buscas_2026-10-19/psycinfo/psycinfo_18.ris",
+      "format": ".ris",
+      "records_in_file": 18,
+      "role": "primary_or_update_production_artifact",
+      "sha256": "98b9441223ff08d2707b98d646499be7fcd3f8c016dbf8266b125243751a53bf",
+      "bytes": 44130,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/atualizacao_buscas_2026-10-19/pubmed/ATUALIZACAO_COMPLETA.nbib",
+      "format": ".nbib",
+      "records_in_file": 1822,
+      "role": "batch_alternate_format_or_diagnostic_not_added_again",
+      "sha256": "759164c30cbb87942962116713a4a563157c97eafba53250aabd225e946891eb",
+      "bytes": 9903851,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/atualizacao_buscas_2026-10-19/pubmed/ATUALIZACAO_COMPLETA.xml",
+      "format": ".xml",
+      "records_in_file": 1822,
+      "role": "primary_or_update_production_artifact",
+      "sha256": "89a035a8f227c4ced5745ea956384fe82131df12f7251513c57ebdf3ead9ed4f",
+      "bytes": 42707314,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/exportacoes_2026-09-24/central_completo_12597.ris",
+      "format": ".ris",
+      "records_in_file": 12597,
+      "role": "primary_or_update_production_artifact",
+      "sha256": "94d087f6d43d643347a3fa0ce4a5b220d6e4ee639dd7db0e90593c9c5c58ec10",
+      "bytes": 37383245,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/exportacoes_2026-09-24/central_diagnostico_25.ris",
+      "format": ".ris",
+      "records_in_file": 25,
+      "role": "batch_alternate_format_or_diagnostic_not_added_again",
+      "sha256": "8b44b20ad2cf1a32168bd979ea45ab20a203c31f2cf6ac95488725eef9ea6bf0",
+      "bytes": 82833,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/exportacoes_2026-09-24/central_lotes/central_1800_2023.ris",
+      "format": ".ris",
+      "records_in_file": 9447,
+      "role": "batch_alternate_format_or_diagnostic_not_added_again",
+      "sha256": "c14fee090d4631fe0294c9dacc7974399ee540e6f32932d925c7dd306dbd4d00",
+      "bytes": 28857176,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/exportacoes_2026-09-24/central_lotes/central_2024_2025.ris",
+      "format": ".ris",
+      "records_in_file": 2331,
+      "role": "batch_alternate_format_or_diagnostic_not_added_again",
+      "sha256": "458b62a8922bcebbfde16544f0dcb06c6c5ebf6a3bdd231bf703e2015eca444f",
+      "bytes": 7289743,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/exportacoes_2026-09-24/central_lotes/central_2026.ris",
+      "format": ".ris",
+      "records_in_file": 819,
+      "role": "batch_alternate_format_or_diagnostic_not_added_again",
+      "sha256": "201789d9d4ffdac7a96fe2a41840100ba013a5e56c02805cfe9f0a3b2fa87c8e",
+      "bytes": 2542455,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/exportacoes_2026-09-24/embase_clinical_trials_3034.ris",
+      "format": ".ris",
+      "records_in_file": 3034,
+      "role": "batch_alternate_format_or_diagnostic_not_added_again",
+      "sha256": "2a83dd579e319faeb4da53c06e7e51d8f2096179cb2904c7af90865b0cf00803",
+      "bytes": 11671202,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/exportacoes_2026-09-24/embase_completo_28234.ris",
+      "format": ".ris",
+      "records_in_file": 28234,
+      "role": "primary_or_update_production_artifact",
+      "sha256": "74e1d1d53bc68d6813373eac4ba701eb28bfb336cb27b28b4240c354c6242576",
+      "bytes": 127178506,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/exportacoes_2026-09-24/embase_lotes/embase_articles_00001_10000.ris",
+      "format": ".ris",
+      "records_in_file": 10000,
+      "role": "batch_alternate_format_or_diagnostic_not_added_again",
+      "sha256": "211b7bb3e2cb75aa4c5197db0290a85b5dfb5b807087e78d4f99d3a9c0017f65",
+      "bytes": 47602353,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/exportacoes_2026-09-24/embase_lotes/embase_articles_10001_20000.ris",
+      "format": ".ris",
+      "records_in_file": 10000,
+      "role": "batch_alternate_format_or_diagnostic_not_added_again",
+      "sha256": "864b88b3d652b37dc46ecf9046f52cd5ff7f65764bd1071f320fd5ae75dd645c",
+      "bytes": 45263991,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/exportacoes_2026-09-24/embase_lotes/embase_articles_20001_28234.ris",
+      "format": ".ris",
+      "records_in_file": 8234,
+      "role": "batch_alternate_format_or_diagnostic_not_added_again",
+      "sha256": "45c6702527337f0a333c15571a7d2c1867aab02a33e9d97e77171b52962de546",
+      "bytes": 34312162,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/exportacoes_2026-09-24/fontes_anteriores/psycinfo/psycinfo_1259.ris",
+      "format": ".ris",
+      "records_in_file": 1259,
+      "role": "primary_or_update_production_artifact",
+      "sha256": "f7dbcdbf848b68f1503e6571006431d8e63c18209b5cff028a7c8c2dd6a4d0d0",
+      "bytes": 3392109,
+      "public_redistribution_permission_verified": false
+    },
+    {
+      "path": "outputs/exportacoes_2026-09-24/fontes_anteriores/pubmed/pubmed_24278.nbib",
+      "format": ".nbib",
+      "records_in_file": 24278,
+      "role": "primary_or_update_production_artifact",
+      "sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f",
+      "bytes": 119259314,
+      "public_redistribution_permission_verified": false
+    }
+  ],
+  "locator_canonicalization": "RIS values are stripped at tag boundaries and continuations joined with one space; each canonical record hash is SHA256 of UTF8 sorted compact JSON. The PubMed record hash is SHA256 of XML C14N. File hashes always use the original native bytes.",
+  "licence": "Native abstracts are not redistributed. These identifiers and locators support controlled/local verification without assuming permission to bulk redistribute abstracts."
+}

@@ -1,0 +1,26 @@
+{
+  "schema": "partial-recorded-reason-coverage-audit-v1",
+  "positions": 5096,
+  "current_status_partition": {
+    "not_complete_in_examined_scope": 4030,
+    "unknown": 1009,
+    "complete": 57
+  },
+  "annotation_rows_explicitly_allowing_corpus_reason_frequencies": 0,
+  "annotation_rows_explicitly_allowing_corpus_access_frequencies": 0,
+  "annotation_rows_explicitly_allowing_examined_content_frequencies": 0,
+  "coding_scope_level_counts": {
+    "targeted_source_bundle": 3724,
+    "full_finite_layer_union": 1372
+  },
+  "current_cumulative_access_gap_positions": 756,
+  "current_explicit_unobtained_source_list_positions": 280,
+  "current_explicit_unexamined_source_list_positions": 0,
+  "confirmed_instrument_nonuse": "Not estimable: there is no dedicated validated non-use code in this retained annotation schema. DO_NOT_INFER_STRUCTURED_ASSESSMENT is not evidence of non-use.",
+  "between_arm_aggregation": "Not separately estimable from a standardized code. POOLED_OUTPUT_NOT_UNIT_ATTRIBUTABLE records attribution problems; it must not be relabelled automatically as between-arm aggregation.",
+  "no_signal_not_absence": "No recorded positive signal may mean unexamined, unspecified, stale or inapplicable documentation; it is not a negative scientific finding.",
+  "classification_vs_reason": "Current cumulative status is linked separately from historical source-scoped reason annotations; coexisting limitations can occur even where another valid witness completes the reference.",
+  "units_of_count": "A position is unit × component × source layer × modality × fixed reference/window. Positions repeat units and source information; distinct unit IDs are descriptive identifiers, not independent observations.",
+  "coverage_verdict": "Valid partial administrative/code inventory. Insufficient for prevalence of causes of non-reconstruction across trials or for adjudicating whether a reason is modifiable by an alternative estimand.",
+  "human_validation": "No new human review, independent agreement or primary re-extraction was performed."
+}

@@ -1,0 +1,96 @@
+{
+  "version": "v1.1.0",
+  "scope": "Public supporting directory; scientific inputs unchanged.",
+  "files": [
+    {
+      "path": "ALTERNATIVE_REFERENCE_PILOT_FEASIBILITY.json",
+      "bytes": 5275,
+      "sha256": "05813408a98aebad4c746ae64b34bd9ce0d95187c39711369360c1078d871427"
+    },
+    {
+      "path": "COMECE_AQUI.html",
+      "bytes": 4425,
+      "sha256": "513d2b753d155466ea0d4f66b74c269c003ab5d2eb3d3e38c6f77d80e5788993"
+    },
+    {
+      "path": "COVERAGE_AND_INFERENCE_LIMITS.json",
+      "bytes": 2061,
+      "sha256": "4aeaaad6c433f3c804dd82c71c9baf4fcb18d25c1b7cae6310b51f96a752f0c4"
+    },
+    {
+      "path": "DIMENSION_SUBCODE_COUNTS.json",
+      "bytes": 9636,
+      "sha256": "6fa3dca5644b3f08a87a31749d06617d444e04d2b5f82ee9ead0d5d45e4b77a7"
+    },
+    {
+      "path": "DIMENSION_SUBCODE_COUNTS.tsv",
+      "bytes": 2762,
+      "sha256": "c5c85167f245c96ad24ea24b7b08447698860b6010fa1a656ea2deb8bdfdd8d5"
+    },
+    {
+      "path": "EXPLICIT_INCOMPATIBILITY_EVIDENCE_INDEX.json",
+      "bytes": 323634,
+      "sha256": "df59a54faaf8d40a299abf1ed230914c52dc9e38a931c0daf8907820b1a842dc"
+    },
+    {
+      "path": "INPUT_MANIFEST.json",
+      "bytes": 1996,
+      "sha256": "778cfd25c4efad635fb5c7c526e516713c7216515c6fe625f126f2b5be77c377"
+    },
+    {
+      "path": "POSITION_REASON_LEDGER_5096.jsonl.gz",
+      "bytes": 452008,
+      "sha256": "9b53fe5b9ee60e483a8c6769df849a126c20c16aed73bedd9f734c3379a80005"
+    },
+    {
+      "path": "QA_RECORDED_REASONS.json",
+      "bytes": 490,
+      "sha256": "3d3c8813855524ece9ad05934ad0a6a05b180cd0b20a1fa246f9bb38d7e2575d"
+    },
+    {
+      "path": "quantify_recorded_reasons.py",
+      "bytes": 27416,
+      "sha256": "7f67f2678fce5af15ad0e2bc1383803508fe2a45485cf307a746596be12313fb"
+    },
+    {
+      "path": "README_EN.txt",
+      "bytes": 3228,
+      "sha256": "a7b207a35cd06ade9ffb56c3903297a2677b5a0017e9f4ffb0516576f0f504c3"
+    },
+    {
+      "path": "REASON_ANNOTATION_INPUT_5096.jsonl.gz",
+      "bytes": 186284,
+      "sha256": "a516484bfba1c46e734f1769d0c3ef3f740d57317da329be5da49b4fc34c3f86"
+    },
+    {
+      "path": "REASON_ANNOTATION_PROVENANCE.json",
+      "bytes": 1233,
+      "sha256": "fe0471df428ff35c04cea4116d7f883c579358f6747a848f21558d4b8addff8d"
+    },
+    {
+      "path": "RECORDED_SIGNAL_COUNTS.json",
+      "bytes": 491608,
+      "sha256": "f5d520fa2ffc8b36abca3cec4766dca42a1c0702664d342d3ec45a1049f213f8"
+    },
+    {
+      "path": "RECORDED_SIGNAL_COUNTS.tsv",
+      "bytes": 145877,
+      "sha256": "f05047b688ce462fef82db87d8d07c4062ba8a1f1c037710ec9f079d88227df9"
+    },
+    {
+      "path": "RECORDED_SIGNALS_BY_LAYER_COMPONENT_MODALITY.tsv",
+      "bytes": 82987,
+      "sha256": "423e38199c5d0ba3b3d4c0656247596dd63711b3eabe513913f83985b89c8b99"
+    },
+    {
+      "path": "TABLE_S8_CANDIDATE_ADMINISTRATIVE_SIGNAL_INVENTORY.json",
+      "bytes": 5439,
+      "sha256": "8f3e9677d1063ce1a1eac890396561c387c97c97d25410078eec5eefe3555688"
+    },
+    {
+      "path": "TABLE_S8_CANDIDATE_ADMINISTRATIVE_SIGNAL_INVENTORY.tsv",
+      "bytes": 896,
+      "sha256": "6cbe22d4f41b4dcce8abee88bffd4064296ad7b510d2785aba7682fda41c8b73"
+    }
+  ]
+}

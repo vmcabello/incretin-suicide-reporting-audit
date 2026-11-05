@@ -1,0 +1,136 @@
+{
+  "caption": "Partial inventory of recorded documentary signals; no trial-level prevalence is estimated",
+  "rows": [
+    {
+      "recorded_signal": "No component output recorded in the named examined scope",
+      "signal_id": "mechanism:NO_COMPONENT_OUTPUT_IN_EXAMINED_SCOPE",
+      "recorded_positions_all5096": 3987,
+      "recorded_positions_primary_B3": 831,
+      "complete": 0,
+      "unknown": 96,
+      "not_complete": 735,
+      "not_recorded_does_not_mean_absent": true
+    },
+    {
+      "recorded_signal": "Structured assessment use must not be inferred; NOT evidence of non-use",
+      "signal_id": "mechanism:DO_NOT_INFER_STRUCTURED_ASSESSMENT",
+      "recorded_positions_all5096": 1593,
+      "recorded_positions_primary_B3": 358,
+      "complete": 0,
+      "unknown": 51,
+      "not_complete": 307,
+      "not_recorded_does_not_mean_absent": true
+    },
+    {
+      "recorded_signal": "Recorded denominator dimension: DOCUMENTED_INCOMPATIBILITY",
+      "signal_id": "dimension:denominator:DOCUMENTED_INCOMPATIBILITY",
+      "recorded_positions_all5096": 111,
+      "recorded_positions_primary_B3": 33,
+      "complete": 0,
+      "unknown": 5,
+      "not_complete": 28,
+      "not_recorded_does_not_mean_absent": true
+    },
+    {
+      "recorded_signal": "Recorded window dimension: DOCUMENTED_INCOMPATIBILITY",
+      "signal_id": "dimension:window:DOCUMENTED_INCOMPATIBILITY",
+      "recorded_positions_all5096": 4,
+      "recorded_positions_primary_B3": 3,
+      "complete": 0,
+      "unknown": 0,
+      "not_complete": 3,
+      "not_recorded_does_not_mean_absent": true
+    },
+    {
+      "recorded_signal": "Recorded subpopulation dimension: DOCUMENTED_INCOMPATIBILITY",
+      "signal_id": "dimension:subpopulation:DOCUMENTED_INCOMPATIBILITY",
+      "recorded_positions_all5096": 2,
+      "recorded_positions_primary_B3": 2,
+      "complete": 0,
+      "unknown": 0,
+      "not_complete": 2,
+      "not_recorded_does_not_mean_absent": true
+    },
+    {
+      "recorded_signal": "Pooled output not attributable to the target unit",
+      "signal_id": "mechanism:POOLED_OUTPUT_NOT_UNIT_ATTRIBUTABLE",
+      "recorded_positions_all5096": 389,
+      "recorded_positions_primary_B3": 64,
+      "complete": 0,
+      "unknown": 1,
+      "not_complete": 63,
+      "not_recorded_does_not_mean_absent": true
+    },
+    {
+      "recorded_signal": "Restricted time window recorded",
+      "signal_id": "mechanism:RESTRICTED_TIME_WINDOW",
+      "recorded_positions_all5096": 58,
+      "recorded_positions_primary_B3": 17,
+      "complete": 0,
+      "unknown": 1,
+      "not_complete": 16,
+      "not_recorded_does_not_mean_absent": true
+    },
+    {
+      "recorded_signal": "Extension aggregate recorded",
+      "signal_id": "mechanism:EXTENSION_AGGREGATE",
+      "recorded_positions_all5096": 59,
+      "recorded_positions_primary_B3": 18,
+      "complete": 0,
+      "unknown": 0,
+      "not_complete": 18,
+      "not_recorded_does_not_mean_absent": true
+    },
+    {
+      "recorded_signal": "Reporting threshold recorded",
+      "signal_id": "mechanism:REPORTING_THRESHOLD",
+      "recorded_positions_all5096": 812,
+      "recorded_positions_primary_B3": 189,
+      "complete": 1,
+      "unknown": 18,
+      "not_complete": 170,
+      "not_recorded_does_not_mean_absent": true
+    },
+    {
+      "recorded_signal": "Serious-event row only",
+      "signal_id": "mechanism:SERIOUS_EVENT_ROW_ONLY",
+      "recorded_positions_all5096": 31,
+      "recorded_positions_primary_B3": 14,
+      "complete": 0,
+      "unknown": 0,
+      "not_complete": 14,
+      "not_recorded_does_not_mean_absent": true
+    },
+    {
+      "recorded_signal": "Current pertinent cumulative access gap",
+      "signal_id": "current_access:cumulative_unresolved_gap",
+      "recorded_positions_all5096": 756,
+      "recorded_positions_primary_B3": 168,
+      "complete": 1,
+      "unknown": 167,
+      "not_complete": 0,
+      "not_recorded_does_not_mean_absent": true
+    },
+    {
+      "recorded_signal": "Recorded source_access dimension: SOURCE_NOT_OBTAINED",
+      "signal_id": "dimension:source_access:SOURCE_NOT_OBTAINED",
+      "recorded_positions_all5096": 283,
+      "recorded_positions_primary_B3": 57,
+      "complete": 1,
+      "unknown": 56,
+      "not_complete": 0,
+      "not_recorded_does_not_mean_absent": true
+    },
+    {
+      "recorded_signal": "Explicit source-not-examined code (none recorded)",
+      "signal_id": "dimension:source_access:SOURCE_NOT_EXAMINED",
+      "recorded_positions_all5096": 0,
+      "recorded_positions_primary_B3": 0,
+      "complete": 0,
+      "unknown": 0,
+      "not_complete": 0,
+      "not_recorded_does_not_mean_absent": true
+    }
+  ],
+  "note": "Counts refer to coded positions, not independent trials or demonstrated causes. Several signals may coexist and source information repeats across components, modalities and cumulative layers. The primary-B3 frame contains1113positions (159×7) and the full frame5096positions (182×28); these are administrative frames, not estimators of mechanism prevalence. All historical annotation rows explicitly disallow corpus-frequency inference. Zero means no positive code in this field, not proof that an instrument was used or that the barrier was absent. The non-inference code for structured assessment must never be read as confirmed instrument non-use. Current cumulative access-gap bindings are shown separately from historical reason annotations."
+}

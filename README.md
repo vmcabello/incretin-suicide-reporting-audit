@@ -15,6 +15,16 @@ This is an exploratory documentary audit of a fixed historical corpus. It asks w
 
 Corpus-conditional identification intervals vary coded unknowns within the admitted corpus; they do not cover missed trials or selection/coding error. Full vital ascertainment is not established by a compatible zero-mortality report. Shared technical correction copies are not a new independent reliability experiment.
 
+## Additions in v1.1.0
+
+This version adds an individual search-update trail and a coverage-limited inventory of recorded documentary reason codes. The coded reconstruction inputs and the numerical results from v1.0.0 are unchanged. It also publishes a protocol for a new independent reassessment; that reassessment has **not been completed**. No new human agreement or classification-accuracy result is claimed.
+
+- `search_trace/`: 2,558 saved database representations, 745 screening cases, recorded decisions and rationales, 1,717 reused prior-library groups, supported corpus links and itemised missing information. An identifier route is not scientific closure. Twelve prior-group rationales remain unrecovered; unestablished final links remain explicit.
+- `reason_inventory/`: position-level code inventory and portable reproducer. All historical annotations prohibit corpus-frequency inference. Code counts are not prevalence estimates of trial-level causes or of instrument non-use.
+- `validation_protocol/`: the new 663-position reassessment design (57 complete positions, the preserved 426-position not-complete sample and 180 sampled unknowns), plus a nested 30-unit alternative-reference pilot. Separate unfilled reviewer instruments remain in the local author package; no returned ratings are published here.
+
+Run `python reproduce.py --check` to verify integrity, reproduce the original numerical results and validate the added supporting exports. This is research support material, not a journal major-revision decision or a manuscript preprint.
+
 ## Reproduce the results
 
 Python **3.10 or newer** is sufficient. The analysis uses only the standard library and needs no network access or package installation.
@@ -51,9 +61,9 @@ Full third-party articles, licensed native bibliographic exports, raw identifiab
 
 ## Version and citation
 
-The first public version is **v1.0.0**, released on **4 November 2026**. Use the tagged release rather than the moving main branch for a versioned citation: [v1.0.0](https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.0.0). `CITATION.cff` supplies author and version metadata. No DOI is claimed. A future archival deposit may add a DOI without changing the reported results.
+The first public version was v1.0.0. The current supporting-data version is **v1.1.0**, released on **4 November 2026**. Use the tagged release rather than the moving main branch for a versioned citation: [v1.1.0](https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.1.0). `CITATION.cff` supplies author and version metadata. No DOI is claimed. A future archival deposit may add a DOI without changing the reported results.
 
-Santos VMC, Keltke G (2026). Incretin therapy suicide-related outcome reporting audit: data and code. Version v1.0.0. GitHub. https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.0.0.
+Santos VMC, Keltke G (2026). Incretin therapy suicide-related outcome reporting audit: data and code. Version v1.1.0. GitHub. https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.1.0.
 
 The repository contains supporting data and code; it does not contain a manuscript preprint. The journal submission package is prepared separately.
 

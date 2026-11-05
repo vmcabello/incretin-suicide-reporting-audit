@@ -1,0 +1,43 @@
+{
+  "decision_labels": {
+    "exclude": "Screening exclusion recorded",
+    "trace_sources": "Documentary/citation-tracking source",
+    "retain": "Forward for documentary eligibility assessment",
+    "uncertain": "Information insufficient",
+    "duplicate_link": "Documented identity/duplicate linkage requested",
+    "planning": "Planning register; eligibility pending",
+    "preserve_prior": "Previous screening disposition preserved",
+    "re_evaluate": "Version-impact review reopened"
+  },
+  "reason_code_labels": {
+    "not_trial_report": "Not an eligible trial report",
+    "not_randomized": "Not randomized",
+    "not_parallel": "Not a parallel comparison",
+    "phase_outside_scope": "Clinical phase outside III/IV",
+    "intervention_outside_scope": "Intervention/contrast outside scope",
+    "no_true_placebo": "No true drug-placebo contrast",
+    "population_outside_scope": "Population outside scope",
+    "randomized_withdrawal": "Randomized withdrawal outside the eligible initial contrast",
+    "other_documented": "Other documented reason",
+    "": "No exclusion code entered"
+  },
+  "route_explanations": {
+    "paired_screening_exclusion": "Both supplied returns record a screening exclusion; this is not a full-text exclusion or independent accuracy estimate.",
+    "citation_tracking_source": "Retained for tracing reports and trials; this source is not counted as an additional randomized unit.",
+    "forward_to_documentary_eligibility": "Forwarded for source-based eligibility and family assessment; not final admission.",
+    "pending_information": "The recorded material was insufficient; no exclusion is inferred.",
+    "pending_disagreement": "The supplied decisions differ; the disagreement remains visible.",
+    "planning_registry_pending_trial_eligibility": "Planning status retained separately; no completed eligible trial is inferred.",
+    "pending_identity_link": "Identity/duplicate linkage requires documentary assessment.",
+    "reopen_native_version_review": "A changed representation prompted a bounded version-impact check, not a new trial.",
+    "prior_decision_preserved": "The prior decision was retained with the newer representation archived."
+  },
+  "rationale_language": "Original author-written decision explanations remain in Portuguese, marked as recorded. English code/route descriptions are interpretative labels, not substitute study-specific rationales.",
+  "not_released": [
+    "Database-exported abstracts",
+    "Verbatim evidence quotations",
+    "Full primary documents",
+    "Absolute local paths",
+    "Personal contact details"
+  ]
+}
