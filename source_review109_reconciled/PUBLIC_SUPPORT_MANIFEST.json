@@ -1,0 +1,76 @@
+{
+  "schema": "public-corrected-source-review-module-manifest-v1",
+  "version": "v1.5.0",
+  "files": [
+    {
+      "path": "CURRENT_AGREEMENT.json",
+      "bytes": 18257,
+      "sha256": "50f92cc672e0bfc076c3732876e480f98f62c217a4826f7a2eac1586de3b3219"
+    },
+    {
+      "path": "CURRENT_EDITOR_SUMMARY.json",
+      "bytes": 33238,
+      "sha256": "939311eb8f02fbe5abbea5bb85ceeba0add35f900bc8b6b9b51053d9aa2af439"
+    },
+    {
+      "path": "CURRENT_POSITION_CHANGE_LOG.json",
+      "bytes": 150463,
+      "sha256": "dcaff934610a2828aa3e58428959fde0237d307d19056bf839e53b9074ae5db5"
+    },
+    {
+      "path": "CURRENT_RECONCILIATION_RESULTS.json",
+      "bytes": 1879959,
+      "sha256": "272b272e35fa2526c35bcd2274dd2e44c00b52fb20f92cf27a08ac373c03c32a"
+    },
+    {
+      "path": "CURRENT_RESULT_TABLES.csv",
+      "bytes": 86992,
+      "sha256": "11341c79019aa89dd5e68ea5d11857cbcfeb63cc8d497cddbd7f970a1833a443"
+    },
+    {
+      "path": "CURRENT_TECHNICAL_DECISIONS.json",
+      "bytes": 282568,
+      "sha256": "24c347a96064a2b29d66c5e16b5b8ad4f2d8d955eb621f55007f6cce7814b186"
+    },
+    {
+      "path": "MINIMAL_CORRECTED_PAIRED.json",
+      "bytes": 2199383,
+      "sha256": "6b671f2f6b7505f4eac74e8e8346fb80b7a77b7bbb638a5cadbd391df56f02b1"
+    },
+    {
+      "path": "OMITTED_REGENERABLE_OUTPUTS.json",
+      "bytes": 487,
+      "sha256": "0c3c366c699457e5c7e755fd2bbd2487522ef4fcf5d41c491df93c74a064c7bc"
+    },
+    {
+      "path": "README_EN.txt",
+      "bytes": 1947,
+      "sha256": "ab2fe54f15d284eb107e9f8eadbf9de2bdb8bfa03ef94b3cd2e6326e2fc8d084"
+    },
+    {
+      "path": "RECONCILIATION_STATUS.json",
+      "bytes": 1100,
+      "sha256": "9b25c4ac335b763b4866eb5ecdeaa0bdf9b86fb3aba42ee60eb74a1c18edd7d9"
+    },
+    {
+      "path": "REPRODUCTION_MANIFEST.json",
+      "bytes": 1102,
+      "sha256": "c14278c54d5ceddf2445a937a56f5b1de8a0850842471787b6d8cafab6122253"
+    },
+    {
+      "path": "TECHNICAL_ADJUDICATION3_PUBLIC.json",
+      "bytes": 7282,
+      "sha256": "2be33bca828e76ab5a82fe5fa5c2fc63029429ff868f252216e371081c1e3b39"
+    },
+    {
+      "path": "TECHNICAL_PROOF_RULES.json",
+      "bytes": 11506,
+      "sha256": "47411f9a931be65f6d7b53cb5e2c113770841ac40ce4b9514cc497b7cc162e6c"
+    },
+    {
+      "path": "reconcile_corrected_source_review109.py",
+      "bytes": 37563,
+      "sha256": "932e2f912ab0341971c0ff25d9624dddaecd597cac6fbdec2f2e23bfb780a16e"
+    }
+  ]
+}

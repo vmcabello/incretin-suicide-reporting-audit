@@ -1,0 +1,118 @@
+{
+  "schema": "current-versus-historical-status-index-v1",
+  "date": "2026-11-05",
+  "working_version": "v1.5.0",
+  "working_status": "PUBLIC_SUPPORT_RELEASE",
+  "last_published_version": "v1.5.0",
+  "last_published_release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.5.0",
+  "current_analysis_path": "source_review109_reconciled/",
+  "current_assessment_process": "separate internal assessments, as declared by the authors",
+  "prior_export_narrative_identity": "Identity or similarity of narrative text in earlier exports cannot establish whether underlying assessments were conducted separately; it neither proves nor refutes the authors’ declarations.",
+  "current_R2_differs_from_R1_in_raw_classifications": true,
+  "AI_technical_conciliation_is_separate_from_raw_human_ratings": true,
+  "agreement_before_conciliation_not_accuracy_or_external_validation": true,
+  "historical_v140_raw_agreement": "109/109 applied to the superseded original paired export only.",
+  "corrected_raw_cumulative_label_agreement": {
+    "agree": 85,
+    "total": 109
+  },
+  "corrected_raw_source_scoped_label_agreement": {
+    "agree": 79,
+    "total": 109
+  },
+  "raw_return_files_rewritten": false,
+  "new_human_votes_created": false,
+  "full_fresh_source_validation_completed": false,
+  "source_linked_positions_per_assessor": 109,
+  "dossiers": 59,
+  "preceding_assessment_frame_positions": 663,
+  "full_corpus_positions": 5096,
+  "followup_is_nested_not_772_independent_positions": true,
+  "legacy_chronology_reference_aliases": {
+    "source_review109/PAIRED_RATINGS_109.json": "Historical document label; actual preserved file is source_review109/HUMAN_SOURCE_REVIEW109_PAIRED.json."
+  },
+  "historical_directories": {
+    "source_review109/": "Published v1.4.0 paired export and integration. Its current/109-of-109/pending labels describe that dated snapshot, not the corrected-R2 reconciliation.",
+    "current_analysis/": "Preserved historical primary analysis; name retained for byte-exact replay.",
+    "current_input/": "Preserved historical input; name retained for byte-exact replay.",
+    "validation/": "Earlier 663-position source-limited exercise.",
+    "validation_sensitivity/": "Historical v1.3.0 positive-only scenario, not current findings.",
+    "linked_review_protocol/": "Fixed pre-return protocol and roster; planned/pending fields are historical design text.",
+    "reason_inventory/": "Historical annotation inventory; not regenerated as current mechanism counts."
+  },
+  "author_conference_history": {
+    "version": "v1.4.0",
+    "date": "2026-11-05",
+    "recorded_at_utc": "2026-11-05T18:13:00.459957+00:00",
+    "receipt_identifier": "CONFERENCIA_AUTORAL_FONTES109.json",
+    "receipt_sha256": "a3698e582a7235a4ccbce2961832716e2a7bcea886a36f2a4896c001fdbf0f75",
+    "scope": "Exact scientific files pinned by the dated author-conference record; no approval of subsequent corrected-R2 results is inferred."
+  },
+  "current_corrected_R2_revision_author_conference": "NOT_ESTABLISHED_AFTER_NEW_SCIENTIFIC_CHANGES",
+  "historical_pending_build_receipts": "Creation-time pending fields in old build receipts are preserved history. The later v1.4.0 author conference applied to its pinned files; the present new scientific revision is distinct.",
+  "journal_submission_sent": false,
+  "payment_authorized": false,
+  "analytical_summary": {
+    "source": "source_review109_reconciled/CURRENT_EDITOR_SUMMARY.json",
+    "available_keys": [
+      "agreement_all109",
+      "current_B3_whole_population_modalities",
+      "current_B3_whole_population_union",
+      "decision_summary",
+      "synthetic_tests",
+      "v1_4_B3_whole_population_union"
+    ],
+    "technical_decisions_by_kind": {
+      "analytically_equivalent_closed_negative_scope": 27,
+      "preserve_unknown_due_to_union_of_unresolved_pertinent_scopes": 40,
+      "technically_supported_exact_positive_witness": 42
+    },
+    "current_B3_whole_population_union": [
+      {
+        "component": "suicidal_ideation",
+        "N": 159,
+        "confirmed_total": 1,
+        "direct_confirmed": 1,
+        "derived_confirmed": 0,
+        "unknown": 37,
+        "corpus_conditional_identification_interval": [
+          0.006289308176100629,
+          0.2389937106918239
+        ]
+      },
+      {
+        "component": "suicide_attempt",
+        "N": 159,
+        "confirmed_total": 2,
+        "direct_confirmed": 1,
+        "derived_confirmed": 1,
+        "unknown": 33,
+        "corpus_conditional_identification_interval": [
+          0.012578616352201259,
+          0.22012578616352202
+        ]
+      },
+      {
+        "component": "suicide_death",
+        "N": 159,
+        "confirmed_total": 17,
+        "direct_confirmed": 0,
+        "derived_confirmed": 17,
+        "unknown": 39,
+        "corpus_conditional_identification_interval": [
+          0.1069182389937107,
+          0.3522012578616352
+        ]
+      }
+    ]
+  },
+  "historical_protection": {
+    "protected_files": 121,
+    "all_byte_exact_against_v140": true,
+    "chronology_original_events": 17,
+    "chronology_original_prefix_sha256": "1d1d7df451180c647d3c15032efb369fc1501dd97e1ddcb260ccf9104f6c9e33"
+  },
+  "public_scope": "Author-owned code, coding and deidentified minimal paired values only; no raw personal returns, full texts, source quotations, licensed native exports or coordinator keys.",
+  "public_support_release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.5.0",
+  "public_support_release_not_manuscript_approval": true
+}

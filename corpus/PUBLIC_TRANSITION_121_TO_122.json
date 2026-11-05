@@ -1,0 +1,608 @@
+{
+  "added_ids": [
+    "NCT01144338:CANDIDATE_BLOCK"
+  ],
+  "added_unit": "NCT01144338:CANDIDATE_BLOCK",
+  "addendum_date": "2026-11-05",
+  "addendum_is_retrospective_not_a_new_20261029_protocol": true,
+  "after": {
+    "execution_completed_utc": "2026-10-29T23:22:31.663160+00:00",
+    "freeze_id": "DOCUMENTARY-122-3416-20261029-V2",
+    "input_sha256": "0f9a1dcabd811e14fce869c595865472d0e92edc4761b8375cb3ca0465439f88",
+    "positions": 3416,
+    "technical_certificate_timestamp_utc": "2026-10-29T23:20:06.916101+00:00",
+    "units": 122
+  },
+  "all28_added_positions_initial_status": "pending_decision",
+  "article_already_identified": {
+    "DOI": "10.1056/NEJMoa1612917",
+    "PMID": "28910237",
+    "initial_export_sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f",
+    "own_PubMed_record_start_line": 1224711
+  },
+  "before": {
+    "certificate_timestamp_utc": "2026-10-28T22:58:55.664214+00:00",
+    "freeze_id": "DOCUMENTARY-121-3388-20261028-V1",
+    "input_sha256": "af17b95cf0e0fd5243523a46d6eb423e4537028606430cf29ab37a52377b0a4e",
+    "positions": 3388,
+    "units": 121
+  },
+  "exposure_evidence_scope": {
+    "counts_used_for_admission_only": {
+      "exenatide": 7344,
+      "placebo": 7372
+    },
+    "no_new_psychiatric_outcome_count_or_full_followup_claim": true,
+    "not_the_ITT_mortality_denominators": {
+      "exenatide": 7356,
+      "placebo": 7396
+    },
+    "source_scope": "Reported safety population: randomized participants receiving at least one dose; retain treatment-received qualification"
+  },
+  "historical_administrative_status_note": "The proposal preserved a pre-execution gate; the separately hash-bound applied proof records application only to the new122 snapshot, with121 unchanged. Historical no-new-approval flags do not define approval of any later manuscript.",
+  "historical_outputs_only": [
+    {
+      "after": {
+        "N_confirmed": 122,
+        "k_proven_complete": 0,
+        "n_indicator_pending": 1,
+        "n_proven_incomplete": 121
+      },
+      "before": {
+        "N_confirmed": 121,
+        "k_proven_complete": 0,
+        "n_indicator_pending": 0,
+        "n_proven_incomplete": 121
+      },
+      "cell": "suicidal_ideation::A",
+      "these_are_historical_outputs_not_the_current_analysis": true
+    },
+    {
+      "after": {
+        "N_confirmed": 122,
+        "k_proven_complete": 1,
+        "n_indicator_pending": 1,
+        "n_proven_incomplete": 120
+      },
+      "before": {
+        "N_confirmed": 121,
+        "k_proven_complete": 1,
+        "n_indicator_pending": 0,
+        "n_proven_incomplete": 120
+      },
+      "cell": "suicidal_ideation::B1",
+      "these_are_historical_outputs_not_the_current_analysis": true
+    },
+    {
+      "after": {
+        "N_confirmed": 122,
+        "k_proven_complete": 1,
+        "n_indicator_pending": 2,
+        "n_proven_incomplete": 119
+      },
+      "before": {
+        "N_confirmed": 121,
+        "k_proven_complete": 1,
+        "n_indicator_pending": 1,
+        "n_proven_incomplete": 119
+      },
+      "cell": "suicidal_ideation::B2",
+      "these_are_historical_outputs_not_the_current_analysis": true
+    },
+    {
+      "after": {
+        "N_confirmed": 122,
+        "k_proven_complete": 1,
+        "n_indicator_pending": 3,
+        "n_proven_incomplete": 118
+      },
+      "before": {
+        "N_confirmed": 121,
+        "k_proven_complete": 1,
+        "n_indicator_pending": 2,
+        "n_proven_incomplete": 118
+      },
+      "cell": "suicidal_ideation::B3",
+      "these_are_historical_outputs_not_the_current_analysis": true
+    },
+    {
+      "after": {
+        "N_confirmed": 122,
+        "k_proven_complete": 0,
+        "n_indicator_pending": 1,
+        "n_proven_incomplete": 121
+      },
+      "before": {
+        "N_confirmed": 121,
+        "k_proven_complete": 0,
+        "n_indicator_pending": 0,
+        "n_proven_incomplete": 121
+      },
+      "cell": "suicide_attempt::A",
+      "these_are_historical_outputs_not_the_current_analysis": true
+    },
+    {
+      "after": {
+        "N_confirmed": 122,
+        "k_proven_complete": 1,
+        "n_indicator_pending": 2,
+        "n_proven_incomplete": 119
+      },
+      "before": {
+        "N_confirmed": 121,
+        "k_proven_complete": 1,
+        "n_indicator_pending": 1,
+        "n_proven_incomplete": 119
+      },
+      "cell": "suicide_attempt::B1",
+      "these_are_historical_outputs_not_the_current_analysis": true
+    },
+    {
+      "after": {
+        "N_confirmed": 122,
+        "k_proven_complete": 1,
+        "n_indicator_pending": 3,
+        "n_proven_incomplete": 118
+      },
+      "before": {
+        "N_confirmed": 121,
+        "k_proven_complete": 1,
+        "n_indicator_pending": 2,
+        "n_proven_incomplete": 118
+      },
+      "cell": "suicide_attempt::B2",
+      "these_are_historical_outputs_not_the_current_analysis": true
+    },
+    {
+      "after": {
+        "N_confirmed": 122,
+        "k_proven_complete": 1,
+        "n_indicator_pending": 3,
+        "n_proven_incomplete": 118
+      },
+      "before": {
+        "N_confirmed": 121,
+        "k_proven_complete": 1,
+        "n_indicator_pending": 2,
+        "n_proven_incomplete": 118
+      },
+      "cell": "suicide_attempt::B3",
+      "these_are_historical_outputs_not_the_current_analysis": true
+    },
+    {
+      "after": {
+        "N_confirmed": 122,
+        "k_proven_complete": 11,
+        "n_indicator_pending": 2,
+        "n_proven_incomplete": 109
+      },
+      "before": {
+        "N_confirmed": 121,
+        "k_proven_complete": 11,
+        "n_indicator_pending": 1,
+        "n_proven_incomplete": 109
+      },
+      "cell": "suicide_death::A",
+      "these_are_historical_outputs_not_the_current_analysis": true
+    },
+    {
+      "after": {
+        "N_confirmed": 122,
+        "k_proven_complete": 11,
+        "n_indicator_pending": 2,
+        "n_proven_incomplete": 109
+      },
+      "before": {
+        "N_confirmed": 121,
+        "k_proven_complete": 11,
+        "n_indicator_pending": 1,
+        "n_proven_incomplete": 109
+      },
+      "cell": "suicide_death::B1",
+      "these_are_historical_outputs_not_the_current_analysis": true
+    },
+    {
+      "after": {
+        "N_confirmed": 122,
+        "k_proven_complete": 14,
+        "n_indicator_pending": 3,
+        "n_proven_incomplete": 105
+      },
+      "before": {
+        "N_confirmed": 121,
+        "k_proven_complete": 14,
+        "n_indicator_pending": 2,
+        "n_proven_incomplete": 105
+      },
+      "cell": "suicide_death::B2",
+      "these_are_historical_outputs_not_the_current_analysis": true
+    },
+    {
+      "after": {
+        "N_confirmed": 122,
+        "k_proven_complete": 15,
+        "n_indicator_pending": 3,
+        "n_proven_incomplete": 104
+      },
+      "before": {
+        "N_confirmed": 121,
+        "k_proven_complete": 15,
+        "n_indicator_pending": 2,
+        "n_proven_incomplete": 104
+      },
+      "cell": "suicide_death::B3",
+      "these_are_historical_outputs_not_the_current_analysis": true
+    }
+  ],
+  "membership_gate_before": {
+    "admitted_to_bounded_corpus": false,
+    "candidate_locator": "records[41]",
+    "family_effective_disposition": "include_documentary",
+    "family_locator": "records[2]",
+    "is_a_demonstrated_exclusion": false,
+    "remaining_gaps": [
+      "own_actual_exposure_in_eligible_active_and_control_not_yet_demonstrated"
+    ],
+    "technical_state": "FACTUAL_EXPOSURE_OR_COMPLETION_STILL_UNESTABLISHED"
+  },
+  "methods_or_SI_paragraph_en": "The change from 121 to 122 units on 29 October 2026 corrected a roster-propagation omission for EXSCEL (NCT01144338), which was already present in the initial PubMed export and had a recorded inclusion decision. A pending exposure gate was resolved from its own article and registry safety groups documenting dosed participants in both arms. All 121 existing unit records and 3,388 assessment records were retained unchanged; EXSCEL was appended as one initial parallel unit with 28 pending/unknown positions. This was a technical admission correction under existing rules, not a new search hit, a split of an already admitted trial, or a new human eligibility vote. The exposure counts used for membership were not substituted for outcome-specific denominators, psychiatric counts or complete follow-up.",
+  "new_human_vote_or_current_author_approval_inferred": false,
+  "old_event_stream_or_old_classifications_modified": false,
+  "private_paths_contacts_fulltexts_or_raw_reviewer_answers_included": false,
+  "private_verification_report_sha256": "ac91a6c22d6ed5746499903273855a82ca59c0e49e91aa525e20724eef110235",
+  "reason_for_correction": "Technical omission: own exposure evidence already locally available was not carried into the admission gate. Prior include_documentary and identity/closure gates remain preserved.",
+  "registry_id": "NCT01144338",
+  "removed_ids": [],
+  "schema": "public-historical121-to122-clarification-v1",
+  "source_artifacts": {
+    "advance_notice_historical": {
+      "locator": "registered_utc; scope; new_human_approval_claimed",
+      "sha256": "30397986117401eac4b134ce2a16e4f4ba2f6b398accc33510bdbaf81d842e97"
+    },
+    "applied_exscel_correction_proof": {
+      "locator": "recorded_state_before_correction; decisive_proofs; proposed_unit; applied_to_new_122_snapshot_only",
+      "sha256": "f3fd3f23321afceb6830ed76ad27bca5ad630442e6d92e04896e7fec39f68230"
+    },
+    "execution_receipt": {
+      "locator": "started_utc; completed_utc; input_sha256; output_sha256; original_121_snapshot_unchanged",
+      "sha256": "d467900239528f8b6b480bfd7e90cc00c659a17d29979c38d0e52c4921fe20cb"
+    },
+    "frozen121_certificate": {
+      "locator": "freeze_id; created_utc; units; assessment_positions; input",
+      "sha256": "6775db5de7bb517c19807ef910a02eb7bb747c2a97974b0eb6fc7cacad8de98a"
+    },
+    "historical_result121": {
+      "locator": "documentary_results.*.all_confirmed",
+      "sha256": "92ceb8e448c678076d7b03b6efa34c1c966bcf587a4aeaabf58ebe24a74793f5"
+    },
+    "historical_result122": {
+      "locator": "documentary_results.*.all_confirmed",
+      "sha256": "a0559fd0a1ae69ce9781460eb9e0a37923772548008aae94f40f7cff62e45879"
+    },
+    "initial_technical_proposal_historical": {
+      "locator": "status; recorded_state_before_correction; proposed_unit.correction_reason; future_execution_gate",
+      "sha256": "76288694e8fbb3e510cd030ed3adc8cf0b99cc1a0f59c61ce53d16e404a154e9"
+    },
+    "input121": {
+      "locator": "units[]; assessments[]",
+      "sha256": "af17b95cf0e0fd5243523a46d6eb423e4537028606430cf29ab37a52377b0a4e"
+    },
+    "input122": {
+      "locator": "units[unit_id=NCT01144338:CANDIDATE_BLOCK]; assessments[unit_id=NCT01144338:CANDIDATE_BLOCK]",
+      "sha256": "0f9a1dcabd811e14fce869c595865472d0e92edc4761b8375cb3ca0465439f88"
+    },
+    "round_closure_historical": {
+      "locator": "subsequent_technical_finding; actual_documentary_current_version; prior121_and3388_decisions_unchanged",
+      "sha256": "42579b4c9381dea38641fd657dcddd72f6b3777d017fa7e4e218c3a5d7767c52"
+    },
+    "technical_revision_certificate": {
+      "locator": "created_utc; prior_units_and_3388_assessments_identical; added_unit; added_expected_cells; all_new_outcome_states_unknown",
+      "sha256": "214f430ada97a2bf891e711ad7f5269a8be9f6fd72aab8de1e14fa11412b754a"
+    }
+  },
+  "source_proof_citations": {
+    "appendix": {
+      "locator": "FigureS2 participant flow; TableS4 PDF42,printed41",
+      "sha256": "df91cb4fa3fa0223497f3b828b3c2645f75a8a82d41b91b7e6f96b7e02f08a16"
+    },
+    "article": {
+      "locator": "Methods: Trial design, Trial population, Randomization and trial regimen, Statistical analysis; Results: Patients and Table2 footnote*",
+      "sha256": "08be2e7d5f95d345bb0a5419c0a0adff326eed069e95b119ead4d305fcc10b61"
+    },
+    "article_text_extraction": {
+      "locator": "lines1224–1237,1408–1409,1581; derived from the own primary article, not an independent source",
+      "sha256": "14772554fe5463b9860ddd19ece03d9a37b265760c2e479668261bde63d56844"
+    },
+    "candidate": {
+      "locator": "records[41]",
+      "sha256": "7050bb886470dd4ee70373278feb463ea5210dfba13f7107e6a4703a32e0adc3"
+    },
+    "family": {
+      "locator": "records[2]",
+      "sha256": "a789a7c6ea9a1460550ce5518182b441c43707d7940de00ac4db6916e9ec0530"
+    },
+    "initial_native_pubmed": {
+      "locator": "record PMID28910237; DOI10.1056/NEJMoa1612917; exact own article present in initial export",
+      "sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f"
+    },
+    "previous_admission_eligibility": {
+      "locator": "case93/family_id=NCT01144338; prior inclusion decision",
+      "sha256": "39a793d93a90436374d158f8056c2cb017d5aa6abc7a3c4a7bf328d912cd29fe"
+    },
+    "prior_source_audit": {
+      "locator": "findings; conclusion; remaining_unknown_or_not_reconstructed",
+      "sha256": "c1e09272acd17d3963026dc8996cdc550c8fd972756636ab0526511d9c62b125"
+    },
+    "protocol": {
+      "locator": "own EXSCEL protocol, eligibility/design and safety sections; no result counts inferred from plans",
+      "sha256": "0723bce4b3c243f4e928519fcae71945dd4c3bf8ec897801e21ee89ec3c907af"
+    },
+    "registry": {
+      "locator": "protocolSection.designModule; eligibilityModule; armsInterventionsModule; statusModule; resultsSection.adverseEventsModule.eventGroups",
+      "sha256": "7968dac25400b47b46122c65223c1b272ad00671c2b705be74d2bc3e313405f6"
+    },
+    "sap": {
+      "locator": "sections2.1.1/2.1.3 PDF15; sections3.2 PDF18;4.6/4.6.1 PDF30–31",
+      "sha256": "1f1cc3ae9bc9640d673fda6538397a3b827e61da6cd3ce33fd6093188717c459"
+    }
+  },
+  "transition_type": "technical_correction_of_previously_identified_trial_membership_not_a_new_trial_discovery_or_split",
+  "trial": "EXSCEL",
+  "unit_ids_after": [
+    "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE",
+    "ACTRN12617001613392:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+    "ChiCTR1900023428:CANDIDATE_BLOCK",
+    "EUCTR2014-003923-23:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+    "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+    "EUCTR2019-000781-38:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+    "ISRCTN61129760:INITIAL_PARALLEL_CANDIDATE",
+    "NCT00035984:CANDIDATE_BLOCK",
+    "NCT00039013:CANDIDATE_BLOCK",
+    "NCT00039026:CANDIDATE_BLOCK",
+    "NCT00318461:CANDIDATE_BLOCK",
+    "NCT00395746:CANDIDATE_BLOCK",
+    "NCT00577824:CANDIDATE_BLOCK",
+    "NCT00688701:CANDIDATE_BLOCK",
+    "NCT00712673:CANDIDATE_BLOCK",
+    "NCT00713830:CANDIDATE_BLOCK",
+    "NCT00715624:CANDIDATE_BLOCK",
+    "NCT00734474:CANDIDATE_BLOCK",
+    "NCT00763451:CANDIDATE_BLOCK",
+    "NCT00763815:CANDIDATE_BLOCK",
+    "NCT00765817:CANDIDATE_BLOCK",
+    "NCT00781937:CANDIDATE_BLOCK",
+    "NCT00838903:CANDIDATE_BLOCK",
+    "NCT00839527:CANDIDATE_BLOCK",
+    "NCT00849017:CANDIDATE_BLOCK",
+    "NCT00849056:CANDIDATE_BLOCK",
+    "NCT00866658:CANDIDATE_BLOCK",
+    "NCT00975286:CANDIDATE_BLOCK",
+    "NCT01064687:CANDIDATE_BLOCK",
+    "NCT01144338:CANDIDATE_BLOCK",
+    "NCT01147250:CANDIDATE_BLOCK",
+    "NCT01169779:CANDIDATE_BLOCK",
+    "NCT01179048:CANDIDATE_BLOCK",
+    "NCT01272219:CANDIDATE_BLOCK",
+    "NCT01272232:CANDIDATE_BLOCK",
+    "NCT01373216:INITIAL_PARALLEL_CANDIDATE",
+    "NCT01394952:CANDIDATE_BLOCK",
+    "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+    "NCT01460069:CANDIDATE_BLOCK",
+    "NCT01557166:CANDIDATE_BLOCK",
+    "NCT01558271:CANDIDATE_BLOCK",
+    "NCT01572740:CANDIDATE_BLOCK",
+    "NCT01617434:CANDIDATE_BLOCK",
+    "NCT01620489:CANDIDATE_BLOCK",
+    "NCT01652729:CANDIDATE_BLOCK",
+    "NCT01720446:CANDIDATE_BLOCK",
+    "NCT01733758:CANDIDATE_BLOCK",
+    "NCT01769378:CANDIDATE_BLOCK",
+    "NCT01784965:CANDIDATE_BLOCK",
+    "NCT01798706:CANDIDATE_BLOCK",
+    "NCT01836523:CANDIDATE_BLOCK",
+    "NCT02054897:CANDIDATE_BLOCK",
+    "NCT02098395:CANDIDATE_BLOCK",
+    "NCT02152371:CANDIDATE_BLOCK",
+    "NCT02160990:CANDIDATE_BLOCK",
+    "NCT02229383:CANDIDATE_BLOCK",
+    "NCT02229396:CANDIDATE_BLOCK",
+    "NCT02288273:CANDIDATE_BLOCK",
+    "NCT02305381:CANDIDATE_BLOCK",
+    "NCT02465515:CANDIDATE_BLOCK",
+    "NCT02597049:CANDIDATE_BLOCK",
+    "NCT02692716:CANDIDATE_BLOCK",
+    "NCT02750410:CANDIDATE_BLOCK",
+    "NCT02827708:CANDIDATE_BLOCK",
+    "NCT02863419:CANDIDATE_BLOCK",
+    "NCT02906930:CANDIDATE_BLOCK",
+    "NCT02963922:CANDIDATE_BLOCK",
+    "NCT02963935:CANDIDATE_BLOCK",
+    "NCT02964247:CANDIDATE_BLOCK",
+    "NCT03018028:CANDIDATE_BLOCK",
+    "NCT03021187:CANDIDATE_BLOCK",
+    "NCT03086330:CANDIDATE_BLOCK",
+    "NCT03353350:CANDIDATE_BLOCK",
+    "NCT03496298:CANDIDATE_BLOCK",
+    "NCT03548935:CANDIDATE_BLOCK",
+    "NCT03552757:CANDIDATE_BLOCK",
+    "NCT03574597:CANDIDATE_BLOCK",
+    "NCT03611582:CANDIDATE_BLOCK",
+    "NCT03693430:CANDIDATE_BLOCK",
+    "NCT03713684:CANDIDATE_BLOCK",
+    "NCT03770728:CANDIDATE_BLOCK",
+    "NCT03811574:CANDIDATE_BLOCK",
+    "NCT03819153:CANDIDATE_BLOCK",
+    "NCT03914326:CANDIDATE_BLOCK",
+    "NCT03954834:CANDIDATE_BLOCK",
+    "NCT04039503:CANDIDATE_BLOCK",
+    "NCT04074161:CANDIDATE_BLOCK",
+    "NCT04109547:CANDIDATE_BLOCK",
+    "NCT04184622:CANDIDATE_BLOCK",
+    "NCT04251156:CANDIDATE_BLOCK",
+    "NCT04560998:CANDIDATE_BLOCK",
+    "NCT04591626:CANDIDATE_BLOCK",
+    "NCT04657003:CANDIDATE_BLOCK",
+    "NCT04657016:CANDIDATE_BLOCK",
+    "NCT04788511:CANDIDATE_BLOCK",
+    "NCT04844918:CANDIDATE_BLOCK",
+    "NCT04847557:CANDIDATE_BLOCK",
+    "NCT04865770:CANDIDATE_BLOCK",
+    "NCT04998136:CANDIDATE_BLOCK",
+    "NCT05024032:CANDIDATE_BLOCK",
+    "NCT05035095:CANDIDATE_BLOCK",
+    "NCT05040971:CANDIDATE_BLOCK",
+    "NCT05064735:CANDIDATE_BLOCK",
+    "NCT05132088:CANDIDATE_BLOCK",
+    "NCT05412004:GPI1",
+    "NCT05412004:GPI2",
+    "NCT05548647:CANDIDATE_BLOCK",
+    "NCT05564117:CANDIDATE_BLOCK",
+    "NCT05646706:CANDIDATE_BLOCK",
+    "NCT05649137:CANDIDATE_BLOCK",
+    "NCT05691712:CANDIDATE_BLOCK",
+    "NCT05869903:CANDIDATE_BLOCK",
+    "NCT05872620:CANDIDATE_BLOCK",
+    "NCT05891496:CANDIDATE_BLOCK",
+    "NCT05931380:CANDIDATE_BLOCK",
+    "NCT05963022:CANDIDATE_BLOCK",
+    "NCT05971940:CANDIDATE_BLOCK",
+    "NCT06041217:CANDIDATE_BLOCK",
+    "NCT06109311:CANDIDATE_BLOCK",
+    "NCT06672172:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+    "NTR6323:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+    "UTN1111-1181-9567:INITIAL_PARALLEL_CANDIDATE"
+  ],
+  "unit_ids_before": [
+    "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE",
+    "ACTRN12617001613392:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+    "ChiCTR1900023428:CANDIDATE_BLOCK",
+    "EUCTR2014-003923-23:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+    "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+    "EUCTR2019-000781-38:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+    "ISRCTN61129760:INITIAL_PARALLEL_CANDIDATE",
+    "NCT00035984:CANDIDATE_BLOCK",
+    "NCT00039013:CANDIDATE_BLOCK",
+    "NCT00039026:CANDIDATE_BLOCK",
+    "NCT00318461:CANDIDATE_BLOCK",
+    "NCT00395746:CANDIDATE_BLOCK",
+    "NCT00577824:CANDIDATE_BLOCK",
+    "NCT00688701:CANDIDATE_BLOCK",
+    "NCT00712673:CANDIDATE_BLOCK",
+    "NCT00713830:CANDIDATE_BLOCK",
+    "NCT00715624:CANDIDATE_BLOCK",
+    "NCT00734474:CANDIDATE_BLOCK",
+    "NCT00763451:CANDIDATE_BLOCK",
+    "NCT00763815:CANDIDATE_BLOCK",
+    "NCT00765817:CANDIDATE_BLOCK",
+    "NCT00781937:CANDIDATE_BLOCK",
+    "NCT00838903:CANDIDATE_BLOCK",
+    "NCT00839527:CANDIDATE_BLOCK",
+    "NCT00849017:CANDIDATE_BLOCK",
+    "NCT00849056:CANDIDATE_BLOCK",
+    "NCT00866658:CANDIDATE_BLOCK",
+    "NCT00975286:CANDIDATE_BLOCK",
+    "NCT01064687:CANDIDATE_BLOCK",
+    "NCT01147250:CANDIDATE_BLOCK",
+    "NCT01169779:CANDIDATE_BLOCK",
+    "NCT01179048:CANDIDATE_BLOCK",
+    "NCT01272219:CANDIDATE_BLOCK",
+    "NCT01272232:CANDIDATE_BLOCK",
+    "NCT01373216:INITIAL_PARALLEL_CANDIDATE",
+    "NCT01394952:CANDIDATE_BLOCK",
+    "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+    "NCT01460069:CANDIDATE_BLOCK",
+    "NCT01557166:CANDIDATE_BLOCK",
+    "NCT01558271:CANDIDATE_BLOCK",
+    "NCT01572740:CANDIDATE_BLOCK",
+    "NCT01617434:CANDIDATE_BLOCK",
+    "NCT01620489:CANDIDATE_BLOCK",
+    "NCT01652729:CANDIDATE_BLOCK",
+    "NCT01720446:CANDIDATE_BLOCK",
+    "NCT01733758:CANDIDATE_BLOCK",
+    "NCT01769378:CANDIDATE_BLOCK",
+    "NCT01784965:CANDIDATE_BLOCK",
+    "NCT01798706:CANDIDATE_BLOCK",
+    "NCT01836523:CANDIDATE_BLOCK",
+    "NCT02054897:CANDIDATE_BLOCK",
+    "NCT02098395:CANDIDATE_BLOCK",
+    "NCT02152371:CANDIDATE_BLOCK",
+    "NCT02160990:CANDIDATE_BLOCK",
+    "NCT02229383:CANDIDATE_BLOCK",
+    "NCT02229396:CANDIDATE_BLOCK",
+    "NCT02288273:CANDIDATE_BLOCK",
+    "NCT02305381:CANDIDATE_BLOCK",
+    "NCT02465515:CANDIDATE_BLOCK",
+    "NCT02597049:CANDIDATE_BLOCK",
+    "NCT02692716:CANDIDATE_BLOCK",
+    "NCT02750410:CANDIDATE_BLOCK",
+    "NCT02827708:CANDIDATE_BLOCK",
+    "NCT02863419:CANDIDATE_BLOCK",
+    "NCT02906930:CANDIDATE_BLOCK",
+    "NCT02963922:CANDIDATE_BLOCK",
+    "NCT02963935:CANDIDATE_BLOCK",
+    "NCT02964247:CANDIDATE_BLOCK",
+    "NCT03018028:CANDIDATE_BLOCK",
+    "NCT03021187:CANDIDATE_BLOCK",
+    "NCT03086330:CANDIDATE_BLOCK",
+    "NCT03353350:CANDIDATE_BLOCK",
+    "NCT03496298:CANDIDATE_BLOCK",
+    "NCT03548935:CANDIDATE_BLOCK",
+    "NCT03552757:CANDIDATE_BLOCK",
+    "NCT03574597:CANDIDATE_BLOCK",
+    "NCT03611582:CANDIDATE_BLOCK",
+    "NCT03693430:CANDIDATE_BLOCK",
+    "NCT03713684:CANDIDATE_BLOCK",
+    "NCT03770728:CANDIDATE_BLOCK",
+    "NCT03811574:CANDIDATE_BLOCK",
+    "NCT03819153:CANDIDATE_BLOCK",
+    "NCT03914326:CANDIDATE_BLOCK",
+    "NCT03954834:CANDIDATE_BLOCK",
+    "NCT04039503:CANDIDATE_BLOCK",
+    "NCT04074161:CANDIDATE_BLOCK",
+    "NCT04109547:CANDIDATE_BLOCK",
+    "NCT04184622:CANDIDATE_BLOCK",
+    "NCT04251156:CANDIDATE_BLOCK",
+    "NCT04560998:CANDIDATE_BLOCK",
+    "NCT04591626:CANDIDATE_BLOCK",
+    "NCT04657003:CANDIDATE_BLOCK",
+    "NCT04657016:CANDIDATE_BLOCK",
+    "NCT04788511:CANDIDATE_BLOCK",
+    "NCT04844918:CANDIDATE_BLOCK",
+    "NCT04847557:CANDIDATE_BLOCK",
+    "NCT04865770:CANDIDATE_BLOCK",
+    "NCT04998136:CANDIDATE_BLOCK",
+    "NCT05024032:CANDIDATE_BLOCK",
+    "NCT05035095:CANDIDATE_BLOCK",
+    "NCT05040971:CANDIDATE_BLOCK",
+    "NCT05064735:CANDIDATE_BLOCK",
+    "NCT05132088:CANDIDATE_BLOCK",
+    "NCT05412004:GPI1",
+    "NCT05412004:GPI2",
+    "NCT05548647:CANDIDATE_BLOCK",
+    "NCT05564117:CANDIDATE_BLOCK",
+    "NCT05646706:CANDIDATE_BLOCK",
+    "NCT05649137:CANDIDATE_BLOCK",
+    "NCT05691712:CANDIDATE_BLOCK",
+    "NCT05869903:CANDIDATE_BLOCK",
+    "NCT05872620:CANDIDATE_BLOCK",
+    "NCT05891496:CANDIDATE_BLOCK",
+    "NCT05931380:CANDIDATE_BLOCK",
+    "NCT05963022:CANDIDATE_BLOCK",
+    "NCT05971940:CANDIDATE_BLOCK",
+    "NCT06041217:CANDIDATE_BLOCK",
+    "NCT06109311:CANDIDATE_BLOCK",
+    "NCT06672172:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+    "NTR6323:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+    "UTN1111-1181-9567:INITIAL_PARALLEL_CANDIDATE"
+  ],
+  "verified_invariants": {
+    "GPI1_and_GPI2_already_separate_before_transition": true,
+    "all11_cited_source_hashes_match": true,
+    "all28_added_rows_pending_decision": true,
+    "historical_12_summary_changes_match_unknown_only_admission": true,
+    "no_removed_units": true,
+    "old121_unit_records_identical": true,
+    "old3388_assessment_records_identical": true,
+    "one_added_unit_only": true
+  }
+}

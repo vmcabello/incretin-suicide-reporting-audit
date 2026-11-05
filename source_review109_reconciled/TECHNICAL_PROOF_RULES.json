@@ -1,0 +1,201 @@
+{
+  "authorization": "User requested technical AI conciliation; do not label these analytical dispositions as human adjudication, consensus or extra human votes.",
+  "date": "2026-11-05",
+  "no_primary_fulltexts_private_paths_or_verbatim_source_quotes_included": true,
+  "original_source_adjudication3_sha256": "92520c337b575a18123cd336c0d9c9ba159c1120979e21b7f9acf847f68fb4e3",
+  "positive_witness_rules": [
+    {
+      "basis": "explicitly_authorized_AI_primary_content_adjudication",
+      "classification": "complete_derived",
+      "limits": [
+        "Drug-relatedness is not used as proof of suicideabsence; explicitcausesare used.",
+        "The proof is forreportableplannedstudyperiod,not completefollowupafterwithdrawal.",
+        "Otherunexaminedsources remainunexamined; thispositivewitnessdoesnotcertifytheirreading."
+      ],
+      "minimum_stage": "B2",
+      "position_id": "POS-2d0448e75c22100c83c2",
+      "required_sources": [
+        {
+          "locator": "Corrected own article PDFpp.1,6,8; mortalityparagraph,Table2; correctionnoticep.1",
+          "sha256": "e9907728c66e8c6f728bbb65160cd33f69174bbcda75153e19ff7a9c0850028a",
+          "source_id": "SRC-e9907728c66e8c6f728bbb65"
+        },
+        {
+          "locator": "ProtocolH9X-MC-GBGE(b) PDFpp.17–19,41–42,67–70;§§4.1–4.2,8.2.1; scheduleofactivities",
+          "sha256": "dbbddc56f1509c231be3d2ca44595cab04d02539c53eb32bb8249e59f67fb4bd",
+          "source_id": "SRC-dbbddc56f1509c231be3d2ca"
+        }
+      ],
+      "source_count_facts": [
+        {
+          "N": 142,
+          "arm": "dulaglutide1.5mg",
+          "calculation": "2 all-cause deaths -1 uterinecarcinoma -1pneumonia=0",
+          "n": 0
+        },
+        {
+          "N": 141,
+          "arm": "dulaglutide0.75mg",
+          "calculation": "0 all-cause deaths implies0suicide deaths",
+          "n": 0
+        },
+        {
+          "N": 140,
+          "arm": "placebo",
+          "calculation": "0 all-cause deaths implies0suicide deaths",
+          "n": 0
+        }
+      ],
+      "source_population": "Randomized patients withT2D who received at leastonedose. The one untreated0.75mgparticipant is not included in N141.",
+      "source_window": "Baseline toendofplanned24-weekstudy/Visit11orET. No inference tolater passive related-SAE notification orlifelong vitalstatus.",
+      "technical_reason": "A sufficient exact positive proof exists in the own corrected article plus protocol. The article supplies2/0/0reporteddeaths, treated142/141/140,and exhaustively attributes the two1.5mgdeaths to uterinecarcinoma andpneumonia. ProtocolGBGE(b) makesweek24/Visit11orET the finalplannedvisit; it provides no routine additional post-treatment visit. Its after-discharge rule is passive reporting of relatedSAEs learned later,not a mandated additional planned observation period. Incomplete examination of other related sources does not invalidate this sufficient compatible positive proof.",
+      "technical_review_is_not_a_new_human_vote": true
+    },
+    {
+      "basis": "preserved_verified_v1_4_primary_content_witness",
+      "classification": "complete_derived",
+      "minimum_stage": "B3",
+      "position_id": "POS-6040eb8d44115b0ca53e",
+      "required_sources": [
+        {
+          "locator": "FDA NDA217806ClinicalReview PDFpp.196–197, printedpp.195–196; completeSMQ/FMQparagraphs andcase narratives",
+          "sha256": "4ffc5bea39958298693d4c7c340173b79647651c940c95b7cf4b4233e7ddda4e",
+          "source_id": "SRC-4ffc5bea39958298693d4c7c"
+        },
+        {
+          "locator": "PrimarypublicationObesity2026 PDFpp.3,7–9;Methods2.2–2.4;Results3.2.5;Table6rows#16/#17",
+          "sha256": "2beda1e5ae1e8b0a65b108e9b5cf7e53dec6b100b97e22535e5fdde63d9ad8e8",
+          "source_id": "SRC-2beda1e5ae1e8b0a65b108e9"
+        },
+        {
+          "locator": "JSON protocolSection.identificationModule.secondaryIdInfos;resultsSection.adverseEventsModule.{timeFrame,description,eventGroups}",
+          "sha256": "928e5d0e0d010ed5308d084087859cb7ca3cef707ad7a948a643aef81b529f36",
+          "source_id": "SRC-928e5d0e0d010ed5308d0840"
+        }
+      ],
+      "technical_reason": "FDA supplies the exhaustive AE suicide-search set; the psychiatric publication supplies trial identity of both attempt participants and confirms no additional AE cases, with off-treatment safety follow-up. The own registry establishes GPHL/SURMOUNT-2 identity, treated arm denominators and baseline-through-week76 window. The regulatory source is indispensable in this accepted proof chain, so no earlier-layer promotion is authorized.",
+      "technical_review_is_not_a_new_human_vote": true
+    },
+    {
+      "basis": "preserved_verified_v1_4_primary_content_witness",
+      "classification": "complete_derived",
+      "minimum_stage": "A",
+      "position_id": "POS-9edde8c14b9719bfa779",
+      "required_sources": [
+        {
+          "locator": "OriginalXML sec3StudyDesign;sec4Participants;sec9Safety;sec22AdverseEvents;Table2",
+          "sha256": "88198dfa955eb9e1b03c00dc004f9380e690fe0cf2ad44d375eccbe096e0846f",
+          "source_id": "SRC-88198dfa955eb9e1b03c00dc"
+        }
+      ],
+      "technical_reason": "The own original XML alone establishes 10 exposed participants per randomized arm, 30-day study, all completed, and the universal statement of no deaths or adverse events. Registry absence of deathsNumAffected is not used. The registry is confirmatory rather than indispensable.",
+      "technical_review_is_not_a_new_human_vote": true
+    },
+    {
+      "basis": "preserved_verified_v1_4_primary_content_witness",
+      "classification": "complete_derived",
+      "minimum_stage": "A",
+      "position_id": "POS-a608a5cb04ed71cf72d8",
+      "required_sources": [
+        {
+          "locator": "PDF pp.3,10; Table3 and full notes*,†,‡; printedp.998",
+          "sha256": "6f9b733543eda61db264d37c580940b060ae1f7440c708e6670671b8d3eec3f0",
+          "source_id": "SRC-6f9b733543eda61db264d37c"
+        }
+      ],
+      "technical_reason": "The own NEJM article alone establishes the treated safety denominators, all-reported fatal-event cause list, and in-trial observation through the planned 75 weeks. Neither registry nor CSR is indispensable. Preserve the internal placebo fatal-participant/event discrepancy; do not claim a resolved all-cause participant total.",
+      "technical_review_is_not_a_new_human_vote": true
+    },
+    {
+      "basis": "explicitly_authorized_AI_primary_content_adjudication",
+      "classification": "complete_derived",
+      "limits": [
+        "No directly reported suicide-specific count is claimed.",
+        "No complete vital-status ascertainment or outcome absence beyond the reported/planned window is certified."
+      ],
+      "minimum_stage": "A",
+      "position_id": "POS-e412fd85e5037771882f",
+      "required_sources": [
+        {
+          "locator": "Own primary article PDFpp.3–4,9,11; Figure1 and Table3, full header and footnote*",
+          "sha256": "8004a55f9a5aa9132d2868764899e526fd55e0518b8c6ccbb19354f48d7d0daa",
+          "source_id": "SRC-8004a55f9a5aa9132d286876"
+        },
+        {
+          "locator": "Own Supplementary Appendix3 PDFp.10, printedp.9: Definition of observation periods",
+          "sha256": "3b27e4cd1f36de2a8bf588832ee385c4891d67406613d3f34f3c85377769528d",
+          "source_id": "SRC-3b27e4cd1f36de2a8bf58883"
+        }
+      ],
+      "source_count_facts": [
+        {
+          "N": 1004,
+          "arm": "semaglutide7.2mg",
+          "n": 0
+        },
+        {
+          "N": 201,
+          "arm": "semaglutide2.4mg",
+          "n": 0
+        },
+        {
+          "N": 201,
+          "arm": "placebo",
+          "n": 0
+        }
+      ],
+      "source_population": "Original randomized adults with BMI>=30, no diabetes, who received at least one dose; the untreated participant is excluded from 7.2mg denominator (1004, not1005).",
+      "source_window": "Initial72-week parallel treatment plus9-week planned off-treatment follow-up, safety throughweek81. In-trial is randomization to last trial visit regardless of discontinuation or other therapy.",
+      "technical_reason": "The own adverse-event table explicitly reports zero fatal adverse events in every treated arm and specifies in-trial coverage. Suicide-death adverse events are a subset of fatal adverse events; an explicit universal zero within that modality implies zero participants with a suicide-death AE. This is an admissible derivation within the AE modality, not a directly reported suicide-specific count or transport of registry all-cause mortality.",
+      "technical_review_is_not_a_new_human_vote": true
+    },
+    {
+      "basis": "explicitly_authorized_AI_primary_content_adjudication",
+      "classification": "complete_derived",
+      "limits": [
+        "Explicit componentname inpooledprose doesnotmake ownarmcounts directlyreported.",
+        "Noclinicalriskorcompletevital-statusclaim.",
+        "Metadata/publicationdatesdonotcertifyexactfileavailabilityatthehistorical19Oct2026cutoff."
+      ],
+      "minimum_stage": "B3",
+      "position_id": "POS-f2c9dca35d703f8c7c37",
+      "required_sources": [
+        {
+          "locator": "FDAClinicalReviewNDA217806PDFpp.2,195–197;printedpp.1,194–196",
+          "sha256": "4ffc5bea39958298693d4c7c340173b79647651c940c95b7cf4b4233e7ddda4e",
+          "source_id": "SRC-4ffc5bea39958298693d4c7c"
+        },
+        {
+          "locator": "OwnregistryJSONprotocolSection.identificationModule;resultsSection.adverseEventsModule.{timeFrame,description,eventGroups}",
+          "sha256": "928e5d0e0d010ed5308d084087859cb7ca3cef707ad7a948a643aef81b529f36",
+          "source_id": "SRC-928e5d0e0d010ed5308d0840"
+        }
+      ],
+      "source_count_facts": [
+        {
+          "N": 312,
+          "arm": "tirzepatide10mg",
+          "n": 0
+        },
+        {
+          "N": 311,
+          "arm": "tirzepatide15mg",
+          "n": 0
+        },
+        {
+          "N": 315,
+          "arm": "placebo",
+          "n": 0
+        }
+      ],
+      "source_population": "AlloriginalrandomizedSURMOUNT2participantsreceiving>=1dose; exactGPHLtrialmembershipestablished by ownregistry.",
+      "source_window": "Baseline throughweek76(72-weektreatment+4-weeksafetyfollowup). FDAcompletedtrialpoolandownregistrywindowbridgedexplicitly; no suicidefromSURPASS3/GPGHassignedtoSURMOUNT2.",
+      "technical_reason": "The FDA expressly reports no completed suicides in the combinedGPHK/GPHLphase3CWMtrials. The own registry identifiesGPHL asSURMOUNT-2and gives312/311/315treatedarmdenominators throughweek76. Zero in a known trial superset implieszero in every included GPHLarm. This is subset derivation from pooled component-specific evidence. It is not a directly reported own-trial, arm-specific suicide-death table; retain complete_derived even though the source explicitly names suicide.",
+      "technical_review_is_not_a_new_human_vote": true
+    }
+  ],
+  "preserved_minimum_proofsets4_sha256": "bb7d74acefc9e7e8981f80eb48ee9d974c819a229838885879d6a5edad51feef",
+  "relevant_source_reading_not_assumed_identical_between_reviewers": true,
+  "schema": "authorized-ai-technical-positive-proof-rules-v1",
+  "unknown_scope_policy": "Union of either assessor's unresolved pertinent coverage persists cumulatively; only a compatible technically verified exact positive witness overrides its main indicator. The underlying gap remains recorded and survives exclusion of derived completeness."
+}

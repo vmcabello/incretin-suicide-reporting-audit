@@ -1,0 +1,975 @@
+{
+  "agreement_all109": {
+    "coverage_by_reviewer": {
+      "R1": {
+        "comparable_relevant_source_union_examined": 55,
+        "incomplete_relevant_scope": 13,
+        "sufficient_positive_witness_examined": 41
+      },
+      "R2": {
+        "comparable_relevant_source_union_examined": 31,
+        "incomplete_relevant_scope": 37,
+        "sufficient_positive_witness_examined": 41
+      }
+    },
+    "cumulative_classification": {
+      "R1_marginal": {
+        "complete_derived": 41.0,
+        "not_reconstructible_in_examined_corpus": 42.0,
+        "partial_reference": 25.0,
+        "reference_unverifiable": 1.0
+      },
+      "R2_marginal": {
+        "complete_derived": 40.0,
+        "complete_direct": 1.0,
+        "not_reconstructible_in_examined_corpus": 24.0,
+        "partial_reference": 44.0
+      },
+      "accuracy_or_external_error_rate_estimated": false,
+      "cohen_kappa": 0.6783474732571007,
+      "confidence_interval": null,
+      "cross_tabulation": [
+        {
+          "R1": "complete_derived",
+          "R2": "complete_derived",
+          "weight_or_count": 39.0
+        },
+        {
+          "R1": "complete_derived",
+          "R2": "complete_direct",
+          "weight_or_count": 1.0
+        },
+        {
+          "R1": "complete_derived",
+          "R2": "partial_reference",
+          "weight_or_count": 1.0
+        },
+        {
+          "R1": "not_reconstructible_in_examined_corpus",
+          "R2": "complete_derived",
+          "weight_or_count": 1.0
+        },
+        {
+          "R1": "not_reconstructible_in_examined_corpus",
+          "R2": "not_reconstructible_in_examined_corpus",
+          "weight_or_count": 22.0
+        },
+        {
+          "R1": "not_reconstructible_in_examined_corpus",
+          "R2": "partial_reference",
+          "weight_or_count": 19.0
+        },
+        {
+          "R1": "partial_reference",
+          "R2": "not_reconstructible_in_examined_corpus",
+          "weight_or_count": 1.0
+        },
+        {
+          "R1": "partial_reference",
+          "R2": "partial_reference",
+          "weight_or_count": 24.0
+        },
+        {
+          "R1": "reference_unverifiable",
+          "R2": "not_reconstructible_in_examined_corpus",
+          "weight_or_count": 1.0
+        }
+      ],
+      "exact_agreement_positions": 85,
+      "expected_marginal_agreement": 0.3154616614763067,
+      "kappa_undefined_if_degenerate_margins": false,
+      "observed_agreement": 0.7798165137614679,
+      "positions": 109,
+      "weight_total": 109.0
+    },
+    "group": "all109",
+    "source_scoped_classification": {
+      "R1_marginal": {
+        "complete_derived": 41.0,
+        "not_reconstructible_in_examined_corpus": 48.0,
+        "partial_reference": 20.0
+      },
+      "R2_marginal": {
+        "complete_derived": 36.0,
+        "complete_direct": 1.0,
+        "not_reconstructible_in_examined_corpus": 24.0,
+        "partial_reference": 48.0
+      },
+      "accuracy_or_external_error_rate_estimated": false,
+      "cohen_kappa": 0.6056915470879055,
+      "confidence_interval": null,
+      "cross_tabulation": [
+        {
+          "R1": "complete_derived",
+          "R2": "complete_derived",
+          "weight_or_count": 35.0
+        },
+        {
+          "R1": "complete_derived",
+          "R2": "complete_direct",
+          "weight_or_count": 1.0
+        },
+        {
+          "R1": "complete_derived",
+          "R2": "partial_reference",
+          "weight_or_count": 5.0
+        },
+        {
+          "R1": "not_reconstructible_in_examined_corpus",
+          "R2": "complete_derived",
+          "weight_or_count": 1.0
+        },
+        {
+          "R1": "not_reconstructible_in_examined_corpus",
+          "R2": "not_reconstructible_in_examined_corpus",
+          "weight_or_count": 24.0
+        },
+        {
+          "R1": "not_reconstructible_in_examined_corpus",
+          "R2": "partial_reference",
+          "weight_or_count": 23.0
+        },
+        {
+          "R1": "partial_reference",
+          "R2": "partial_reference",
+          "weight_or_count": 20.0
+        }
+      ],
+      "exact_agreement_positions": 79,
+      "expected_marginal_agreement": 0.30199478158404175,
+      "kappa_undefined_if_degenerate_margins": false,
+      "observed_agreement": 0.7247706422018348,
+      "positions": 109,
+      "weight_total": 109.0
+    },
+    "three_state_exact_key_projection": {
+      "R1_marginal": {
+        "complete": 41.0,
+        "not_complete": 55.0,
+        "unknown": 13.0
+      },
+      "R2_marginal": {
+        "complete": 41.0,
+        "not_complete": 31.0,
+        "unknown": 37.0
+      },
+      "accuracy_or_external_error_rate_estimated": false,
+      "cohen_kappa": 0.5511604691789369,
+      "confidence_interval": null,
+      "cross_tabulation": [
+        {
+          "R1": "complete",
+          "R2": "complete",
+          "weight_or_count": 40.0
+        },
+        {
+          "R1": "complete",
+          "R2": "unknown",
+          "weight_or_count": 1.0
+        },
+        {
+          "R1": "not_complete",
+          "R2": "complete",
+          "weight_or_count": 1.0
+        },
+        {
+          "R1": "not_complete",
+          "R2": "not_complete",
+          "weight_or_count": 27.0
+        },
+        {
+          "R1": "not_complete",
+          "R2": "unknown",
+          "weight_or_count": 27.0
+        },
+        {
+          "R1": "unknown",
+          "R2": "not_complete",
+          "weight_or_count": 4.0
+        },
+        {
+          "R1": "unknown",
+          "R2": "unknown",
+          "weight_or_count": 9.0
+        }
+      ],
+      "exact_agreement_positions": 76,
+      "expected_marginal_agreement": 0.3254776533961788,
+      "kappa_undefined_if_degenerate_margins": false,
+      "observed_agreement": 0.6972477064220184,
+      "positions": 109,
+      "weight_total": 109.0
+    }
+  },
+  "current_B3_whole_population_modalities": [
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicidal_ideation",
+      "confirmed_total": 1,
+      "corpus_conditional_identification_interval": [
+        0.006289308176100629,
+        0.1949685534591195
+      ],
+      "derived_confirmed": 0,
+      "derived_only_unit_ids": [],
+      "direct_confirmed": 1,
+      "direct_unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "modality": "adverse_event_reports",
+      "not_complete_in_examined_scope": 128,
+      "stage": "B3",
+      "unknown": 30,
+      "unknown_unit_ids": [
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01272232:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01652729:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT03552757:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK",
+        "NCT05963022:CANDIDATE_BLOCK",
+        "NCT06672172:INITIAL_PARALLEL_CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicidal_ideation",
+      "confirmed_total": 0,
+      "corpus_conditional_identification_interval": [
+        0.0,
+        0.1949685534591195
+      ],
+      "derived_confirmed": 0,
+      "derived_only_unit_ids": [],
+      "direct_confirmed": 0,
+      "direct_unit_ids": [],
+      "modality": "suicidality_specific_structured_assessment",
+      "not_complete_in_examined_scope": 128,
+      "stage": "B3",
+      "unknown": 31,
+      "unknown_unit_ids": [
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01394952:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT02964247:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03086330:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT03611582:CANDIDATE_BLOCK",
+        "NCT04184622:CANDIDATE_BLOCK",
+        "NCT04591626:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_attempt",
+      "confirmed_total": 2,
+      "corpus_conditional_identification_interval": [
+        0.012578616352201259,
+        0.18867924528301888
+      ],
+      "derived_confirmed": 1,
+      "derived_only_unit_ids": [
+        "NCT04657003:CANDIDATE_BLOCK"
+      ],
+      "direct_confirmed": 1,
+      "direct_unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "modality": "adverse_event_reports",
+      "not_complete_in_examined_scope": 129,
+      "stage": "B3",
+      "unknown": 28,
+      "unknown_unit_ids": [
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02465515:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT04184622:CANDIDATE_BLOCK",
+        "NCT05064735:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_attempt",
+      "confirmed_total": 0,
+      "corpus_conditional_identification_interval": [
+        0.0,
+        0.1949685534591195
+      ],
+      "derived_confirmed": 0,
+      "derived_only_unit_ids": [],
+      "direct_confirmed": 0,
+      "direct_unit_ids": [],
+      "modality": "suicidality_specific_structured_assessment",
+      "not_complete_in_examined_scope": 128,
+      "stage": "B3",
+      "unknown": 31,
+      "unknown_unit_ids": [
+        "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00688701:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT03552757:CANDIDATE_BLOCK",
+        "NCT04184622:CANDIDATE_BLOCK",
+        "NCT04657003:CANDIDATE_BLOCK",
+        "NCT04998032:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_death",
+      "confirmed_total": 4,
+      "corpus_conditional_identification_interval": [
+        0.025157232704402517,
+        0.2138364779874214
+      ],
+      "derived_confirmed": 4,
+      "derived_only_unit_ids": [
+        "NCT02160990:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT04657003:CANDIDATE_BLOCK",
+        "NCT05646706:CANDIDATE_BLOCK"
+      ],
+      "direct_confirmed": 0,
+      "direct_unit_ids": [],
+      "modality": "adverse_event_reports",
+      "not_complete_in_examined_scope": 125,
+      "stage": "B3",
+      "unknown": 30,
+      "unknown_unit_ids": [
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00688701:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02229396:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02765399:CANDIDATE_BLOCK",
+        "NCT02863419:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT04865770:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_death",
+      "confirmed_total": 0,
+      "corpus_conditional_identification_interval": [
+        0.0,
+        0.1949685534591195
+      ],
+      "derived_confirmed": 0,
+      "derived_only_unit_ids": [],
+      "direct_confirmed": 0,
+      "direct_unit_ids": [],
+      "modality": "suicidality_specific_structured_assessment",
+      "not_complete_in_examined_scope": 128,
+      "stage": "B3",
+      "unknown": 31,
+      "unknown_unit_ids": [
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00715624:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00765817:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01272219:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02351232:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02750410:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT04074161:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_death",
+      "confirmed_total": 15,
+      "corpus_conditional_identification_interval": [
+        0.09433962264150944,
+        0.27044025157232704
+      ],
+      "derived_confirmed": 15,
+      "derived_only_unit_ids": [
+        "NCT01169779:CANDIDATE_BLOCK",
+        "NCT02160990:CANDIDATE_BLOCK",
+        "NCT02597049:CANDIDATE_BLOCK",
+        "NCT03018028:CANDIDATE_BLOCK",
+        "NCT03086330:CANDIDATE_BLOCK",
+        "NCT03811574:CANDIDATE_BLOCK",
+        "NCT04039503:CANDIDATE_BLOCK",
+        "NCT04251156:CANDIDATE_BLOCK",
+        "NCT05035095:CANDIDATE_BLOCK",
+        "NCT05132088:CANDIDATE_BLOCK",
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05646706:CANDIDATE_BLOCK",
+        "NCT05963022:CANDIDATE_BLOCK"
+      ],
+      "direct_confirmed": 0,
+      "direct_unit_ids": [],
+      "modality": "reported_all_cause_mortality_derivation",
+      "not_complete_in_examined_scope": 116,
+      "stage": "B3",
+      "unknown": 28,
+      "unknown_unit_ids": [
+        "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE",
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01720446:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT04061200:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK",
+        "NCT06672172:INITIAL_PARALLEL_CANDIDATE_BLOCK"
+      ]
+    }
+  ],
+  "current_B3_whole_population_union": [
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicidal_ideation",
+      "confirmed_total": 1,
+      "corpus_conditional_identification_interval": [
+        0.006289308176100629,
+        0.2389937106918239
+      ],
+      "derived_confirmed": 0,
+      "derived_only_unit_ids": [],
+      "direct_confirmed": 1,
+      "direct_unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "interpretation": "secondary_union_of_non_equivalent_modalities",
+      "not_complete_in_examined_scope": 121,
+      "stage": "B3",
+      "unknown": 37,
+      "unknown_unit_ids": [
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01272232:CANDIDATE_BLOCK",
+        "NCT01394952:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01652729:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT02964247:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03086330:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT03552757:CANDIDATE_BLOCK",
+        "NCT03611582:CANDIDATE_BLOCK",
+        "NCT04184622:CANDIDATE_BLOCK",
+        "NCT04591626:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK",
+        "NCT05963022:CANDIDATE_BLOCK",
+        "NCT06672172:INITIAL_PARALLEL_CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_attempt",
+      "confirmed_total": 2,
+      "corpus_conditional_identification_interval": [
+        0.012578616352201259,
+        0.22012578616352202
+      ],
+      "derived_confirmed": 1,
+      "derived_only_unit_ids": [
+        "NCT04657003:CANDIDATE_BLOCK"
+      ],
+      "direct_confirmed": 1,
+      "direct_unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "interpretation": "secondary_union_of_non_equivalent_modalities",
+      "not_complete_in_examined_scope": 124,
+      "stage": "B3",
+      "unknown": 33,
+      "unknown_unit_ids": [
+        "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE",
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00688701:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02465515:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT03552757:CANDIDATE_BLOCK",
+        "NCT04184622:CANDIDATE_BLOCK",
+        "NCT04998032:CANDIDATE_BLOCK",
+        "NCT05064735:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_death",
+      "confirmed_total": 17,
+      "corpus_conditional_identification_interval": [
+        0.1069182389937107,
+        0.3522012578616352
+      ],
+      "derived_confirmed": 17,
+      "derived_only_unit_ids": [
+        "NCT01169779:CANDIDATE_BLOCK",
+        "NCT02160990:CANDIDATE_BLOCK",
+        "NCT02597049:CANDIDATE_BLOCK",
+        "NCT03018028:CANDIDATE_BLOCK",
+        "NCT03086330:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT03811574:CANDIDATE_BLOCK",
+        "NCT04039503:CANDIDATE_BLOCK",
+        "NCT04251156:CANDIDATE_BLOCK",
+        "NCT04657003:CANDIDATE_BLOCK",
+        "NCT05035095:CANDIDATE_BLOCK",
+        "NCT05132088:CANDIDATE_BLOCK",
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05646706:CANDIDATE_BLOCK",
+        "NCT05963022:CANDIDATE_BLOCK"
+      ],
+      "direct_confirmed": 0,
+      "direct_unit_ids": [],
+      "interpretation": "secondary_union_of_non_equivalent_modalities",
+      "not_complete_in_examined_scope": 103,
+      "stage": "B3",
+      "unknown": 39,
+      "unknown_unit_ids": [
+        "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE",
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00688701:CANDIDATE_BLOCK",
+        "NCT00715624:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00765817:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01272219:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01720446:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02229396:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02351232:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02750410:CANDIDATE_BLOCK",
+        "NCT02765399:CANDIDATE_BLOCK",
+        "NCT02863419:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT04061200:CANDIDATE_BLOCK",
+        "NCT04074161:CANDIDATE_BLOCK",
+        "NCT04865770:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK",
+        "NCT06672172:INITIAL_PARALLEL_CANDIDATE_BLOCK"
+      ]
+    }
+  ],
+  "decision_summary": {
+    "AI_technical_decisions_are_not_human_consensus_or_extra_votes": true,
+    "changed_effective_keys_vs_historical": 107,
+    "changed_input_keys_vs_historical": 177,
+    "decisions_by_kind": {
+      "analytically_equivalent_closed_negative_scope": 27,
+      "preserve_unknown_due_to_union_of_unresolved_pertinent_scopes": 40,
+      "technically_supported_exact_positive_witness": 42
+    },
+    "exact_paired_positions": 109,
+    "formal_historical_gap_IDs_preserved": true,
+    "historical_cutoff_versions_not_uniformly_certified": true,
+    "not772_independent_positions": true,
+    "pending_positive_proof_cases": [],
+    "positive_reuse_deductions": 10,
+    "raw_human_classifications_preserved": true,
+    "scope_gap_forward_annotations": 88,
+    "scope_gap_forward_distinct_keys": 74,
+    "unknowns_not_clinical_zeros": true
+  },
+  "synthetic_tests": {
+    "all_passed": true,
+    "passed": 29,
+    "synthetic_only": true
+  },
+  "v1_4_B3_whole_population_union": [
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicidal_ideation",
+      "confirmed_total": 1,
+      "corpus_conditional_identification_interval": [
+        0.006289308176100629,
+        0.20754716981132076
+      ],
+      "derived_confirmed": 0,
+      "derived_only_unit_ids": [],
+      "direct_confirmed": 1,
+      "direct_unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "interpretation": "secondary_union_of_non_equivalent_modalities",
+      "not_complete_in_examined_scope": 126,
+      "stage": "B3",
+      "unknown": 32,
+      "unknown_unit_ids": [
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01272232:CANDIDATE_BLOCK",
+        "NCT01394952:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01652729:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03086330:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT03611582:CANDIDATE_BLOCK",
+        "NCT04591626:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_attempt",
+      "confirmed_total": 2,
+      "corpus_conditional_identification_interval": [
+        0.012578616352201259,
+        0.18238993710691823
+      ],
+      "derived_confirmed": 1,
+      "derived_only_unit_ids": [
+        "NCT04657003:CANDIDATE_BLOCK"
+      ],
+      "direct_confirmed": 1,
+      "direct_unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "interpretation": "secondary_union_of_non_equivalent_modalities",
+      "not_complete_in_examined_scope": 130,
+      "stage": "B3",
+      "unknown": 27,
+      "unknown_unit_ids": [
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT04998032:CANDIDATE_BLOCK",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "N": 159,
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "component": "suicide_death",
+      "confirmed_total": 17,
+      "corpus_conditional_identification_interval": [
+        0.1069182389937107,
+        0.2830188679245283
+      ],
+      "derived_confirmed": 17,
+      "derived_only_unit_ids": [
+        "NCT01169779:CANDIDATE_BLOCK",
+        "NCT02160990:CANDIDATE_BLOCK",
+        "NCT02597049:CANDIDATE_BLOCK",
+        "NCT03018028:CANDIDATE_BLOCK",
+        "NCT03086330:CANDIDATE_BLOCK",
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT03811574:CANDIDATE_BLOCK",
+        "NCT04039503:CANDIDATE_BLOCK",
+        "NCT04251156:CANDIDATE_BLOCK",
+        "NCT04657003:CANDIDATE_BLOCK",
+        "NCT05035095:CANDIDATE_BLOCK",
+        "NCT05132088:CANDIDATE_BLOCK",
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2",
+        "NCT05564117:CANDIDATE_BLOCK",
+        "NCT05646706:CANDIDATE_BLOCK",
+        "NCT05963022:CANDIDATE_BLOCK"
+      ],
+      "direct_confirmed": 0,
+      "direct_unit_ids": [],
+      "interpretation": "secondary_union_of_non_equivalent_modalities",
+      "not_complete_in_examined_scope": 114,
+      "stage": "B3",
+      "unknown": 28,
+      "unknown_unit_ids": [
+        "EUCTR2016-001758-17:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+        "NCT00375492:CANDIDATE_BLOCK",
+        "NCT00381342:CANDIDATE_BLOCK",
+        "NCT00603239:CANDIDATE_BLOCK",
+        "NCT00744367:CANDIDATE_BLOCK",
+        "NCT00856609:CANDIDATE_BLOCK",
+        "NCT01018173:CANDIDATE_BLOCK",
+        "NCT01272219:CANDIDATE_BLOCK",
+        "NCT01406717:INITIAL_PARALLEL_CANDIDATE",
+        "NCT01612468:CANDIDATE_BLOCK",
+        "NCT01620489:CANDIDATE_BLOCK",
+        "NCT01753362:CANDIDATE_BLOCK",
+        "NCT01795248:CANDIDATE_BLOCK",
+        "NCT01798706:CANDIDATE_BLOCK",
+        "NCT02229396:CANDIDATE_BLOCK",
+        "NCT02251431:CANDIDATE_BLOCK",
+        "NCT02655770:CANDIDATE_BLOCK",
+        "NCT02765399:CANDIDATE_BLOCK",
+        "NCT02906930:CANDIDATE_BLOCK",
+        "NCT03007329:CANDIDATE_BLOCK",
+        "NCT03021187:CANDIDATE_BLOCK",
+        "NCT03038620:CANDIDATE_BLOCK",
+        "NCT03048578:CANDIDATE_BLOCK",
+        "NCT03347890:CANDIDATE_BLOCK",
+        "NCT03466021:CANDIDATE_BLOCK",
+        "NCT04061200:CANDIDATE_BLOCK",
+        "NCT05567796:CANDIDATE_BLOCK",
+        "NCT05931380:CANDIDATE_BLOCK"
+      ]
+    }
+  ]
+}

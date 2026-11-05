@@ -8,24 +8,25 @@ Components are suicidal ideation, suicide attempt and suicide death. Layer A adm
 
 The indicator is existential for an exact valid complete witness. Additional unread or inaccessible sources do not negate that witness without a material contradiction. Without such a witness, pertinent unresolved earlier gaps remain unknown in later cumulative layers. Positive witness reuse requires all sources needed for the proof to be admissible in the receiving layer; no B2/B3 source is imported backward into an article-only proof. Additional keys changed by this rule are technical deductions linked to their origin, not new human ratings.
 
-## Current source-linked integration
+## Current corrected-return reconciliation
 
-`source_review109/` is the current integrated version. `current_input/`, `current_analysis/`, `input_snapshot/`, `validation/` and `validation_sensitivity/` are preserved historical snapshots; their previous counts and statuses are not overwritten.
+`source_review109_reconciled/` contains current reconciled results. `source_review109/` is the preserved v1.4.0 snapshot; its old current/pending/agreement labels are historical. The same applies to earlier `current_input/`, `current_analysis/`, `validation/` and `validation_sensitivity/` files. Use `CURRENT_STATUS_INDEX.json` to resolve status by version.
 
-The 109 follow-up positions in 59 dossiers are a subset of the preceding 663-position assessment frame. The 37 formerly indeterminate historical positives are confirmed in this follow-up; together with the preceding 20 confirmations, all 57 historical positives are confirmed across the two internal exercises. The sampled 72 historical negative positions yield four new derived-complete judgments; this is not a corpus error-rate estimate. The original two-phase probabilities and 56 strata remain available in `linked_review_protocol/`.
+The two raw corrected-return assessment sets remain separate from the analytical dispositions. Their process is described as **separate internal assessments, as declared by the authors**. Similarity of earlier exported prose cannot prove or refute that declaration. Raw current R2 classifications differ from R1. Pairwise agreement is measured before AI-assisted technical conciliation and is not accuracy, an error-rate estimate or external validation.
 
 | Concept | Meaning |
 |---|---|
-| Raw source-scoped or cumulative classification | Received reviewer vote preserved as reported; scope differences are not automatically scientific errors |
-| Source-scope coverage | `sufficient_positive_witness_examined`, `comparable_relevant_source_union_examined` or `incomplete_relevant_scope`; 13 follow-up scopes remain incomplete |
-| Integrated effective indicator | 1 for a compatible complete proof; 0 only for an examined closed negative/partial scope; unknown for unresolved pertinent coverage or dimensions |
-| Principal cumulative integration | Carries valid admissible proofs and unresolved pertinent source gaps across the exact component/modality/reference/window, retaining provenance |
-| Exact-key sensitivity | Applies the follow-up judgments on their exact keys under its documented handling; unreviewed-key extrapolation is not performed |
-| Technical deduction | A separately logged consequence on another admissible layer, never labelled an additional human vote |
-| Historical positive-only scenario | v1.3.0 sensitivity setting the then-unconfirmed 37 positives to unknown; retained as a dated comparison, superseded as current follow-up status |
+| Raw human classification | Supplied R1 or corrected R2 rating; retained without rewriting divergent votes |
+| Source-scope coverage | Declared sufficient positive witness, comparable relevant examination or incomplete relevant examination; distinct from access to bytes |
+| Technical analytical disposition | Separately documented application of the retained instrument and source evidence after disagreement; not a third human vote |
+| Conservative current indicator | Complete only with a compatible admissible proof; unknown for unresolved pertinent scope; bounded not-complete status only within established examined scope |
+| Positive-proof reuse | Same exact reference/component/modality/window, with every required source hash already admissible in the receiving layer |
+| Sensitivity without scope-gap propagation | Retains accepted proofs but does not automatically carry a new incomplete scope into later cells |
+| Historical annotations | Recorded mechanism/status inventory before corrected-return reconciliation; not fresh prevalence estimates |
+| Author conference | Version-specific review of exact files; does not automatically extend to later corrected-return analyses |
 
-Exposure denominators, respondent denominators, ITT populations, people and episodes remain distinct. STEP UP has 1004/201/201 exposed versus 1005/201/201 randomized participants. OASIS 4 uses 204/102 exposed, not 205/102 randomized. STEP 1 retains its inconsistent fatal-person/event count and cause enumeration rather than inventing three unique deceased placebo participants. The attempt-zero proof for SURMOUNT-2 uses exhaustive AE case attribution, not mortality zero. AWARD-10 uses the corrected 23 May 2018 article version.
+The 109 positions in 59 dossiers are a subset of the earlier 663-position frame, not 772 independent positions. Counts of positions, units, episodes, participants and positive assessments are different. An explicit zero of fatal adverse events can support a within-AE derived proof; omission of a suicide row cannot. Pooled zero suicides require a subset derivation for identified own-trial arms and are not directly tabulated arm-specific counts.
 
-For admitted N units, k confirmed and u unknown, the corpus-conditional identification interval is k/N to (k+u)/N. It is not a confidence interval, clinical risk or treatment effect. It does not encompass unidentified trials, selection error or classification error. The 159-unit hierarchy and modality-first presentation are post hoc. No numerical clinical ITT/on-treatment outcome sensitivity can be inferred merely from the 30-unit source-metadata pilot.
+STEP UP preserves 1004/201/201 treated versus 1005/201/201 randomized. OASIS 4 preserves 204/102 exposed rather than 205/102 randomized. STEP 1 retains the fatal-event/person discrepancy in its source. AWARD-10 uses the corrected 23 May 2018 article and the planned 24-week protocol window, not passive related-SAE notification indefinitely after discharge. These distinctions do not certify complete vital-status follow-up.
 
-Human independence and reading extent are author-reported process declarations, not externally certified attributes. Agreement within this internal exercise does not establish accuracy, and 109 follow-up positions must not be added to 663 as 772 independent positions. Source hashes and catalogue navigation fields certify neither reading nor historical cutoff availability. Source versions at 19 October 2026 are not uniformly established; no complete vital-status ascertainment or full uniform source extraction is claimed.
+For N admitted units, k complete and u unknown, the identification interval is k/N to (k+u)/N, conditional on corpus, reference and coding. It is not a confidence interval, clinical risk, treatment effect or protection against missed studies and selection/classification errors. The analysis hierarchy remains post hoc. Source versions at 19 October 2026 are not uniformly certified.

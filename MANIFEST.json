@@ -1,5 +1,5 @@
 {
-  "version": "v1.4.0",
+  "version": "v1.5.0",
   "files": [
     {
       "path": ".gitattributes",
@@ -18,8 +18,8 @@
     },
     {
       "path": "CITATION.cff",
-      "bytes": 1246,
-      "sha256": "9141c101430d5af1559b2288f97cdf941686518e67a6c0fa0d7d649eb2f233f9"
+      "bytes": 1158,
+      "sha256": "67410c0d28e1ada0bcb20239cd02c2c84f02fd129176b1c47849e8f24592593b"
     },
     {
       "path": "corpus/ARTICLE_INFORMATION.json",
@@ -108,11 +108,21 @@
     },
     {
       "path": "corpus/PROTOCOL_AMENDMENT_CHRONOLOGY_EN.html",
+      "bytes": 14720,
+      "sha256": "773cd99c4df74dedeceef2255d210fc59f181c5837e26bfa27222f0d1a53cfa7"
+    },
+    {
+      "path": "corpus/PROTOCOL_AMENDMENT_CHRONOLOGY_EN.json",
+      "bytes": 22666,
+      "sha256": "752f95ff88fcc795555bec0a04fac07145683664e182d16c2884fd0f3119c2de"
+    },
+    {
+      "path": "corpus/PROTOCOL_AMENDMENT_CHRONOLOGY_V140_FROZEN.html",
       "bytes": 11210,
       "sha256": "3e148473cba3e372163eb897aa44916d9ceb410a1126d4a3162f41795ad40f93"
     },
     {
-      "path": "corpus/PROTOCOL_AMENDMENT_CHRONOLOGY_EN.json",
+      "path": "corpus/PROTOCOL_AMENDMENT_CHRONOLOGY_V140_FROZEN.json",
       "bytes": 17212,
       "sha256": "b52a3dfac6b19be52f2fa0b78d73fd9aefa0c5111ae11937a1b3b29b0041ab51"
     },
@@ -140,6 +150,11 @@
       "path": "corpus/PUBLIC_SCOPE.txt",
       "bytes": 396,
       "sha256": "977d08e0a3d9ecbf06847880858498b59b171a3aafa8d0a919f75cf9fdd20948"
+    },
+    {
+      "path": "corpus/PUBLIC_TRANSITION_121_TO_122.json",
+      "bytes": 23129,
+      "sha256": "ee6a1f0d79edd05cbd89a23c18dee6f8a8219a424e58b6174ef0fbb40ce6fee8"
     },
     {
       "path": "corpus/README_EN.txt",
@@ -187,9 +202,14 @@
       "sha256": "c73a749c106e0db489412d03aba5f8c82e2779b9c7e354c7d0b85ed50188258a"
     },
     {
+      "path": "CURRENT_STATUS_INDEX.json",
+      "bytes": 5567,
+      "sha256": "d60ef2c30a3a1c31903621331da76f6b00d4cdedfa6ce1098edeed163ac89cd8"
+    },
+    {
       "path": "DATA_DICTIONARY.md",
-      "bytes": 5588,
-      "sha256": "2ee150f89c9d52375d9153d999f846859cf14475fe804f373c9c333db614762f"
+      "bytes": 5379,
+      "sha256": "ce40c9995a8e28e490037fb625e1aa317a0112f8b529be26f996c46abe6a4e2f"
     },
     {
       "path": "DATA_LICENSE.md",
@@ -283,8 +303,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 10885,
-      "sha256": "2e25a2a4c6e6fb1f44faa1f884836561b41fdab5e6c1753919249f6f98d2855f"
+      "bytes": 9126,
+      "sha256": "c6f66675c5041034ae3d8bcaf10c4a4fea5ddf6022e62aae4f4908760829b56f"
     },
     {
       "path": "reason_inventory/ALTERNATIVE_REFERENCE_PILOT_FEASIBILITY.json",
@@ -418,13 +438,13 @@
     },
     {
       "path": "RELEASE_METADATA.json",
-      "bytes": 5206,
-      "sha256": "af7b30f1a5bde3fefbb6a77e44d8efebf62874527cb4f6009315df34a45d2682"
+      "bytes": 3909,
+      "sha256": "a02840d4f91492fd626a02ba1c390a9f67a23352ea08a48c8d7dd034b9dc05de"
     },
     {
       "path": "reproduce.py",
-      "bytes": 6496,
-      "sha256": "4715f665dbbd2b254984e50d2c42421cb8ed2fa2593f08bc44b4f4bcb84a6af6"
+      "bytes": 12694,
+      "sha256": "c54931d5553d92815f39d70b32731837c23244ba459bce1bff65383469b583ee"
     },
     {
       "path": "search_trace/CASE_REPRESENTATION_EDGES_EN.json",
@@ -640,6 +660,81 @@
       "path": "source_review109/TECHNICAL_AUDIT_HISTORICAL_POSITIVES37.json",
       "bytes": 109490,
       "sha256": "0ab6688ea3b56fb21f77aebe09ccb927a8bca1118af6ae7654d313d00717c420"
+    },
+    {
+      "path": "source_review109_reconciled/CURRENT_AGREEMENT.json",
+      "bytes": 18257,
+      "sha256": "50f92cc672e0bfc076c3732876e480f98f62c217a4826f7a2eac1586de3b3219"
+    },
+    {
+      "path": "source_review109_reconciled/CURRENT_EDITOR_SUMMARY.json",
+      "bytes": 33238,
+      "sha256": "939311eb8f02fbe5abbea5bb85ceeba0add35f900bc8b6b9b51053d9aa2af439"
+    },
+    {
+      "path": "source_review109_reconciled/CURRENT_POSITION_CHANGE_LOG.json",
+      "bytes": 150463,
+      "sha256": "dcaff934610a2828aa3e58428959fde0237d307d19056bf839e53b9074ae5db5"
+    },
+    {
+      "path": "source_review109_reconciled/CURRENT_RECONCILIATION_RESULTS.json",
+      "bytes": 1879959,
+      "sha256": "272b272e35fa2526c35bcd2274dd2e44c00b52fb20f92cf27a08ac373c03c32a"
+    },
+    {
+      "path": "source_review109_reconciled/CURRENT_RESULT_TABLES.csv",
+      "bytes": 86992,
+      "sha256": "11341c79019aa89dd5e68ea5d11857cbcfeb63cc8d497cddbd7f970a1833a443"
+    },
+    {
+      "path": "source_review109_reconciled/CURRENT_TECHNICAL_DECISIONS.json",
+      "bytes": 282568,
+      "sha256": "24c347a96064a2b29d66c5e16b5b8ad4f2d8d955eb621f55007f6cce7814b186"
+    },
+    {
+      "path": "source_review109_reconciled/MINIMAL_CORRECTED_PAIRED.json",
+      "bytes": 2199383,
+      "sha256": "6b671f2f6b7505f4eac74e8e8346fb80b7a77b7bbb638a5cadbd391df56f02b1"
+    },
+    {
+      "path": "source_review109_reconciled/OMITTED_REGENERABLE_OUTPUTS.json",
+      "bytes": 487,
+      "sha256": "0c3c366c699457e5c7e755fd2bbd2487522ef4fcf5d41c491df93c74a064c7bc"
+    },
+    {
+      "path": "source_review109_reconciled/PUBLIC_SUPPORT_MANIFEST.json",
+      "bytes": 2411,
+      "sha256": "97a37116216a363f15af99b0eb35be009df2d6d5082c839cd59b2feb155a0f3d"
+    },
+    {
+      "path": "source_review109_reconciled/README_EN.txt",
+      "bytes": 1947,
+      "sha256": "ab2fe54f15d284eb107e9f8eadbf9de2bdb8bfa03ef94b3cd2e6326e2fc8d084"
+    },
+    {
+      "path": "source_review109_reconciled/reconcile_corrected_source_review109.py",
+      "bytes": 37563,
+      "sha256": "932e2f912ab0341971c0ff25d9624dddaecd597cac6fbdec2f2e23bfb780a16e"
+    },
+    {
+      "path": "source_review109_reconciled/RECONCILIATION_STATUS.json",
+      "bytes": 1100,
+      "sha256": "9b25c4ac335b763b4866eb5ecdeaa0bdf9b86fb3aba42ee60eb74a1c18edd7d9"
+    },
+    {
+      "path": "source_review109_reconciled/REPRODUCTION_MANIFEST.json",
+      "bytes": 1102,
+      "sha256": "c14278c54d5ceddf2445a937a56f5b1de8a0850842471787b6d8cafab6122253"
+    },
+    {
+      "path": "source_review109_reconciled/TECHNICAL_ADJUDICATION3_PUBLIC.json",
+      "bytes": 7282,
+      "sha256": "2be33bca828e76ab5a82fe5fa5c2fc63029429ff868f252216e371081c1e3b39"
+    },
+    {
+      "path": "source_review109_reconciled/TECHNICAL_PROOF_RULES.json",
+      "bytes": 11506,
+      "sha256": "47411f9a931be65f6d7b53cb5e2c113770841ac40ce4b9514cc497b7cc162e6c"
     },
     {
       "path": "update_manifest.py",

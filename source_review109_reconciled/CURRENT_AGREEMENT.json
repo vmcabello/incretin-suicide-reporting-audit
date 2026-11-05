@@ -1,0 +1,586 @@
+{
+  "by_group": [
+    {
+      "coverage_by_reviewer": {
+        "R1": {
+          "comparable_relevant_source_union_examined": 55,
+          "incomplete_relevant_scope": 13,
+          "sufficient_positive_witness_examined": 41
+        },
+        "R2": {
+          "comparable_relevant_source_union_examined": 31,
+          "incomplete_relevant_scope": 37,
+          "sufficient_positive_witness_examined": 41
+        }
+      },
+      "cumulative_classification": {
+        "R1_marginal": {
+          "complete_derived": 41.0,
+          "not_reconstructible_in_examined_corpus": 42.0,
+          "partial_reference": 25.0,
+          "reference_unverifiable": 1.0
+        },
+        "R2_marginal": {
+          "complete_derived": 40.0,
+          "complete_direct": 1.0,
+          "not_reconstructible_in_examined_corpus": 24.0,
+          "partial_reference": 44.0
+        },
+        "accuracy_or_external_error_rate_estimated": false,
+        "cohen_kappa": 0.6783474732571007,
+        "confidence_interval": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_derived",
+            "R2": "complete_derived",
+            "weight_or_count": 39.0
+          },
+          {
+            "R1": "complete_derived",
+            "R2": "complete_direct",
+            "weight_or_count": 1.0
+          },
+          {
+            "R1": "complete_derived",
+            "R2": "partial_reference",
+            "weight_or_count": 1.0
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "complete_derived",
+            "weight_or_count": 1.0
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "not_reconstructible_in_examined_corpus",
+            "weight_or_count": 22.0
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "partial_reference",
+            "weight_or_count": 19.0
+          },
+          {
+            "R1": "partial_reference",
+            "R2": "not_reconstructible_in_examined_corpus",
+            "weight_or_count": 1.0
+          },
+          {
+            "R1": "partial_reference",
+            "R2": "partial_reference",
+            "weight_or_count": 24.0
+          },
+          {
+            "R1": "reference_unverifiable",
+            "R2": "not_reconstructible_in_examined_corpus",
+            "weight_or_count": 1.0
+          }
+        ],
+        "exact_agreement_positions": 85,
+        "expected_marginal_agreement": 0.3154616614763067,
+        "kappa_undefined_if_degenerate_margins": false,
+        "observed_agreement": 0.7798165137614679,
+        "positions": 109,
+        "weight_total": 109.0
+      },
+      "group": "all109",
+      "source_scoped_classification": {
+        "R1_marginal": {
+          "complete_derived": 41.0,
+          "not_reconstructible_in_examined_corpus": 48.0,
+          "partial_reference": 20.0
+        },
+        "R2_marginal": {
+          "complete_derived": 36.0,
+          "complete_direct": 1.0,
+          "not_reconstructible_in_examined_corpus": 24.0,
+          "partial_reference": 48.0
+        },
+        "accuracy_or_external_error_rate_estimated": false,
+        "cohen_kappa": 0.6056915470879055,
+        "confidence_interval": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_derived",
+            "R2": "complete_derived",
+            "weight_or_count": 35.0
+          },
+          {
+            "R1": "complete_derived",
+            "R2": "complete_direct",
+            "weight_or_count": 1.0
+          },
+          {
+            "R1": "complete_derived",
+            "R2": "partial_reference",
+            "weight_or_count": 5.0
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "complete_derived",
+            "weight_or_count": 1.0
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "not_reconstructible_in_examined_corpus",
+            "weight_or_count": 24.0
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "partial_reference",
+            "weight_or_count": 23.0
+          },
+          {
+            "R1": "partial_reference",
+            "R2": "partial_reference",
+            "weight_or_count": 20.0
+          }
+        ],
+        "exact_agreement_positions": 79,
+        "expected_marginal_agreement": 0.30199478158404175,
+        "kappa_undefined_if_degenerate_margins": false,
+        "observed_agreement": 0.7247706422018348,
+        "positions": 109,
+        "weight_total": 109.0
+      },
+      "three_state_exact_key_projection": {
+        "R1_marginal": {
+          "complete": 41.0,
+          "not_complete": 55.0,
+          "unknown": 13.0
+        },
+        "R2_marginal": {
+          "complete": 41.0,
+          "not_complete": 31.0,
+          "unknown": 37.0
+        },
+        "accuracy_or_external_error_rate_estimated": false,
+        "cohen_kappa": 0.5511604691789369,
+        "confidence_interval": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete",
+            "R2": "complete",
+            "weight_or_count": 40.0
+          },
+          {
+            "R1": "complete",
+            "R2": "unknown",
+            "weight_or_count": 1.0
+          },
+          {
+            "R1": "not_complete",
+            "R2": "complete",
+            "weight_or_count": 1.0
+          },
+          {
+            "R1": "not_complete",
+            "R2": "not_complete",
+            "weight_or_count": 27.0
+          },
+          {
+            "R1": "not_complete",
+            "R2": "unknown",
+            "weight_or_count": 27.0
+          },
+          {
+            "R1": "unknown",
+            "R2": "not_complete",
+            "weight_or_count": 4.0
+          },
+          {
+            "R1": "unknown",
+            "R2": "unknown",
+            "weight_or_count": 9.0
+          }
+        ],
+        "exact_agreement_positions": 76,
+        "expected_marginal_agreement": 0.3254776533961788,
+        "kappa_undefined_if_degenerate_margins": false,
+        "observed_agreement": 0.6972477064220184,
+        "positions": 109,
+        "weight_total": 109.0
+      }
+    },
+    {
+      "coverage_by_reviewer": {
+        "R1": {
+          "sufficient_positive_witness_examined": 37
+        },
+        "R2": {
+          "sufficient_positive_witness_examined": 37
+        }
+      },
+      "cumulative_classification": {
+        "R1_marginal": {
+          "complete_derived": 37.0
+        },
+        "R2_marginal": {
+          "complete_derived": 36.0,
+          "complete_direct": 1.0
+        },
+        "accuracy_or_external_error_rate_estimated": false,
+        "cohen_kappa": 0.0,
+        "confidence_interval": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_derived",
+            "R2": "complete_derived",
+            "weight_or_count": 36.0
+          },
+          {
+            "R1": "complete_derived",
+            "R2": "complete_direct",
+            "weight_or_count": 1.0
+          }
+        ],
+        "exact_agreement_positions": 36,
+        "expected_marginal_agreement": 0.972972972972973,
+        "kappa_undefined_if_degenerate_margins": false,
+        "observed_agreement": 0.972972972972973,
+        "positions": 37,
+        "weight_total": 37.0
+      },
+      "group": "census_pending_source_confirmation",
+      "source_scoped_classification": {
+        "R1_marginal": {
+          "complete_derived": 37.0
+        },
+        "R2_marginal": {
+          "complete_derived": 32.0,
+          "complete_direct": 1.0,
+          "partial_reference": 4.0
+        },
+        "accuracy_or_external_error_rate_estimated": false,
+        "cohen_kappa": 0.0,
+        "confidence_interval": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_derived",
+            "R2": "complete_derived",
+            "weight_or_count": 32.0
+          },
+          {
+            "R1": "complete_derived",
+            "R2": "complete_direct",
+            "weight_or_count": 1.0
+          },
+          {
+            "R1": "complete_derived",
+            "R2": "partial_reference",
+            "weight_or_count": 4.0
+          }
+        ],
+        "exact_agreement_positions": 32,
+        "expected_marginal_agreement": 0.8648648648648649,
+        "kappa_undefined_if_degenerate_margins": false,
+        "observed_agreement": 0.8648648648648649,
+        "positions": 37,
+        "weight_total": 37.0
+      },
+      "three_state_exact_key_projection": {
+        "R1_marginal": {
+          "complete": 37.0
+        },
+        "R2_marginal": {
+          "complete": 37.0
+        },
+        "accuracy_or_external_error_rate_estimated": false,
+        "cohen_kappa": null,
+        "confidence_interval": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete",
+            "R2": "complete",
+            "weight_or_count": 37.0
+          }
+        ],
+        "exact_agreement_positions": 37,
+        "expected_marginal_agreement": 1.0,
+        "kappa_undefined_if_degenerate_margins": true,
+        "observed_agreement": 1.0,
+        "positions": 37,
+        "weight_total": 37.0
+      }
+    },
+    {
+      "coverage_by_reviewer": {
+        "R1": {
+          "comparable_relevant_source_union_examined": 55,
+          "incomplete_relevant_scope": 13,
+          "sufficient_positive_witness_examined": 4
+        },
+        "R2": {
+          "comparable_relevant_source_union_examined": 31,
+          "incomplete_relevant_scope": 37,
+          "sufficient_positive_witness_examined": 4
+        }
+      },
+      "cumulative_classification": {
+        "R1_marginal": {
+          "complete_derived": 4.0,
+          "not_reconstructible_in_examined_corpus": 42.0,
+          "partial_reference": 25.0,
+          "reference_unverifiable": 1.0
+        },
+        "R2_marginal": {
+          "complete_derived": 4.0,
+          "not_reconstructible_in_examined_corpus": 24.0,
+          "partial_reference": 44.0
+        },
+        "accuracy_or_external_error_rate_estimated": false,
+        "cohen_kappa": 0.45882352941176474,
+        "confidence_interval": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_derived",
+            "R2": "complete_derived",
+            "weight_or_count": 3.0
+          },
+          {
+            "R1": "complete_derived",
+            "R2": "partial_reference",
+            "weight_or_count": 1.0
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "complete_derived",
+            "weight_or_count": 1.0
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "not_reconstructible_in_examined_corpus",
+            "weight_or_count": 22.0
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "partial_reference",
+            "weight_or_count": 19.0
+          },
+          {
+            "R1": "partial_reference",
+            "R2": "not_reconstructible_in_examined_corpus",
+            "weight_or_count": 1.0
+          },
+          {
+            "R1": "partial_reference",
+            "R2": "partial_reference",
+            "weight_or_count": 24.0
+          },
+          {
+            "R1": "reference_unverifiable",
+            "R2": "not_reconstructible_in_examined_corpus",
+            "weight_or_count": 1.0
+          }
+        ],
+        "exact_agreement_positions": 49,
+        "expected_marginal_agreement": 0.4097222222222222,
+        "kappa_undefined_if_degenerate_margins": false,
+        "observed_agreement": 0.6805555555555556,
+        "positions": 72,
+        "weight_total": 72.0
+      },
+      "design_weighted_cumulative_label_agreement": {
+        "R1_marginal": {
+          "complete_derived": 163.0,
+          "not_reconstructible_in_examined_corpus": 2725.5,
+          "partial_reference": 1073.0,
+          "reference_unverifiable": 68.5
+        },
+        "R2_marginal": {
+          "complete_derived": 130.0,
+          "not_reconstructible_in_examined_corpus": 1493.5,
+          "partial_reference": 2406.5
+        },
+        "accuracy_or_external_error_rate_estimated": false,
+        "cohen_kappa": 0.31969800881963933,
+        "confidence_interval": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_derived",
+            "R2": "complete_derived",
+            "weight_or_count": 61.0
+          },
+          {
+            "R1": "complete_derived",
+            "R2": "partial_reference",
+            "weight_or_count": 102.0
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "complete_derived",
+            "weight_or_count": 69.0
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "not_reconstructible_in_examined_corpus",
+            "weight_or_count": 1353.0
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "partial_reference",
+            "weight_or_count": 1303.5
+          },
+          {
+            "R1": "partial_reference",
+            "R2": "not_reconstructible_in_examined_corpus",
+            "weight_or_count": 72.0
+          },
+          {
+            "R1": "partial_reference",
+            "R2": "partial_reference",
+            "weight_or_count": 1001.0
+          },
+          {
+            "R1": "reference_unverifiable",
+            "R2": "not_reconstructible_in_examined_corpus",
+            "weight_or_count": 68.5
+          }
+        ],
+        "exact_agreement_positions": 49,
+        "expected_marginal_agreement": 0.41093158322506756,
+        "kappa_undefined_if_degenerate_margins": false,
+        "observed_agreement": 0.5992555831265509,
+        "positions": 72,
+        "weight_total": 4030.0
+      },
+      "group": "phase2_original_negative_probability_sample",
+      "source_scoped_classification": {
+        "R1_marginal": {
+          "complete_derived": 4.0,
+          "not_reconstructible_in_examined_corpus": 48.0,
+          "partial_reference": 20.0
+        },
+        "R2_marginal": {
+          "complete_derived": 4.0,
+          "not_reconstructible_in_examined_corpus": 24.0,
+          "partial_reference": 44.0
+        },
+        "accuracy_or_external_error_rate_estimated": false,
+        "cohen_kappa": 0.42602040816326536,
+        "confidence_interval": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_derived",
+            "R2": "complete_derived",
+            "weight_or_count": 3.0
+          },
+          {
+            "R1": "complete_derived",
+            "R2": "partial_reference",
+            "weight_or_count": 1.0
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "complete_derived",
+            "weight_or_count": 1.0
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "not_reconstructible_in_examined_corpus",
+            "weight_or_count": 24.0
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "partial_reference",
+            "weight_or_count": 23.0
+          },
+          {
+            "R1": "partial_reference",
+            "R2": "partial_reference",
+            "weight_or_count": 20.0
+          }
+        ],
+        "exact_agreement_positions": 47,
+        "expected_marginal_agreement": 0.3950617283950617,
+        "kappa_undefined_if_degenerate_margins": false,
+        "observed_agreement": 0.6527777777777778,
+        "positions": 72,
+        "weight_total": 72.0
+      },
+      "three_state_exact_key_projection": {
+        "R1_marginal": {
+          "complete": 4.0,
+          "not_complete": 55.0,
+          "unknown": 13.0
+        },
+        "R2_marginal": {
+          "complete": 4.0,
+          "not_complete": 31.0,
+          "unknown": 37.0
+        },
+        "accuracy_or_external_error_rate_estimated": false,
+        "cohen_kappa": 0.20321931589537215,
+        "confidence_interval": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete",
+            "R2": "complete",
+            "weight_or_count": 3.0
+          },
+          {
+            "R1": "complete",
+            "R2": "unknown",
+            "weight_or_count": 1.0
+          },
+          {
+            "R1": "not_complete",
+            "R2": "complete",
+            "weight_or_count": 1.0
+          },
+          {
+            "R1": "not_complete",
+            "R2": "not_complete",
+            "weight_or_count": 27.0
+          },
+          {
+            "R1": "not_complete",
+            "R2": "unknown",
+            "weight_or_count": 27.0
+          },
+          {
+            "R1": "unknown",
+            "R2": "not_complete",
+            "weight_or_count": 4.0
+          },
+          {
+            "R1": "unknown",
+            "R2": "unknown",
+            "weight_or_count": 9.0
+          }
+        ],
+        "exact_agreement_positions": 39,
+        "expected_marginal_agreement": 0.42476851851851855,
+        "kappa_undefined_if_degenerate_margins": false,
+        "observed_agreement": 0.5416666666666666,
+        "positions": 72,
+        "weight_total": 72.0
+      },
+      "weighted_scope": "Standardized to the retained 4,030-position historical-negative frame only; not a population error estimate or all-corpus reliability. Incomplete source scopes remain part of reported ratings."
+    }
+  ],
+  "followup_109_is_subset_of_previous663_not772": true,
+  "scope": "Descriptive internal paired ratings before technical AI conciliation. No naïve independent-position CI, external accuracy claim or extrapolated corpus error rate.",
+  "source_examination": {
+    "R1": {
+      "ledger_entries": 261,
+      "ledger_is_reported_scope_not_reading_certificate": true,
+      "states": {
+        "auxiliary_only": 24,
+        "examined": 196,
+        "not_examined": 41
+      },
+      "unique_source_ids_declared_examined": 184
+    },
+    "R2": {
+      "ledger_entries": 261,
+      "ledger_is_reported_scope_not_reading_certificate": true,
+      "states": {
+        "auxiliary_only": 17,
+        "examined": 175,
+        "not_examined": 69
+      },
+      "unique_source_ids_declared_examined": 162
+    }
+  }
+}

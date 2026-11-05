@@ -1,0 +1,20 @@
+{
+  "schema": "corrected-source-review-current-status-v1",
+  "date": "2026-11-05",
+  "version": "v1.5.0",
+  "release_status": "PUBLIC_SUPPORT_RELEASE",
+  "current_process": "separate internal assessments, as declared by the authors",
+  "prior_project_exposure": true,
+  "exported_narrative_identity_can_verify_or_refute_separation": false,
+  "external_or_memory_blinded_validation": false,
+  "agreement_is_accuracy": false,
+  "AI_technical_conciliation_added": true,
+  "AI_decisions_are_human_consensus": false,
+  "raw_votes_unchanged": true,
+  "source_review109_is_historical_v140": true,
+  "current_analysis_path": "source_review109_reconciled/",
+  "new_scientific_revision_author_conference": "not_established",
+  "journal_submission_sent": false,
+  "position_change_log_scope": "Changed status/field names and old-row hashes; full field-by-field reversal is not asserted for this compact log alone. The preserved baseline and regenerated complete integrated inputs support version recovery.",
+  "release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.5.0"
+}

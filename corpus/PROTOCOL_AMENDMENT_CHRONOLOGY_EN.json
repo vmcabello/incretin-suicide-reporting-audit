@@ -197,6 +197,69 @@
       "new_human_votes_created_by_technical_integration": false,
       "full_uniform_source_extraction_claimed": false,
       "author_approval_of_new_manuscript_or_journal_submission_inferred": false
+    },
+    {
+      "date": "2026-11-05",
+      "event": "Authors conferred the v1.4.0-linked scientific documents",
+      "document": "Version-specific author-conference receipt retained privately; pinned file hashes recorded",
+      "timestamp_as_recorded_utc": "2026-11-05T18:13:00.459957+00:00",
+      "source_sha256": "a3698e582a7235a4ccbce2961832716e2a7bcea886a36f2a4896c001fdbf0f75",
+      "change": "Conference applied to the exact earlier v1.4.0 manuscript, supplement and supporting files listed in that receipt.",
+      "timing_and_provenance": "This historical approval does not extend to later corrected-R2 results, technical conciliation or changed submission files. It does not certify source readings or external validation.",
+      "status": "completed_version_specific_author_conference",
+      "journal_submission_sent": false
+    },
+    {
+      "date": "2026-11-05",
+      "event": "Corrected R2 source-linked return received",
+      "document": "source_review109_reconciled/",
+      "change": "A corrected R2 return changes raw classifications, source examination and rationales. Both original and corrected input hashes and minimal paired values remain separately identified. Raw R1 and corrected R2 ratings are not identical.",
+      "timing_and_provenance": "Separate internal assessments, as declared by the authors. Earlier identical exported prose could neither verify nor refute separation. Software does not certify independent reading, memory blinding or external accuracy.",
+      "status": "corrected_return_received_before_technical_conciliation",
+      "corrected_raw_R2_sha256": "d4679725114698fa31c2efeaef1019c80d4f37456f0df1abaeef14f0139bdb1a",
+      "new_author_approval_inferred": false
+    },
+    {
+      "date": "2026-11-05",
+      "event": "AI-assisted technical conciliation requested and prepared",
+      "document": "source_review109_reconciled/",
+      "change": "The user requested technical conciliation. Divergent raw ratings remain unchanged; paired agreement is measured before reconciliation. Separate source-based analytical dispositions apply the retained reference, modality and source-layer rules.",
+      "timing_and_provenance": "AI-assisted technical checks are not human adjudication or a third independent human vote. Positive witness reuse requires every indispensable exact source hash to be admissible in its receiving layer.",
+      "status": "technical_conciliation_prepared_not_new_human_review",
+      "new_human_votes_created": false,
+      "new_author_approval_inferred": false
+    },
+    {
+      "date": "2026-11-05",
+      "event": "Retrospective clarification of the historical 121-to-122 transition",
+      "document": "PUBLIC_TRANSITION_121_TO_122.json",
+      "source_sha256": "ee6a1f0d79edd05cbd89a23c18dee6f8a8219a424e58b6174ef0fbb40ce6fee8",
+      "change": "EXSCEL was appended to a separately versioned 122-unit input after its previously recorded inclusion and own exposure evidence resolved an admission-propagation omission. The prior 121 unit records and 3,388 positions were unchanged; the 28 EXSCEL positions were pending/unknown.",
+      "timing_and_provenance": "This dated clarification was verified on 5 November; it does not insert a falsely backdated event, create a new historical human vote or rewrite the preserved 17-event chronology prefix.",
+      "status": "retrospective_verified_clarification_no_reclassification"
+    },
+    {
+      "date": "2026-11-05",
+      "event": "Corrected-return reconciliation consolidated as a new supporting version",
+      "document": "source_review109_reconciled/ and CURRENT_STATUS_INDEX.json",
+      "change": "Prepared current results, exact-key sensitivity, paired disagreements, technical dispositions and reproducible change logs are added separately from v1.4.0. Historical computational inputs and earlier source_review109 files remain byte-exact.",
+      "timing_and_provenance": "New scientific results require a version-specific author conference. Preparation does not constitute publication, journal submission or payment authorization.",
+      "status": "prepared_support_v1_5_0_not_published",
+      "author_conference_for_new_scientific_version": "not_established",
+      "journal_submission_sent": false
+    },
+    {
+      "date": "2026-11-05",
+      "event": "Publication of the versioned corrected-return data/code support authorized",
+      "document": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.5.0",
+      "change": "The user-authorized data/code supporting version is released as v1.5.0. Historical inputs, prior tags and raw ratings remain preserved. No manuscript or third-party full text is included.",
+      "timing_and_provenance": "Public support release is distinct from author conference of revised scientific documents and from journal submission. The dated v1.4.0 author conference does not approve the revised manuscript.",
+      "status": "public_support_release_v1_5_0",
+      "publication_authorized_at_utc": "2026-11-05T21:19:10.559024+00:00",
+      "author_conference_for_new_scientific_version": "not_established",
+      "new_author_approval_inferred": false,
+      "new_human_votes_created": false,
+      "journal_submission_sent": false
     }
   ],
   "original_rule_analysis_not_falsely_reconstructed": true,
@@ -209,5 +272,8 @@
   "addendum_created_on": "2026-11-05",
   "do_not_treat_historical_status_text_as_current_status": "Earlier entries report their status at their own date; later dated entries supersede progress statements without altering the preserved historical protocol.",
   "pre_source_review109_first_fifteen_events_preserved": true,
-  "pre_source_review109_first_fifteen_events_semantic_sha256": "6285e497e4e00424eb07aee840cc789da1bdcf28287f3debf8072565eca2890e"
+  "pre_source_review109_first_fifteen_events_semantic_sha256": "6285e497e4e00424eb07aee840cc789da1bdcf28287f3debf8072565eca2890e",
+  "current_status_index": "../CURRENT_STATUS_INDEX.json",
+  "original_17_event_prefix_preserved": true,
+  "original_17_event_prefix_sha256": "1d1d7df451180c647d3c15032efb369fc1501dd97e1ddcb260ccf9104f6c9e33"
 }

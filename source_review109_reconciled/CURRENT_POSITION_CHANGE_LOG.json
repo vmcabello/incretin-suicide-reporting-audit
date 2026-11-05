@@ -1,0 +1,3297 @@
+{
+  "full_raw_votes_unchanged": true,
+  "historical_input_sha256": "c73a749c106e0db489412d03aba5f8c82e2779b9c7e354c7d0b85ed50188258a",
+  "rows": [
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "e0a193515af09db6ec07a9e18c5e576b7687c672ea9711d6193d17b819694631",
+      "reference_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE",
+      "window_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "fd9148e4621628cd9fab2990e6808492dc54cf7c681a9d5aa728609003f964d4",
+      "reference_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE",
+      "window_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "095d16429018d46c929d12441b1d5d7a7fca2e1ab7e61e5cc1fd566c13171e1a",
+      "reference_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE",
+      "window_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "992660eebeedd373c430570f5f84c84a633c40f134cc96fa008dd7088e1dc4b7",
+      "reference_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE",
+      "window_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "2ae6b9c1cdceceaae7f2b7541da4cfba7c7b7683d03858f0b789fca01626f295",
+      "reference_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE",
+      "window_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "c203c302b64b4e55f159d96f99f447d1ac116707dd8220d8b1de3da54de32409",
+      "reference_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE",
+      "window_id": "ACTRN12616001059459:INITIAL_PARALLEL_CANDIDATE::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "380ca44897b4aecbcd1eced751f1f6195049d3db929e466b6a1dda53d5bb7f45",
+      "reference_id": "EUCTR2014-003923-23:INITIAL_PARALLEL_CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "EUCTR2014-003923-23:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+      "window_id": "EUCTR2014-003923-23:INITIAL_PARALLEL_CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "b67202437c188006d475f255eddb658cf069d6a69ac22fa51724ce9633195b71",
+      "reference_id": "NCT00039026:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT00039026:CANDIDATE_BLOCK",
+      "window_id": "NCT00039026:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "1aea78f88a0add3f436f39681aca0920e18a1adb4ae84ae20826fb3e1a767c43",
+      "reference_id": "NCT00318422:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT00318422:CANDIDATE_BLOCK",
+      "window_id": "NCT00318422:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "cfb4990aaa993434f64a25866203a758e58dec8863b56eba25856b502db55594",
+      "reference_id": "NCT00324363:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT00324363:CANDIDATE_BLOCK",
+      "window_id": "NCT00324363:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "b3503bf1891ed6396422c286a3ee5a8f410bcadb4e76b055ad697f874d114f3c",
+      "reference_id": "NCT00331851:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT00331851:CANDIDATE_BLOCK",
+      "window_id": "NCT00331851:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "b28c9abd2277f9536d84ab1806e3223031d0336694d1154a266d65ceb67e853b",
+      "reference_id": "NCT00331851:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT00331851:CANDIDATE_BLOCK",
+      "window_id": "NCT00331851:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "b83acaabbad9f37a8fa6b8b0541f7d89ff7b123a6b76fdd5af20c59d1d374a8e",
+      "reference_id": "NCT00331851:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT00331851:CANDIDATE_BLOCK",
+      "window_id": "NCT00331851:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "bdd682ff5dd826e0df0506b8f9f27491f8f722e84cca18d0910f728d5c29409f",
+      "reference_id": "NCT00516074:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT00516074:CANDIDATE_BLOCK",
+      "window_id": "NCT00516074:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "122c74008569c140dc985366eb0b968fb761b9d9dad624cc4464aed04b8892f2",
+      "reference_id": "NCT00516074:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT00516074:CANDIDATE_BLOCK",
+      "window_id": "NCT00516074:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "1202df5d1dc878c9a96bdc726d4e4efa64992ca16db3f93269aef85642ef712e",
+      "reference_id": "NCT00688701:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT00688701:CANDIDATE_BLOCK",
+      "window_id": "NCT00688701:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "b35824f9b889f6199ec5ffd7b8538beab64e33cbd8e344df04d9ecbf9aef4f00",
+      "reference_id": "NCT00688701:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT00688701:CANDIDATE_BLOCK",
+      "window_id": "NCT00688701:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "2a3a3320d2e05f06261b480620220fb7d15f55d1087ee37620fc3b2cbf2f0d1e",
+      "reference_id": "NCT00688701:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT00688701:CANDIDATE_BLOCK",
+      "window_id": "NCT00688701:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "76f9bf6244b368fd9d6e893452a8768cc0993d1cca61dec2e808a0ba204b6296",
+      "reference_id": "NCT00715624:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT00715624:CANDIDATE_BLOCK",
+      "window_id": "NCT00715624:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "de27f17a5ee9f7124f7a9187df3a27b6dc7947326d51efcb58165963e0a9b079",
+      "reference_id": "NCT00715624:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT00715624:CANDIDATE_BLOCK",
+      "window_id": "NCT00715624:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "6b8b8c8d3fc0d49c24ec2365ea439e441917e1831c501b3163daf4c276266df6",
+      "reference_id": "NCT00715624:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT00715624:CANDIDATE_BLOCK",
+      "window_id": "NCT00715624:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "c5598b15ac5521a44c81b98479e2728e1e7dfd0e6d8bc3ad50563acb69627aa2",
+      "reference_id": "NCT00765817:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT00765817:CANDIDATE_BLOCK",
+      "window_id": "NCT00765817:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "2829278d45024da3841914dc338294a5395d68963e59ce4c145a39fcbae745ac",
+      "reference_id": "NCT00765817:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT00765817:CANDIDATE_BLOCK",
+      "window_id": "NCT00765817:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "938bfc8fa2e6cf1ada3a02fa460154ef8e8685ca46639ab167a70c34d542a957",
+      "reference_id": "NCT00765817:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT00765817:CANDIDATE_BLOCK",
+      "window_id": "NCT00765817:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "c5ac5914eac13d9952405d17d6d058c7885c288dc16c438a77b09b718ecfbd10",
+      "reference_id": "NCT00765817:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT00765817:CANDIDATE_BLOCK",
+      "window_id": "NCT00765817:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "6df07ac497a16eb7f73a5cb720a8d476dbb1507022745c8c40eb2025eed0f8cc",
+      "reference_id": "NCT00781937:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+      "window_id": "NCT00781937:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "33326356e578fb9ac4490c9530fb848a8da3ecbe37d819e35bbf864142356863",
+      "reference_id": "NCT00781937:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+      "window_id": "NCT00781937:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "c18a16b229042ba4f0aded294b66a3be8d2d2afbd185d1fc348bcfce7c540cac",
+      "reference_id": "NCT00823992:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT00823992:CANDIDATE_BLOCK",
+      "window_id": "NCT00823992:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "f04f269d6f60501133e86b35d2435ab40a2f89cc79b7c3fe3b8d8d9453203537",
+      "reference_id": "NCT00839527:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT00839527:CANDIDATE_BLOCK",
+      "window_id": "NCT00839527:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "status"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "ec6012ae47b7019a25825edf87b7eef52a5d3c8a0e2392de74eb175fba4287c2",
+      "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "dd15f59cfc944e2a2f6f2c58109fa320ad09a46e79ad5e75b76922d7e17b9d97",
+      "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "status"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "40f2b13b4b62058adbdd4b134f9e5228a645181e6d006daeb71f16ae401fc2f9",
+      "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "4a155e00ca2ff9e7ca029b4cba1176c82419ff656f15729a0a0d3520fdb08646",
+      "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "b3a38c664fdb8a9993625f1c3a8aa8d302c2cef2d1188f763bd52757c8e25761",
+      "reference_id": "NCT01272232:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+      "window_id": "NCT01272232:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "43cc0a7c819ba4a75169eaa62d3b58d51379571945ad9d86eb704f401665a3c7",
+      "reference_id": "NCT01373216:INITIAL_PARALLEL_CANDIDATE::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT01373216:INITIAL_PARALLEL_CANDIDATE",
+      "window_id": "NCT01373216:INITIAL_PARALLEL_CANDIDATE::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "a6364e658087a7bea4d85fc8a1c1aa82bb08cd3124c477abc61bd8967faa8130",
+      "reference_id": "NCT01373216:INITIAL_PARALLEL_CANDIDATE::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT01373216:INITIAL_PARALLEL_CANDIDATE",
+      "window_id": "NCT01373216:INITIAL_PARALLEL_CANDIDATE::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "09d82298350ce40d51e30fc382ff94ec919caff5a61dccdc15dd012f950a5652",
+      "reference_id": "NCT01394952:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT01394952:CANDIDATE_BLOCK",
+      "window_id": "NCT01394952:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "fa6ba50a50e8934bce7cbbbb972018d7964a60f6ffaf0d40cc53cc26a439503a",
+      "reference_id": "NCT01394952:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT01394952:CANDIDATE_BLOCK",
+      "window_id": "NCT01394952:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "61b46352bdbc734623269b03564ec77f2c3c756ef15b52f71a195461758305ed",
+      "reference_id": "NCT01394952:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT01394952:CANDIDATE_BLOCK",
+      "window_id": "NCT01394952:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "68c55df9012d14d7ecfd901a311b2ebf54aad845a0d62189390a1516d25bb274",
+      "reference_id": "NCT01394952:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT01394952:CANDIDATE_BLOCK",
+      "window_id": "NCT01394952:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "d983f79ef60aa55f2948bfafe51b7bb35bd2bfef649080d7b2a2624f66f92e66",
+      "reference_id": "NCT01455441:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT01455441:CANDIDATE_BLOCK",
+      "window_id": "NCT01455441:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "c5968af8b87c80549fc1b6aea79f15df9560f56537fb450a73c91d3e90bf201f",
+      "reference_id": "NCT01460069:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT01460069:CANDIDATE_BLOCK",
+      "window_id": "NCT01460069:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "status"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "335f8be4743c28f90a3287d8fd5e82e73a074af1298bc6491bce55c5aebec6aa",
+      "reference_id": "NCT01557166:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+      "window_id": "NCT01557166:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "status"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "e6ea5bf9ca621d07d31e52091b5209422532d78efc769f16d7b8e8d5ff13ab49",
+      "reference_id": "NCT01557166:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+      "window_id": "NCT01557166:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "1fda6221ac830d43c2a93c02f71b730d681f14df2220c76688d48446084ac776",
+      "reference_id": "NCT01652729:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT01652729:CANDIDATE_BLOCK",
+      "window_id": "NCT01652729:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "3733904284279f926f6a6c3dc05f3a75be02825a0fd56d88b050fd39d997ec1e",
+      "reference_id": "NCT01652729:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT01652729:CANDIDATE_BLOCK",
+      "window_id": "NCT01652729:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "9129b3052f23be0b99fec646b7bac55e93755ea614f8f66c72a89a06a3ac3c78",
+      "reference_id": "NCT01652729:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT01652729:CANDIDATE_BLOCK",
+      "window_id": "NCT01652729:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "038a6d0231113fee2ad2c4d83b05ef504c9d56b30196c44ba512d1b07181d9e7",
+      "reference_id": "NCT01652729:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT01652729:CANDIDATE_BLOCK",
+      "window_id": "NCT01652729:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "332bd406242bb642552dcaa72b4c819d9325a6a4a1951234fd0d204c82810663",
+      "reference_id": "NCT01720446:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT01720446:CANDIDATE_BLOCK",
+      "window_id": "NCT01720446:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "f0f35cfdb1514f576345025db907102ff47b179de273efc4fef585e7ab52b09e",
+      "reference_id": "NCT01720446:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT01720446:CANDIDATE_BLOCK",
+      "window_id": "NCT01720446:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "11c1ebb3c1efdbfca51b5b024b98da91a202e632515bdcbbeb655b2d1e0a968a",
+      "reference_id": "NCT01720446:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT01720446:CANDIDATE_BLOCK",
+      "window_id": "NCT01720446:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "1da1e64282663676e4f19672d7ab0aa49f1eb993c24d03ece4529ac5476b5855",
+      "reference_id": "NCT01769378:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT01769378:CANDIDATE_BLOCK",
+      "window_id": "NCT01769378:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "ba02e9a04b22a08d72d8dbca2b40e18bdf12fad336a0a92e1a4ba657a55bc5c7",
+      "reference_id": "NCT02098395:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT02098395:CANDIDATE_BLOCK",
+      "window_id": "NCT02098395:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "e378eb92b4c8c853d733732b91591cd6d538ecbd11e81fea1fddd03be9e091ed",
+      "reference_id": "NCT02098395:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT02098395:CANDIDATE_BLOCK",
+      "window_id": "NCT02098395:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "c8fe8087e061e1264a218b676a1cc0928ddbff4ef7b264e3e68050da27ad80e7",
+      "reference_id": "NCT02098395:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT02098395:CANDIDATE_BLOCK",
+      "window_id": "NCT02098395:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "2852a9ff1c4298eee66bb265881d7192c2995045bd53fdd165256ebb918f03cf",
+      "reference_id": "NCT02098395:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT02098395:CANDIDATE_BLOCK",
+      "window_id": "NCT02098395:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "594ef11922b6b206a5f1bf9c30aa90005d729f54a0c08cb4772f4c3f5280362a",
+      "reference_id": "NCT02098395:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT02098395:CANDIDATE_BLOCK",
+      "window_id": "NCT02098395:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_admissible_positive_reuse",
+        "both_eligible_arms_reconstructed",
+        "complete_fixed_reference_verified",
+        "derivation_validated",
+        "status"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "1b2ef2bd1b659bc17a43278226779ad72f1c8d2e42032a13f4e469139673a2e9",
+      "reference_id": "NCT02160990:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+      "window_id": "NCT02160990:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "cd58f5564770ad53e7b9bb1eab174255ed6efc8993e2f6519ba225cb9e44d113",
+      "reference_id": "NCT02160990:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+      "window_id": "NCT02160990:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_admissible_positive_reuse",
+        "both_eligible_arms_reconstructed",
+        "complete_fixed_reference_verified",
+        "derivation_validated",
+        "status"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "1b29788472e25d5b2f0b376e35456665b0b92b20b0114bb94008dd5a05f31b1f",
+      "reference_id": "NCT02160990:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+      "window_id": "NCT02160990:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "db6cf5e9416b4525680800b8ce1c37560c8e6cddd88bc6e4a8c9673c0a0deab1",
+      "reference_id": "NCT02160990:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+      "window_id": "NCT02160990:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "both_eligible_arms_reconstructed",
+        "complete_fixed_reference_verified",
+        "derivation_validated",
+        "status"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "69962a7f0c8a253413e4066eb5bd14ffe036b31f47c0c741b87992d86acc78c1",
+      "reference_id": "NCT02160990:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+      "window_id": "NCT02160990:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "3cc9582939d9a70ba2fa8c3ad1e700f2eecbf9eb485878d099cc266a8060656b",
+      "reference_id": "NCT02160990:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+      "window_id": "NCT02160990:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_admissible_positive_reuse",
+        "both_eligible_arms_reconstructed",
+        "complete_fixed_reference_verified",
+        "derivation_validated",
+        "status"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "9641ffcbf4f8d9456db289d274ff6e9d6931f8e60f5a375b6c7eb9a0231fc801",
+      "reference_id": "NCT02160990:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+      "window_id": "NCT02160990:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "af5f49d2ffd0253d8c4acc16e512f8e8957a50b641d972ec41cfcf01a97934d5",
+      "reference_id": "NCT02160990:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+      "window_id": "NCT02160990:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "114e977895db5bf4f4b04b10eaa0b441e0dabac7235048c6672d1a3e935ba160",
+      "reference_id": "NCT02229396:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT02229396:CANDIDATE_BLOCK",
+      "window_id": "NCT02229396:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "001fcfdcafd78709cdfd59db71054133dba8381d5572389a9bac1ef3487d3da9",
+      "reference_id": "NCT02229396:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT02229396:CANDIDATE_BLOCK",
+      "window_id": "NCT02229396:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "e4f9475252c0472d6ce9cabbeca8c4e7796704209318ec6a6d75652db3f024bb",
+      "reference_id": "NCT02229396:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT02229396:CANDIDATE_BLOCK",
+      "window_id": "NCT02229396:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "2173329a09bf2734c58b5ec4719dd4d6a28f30c25031c1fa888f190299835035",
+      "reference_id": "NCT02351232:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT02351232:CANDIDATE_BLOCK",
+      "window_id": "NCT02351232:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "46dd7dcb85db4be3fb0d2b87096551d1d8a0abf3b3a3a168a240838afbddf19b",
+      "reference_id": "NCT02465515:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT02465515:CANDIDATE_BLOCK",
+      "window_id": "NCT02465515:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "c22e5a1eb2ccf5f13acbd3bf4466d497795b2dea9ddd868aeb4598c1bcea2d41",
+      "reference_id": "NCT02465515:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT02465515:CANDIDATE_BLOCK",
+      "window_id": "NCT02465515:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "cf69352ad59d4c86bafe15d365f24401b50e7c1650a7de9b477502159e63b33f",
+      "reference_id": "NCT02465515:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT02465515:CANDIDATE_BLOCK",
+      "window_id": "NCT02465515:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "923f3630a4139dd1ac5b812df7975e8d17774c31f525ff9874db5050fe7eef14",
+      "reference_id": "NCT02465515:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT02465515:CANDIDATE_BLOCK",
+      "window_id": "NCT02465515:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_admissible_positive_reuse",
+        "both_eligible_arms_reconstructed",
+        "complete_fixed_reference_verified",
+        "derivation_validated",
+        "status"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "8ef676348b91514e16996eb4eb355bee595c9f5c06f9dc3b387bdab22cc7ab7f",
+      "reference_id": "NCT02597049:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT02597049:CANDIDATE_BLOCK",
+      "window_id": "NCT02597049:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "both_eligible_arms_reconstructed",
+        "complete_fixed_reference_verified",
+        "derivation_validated",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "25cbf3c245959c1c1843671ed12deb77bddb2cface00b5238cdbf3c03f1d4c70",
+      "reference_id": "NCT02597049:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT02597049:CANDIDATE_BLOCK",
+      "window_id": "NCT02597049:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "a298cdd026ee66c0383457b79c85558d7224e47274ab810baa43bc9bb36626eb",
+      "reference_id": "NCT02750410:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT02750410:CANDIDATE_BLOCK",
+      "window_id": "NCT02750410:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "a5ef5f6566868ac550231751234f9ae51087f7fadbac612d8560806e70b27e42",
+      "reference_id": "NCT02750410:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT02750410:CANDIDATE_BLOCK",
+      "window_id": "NCT02750410:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "2bb6cb8138c436d34dbb902897e2708a78fe2d394f3a4599555eafadbcc91ed1",
+      "reference_id": "NCT02765399:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT02765399:CANDIDATE_BLOCK",
+      "window_id": "NCT02765399:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "c920c68f636f466595f149a830fdae7f9ae46709214419fa6946dab65982b4d9",
+      "reference_id": "NCT02765399:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT02765399:CANDIDATE_BLOCK",
+      "window_id": "NCT02765399:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "c6069500e5162f9270fc6c25b164b6a44d078567a85800da2cb3d17bb3728495",
+      "reference_id": "NCT02765399:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT02765399:CANDIDATE_BLOCK",
+      "window_id": "NCT02765399:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "f962952eafd20d9e2adac4784a7565f161a3a6313b72ecfc57914fb2f18497a0",
+      "reference_id": "NCT02863419:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT02863419:CANDIDATE_BLOCK",
+      "window_id": "NCT02863419:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "28bc8bee1c9d8abe48b045b2280e65a7f6b5898115767d5ce31da4095c403bd3",
+      "reference_id": "NCT02863419:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT02863419:CANDIDATE_BLOCK",
+      "window_id": "NCT02863419:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "c470cadf2f1e3c20b086ff1c01968989724c3c20f430aa3921fbe156b647b2c7",
+      "reference_id": "NCT02863419:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT02863419:CANDIDATE_BLOCK",
+      "window_id": "NCT02863419:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "08c09fa2f832a85c51efd6584a58b7025849335f58775eaa502326059233abbe",
+      "reference_id": "NCT02863419:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT02863419:CANDIDATE_BLOCK",
+      "window_id": "NCT02863419:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "97f4e3eff73007dc97c5c845b2cf30bd5fbbdfaa051479d8918254782b533ea1",
+      "reference_id": "NCT02963922:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+      "window_id": "NCT02963922:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "6e2718371423e1c1a46c3538ec5b51d594c13d51432875b801fc1a4bd2d0e1e0",
+      "reference_id": "NCT02964247:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT02964247:CANDIDATE_BLOCK",
+      "window_id": "NCT02964247:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "8b466b1467b9e9e164e0d319e3fdf6e04bad8b7ca5adf01a2b9ee32bf31aa63d",
+      "reference_id": "NCT03018028:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT03018028:CANDIDATE_BLOCK",
+      "window_id": "NCT03018028:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "e1d4edd45104ba7d2d1ee4c746dfe2480ef4e78bfab1dc104cb82d7d0402e327",
+      "reference_id": "NCT03018028:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT03018028:CANDIDATE_BLOCK",
+      "window_id": "NCT03018028:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "b90631e0107cfb949355c3844bce504523bff45b1524c2783a0a82ccb685ff7a",
+      "reference_id": "NCT03018028:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT03018028:CANDIDATE_BLOCK",
+      "window_id": "NCT03018028:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "c78bc0e13e600d04ad91376476319d81f5f7d550f53de66794d5e606b8c4a113",
+      "reference_id": "NCT03018028:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT03018028:CANDIDATE_BLOCK",
+      "window_id": "NCT03018028:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "330da6b7d9d2e6fc444f702144c2ac573055f4f50e676539d93619d38fb6dac6",
+      "reference_id": "NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT03086330:CANDIDATE_BLOCK",
+      "window_id": "NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "6ad0805252afe2049f17287c5a76fbbd850337b857b49705ea807187a6e106d8",
+      "reference_id": "NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT03086330:CANDIDATE_BLOCK",
+      "window_id": "NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "7001e00ea9ec60dc9f67f3e584bcdcc61473fb4a328728c0938feab323f4bb8f",
+      "reference_id": "NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT03086330:CANDIDATE_BLOCK",
+      "window_id": "NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "efdccd95c28426fd5d2b6c2ebac0dd497dd3f61eaef75d38bcdc31b16b3969a2",
+      "reference_id": "NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT03086330:CANDIDATE_BLOCK",
+      "window_id": "NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "5173666a4ba8db1848cb9a30bf0df748d3ffdbc5cab0757468f387e6b420f717",
+      "reference_id": "NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT03086330:CANDIDATE_BLOCK",
+      "window_id": "NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "ee14a8625f7c47604a042fb4106976dc9d2c421f7f7d938b078dd0f2fb9f859c",
+      "reference_id": "NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT03086330:CANDIDATE_BLOCK",
+      "window_id": "NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "0845ea3ba8c42fb789ed2f6e3c990e596d56cb36a81aa66f900db0798c21c060",
+      "reference_id": "NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT03086330:CANDIDATE_BLOCK",
+      "window_id": "NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "6e6dbe7c08fc448b6148422a678310c95f8085f15a0ffe5e65fabcd5dbf5d211",
+      "reference_id": "NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT03086330:CANDIDATE_BLOCK",
+      "window_id": "NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_admissible_positive_reuse",
+        "both_eligible_arms_reconstructed",
+        "complete_fixed_reference_verified",
+        "derivation_validated",
+        "status"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "4f80da66b27af2f1609f0b5843149fa989373d70576b1981565375d0f32e118c",
+      "reference_id": "NCT03548935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "window_id": "NCT03548935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_admissible_positive_reuse",
+        "both_eligible_arms_reconstructed",
+        "complete_fixed_reference_verified",
+        "derivation_validated",
+        "status"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "2596e799e8d9ea7a840a3e46723359a3d4187b7f55fa085e279a669be38c94f8",
+      "reference_id": "NCT03548935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "window_id": "NCT03548935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_admissible_positive_reuse",
+        "both_eligible_arms_reconstructed",
+        "complete_fixed_reference_verified",
+        "derivation_validated",
+        "status"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "884a7149d2ee0a24b167b34b7d52b7ee6badadba871998ffd3c0a1251f175467",
+      "reference_id": "NCT03548935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "window_id": "NCT03548935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "both_eligible_arms_reconstructed",
+        "complete_fixed_reference_verified",
+        "derivation_validated",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "aa65b12db407ccd88a4a29b45f93a724e18c00cc4e856eb650b83dc2616a7593",
+      "reference_id": "NCT03548935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "window_id": "NCT03548935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "eb4f5a20caddaff074a68582db522d2c241cdc483e1107548f929f9c0a204be5",
+      "reference_id": "NCT03552757:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "window_id": "NCT03552757:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "6a45b3505816e8da6835028b907434994d5c53ee6b2bf9f7d4dac7f85ca2b094",
+      "reference_id": "NCT03552757:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "window_id": "NCT03552757:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "2c1a29d2682b8dfda24f96881620da042ca4d546c6a13c6ca364a50d41c46a8c",
+      "reference_id": "NCT03552757:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "window_id": "NCT03552757:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "578be7a4492b89c772b049369159c42a75d9fc5b421fe60a59be08ca0248ad91",
+      "reference_id": "NCT03552757:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "window_id": "NCT03552757:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "8f86e434a0eeda1cf81f07c614ec8fdaf762633a4b091e2045d1b90a9372cc8f",
+      "reference_id": "NCT03552757:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "window_id": "NCT03552757:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "ce7409b193881108c1ee93b1c583ec8f37d476d9454547646cb2665506413dcc",
+      "reference_id": "NCT03611582:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+      "window_id": "NCT03611582:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "7cd3a5f67d85b3389afc8756eb93066621e3d7deb6e71300981572e9dd45da32",
+      "reference_id": "NCT03611582:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+      "window_id": "NCT03611582:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "0c7c766fb24d3623fa9ab475a7ef15c5f119567e3c5d14ea38f421b519903ecc",
+      "reference_id": "NCT03713684:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT03713684:CANDIDATE_BLOCK",
+      "window_id": "NCT03713684:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "24f68f4af7289611aeb6449b4d98416281c0a2cb0edda44cee66bce1aca58f7a",
+      "reference_id": "NCT04039503:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT04039503:CANDIDATE_BLOCK",
+      "window_id": "NCT04039503:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "c7646052d12f58684d50843ee74c659926caedb6002e47cc0ad7a2896fb4f17a",
+      "reference_id": "NCT04039503:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT04039503:CANDIDATE_BLOCK",
+      "window_id": "NCT04039503:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "c6d6d255c3cc3b4e41d24d0e0b592dd330df87c6c7538de1533adb57b452997e",
+      "reference_id": "NCT04039503:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT04039503:CANDIDATE_BLOCK",
+      "window_id": "NCT04039503:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "26e3312360977cf8ddb93e59e68a47e6066a4edf5ce1fc300ba603bc70b44915",
+      "reference_id": "NCT04039503:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT04039503:CANDIDATE_BLOCK",
+      "window_id": "NCT04039503:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "5a6ff02a8a176633df68ec40cd1d6978bd57091f4c21d93c82047570ab48487f",
+      "reference_id": "NCT04061200:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT04061200:CANDIDATE_BLOCK",
+      "window_id": "NCT04061200:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "396972dd0c7ced2cab0319c1ce0ad3531d9543a212e2c46fc1b3f22ad67a862b",
+      "reference_id": "NCT04074161:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT04074161:CANDIDATE_BLOCK",
+      "window_id": "NCT04074161:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "7dfb4d4babca56732aba7111fcc3d6a47bf6d867f8b0d7eb6a683a908f533fcc",
+      "reference_id": "NCT04074161:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT04074161:CANDIDATE_BLOCK",
+      "window_id": "NCT04074161:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "5bca31659cf5a2e0faf38da261f3ce7b4a266a4ffec498650bef06852dc7e681",
+      "reference_id": "NCT04184622:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "window_id": "NCT04184622:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "b41e5a131b1bf706f3578fd74814cce777bcb93e8421d80b47cea7234e5233cd",
+      "reference_id": "NCT04184622:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "window_id": "NCT04184622:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "8aef64fb5c6d486f2b85c458623da3253f81ed3fa4ed7205173d291835932098",
+      "reference_id": "NCT04184622:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "window_id": "NCT04184622:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "97bdc9494a44e107d9d6f13eb162cdf5c03cf76ca486419b67e2c7b930f9ddc7",
+      "reference_id": "NCT04184622:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "window_id": "NCT04184622:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "b1811d3b65dc3f798413ee81b07c60caae2a973c5f03cdf5a0f89d9498bae777",
+      "reference_id": "NCT04184622:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "window_id": "NCT04184622:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "122c56cae7d4060d1a9219c3bdd664fa6cc2ffcefe31daf3afb87d504c81bac9",
+      "reference_id": "NCT04184622:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "window_id": "NCT04184622:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "1f3732649efdb8c356308c083caef873ff7d4248495fd5917760a475d18078df",
+      "reference_id": "NCT04184622:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "window_id": "NCT04184622:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "c8f3345228dea7819db6f4e9fd16eb06871ef740441e6f692ac183b637813524",
+      "reference_id": "NCT04251156:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "window_id": "NCT04251156:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "41c3ae53550a047098f0c4c830f5d1a29a807396ab8629ffb2a3884dfc6f1c11",
+      "reference_id": "NCT04251156:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "window_id": "NCT04251156:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "ad8f8230e91b90a030f0ff291002cc88221e8b58e6aba5671c1be1401d8d6a8c",
+      "reference_id": "NCT04251156:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "window_id": "NCT04251156:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "0fe3da38a70844c71c0daef0b0a5057b135dcb10ebdbd0c82b7b437a5cf7163d",
+      "reference_id": "NCT04251156:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "window_id": "NCT04251156:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "1ba3d73bda1e7fc7530f5e81f0de0ae176b7fd6841982e6c4169bf6d7f3f8abf",
+      "reference_id": "NCT04591626:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT04591626:CANDIDATE_BLOCK",
+      "window_id": "NCT04591626:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "a90ffa63c4a439b960b567b14adf5357399e50ab0714b5c4736fedd3f59281a1",
+      "reference_id": "NCT04591626:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT04591626:CANDIDATE_BLOCK",
+      "window_id": "NCT04591626:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "8cfdd935845ff3224c87684e30ef5e1df07507b829a899b0f02988e51209ea08",
+      "reference_id": "NCT04591626:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT04591626:CANDIDATE_BLOCK",
+      "window_id": "NCT04591626:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "both_eligible_arms_reconstructed",
+        "complete_fixed_reference_verified",
+        "derivation_validated",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "03f1899f22cefd70e995f630e42c7ced39ca9edaf4201aa2900be5d168f2d078",
+      "reference_id": "NCT04657003:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "window_id": "NCT04657003:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "3eb99e5b4812c4b554663d1ddf896d1d826c94d089cacd41eeef0a9fea52e521",
+      "reference_id": "NCT04657003:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "window_id": "NCT04657003:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "99f9a245e339720f4f4f8ad381947c7ecac754c22cc3dbee026cc0887bf85122",
+      "reference_id": "NCT04657003:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "window_id": "NCT04657003:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 0,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "2cdf46f42f2b55b5a8b0eb40f92a12576ac02cea2661afd46a0ba0ecb18ef415",
+      "reference_id": "NCT04865770:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT04865770:CANDIDATE_BLOCK",
+      "window_id": "NCT04865770:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "f426bc3ea50d6c17851cd7244686281d51f06a2997d9e7709e9f5f6c2fe8f959",
+      "reference_id": "NCT04865770:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT04865770:CANDIDATE_BLOCK",
+      "window_id": "NCT04865770:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "c4fd1cb85e83a978d11ba1522c5b5bc8a257b659faf4d4680673e47468c7ee5e",
+      "reference_id": "NCT04998032:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT04998032:CANDIDATE_BLOCK",
+      "window_id": "NCT04998032:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "7f28831bc75882ddab4ae47b62d735d4b719212629507d24f619d421fee35133",
+      "reference_id": "NCT04998032:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT04998032:CANDIDATE_BLOCK",
+      "window_id": "NCT04998032:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "3faa4e99109aa23ea39b4164f542956cc4733c2da024a6f07bc78c78350bdbcd",
+      "reference_id": "NCT04998032:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT04998032:CANDIDATE_BLOCK",
+      "window_id": "NCT04998032:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "14fd39b3ec6a08cd79776b49d608f1a754fb33a5317504b3a41b5240ca6ad754",
+      "reference_id": "NCT04998032:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT04998032:CANDIDATE_BLOCK",
+      "window_id": "NCT04998032:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "0c6c4678ef42b6809e1d59eee63973ec1b0172277c70b110b81be66b57a7cd06",
+      "reference_id": "NCT05024032:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+      "window_id": "NCT05024032:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "82d74dda856938584ab3bf155bfeea9ccb3ce5154ff3c76bfb186d73b8e0b0b9",
+      "reference_id": "NCT05024032:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+      "window_id": "NCT05024032:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "old_row_sha256": "a22e250fd3e1ddecf0c3a16af6e70a049e97c4266b7b651da5c02226dbc8c923",
+      "reference_id": "NCT05024032:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+      "window_id": "NCT05024032:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "1c67b4a3c60ac0cb86b1d11f2af6a0c1c753b1b00bed8177e1377001097c9c9f",
+      "reference_id": "NCT05035095:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT05035095:CANDIDATE_BLOCK",
+      "window_id": "NCT05035095:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "4fa561e8cc0a63e49408d170a7247cfc0ef539358af372825b96073261355bf6",
+      "reference_id": "NCT05035095:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT05035095:CANDIDATE_BLOCK",
+      "window_id": "NCT05035095:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "3d6614bb5a121468f9f41d9235006be3433869e2f2355712cf0603e576ca8eee",
+      "reference_id": "NCT05035095:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT05035095:CANDIDATE_BLOCK",
+      "window_id": "NCT05035095:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "2d2e5ae534f2dfbabccb9000fec4ada41ca2c7a9f45e66cb7cc5ba4833aded64",
+      "reference_id": "NCT05035095:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT05035095:CANDIDATE_BLOCK",
+      "window_id": "NCT05035095:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "d0b80d6621b3565fb6004e66c4ecd1acf007f80a9d3db4f490a976b2e342fc65",
+      "reference_id": "NCT05064735:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+      "window_id": "NCT05064735:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "75ec33167f51832a470ce8da8bb28749df4151a9c440ac6d7513addabae64bbf",
+      "reference_id": "NCT05064735:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+      "window_id": "NCT05064735:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "dc1e285d9c0e1e25442b93056e5c122abcc66ac43b380cc6a0d21caf52eed7b6",
+      "reference_id": "NCT05064735:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+      "window_id": "NCT05064735:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "593dd51379b43e78141796338b5093c7785fc3803952d99e9875987f8402907e",
+      "reference_id": "NCT05132088:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT05132088:CANDIDATE_BLOCK",
+      "window_id": "NCT05132088:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "62c82e0d259e368b5497e6f27093b3db7f0f2ff895dc9a4357cfe11925e9c95b",
+      "reference_id": "NCT05132088:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT05132088:CANDIDATE_BLOCK",
+      "window_id": "NCT05132088:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "6673e3da20297a513f2756f6ffcaba8d83c10b451765a21ca0bfc366a7c650ec",
+      "reference_id": "NCT05132088:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT05132088:CANDIDATE_BLOCK",
+      "window_id": "NCT05132088:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "36f15f3e4bf1dd5d5b776e5dfdc084a8589329bbf18903fde3c2d5ab887cc8e4",
+      "reference_id": "NCT05132088:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT05132088:CANDIDATE_BLOCK",
+      "window_id": "NCT05132088:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "59bf75c1bbd7d4db8519f633f4e6ca3d0b415de1bbd29eac5718ccc40aee0e1f",
+      "reference_id": "NCT05412004:GPI1::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT05412004:GPI1",
+      "window_id": "NCT05412004:GPI1::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "48023c32c51d66f99c3412b1cfa4caec8c7ac60e549014caf89f55eba9a18491",
+      "reference_id": "NCT05412004:GPI1::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT05412004:GPI1",
+      "window_id": "NCT05412004:GPI1::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "fd2f1a03f116cac16cd46c99202ad231e212937c977008f86f252a59343b3787",
+      "reference_id": "NCT05412004:GPI2::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT05412004:GPI2",
+      "window_id": "NCT05412004:GPI2::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "3af9cb6c05649af70cb7e108017fb5b8add8bfa852fea43a538c3ef7d2e9e9f4",
+      "reference_id": "NCT05412004:GPI2::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT05412004:GPI2",
+      "window_id": "NCT05412004:GPI2::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "analysis_scope_closed_for_this_position"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "cffe789d8c60926f00ad4d63259c79a9741b5e7008b31f93920cc6e2e3d5fd36",
+      "reference_id": "NCT05564117:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT05564117:CANDIDATE_BLOCK",
+      "window_id": "NCT05564117:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "analysis_scope_closed_for_this_position"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "c5aa25582ecd623361073d1636f817c3509943bb47c6d4213c5dc8b53652ebfa",
+      "reference_id": "NCT05564117:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT05564117:CANDIDATE_BLOCK",
+      "window_id": "NCT05564117:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "both_eligible_arms_reconstructed",
+        "complete_fixed_reference_verified",
+        "derivation_validated",
+        "status"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "41da061f1248dfcadcd640d7cffb1f4c64aca1bf0e519d3fbd07604951137349",
+      "reference_id": "NCT05646706:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "window_id": "NCT05646706:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "027c330218d1b4b0c2d641053364e265714d2084717c4adc297d5dfcbd402f47",
+      "reference_id": "NCT05646706:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "window_id": "NCT05646706:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_admissible_positive_reuse",
+        "both_eligible_arms_reconstructed",
+        "complete_fixed_reference_verified",
+        "derivation_validated",
+        "status"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "68511a59ed3751c7746f1a7315ff38373ddd9768319430a3895fa56048e91000",
+      "reference_id": "NCT05646706:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "window_id": "NCT05646706:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "936f1575ec7819a43f1cff8fbcad897f1051ad8e7da233393a7a252630b1989e",
+      "reference_id": "NCT05646706:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "window_id": "NCT05646706:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_admissible_positive_reuse",
+        "both_eligible_arms_reconstructed",
+        "complete_fixed_reference_verified",
+        "derivation_validated",
+        "status"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "30ffdfd03831119ec4cb4dd9daaa56a2253c845fb5f674bf74d05ad48563729a",
+      "reference_id": "NCT05646706:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "window_id": "NCT05646706:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "6244481aaad32e5e09b7ab5e0ca213859c5d219c471de51b289f21c67bdec092",
+      "reference_id": "NCT05646706:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "window_id": "NCT05646706:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_admissible_positive_reuse",
+        "both_eligible_arms_reconstructed",
+        "complete_fixed_reference_verified",
+        "derivation_validated",
+        "status"
+      ],
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "eb5d6593e6d7773b8b92f3ba2ba2a099e247a80896471d7734c51026393e730f",
+      "reference_id": "NCT05646706:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "window_id": "NCT05646706:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "4567a9abecb78475ad29e05fed0e71515173c86b8f4202fdc493e724cd971c1e",
+      "reference_id": "NCT05646706:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "window_id": "NCT05646706:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "ebca056d1043153b4202efdb5518beb9905d22bc9b966adf86d22a681fa3cd79",
+      "reference_id": "NCT05963022:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT05963022:CANDIDATE_BLOCK",
+      "window_id": "NCT05963022:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "not_reconstructible_in_examined_corpus",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "2d7b966c6518e8dda781d2014d9494853588ee43e4d1f68e62aa352c828490c6",
+      "reference_id": "NCT05963022:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT05963022:CANDIDATE_BLOCK",
+      "window_id": "NCT05963022:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "10542ab00d23e16bac120ca8244e9864b294da7af0178f55f6653e218df039fd",
+      "reference_id": "NCT05963022:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "A",
+      "unit_id": "NCT05963022:CANDIDATE_BLOCK",
+      "window_id": "NCT05963022:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "AI_technical_exact_positive_witness",
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "2e673fb7b974204f5a6072153977e83f9bb170ecda3ebffea6194d85ec750049",
+      "reference_id": "NCT05963022:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B1",
+      "unit_id": "NCT05963022:CANDIDATE_BLOCK",
+      "window_id": "NCT05963022:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "3652c783a0d5f5470f7555b56b082d96b03e19986b52a2749692caa878369988",
+      "reference_id": "NCT05963022:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT05963022:CANDIDATE_BLOCK",
+      "window_id": "NCT05963022:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": 1,
+      "after_status": "complete_derived",
+      "before_effective_indicator": 1,
+      "before_status": "complete_derived",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "d5609a09f6b338cb685e0735a64b8c7af9b58d741d321b303b646d6a767fd367",
+      "reference_id": "NCT05963022:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT05963022:CANDIDATE_BLOCK",
+      "window_id": "NCT05963022:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "not_reconstructible_in_examined_corpus",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "status",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "old_row_sha256": "09563f9522ab1d5e0fdb53b626e0a44814655dd1897e46f08d4ea95acb3c5cff",
+      "reference_id": "NCT06672172:INITIAL_PARALLEL_CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT06672172:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+      "window_id": "NCT06672172:INITIAL_PARALLEL_CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_reconciliation_current",
+        "AI_technical_unresolved_source_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "e6b3e8b2a20fb55e49b708eeb5afb8269f839d23e3ebe13df47ddca0d8d47cd8",
+      "reference_id": "NCT06672172:INITIAL_PARALLEL_CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B2",
+      "unit_id": "NCT06672172:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+      "window_id": "NCT06672172:INITIAL_PARALLEL_CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    },
+    {
+      "after_effective_indicator": null,
+      "after_status": "partial_reference",
+      "before_effective_indicator": 0,
+      "before_status": "partial_reference",
+      "changed_fields": [
+        "AI_technical_cumulative_scope_gap_union",
+        "analysis_scope_closed_for_this_position",
+        "unexamined_relevant_source_ids"
+      ],
+      "component": "suicide_death",
+      "modality": "reported_all_cause_mortality_derivation",
+      "old_row_sha256": "5dce76251c55342c6c515387e220e13d4382ec01729c1f2a538c949cdb2e06fd",
+      "reference_id": "NCT06672172:INITIAL_PARALLEL_CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "stage": "B3",
+      "unit_id": "NCT06672172:INITIAL_PARALLEL_CANDIDATE_BLOCK",
+      "window_id": "NCT06672172:INITIAL_PARALLEL_CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+    }
+  ]
+}

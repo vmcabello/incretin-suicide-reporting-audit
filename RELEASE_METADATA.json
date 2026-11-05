@@ -1,75 +1,49 @@
 {
-  "approval": "Prior author confirmation is version-specific. No renewed approval of the source-linked scientific revision, its manuscript or journal submission is inferred.",
-  "competing_interests": "None",
-  "doi": null,
-  "funding": "None",
   "kind": "Research data and analysis code",
   "licenses": {
     "author_owned_classifications_and_documentation": "CC-BY-4.0",
     "software": "MIT"
   },
-  "manuscript_preprint_included": false,
-  "release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.4.0",
-  "released": "2026-11-05",
   "repository": "https://github.com/vmcabello/incretin-suicide-reporting-audit",
   "source_scope": "Fixed historical exploratory corpus; no exhaustive trial-universe claim",
-  "version": "v1.4.0",
-  "prior_version": "v1.3.0",
-  "scientific_classifications_changed": true,
-  "numerical_reconstruction_results_changed": true,
-  "independent_reassessment_status": "LOCKED_DECLARED_HUMAN_SOURCE_LINKED_109_FOLLOWUP_INTEGRATED",
-  "current_manuscript_submission_status": "SCIENTIFIC_REVISION_INTEGRATED_AUTHOR_CONFERENCE_PENDING_NOT_SENT",
-  "prior_support_version": "v1.3.0",
-  "gzip_portability_patch": true,
-  "release_status": "PUBLIC_SUPPORT_RELEASE",
-  "prepared": "2026-11-05",
-  "last_published_version": "v1.4.0",
-  "last_published_date": "2026-11-05",
-  "last_published_release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.4.0",
-  "submission_ready": false,
-  "full_source_revalidation_completed": false,
-  "historical_primary_inputs_changed": false,
-  "historical_primary_result_bytes_changed": false,
-  "new_positive_only_sensitivity_added": true,
-  "sensitivity_is_error_correction": false,
-  "current_human_confirmed_historical_positive_positions": 57,
-  "historical_positive_positions_indeterminate_in_current_source_scope": 0,
-  "matched_source_human_verification_completed": true,
-  "targeted_followup_review_status": "ALL109_RETURNS_RECEIVED_AND_INTEGRATED_WITH_SCOPE_LIMITS_PRESERVED",
-  "marked_new_identifier_subsets_added": true,
-  "protocol_chronology_extended_through_november_reassessment": true,
-  "targeted_followup_positions_planned": 109,
-  "targeted_followup_historical_positives": 37,
-  "targeted_followup_two_phase_sampled_negatives": 72,
-  "targeted_followup_units": 59,
-  "targeted_followup_completed": true,
-  "current_analysis_path": "source_review109/",
-  "historical_analysis_path": "current_analysis/",
-  "source_linked_followup_positions_per_reviewer": 109,
-  "followup_is_subset_of_previous_663_frame": true,
-  "distinct_review_positions_not_772": true,
-  "matched_source_human_verification_extent": "Follow-up returns for all 109 targeted positions received; 13 scopes remain incomplete. This does not certify a full uniform primary-source extraction.",
-  "targeted_followup_received_positions_per_reviewer": 109,
-  "targeted_followup_scope_complete_positions": 96,
-  "targeted_followup_incomplete_scopes": 13,
-  "newly_positive_sampled_positions": 4,
-  "additional_admissible_layer_indicators_are_technical_deductions_not_new_human_votes": true,
-  "new_primary_integration": "Conservative source-admissible positive witness reuse and cumulative pertinent-gap propagation within exact component/modality/reference/window keys.",
-  "historical_cutoff_version_uniformly_certified": false,
+  "funding": "None",
+  "competing_interests": "None",
+  "doi": null,
+  "manuscript_preprint_included": false,
   "clinical_effect_analysis": false,
+  "version": "v1.5.0",
+  "prior_version": "v1.4.0",
+  "prepared": "2026-11-05",
+  "release_status": "PUBLIC_SUPPORT_RELEASE",
+  "last_published_version": "v1.5.0",
+  "last_published_release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.5.0",
+  "release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.5.0",
+  "current_analysis_path": "source_review109_reconciled/",
+  "historical_source_review_path": "source_review109/",
+  "current_assessment_process": "separate internal assessments, as declared by the authors",
+  "agreement_is_not_accuracy": true,
+  "external_or_memory_blinded_validation": false,
+  "prior_project_exposure_disclosed": true,
+  "AI_technical_conciliation_added": true,
+  "corrected_R2_ratings_preserved_separately": true,
+  "raw_human_votes_overwritten": false,
+  "new_human_votes_created": false,
+  "historical_snapshot_bytes_changed": false,
+  "full_source_revalidation_completed": false,
+  "historical_cutoff_version_uniformly_certified": false,
   "journal_submission_sent": false,
-  "source_linked_integration_change_counts": {
-    "exact_human_keys_effective_indicator_changed": 17,
-    "exact_human_keys_source_scoped_label_changed": 12,
-    "exact_human_position_keys_integrated": 109,
-    "exact_original_proof_reuse_in_earlier_admissible_layer_keys": 6,
-    "forward_incomplete_scope_effective_indicator_changes": 21,
-    "forward_incomplete_scope_keys_annotated": 22,
-    "principal_any_metadata_or_indicator_changed_keys": 137,
-    "principal_effective_indicator_changed_keys": 45,
-    "strictly_forward_positive_witness_effective_indicator_changes": 1,
-    "strictly_forward_positive_witness_keys": 1
+  "submission_ready": false,
+  "current_manuscript_submission_status": "NEW_CORRECTED_R2_SCIENTIFIC_REVISION_AUTHOR_CONFERENCE_NOT_ESTABLISHED",
+  "author_conference_history": {
+    "version": "v1.4.0",
+    "date": "2026-11-05",
+    "recorded_at_utc": "2026-11-05T18:13:00.459957+00:00",
+    "receipt_identifier": "CONFERENCIA_AUTORAL_FONTES109.json",
+    "receipt_sha256": "a3698e582a7235a4ccbce2961832716e2a7bcea886a36f2a4896c001fdbf0f75",
+    "scope": "Exact scientific files pinned by the dated author-conference record; no approval of subsequent corrected-R2 results is inferred."
   },
+  "approval": "Prior author conference is version-specific. Receipt of the corrected R2 and authorization for AI technical conciliation do not establish approval of the resulting new manuscript or submission package.",
+  "current_status_index": "CURRENT_STATUS_INDEX.json",
   "current_B3_whole_population_union": [
     {
       "component": "suicidal_ideation",
@@ -77,10 +51,10 @@
       "confirmed_total": 1,
       "direct_confirmed": 1,
       "derived_confirmed": 0,
-      "unknown": 32,
+      "unknown": 37,
       "corpus_conditional_identification_interval": [
         0.006289308176100629,
-        0.20754716981132076
+        0.2389937106918239
       ]
     },
     {
@@ -89,10 +63,10 @@
       "confirmed_total": 2,
       "direct_confirmed": 1,
       "derived_confirmed": 1,
-      "unknown": 27,
+      "unknown": 33,
       "corpus_conditional_identification_interval": [
         0.012578616352201259,
-        0.18238993710691823
+        0.22012578616352202
       ]
     },
     {
@@ -101,15 +75,27 @@
       "confirmed_total": 17,
       "direct_confirmed": 0,
       "derived_confirmed": 17,
-      "unknown": 28,
+      "unknown": 39,
       "corpus_conditional_identification_interval": [
         0.1069182389937107,
-        0.2830188679245283
+        0.3522012578616352
       ]
     }
   ],
-  "complete_matched_source_coverage_all_targeted_positions": false,
-  "initial_reassessment_positions_per_reviewer": 663,
-  "distinct_positions_in_combined_review_frame": 663,
-  "scope_gap_propagation_omission_is_sensitivity": true
+  "raw_cumulative_label_agreement": {
+    "agree": 85,
+    "total": 109
+  },
+  "raw_source_scoped_label_agreement": {
+    "agree": 79,
+    "total": 109
+  },
+  "current_technical_decisions_by_kind": {
+    "analytically_equivalent_closed_negative_scope": 27,
+    "preserve_unknown_due_to_union_of_unresolved_pertinent_scopes": 40,
+    "technically_supported_exact_positive_witness": 42
+  },
+  "released": "2026-11-05",
+  "release_tag": "v1.5.0",
+  "public_release_scope": "Author-owned data and code only; no manuscript, preprint or third-party full text."
 }
