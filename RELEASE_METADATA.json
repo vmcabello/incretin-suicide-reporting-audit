@@ -9,15 +9,17 @@
     "software": "MIT"
   },
   "manuscript_preprint_included": false,
-  "release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.1.0",
+  "release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.1.1",
   "released": "2026-11-04",
   "repository": "https://github.com/vmcabello/incretin-suicide-reporting-audit",
   "source_scope": "Fixed historical exploratory corpus; no exhaustive trial-universe claim",
-  "version": "v1.1.0",
+  "version": "v1.1.1",
   "prior_version": "v1.0.0",
   "scientific_classifications_changed": false,
   "numerical_reconstruction_results_changed": false,
   "independent_reassessment_status": "PENDING_SEPARATE_HUMAN_RETURNS",
   "review_positions_per_reviewer": 663,
-  "current_manuscript_submission_status": "REQUIRES_REVIEWER_VALIDATION_NOT_SENT"
+  "current_manuscript_submission_status": "REQUIRES_REVIEWER_VALIDATION_NOT_SENT",
+  "prior_support_version": "v1.1.0",
+  "gzip_portability_patch": true
 }

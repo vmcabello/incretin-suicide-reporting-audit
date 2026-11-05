@@ -1,5 +1,5 @@
 {
-  "version": "v1.1.0",
+  "version": "v1.1.1",
   "files": [
     {
       "path": ".gitattributes",
@@ -19,7 +19,7 @@
     {
       "path": "CITATION.cff",
       "bytes": 889,
-      "sha256": "dc83ec54d55c74c3afe13847da75c4d9073c80c8f2869b016ad3e85671dfcbc8"
+      "sha256": "c07cae5563c9682ab9d773e3a7c1a6cc1036cdd4a253f9a204c81c02f12406fe"
     },
     {
       "path": "corpus/ARTICLE_INFORMATION.json",
@@ -243,8 +243,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6692,
-      "sha256": "d8bbcd0374614ea2c0d65ed436993ef6f323e6f41563135bd19c1497d842460d"
+      "bytes": 6972,
+      "sha256": "0c04695a1ce9d288b5e0923ade60de28cebb211c66a5d1507e9beff2773ce65f"
     },
     {
       "path": "reason_inventory/ALTERNATIVE_REFERENCE_PILOT_FEASIBILITY.json",
@@ -283,13 +283,13 @@
     },
     {
       "path": "reason_inventory/MANIFEST.json",
-      "bytes": 3150,
-      "sha256": "f25af910610e8319bac085debbdd586fb389495315af610206974a3b308f2aec"
+      "bytes": 3078,
+      "sha256": "3100f23fc58d183884107e52bede6b95aad9f43801734a4414ef1e820721eb0b"
     },
     {
       "path": "reason_inventory/POSITION_REASON_LEDGER_5096.jsonl.gz",
       "bytes": 452008,
-      "sha256": "9b53fe5b9ee60e483a8c6769df849a126c20c16aed73bedd9f734c3379a80005"
+      "sha256": "5957567500126b0586f94a96fbe30fa2b3b32caec097fd8914eb222630862da5"
     },
     {
       "path": "reason_inventory/QA_RECORDED_REASONS.json",
@@ -298,8 +298,8 @@
     },
     {
       "path": "reason_inventory/quantify_recorded_reasons.py",
-      "bytes": 27416,
-      "sha256": "7f67f2678fce5af15ad0e2bc1383803508fe2a45485cf307a746596be12313fb"
+      "bytes": 27547,
+      "sha256": "e928b67a6f86bbe8e074dd71737fbca963b3a430a783136ca6667a3d89dc58be"
     },
     {
       "path": "reason_inventory/README_EN.txt",
@@ -378,13 +378,13 @@
     },
     {
       "path": "RELEASE_METADATA.json",
-      "bytes": 1209,
-      "sha256": "77cc27ee0960e92661ee94af956f6862231a5c102aa0de1ed1acdac233275f22"
+      "bytes": 1280,
+      "sha256": "77089c26d27e5347f3d337b2ea3688e2756416ef54fbe447051b53a06d4b7769"
     },
     {
       "path": "reproduce.py",
-      "bytes": 2396,
-      "sha256": "c5d4cce26a947f2e8b5dfa7f5ff5db92f2103e0d9d993a45de42b478987bb97b"
+      "bytes": 2566,
+      "sha256": "6e19947711fe9cc1300b1183f6492d5a69079c11152be5e4b45cdffe73beb052"
     },
     {
       "path": "search_trace/CASE_REPRESENTATION_EDGES_EN.json",

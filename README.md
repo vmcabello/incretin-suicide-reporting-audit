@@ -15,7 +15,9 @@ This is an exploratory documentary audit of a fixed historical corpus. It asks w
 
 Corpus-conditional identification intervals vary coded unknowns within the admitted corpus; they do not cover missed trials or selection/coding error. Full vital ascertainment is not established by a compatible zero-mortality report. Shared technical correction copies are not a new independent reliability experiment.
 
-## Additions in v1.1.0
+## Additions in v1.1.1
+
+The preceding v1.1.0 support release is retained. This patch fixes cross-platform comparison of gzip containers: the ledger is compared byte for byte after decompression, while the release manifest verifies the published compressed bytes. Scientific ledger content is unchanged.
 
 This version adds an individual search-update trail and a coverage-limited inventory of recorded documentary reason codes. The coded reconstruction inputs and the numerical results from v1.0.0 are unchanged. It also publishes a protocol for a new independent reassessment; that reassessment has **not been completed**. No new human agreement or classification-accuracy result is claimed.
 
@@ -61,9 +63,9 @@ Full third-party articles, licensed native bibliographic exports, raw identifiab
 
 ## Version and citation
 
-The first public version was v1.0.0. The current supporting-data version is **v1.1.0**, released on **4 November 2026**. Use the tagged release rather than the moving main branch for a versioned citation: [v1.1.0](https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.1.0). `CITATION.cff` supplies author and version metadata. No DOI is claimed. A future archival deposit may add a DOI without changing the reported results.
+The first public version was v1.0.0. The current supporting-data version is **v1.1.1**, released on **4 November 2026**. Use the tagged release rather than the moving main branch for a versioned citation: [v1.1.1](https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.1.1). `CITATION.cff` supplies author and version metadata. No DOI is claimed. A future archival deposit may add a DOI without changing the reported results.
 
-Santos VMC, Keltke G (2026). Incretin therapy suicide-related outcome reporting audit: data and code. Version v1.1.0. GitHub. https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.1.0.
+Santos VMC, Keltke G (2026). Incretin therapy suicide-related outcome reporting audit: data and code. Version v1.1.1. GitHub. https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.1.1.
 
 The repository contains supporting data and code; it does not contain a manuscript preprint. The journal submission package is prepared separately.
 

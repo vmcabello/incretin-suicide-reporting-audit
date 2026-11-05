@@ -1,6 +1,5 @@
 {
-  "version": "v1.1.0",
-  "scope": "Public supporting directory; scientific inputs unchanged.",
+  "version": "v1.1.1",
   "files": [
     {
       "path": "ALTERNATIVE_REFERENCE_PILOT_FEASIBILITY.json",
@@ -40,7 +39,7 @@
     {
       "path": "POSITION_REASON_LEDGER_5096.jsonl.gz",
       "bytes": 452008,
-      "sha256": "9b53fe5b9ee60e483a8c6769df849a126c20c16aed73bedd9f734c3379a80005"
+      "sha256": "5957567500126b0586f94a96fbe30fa2b3b32caec097fd8914eb222630862da5"
     },
     {
       "path": "QA_RECORDED_REASONS.json",
@@ -49,8 +48,8 @@
     },
     {
       "path": "quantify_recorded_reasons.py",
-      "bytes": 27416,
-      "sha256": "7f67f2678fce5af15ad0e2bc1383803508fe2a45485cf307a746596be12313fb"
+      "bytes": 27547,
+      "sha256": "e928b67a6f86bbe8e074dd71737fbca963b3a430a783136ca6667a3d89dc58be"
     },
     {
       "path": "README_EN.txt",

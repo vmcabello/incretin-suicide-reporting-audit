@@ -7,6 +7,7 @@ estimate of reporting defects or causes of non-reconstructibility in trials.
 import collections
 import csv
 import gzip
+import io
 import hashlib
 import html
 import importlib.util
@@ -126,7 +127,10 @@ for k,r in bykey.items():
                        'assessment_key':k})
 
 ledger_bytes=''.join(json.dumps(r,ensure_ascii=False,separators=(',',':'))+'\n' for r in ledger).encode('utf-8')
-(OUT/'POSITION_REASON_LEDGER_5096.jsonl.gz').write_bytes(gzip.compress(ledger_bytes,mtime=0))
+compressed=io.BytesIO()
+with gzip.GzipFile(filename='',mode='wb',fileobj=compressed,mtime=0) as stream:
+    stream.write(ledger_bytes)
+(OUT/'POSITION_REASON_LEDGER_5096.jsonl.gz').write_bytes(compressed.getvalue())
 
 scope_filters={
  'all5096_recorded_positions':lambda x:True,

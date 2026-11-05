@@ -1,6 +1,6 @@
 """Verify release integrity and reproduce the published documentary results."""
 from pathlib import Path
-import argparse,hashlib,json,subprocess,sys,tempfile
+import argparse,gzip,hashlib,json,subprocess,sys,tempfile
 ROOT=Path(__file__).resolve().parent
 def sha(p):return hashlib.sha256(Path(p).read_bytes()).hexdigest()
 def main():
@@ -22,7 +22,10 @@ def main():
         subprocess.run([sys.executable,'-B',str(ROOT/'reason_inventory/quantify_recorded_reasons.py'),'--repository',str(ROOT),'--out',str(generated)],check=True)
         expected_names=[f.name for f in generated.iterdir() if f.is_file()]
         for name in expected_names:
-            if (generated/name).read_bytes()!=(ROOT/'reason_inventory'/name).read_bytes():
+            actual=(generated/name).read_bytes(); expected=(ROOT/'reason_inventory'/name).read_bytes()
+            if name.endswith('.gz'):
+                actual=gzip.decompress(actual); expected=gzip.decompress(expected)
+            if actual!=expected:
                 raise SystemExit('Recorded-reason inventory differs: '+name)
     subprocess.run([sys.executable,'-B',str(ROOT/'search_trace/validate_search_trace.py'),'--root',str(ROOT/'search_trace')],check=True)
     print(json.dumps({'integrity_files':len(manifest['files']),'exact_result_reproduction':True,'recorded_reason_outputs_reproduced':len(expected_names),'search_trace_checked':True,'human_reassessment_completed':False,'clinical_effect_analysis':False}))
