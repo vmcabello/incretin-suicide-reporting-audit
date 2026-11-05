@@ -1,0 +1,98 @@
+{
+  "summary": [
+    {
+      "reviewer": "R1",
+      "alternative_reference": "ITT_as_randomized",
+      "selected_positions": 30,
+      "returned_partial_metadata": 22,
+      "returned_reference_unverifiable": 8,
+      "positions_with_some_literal_flow_or_safety_Ns": 22,
+      "literal_arm_N_rows": 62,
+      "literal_arm_N_rows_matched_to_primary_source": 62,
+      "target_component_numerators_numerically_established": 0,
+      "outcome_counting_unit_verified_for_complete_alternative": 0,
+      "completed_target_reference_reconstructions_claimed_in_return": 0,
+      "milestone_labels_for_Ns": {
+        "STARTED": 62
+      },
+      "do_not_relabel_as_observed_ITT_or_on_treatment_outcome_denominator": true
+    },
+    {
+      "reviewer": "R1",
+      "alternative_reference": "on_treatment",
+      "selected_positions": 30,
+      "returned_partial_metadata": 18,
+      "returned_reference_unverifiable": 12,
+      "positions_with_some_literal_flow_or_safety_Ns": 18,
+      "literal_arm_N_rows": 51,
+      "literal_arm_N_rows_matched_to_primary_source": 51,
+      "target_component_numerators_numerically_established": 0,
+      "outcome_counting_unit_verified_for_complete_alternative": 0,
+      "completed_target_reference_reconstructions_claimed_in_return": 0,
+      "milestone_labels_for_Ns": {
+        "Received at Least One Dose of Study Drug": 8,
+        "All Randomised Participants Who Received at Least 1 Dose of the Study Intervention": 4,
+        "Safety Analysis Set (SAS)": 7,
+        "Exposed": 11,
+        "Safety Analysis Set": 4,
+        "Received at Least 1 Dose of Study Drug": 3,
+        "Exposed to Trial Product": 2,
+        "Safety Population": 8,
+        "Received At Least One Dose of Study Drug": 4
+      },
+      "do_not_relabel_as_observed_ITT_or_on_treatment_outcome_denominator": true
+    },
+    {
+      "reviewer": "R2",
+      "alternative_reference": "ITT_as_randomized",
+      "selected_positions": 30,
+      "returned_partial_metadata": 22,
+      "returned_reference_unverifiable": 8,
+      "positions_with_some_literal_flow_or_safety_Ns": 22,
+      "literal_arm_N_rows": 62,
+      "literal_arm_N_rows_matched_to_primary_source": 62,
+      "target_component_numerators_numerically_established": 0,
+      "outcome_counting_unit_verified_for_complete_alternative": 0,
+      "completed_target_reference_reconstructions_claimed_in_return": 0,
+      "milestone_labels_for_Ns": {
+        "STARTED": 62
+      },
+      "do_not_relabel_as_observed_ITT_or_on_treatment_outcome_denominator": true
+    },
+    {
+      "reviewer": "R2",
+      "alternative_reference": "on_treatment",
+      "selected_positions": 30,
+      "returned_partial_metadata": 18,
+      "returned_reference_unverifiable": 12,
+      "positions_with_some_literal_flow_or_safety_Ns": 18,
+      "literal_arm_N_rows": 51,
+      "literal_arm_N_rows_matched_to_primary_source": 51,
+      "target_component_numerators_numerically_established": 0,
+      "outcome_counting_unit_verified_for_complete_alternative": 0,
+      "completed_target_reference_reconstructions_claimed_in_return": 0,
+      "milestone_labels_for_Ns": {
+        "Received at Least One Dose of Study Drug": 8,
+        "All Randomised Participants Who Received at Least 1 Dose of the Study Intervention": 4,
+        "Safety Analysis Set (SAS)": 7,
+        "Exposed": 11,
+        "Safety Analysis Set": 4,
+        "Received at Least 1 Dose of Study Drug": 3,
+        "Exposed to Trial Product": 2,
+        "Safety Population": 8,
+        "Received At Least One Dose of Study Drug": 4
+      },
+      "do_not_relabel_as_observed_ITT_or_on_treatment_outcome_denominator": true
+    }
+  ],
+  "interpretive_constraints": [
+    "PARTIAL_REFERENCE in these pilot returns means some literal population/flow/SAS metadata are available; it does not mean a partial numerical target-component reconstruction was completed.",
+    "STARTED is a participant-flow count at a named period. It is not automatically the number of all randomized participants with complete outcome follow-up, even if the trial is randomized.",
+    "Exposed, Received at Least One Dose, or Safety Analysis Set is not automatically an outcome denominator restricted to an exact on-treatment risk window.",
+    "All pilot numerators remain null (or there are no arm rows). No null was translated to0 and no alternative analysis uses the existing main-reference numerator by transfer.",
+    "The two alternatives remain feasibility extractions. No estimate or interval for clinical risk or reconstruction prevalence under these alternative references is supported by these data.",
+    "Source access labels refer to the declared source scope, not all public evidence; missing relevant unexamined sources remain explicit.",
+    "The conditional local-source pilot was selected after results were known and is not representative of an exhaustive trial universe."
+  ],
+  "coverage_only": "Counts are per returned pilot/reference, not agreement statistics or counts of independent validation observations."
+}

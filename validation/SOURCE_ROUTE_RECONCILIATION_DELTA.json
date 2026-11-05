@@ -1,0 +1,32 @@
+{
+  "schema": "source-route-reconciliation-summary-v1",
+  "date": "2026-11-05",
+  "technical_gain": {
+    "not_obtained_source_state_bindings_in_aligned_returns": 488,
+    "bindings_of_file_identifiers_now_resolved_to_hash_matching_local_bytes": 353,
+    "distinct_file_source_identifiers_resolved": 89,
+    "original_source_candidate_bindings_with_matching_bytes": 103,
+    "distinct_original_source_candidate_ids": 34,
+    "internal_provenance_bindings": 185,
+    "auxiliary_representation_or_export_bindings": 65,
+    "remaining_preexisting_named_slot_bindings": 135,
+    "remaining_distinct_preexisting_named_slots": 27,
+    "new_primary_readings_certified_by_route_lookup": 0,
+    "human_answers_or_analytical_corpus_records_changed": 0
+  },
+  "scope_bucket_counts_for_353_reconciled_bindings": {
+    "INTERNAL_PROVENANCE_NOT_AUTOMATIC_MISSING_PRIMARY_REPORT": 185,
+    "ORIGINAL_CANDIDATE_MATCHING_BYTES_FOUND_READING_NOT_CERTIFIED": 103,
+    "AUXILIARY_REPRESENTATION_NOT_SEPARATE_MISSING_REPORT": 65
+  },
+  "statistical_or_clinical_effect": "None applied. Availability and reading are separate; old and newly returned scientific judgments remain separate records.",
+  "remaining_uncertainty": "27 pre-existing bounded investigation slots (135 position bindings) remain unclosed by this retrieval task. Their source-specific pertinence is not inferred.",
+  "public_file_sha256": "9aaa1b74948805520d194e71232113362b3749ffb24cd0d248e57590d1add90a",
+  "sanitization_checks": {
+    "absolute_paths_absent": true,
+    "private_answers_absent": true,
+    "source_full_texts_absent": true,
+    "personal_email_filenames_redacted_except_noncontact_DOI_alias": true
+  },
+  "provenance": "Read-only hash verification and historical filename alias lookup; no author signature, approval or new source reading is asserted."
+}

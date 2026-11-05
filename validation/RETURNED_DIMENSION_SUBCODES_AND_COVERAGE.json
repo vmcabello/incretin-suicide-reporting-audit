@@ -1,0 +1,295 @@
+{
+  "records": [
+    {
+      "reviewer": "R1",
+      "dimension": "counting_unit",
+      "reason_subcode_as_answered": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "positions": 631,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "counting_unit",
+      "reason_subcode_as_answered": "SUPPORTED_FOR_REFERENCE",
+      "positions": 32,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "denominator",
+      "reason_subcode_as_answered": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "positions": 643,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "denominator",
+      "reason_subcode_as_answered": "SUPPORTED_FOR_REFERENCE",
+      "positions": 20,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "numerator",
+      "reason_subcode_as_answered": "INFORMATION_NOT_PRESENTED_IN_EXAMINED_SCOPE",
+      "positions": 262,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "numerator",
+      "reason_subcode_as_answered": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "positions": 381,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "numerator",
+      "reason_subcode_as_answered": "SUPPORTED_FOR_REFERENCE",
+      "positions": 20,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "source_access",
+      "reason_subcode_as_answered": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "positions": 1,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "source_access",
+      "reason_subcode_as_answered": "SOURCE_NOT_EXAMINED",
+      "positions": 383,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "source_access",
+      "reason_subcode_as_answered": "SOURCE_NOT_OBTAINED",
+      "positions": 259,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "source_access",
+      "reason_subcode_as_answered": "SUPPORTED_FOR_REFERENCE",
+      "positions": 20,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "subpopulation",
+      "reason_subcode_as_answered": "DOCUMENTED_INCOMPATIBILITY",
+      "positions": 2,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "subpopulation",
+      "reason_subcode_as_answered": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "positions": 641,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "subpopulation",
+      "reason_subcode_as_answered": "SUPPORTED_FOR_REFERENCE",
+      "positions": 20,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "window",
+      "reason_subcode_as_answered": "DOCUMENTED_INCOMPATIBILITY",
+      "positions": 6,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "window",
+      "reason_subcode_as_answered": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "positions": 637,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "window",
+      "reason_subcode_as_answered": "SUPPORTED_FOR_REFERENCE",
+      "positions": 20,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "counting_unit",
+      "reason_subcode_as_answered": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "positions": 631,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "counting_unit",
+      "reason_subcode_as_answered": "SUPPORTED_FOR_REFERENCE",
+      "positions": 32,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "denominator",
+      "reason_subcode_as_answered": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "positions": 643,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "denominator",
+      "reason_subcode_as_answered": "SUPPORTED_FOR_REFERENCE",
+      "positions": 20,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "numerator",
+      "reason_subcode_as_answered": "INFORMATION_NOT_PRESENTED_IN_EXAMINED_SCOPE",
+      "positions": 262,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "numerator",
+      "reason_subcode_as_answered": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "positions": 381,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "numerator",
+      "reason_subcode_as_answered": "SUPPORTED_FOR_REFERENCE",
+      "positions": 20,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "source_access",
+      "reason_subcode_as_answered": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "positions": 1,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "source_access",
+      "reason_subcode_as_answered": "SOURCE_NOT_EXAMINED",
+      "positions": 383,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "source_access",
+      "reason_subcode_as_answered": "SOURCE_NOT_OBTAINED",
+      "positions": 259,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "source_access",
+      "reason_subcode_as_answered": "SUPPORTED_FOR_REFERENCE",
+      "positions": 20,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "subpopulation",
+      "reason_subcode_as_answered": "DOCUMENTED_INCOMPATIBILITY",
+      "positions": 2,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "subpopulation",
+      "reason_subcode_as_answered": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "positions": 641,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "subpopulation",
+      "reason_subcode_as_answered": "SUPPORTED_FOR_REFERENCE",
+      "positions": 20,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "window",
+      "reason_subcode_as_answered": "DOCUMENTED_INCOMPATIBILITY",
+      "positions": 6,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "window",
+      "reason_subcode_as_answered": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "positions": 637,
+      "positions_in_return": 663
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "window",
+      "reason_subcode_as_answered": "SUPPORTED_FOR_REFERENCE",
+      "positions": 20,
+      "positions_in_return": 663
+    }
+  ],
+  "reviewer_coverage": [
+    {
+      "reviewer": "R1",
+      "positions_in_return": 663,
+      "declared_source_provenance_counts": {
+        "original_primary_source_examined": 333,
+        "not_established": 330
+      },
+      "source_access_labels_as_answered": {
+        "one_or_more_obtained_sources_unexamined": 389,
+        "one_or_more_sources_unobtained": 85,
+        "mixed_access": 188,
+        "all_relevant_sources_obtained_and_examined": 1
+      },
+      "pilot_positions": 30,
+      "pilot_alternative_extractions": 60,
+      "pilot_reconstructibility_labels": {
+        "partial_reference": 40,
+        "reference_unverifiable": 20
+      },
+      "pilot_all_numerators_unknown_or_no_rows": 60,
+      "pilot_no_complete_label": true,
+      "instrument_nonuse_positive_code_present": false,
+      "numeric_alternative_sensitivity_ready": false,
+      "numeric_sensitivity_limit": "No compatible target component numerator and counting-unit/reference window is established under either alternative. Flow/SAS Ns may be quoted as source metadata but are not completed outcome denominators."
+    },
+    {
+      "reviewer": "R2",
+      "positions_in_return": 663,
+      "declared_source_provenance_counts": {
+        "original_primary_source_examined": 333,
+        "not_established": 330
+      },
+      "source_access_labels_as_answered": {
+        "one_or_more_obtained_sources_unexamined": 389,
+        "mixed_access": 188,
+        "one_or_more_sources_unobtained": 85,
+        "all_relevant_sources_obtained_and_examined": 1
+      },
+      "pilot_positions": 30,
+      "pilot_alternative_extractions": 60,
+      "pilot_reconstructibility_labels": {
+        "partial_reference": 40,
+        "reference_unverifiable": 20
+      },
+      "pilot_all_numerators_unknown_or_no_rows": 60,
+      "pilot_no_complete_label": true,
+      "instrument_nonuse_positive_code_present": false,
+      "numeric_alternative_sensitivity_ready": false,
+      "numeric_sensitivity_limit": "No compatible target component numerator and counting-unit/reference window is established under either alternative. Flow/SAS Ns may be quoted as source metadata but are not completed outcome denominators."
+    }
+  ],
+  "provenance_declaration_is_not_scientific_validation": true
+}

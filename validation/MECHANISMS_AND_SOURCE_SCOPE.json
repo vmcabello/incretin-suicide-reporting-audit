@@ -1,0 +1,44 @@
+{
+  "frame": "663 selected positions per reviewer; repeated positions, nonexclusive codes; limited current source scope",
+  "per_reviewer_nonexclusive_counts": {
+    "RESULT_NOT_PRESENTED_IN_EXAMINED_SCOPE": 267,
+    "SOURCE_NOT_EXAMINED": 561,
+    "SOURCE_NOT_OBTAINED": 259,
+    "NOT_ESTABLISHED": 43,
+    "WINDOW_INCOMPATIBLE": 6,
+    "DENOMINATOR_OR_COUNTING_UNIT": 5,
+    "POPULATION_INCOMPATIBLE": 2
+  },
+  "between_reviewer_counts_match": true,
+  "no_trial_level_prevalence_or_instrument_nonuse_inferred": true,
+  "source_binding_type_counts": {
+    "source_ids_examined": {
+      "original_structured_trial_registry": 314,
+      "publication_or_supplement_candidate": 31
+    },
+    "source_ids_not_obtained": {
+      "internal_workflow_or_receipt_by_explicit_filename": 86,
+      "internal_workflow_extraction_or_receipt": 25,
+      "named_inventory_slot_not_a_publication_id": 135,
+      "publication_or_supplement_candidate": 71,
+      "image_or_excerpt_representation_not_separate_report": 59,
+      "original_registry_HTML_representation": 28,
+      "internal_receipt_or_prior_judgment_explicitly_reconciled": 26,
+      "internal_receipt_or_prior_audit_explicit_catalogue_role": 48,
+      "bibliographic_export_not_trial_result_document": 5,
+      "trial_protocol_or_sap_candidate_not_observed_results": 4,
+      "extracted_text_representation_not_original_bytes": 1
+    },
+    "source_ids_not_examined": {
+      "publication_or_supplement_candidate": 1652,
+      "trial_protocol_or_sap_candidate_not_observed_results": 258,
+      "original_structured_trial_registry": 3,
+      "original_registry_HTML_representation": 9
+    }
+  },
+  "source_binding_counts_are_not_unique_documents_or_trials": true,
+  "not_obtained_state_bindings_with_hash_matched_existing_artifacts": 353,
+  "not_obtained_state_is_not_all_missing_clinical_articles": true,
+  "named_slots": 135,
+  "new_slots_without_original_inventory": 0
+}

@@ -1,0 +1,1296 @@
+{
+  "schema": "paired-documentary-agreement-v1",
+  "date": "2026-11-05",
+  "protocol_id": "MAJOR-REVIEW-SEPARATE-ASSESSMENT-663-20261104-v1",
+  "rating_pairs": 663,
+  "distinct_units": 176,
+  "design_groups": {
+    "all_complete": {
+      "unweighted": {
+        "source_scoped_classification": {
+          "positions": 57,
+          "distinct_units": 16,
+          "weighted": false,
+          "sum_weights": 57.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 57,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 0.252693136349646,
+          "cohen_kappa": 1.0,
+          "kappa_undefined_reason": null,
+          "cross_tabulation": [
+            {
+              "R1": "complete_derived",
+              "R2": "complete_derived",
+              "count_or_weight": 14
+            },
+            {
+              "R1": "complete_direct",
+              "R2": "complete_direct",
+              "count_or_weight": 6
+            },
+            {
+              "R1": "not_reconstructible_in_examined_corpus",
+              "R2": "not_reconstructible_in_examined_corpus",
+              "count_or_weight": 3
+            },
+            {
+              "R1": "partial_reference",
+              "R2": "partial_reference",
+              "count_or_weight": 16
+            },
+            {
+              "R1": "reference_unverifiable",
+              "R2": "reference_unverifiable",
+              "count_or_weight": 18
+            }
+          ]
+        },
+        "cumulative_classification": {
+          "positions": 57,
+          "distinct_units": 16,
+          "weighted": false,
+          "sum_weights": 57.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 57,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 0.3007079101261927,
+          "cohen_kappa": 1.0,
+          "kappa_undefined_reason": null,
+          "cross_tabulation": [
+            {
+              "R1": "complete_derived",
+              "R2": "complete_derived",
+              "count_or_weight": 14
+            },
+            {
+              "R1": "complete_direct",
+              "R2": "complete_direct",
+              "count_or_weight": 6
+            },
+            {
+              "R1": "public_source_unavailable",
+              "R2": "public_source_unavailable",
+              "count_or_weight": 13
+            },
+            {
+              "R1": "reference_unverifiable",
+              "R2": "reference_unverifiable",
+              "count_or_weight": 24
+            }
+          ]
+        },
+        "cumulative_indicator": {
+          "positions": 57,
+          "distinct_units": 16,
+          "weighted": false,
+          "sum_weights": 57.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 57,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 0.5444752231455833,
+          "cohen_kappa": 1.0,
+          "kappa_undefined_reason": null,
+          "cross_tabulation": [
+            {
+              "R1": 1,
+              "R2": 1,
+              "count_or_weight": 20
+            },
+            {
+              "R1": null,
+              "R2": null,
+              "count_or_weight": 37
+            }
+          ]
+        }
+      },
+      "weighted_descriptive_only": {
+        "source_scoped_classification": {
+          "positions": 57,
+          "distinct_units": 16,
+          "weighted": true,
+          "sum_weights": 57.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 57,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 0.252693136349646,
+          "cohen_kappa": 1.0,
+          "kappa_undefined_reason": null,
+          "cross_tabulation": [
+            {
+              "R1": "complete_derived",
+              "R2": "complete_derived",
+              "count_or_weight": 14.0
+            },
+            {
+              "R1": "complete_direct",
+              "R2": "complete_direct",
+              "count_or_weight": 6.0
+            },
+            {
+              "R1": "not_reconstructible_in_examined_corpus",
+              "R2": "not_reconstructible_in_examined_corpus",
+              "count_or_weight": 3.0
+            },
+            {
+              "R1": "partial_reference",
+              "R2": "partial_reference",
+              "count_or_weight": 16.0
+            },
+            {
+              "R1": "reference_unverifiable",
+              "R2": "reference_unverifiable",
+              "count_or_weight": 18.0
+            }
+          ]
+        },
+        "cumulative_classification": {
+          "positions": 57,
+          "distinct_units": 16,
+          "weighted": true,
+          "sum_weights": 57.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 57,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 0.3007079101261927,
+          "cohen_kappa": 1.0,
+          "kappa_undefined_reason": null,
+          "cross_tabulation": [
+            {
+              "R1": "complete_derived",
+              "R2": "complete_derived",
+              "count_or_weight": 14.0
+            },
+            {
+              "R1": "complete_direct",
+              "R2": "complete_direct",
+              "count_or_weight": 6.0
+            },
+            {
+              "R1": "public_source_unavailable",
+              "R2": "public_source_unavailable",
+              "count_or_weight": 13.0
+            },
+            {
+              "R1": "reference_unverifiable",
+              "R2": "reference_unverifiable",
+              "count_or_weight": 24.0
+            }
+          ]
+        },
+        "cumulative_indicator": {
+          "positions": 57,
+          "distinct_units": 16,
+          "weighted": true,
+          "sum_weights": 57.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 57,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 0.5444752231455833,
+          "cohen_kappa": 1.0,
+          "kappa_undefined_reason": null,
+          "cross_tabulation": [
+            {
+              "R1": 1,
+              "R2": 1,
+              "count_or_weight": 20.0
+            },
+            {
+              "R1": null,
+              "R2": null,
+              "count_or_weight": 37.0
+            }
+          ]
+        }
+      },
+      "historical_frame_size": 57,
+      "current_primary_source_examination_per_reviewer": {
+        "R1": {
+          "yes": 39,
+          "no": 18
+        },
+        "R2": {
+          "yes": 39,
+          "no": 18
+        }
+      },
+      "raw_indicator_changes_from_historical": 37,
+      "changes_are_not_certified_errors": true
+    },
+    "retained_probability_sample_not_complete": {
+      "unweighted": {
+        "source_scoped_classification": {
+          "positions": 426,
+          "distinct_units": 141,
+          "weighted": false,
+          "sum_weights": 426.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 426,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 0.46671736207542597,
+          "cohen_kappa": 1.0,
+          "kappa_undefined_reason": null,
+          "cross_tabulation": [
+            {
+              "R1": "not_reconstructible_in_examined_corpus",
+              "R2": "not_reconstructible_in_examined_corpus",
+              "count_or_weight": 176
+            },
+            {
+              "R1": "partial_reference",
+              "R2": "partial_reference",
+              "count_or_weight": 19
+            },
+            {
+              "R1": "reference_unverifiable",
+              "R2": "reference_unverifiable",
+              "count_or_weight": 231
+            }
+          ]
+        },
+        "cumulative_classification": {
+          "positions": 426,
+          "distinct_units": 141,
+          "weighted": false,
+          "sum_weights": 426.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 426,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 0.6322268509334568,
+          "cohen_kappa": 1.0,
+          "kappa_undefined_reason": null,
+          "cross_tabulation": [
+            {
+              "R1": "partial_reference",
+              "R2": "partial_reference",
+              "count_or_weight": 1
+            },
+            {
+              "R1": "public_source_unavailable",
+              "R2": "public_source_unavailable",
+              "count_or_weight": 102
+            },
+            {
+              "R1": "reference_unverifiable",
+              "R2": "reference_unverifiable",
+              "count_or_weight": 323
+            }
+          ]
+        },
+        "cumulative_indicator": {
+          "positions": 426,
+          "distinct_units": 141,
+          "weighted": false,
+          "sum_weights": 426.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 426,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 0.9953161850602834,
+          "cohen_kappa": 1.0,
+          "kappa_undefined_reason": null,
+          "cross_tabulation": [
+            {
+              "R1": 0,
+              "R2": 0,
+              "count_or_weight": 1
+            },
+            {
+              "R1": null,
+              "R2": null,
+              "count_or_weight": 425
+            }
+          ]
+        }
+      },
+      "weighted_descriptive_only": {
+        "source_scoped_classification": {
+          "positions": 426,
+          "distinct_units": 141,
+          "weighted": true,
+          "sum_weights": 4030.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 426,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 0.46897424296001183,
+          "cohen_kappa": 1.0,
+          "kappa_undefined_reason": null,
+          "cross_tabulation": [
+            {
+              "R1": "not_reconstructible_in_examined_corpus",
+              "R2": "not_reconstructible_in_examined_corpus",
+              "count_or_weight": 1672.183633033633
+            },
+            {
+              "R1": "partial_reference",
+              "R2": "partial_reference",
+              "count_or_weight": 168.78030303030303
+            },
+            {
+              "R1": "reference_unverifiable",
+              "R2": "reference_unverifiable",
+              "count_or_weight": 2189.036063936064
+            }
+          ]
+        },
+        "cumulative_classification": {
+          "positions": 426,
+          "distinct_units": 141,
+          "weighted": true,
+          "sum_weights": 4030.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 426,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 0.6313169753956076,
+          "cohen_kappa": 1.0,
+          "kappa_undefined_reason": null,
+          "cross_tabulation": [
+            {
+              "R1": "partial_reference",
+              "R2": "partial_reference",
+              "count_or_weight": 3.0
+            },
+            {
+              "R1": "public_source_unavailable",
+              "R2": "public_source_unavailable",
+              "count_or_weight": 977.9367798867798
+            },
+            {
+              "R1": "reference_unverifiable",
+              "R2": "reference_unverifiable",
+              "count_or_weight": 3049.0632201132203
+            }
+          ]
+        },
+        "cumulative_indicator": {
+          "positions": 426,
+          "distinct_units": 141,
+          "weighted": true,
+          "sum_weights": 4030.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 426,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 0.9985122745660647,
+          "cohen_kappa": 1.0,
+          "kappa_undefined_reason": null,
+          "cross_tabulation": [
+            {
+              "R1": 0,
+              "R2": 0,
+              "count_or_weight": 3.0
+            },
+            {
+              "R1": null,
+              "R2": null,
+              "count_or_weight": 4027.0
+            }
+          ]
+        }
+      },
+      "historical_frame_size": 4030,
+      "current_primary_source_examination_per_reviewer": {
+        "R1": {
+          "yes": 202,
+          "no": 224
+        },
+        "R2": {
+          "yes": 202,
+          "no": 224
+        }
+      },
+      "raw_indicator_changes_from_historical": 425,
+      "changes_are_not_certified_errors": true
+    },
+    "sampled_unknown": {
+      "unweighted": {
+        "source_scoped_classification": {
+          "positions": 180,
+          "distinct_units": 40,
+          "weighted": false,
+          "sum_weights": 180.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 180,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 0.4541358024691358,
+          "cohen_kappa": 1.0,
+          "kappa_undefined_reason": null,
+          "cross_tabulation": [
+            {
+              "R1": "not_reconstructible_in_examined_corpus",
+              "R2": "not_reconstructible_in_examined_corpus",
+              "count_or_weight": 83
+            },
+            {
+              "R1": "partial_reference",
+              "R2": "partial_reference",
+              "count_or_weight": 9
+            },
+            {
+              "R1": "reference_unverifiable",
+              "R2": "reference_unverifiable",
+              "count_or_weight": 88
+            }
+          ]
+        },
+        "cumulative_classification": {
+          "positions": 180,
+          "distinct_units": 40,
+          "weighted": false,
+          "sum_weights": 180.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 180,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 0.68,
+          "cohen_kappa": 1.0,
+          "kappa_undefined_reason": null,
+          "cross_tabulation": [
+            {
+              "R1": "public_source_unavailable",
+              "R2": "public_source_unavailable",
+              "count_or_weight": 144
+            },
+            {
+              "R1": "reference_unverifiable",
+              "R2": "reference_unverifiable",
+              "count_or_weight": 36
+            }
+          ]
+        },
+        "cumulative_indicator": {
+          "positions": 180,
+          "distinct_units": 40,
+          "weighted": false,
+          "sum_weights": 180.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 180,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 1.0,
+          "cohen_kappa": null,
+          "kappa_undefined_reason": "Single-category degenerate margins",
+          "cross_tabulation": [
+            {
+              "R1": null,
+              "R2": null,
+              "count_or_weight": 180
+            }
+          ]
+        }
+      },
+      "weighted_descriptive_only": {
+        "source_scoped_classification": {
+          "positions": 180,
+          "distinct_units": 40,
+          "weighted": true,
+          "sum_weights": 1009.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 180,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 0.4538274490680046,
+          "cohen_kappa": 1.0,
+          "kappa_undefined_reason": null,
+          "cross_tabulation": [
+            {
+              "R1": "not_reconstructible_in_examined_corpus",
+              "R2": "not_reconstructible_in_examined_corpus",
+              "count_or_weight": 455.6904761904762
+            },
+            {
+              "R1": "partial_reference",
+              "R2": "partial_reference",
+              "count_or_weight": 51.595238095238095
+            },
+            {
+              "R1": "reference_unverifiable",
+              "R2": "reference_unverifiable",
+              "count_or_weight": 501.7142857142857
+            }
+          ]
+        },
+        "cumulative_classification": {
+          "positions": 180,
+          "distinct_units": 40,
+          "weighted": true,
+          "sum_weights": 1009.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 180,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 0.6814356702627591,
+          "cohen_kappa": 1.0,
+          "kappa_undefined_reason": null,
+          "cross_tabulation": [
+            {
+              "R1": "public_source_unavailable",
+              "R2": "public_source_unavailable",
+              "count_or_weight": 808.4047619047619
+            },
+            {
+              "R1": "reference_unverifiable",
+              "R2": "reference_unverifiable",
+              "count_or_weight": 200.5952380952381
+            }
+          ]
+        },
+        "cumulative_indicator": {
+          "positions": 180,
+          "distinct_units": 40,
+          "weighted": true,
+          "sum_weights": 1009.0,
+          "exact_agreement": 1.0,
+          "agreeing_positions": 180,
+          "disagreeing_positions": 0,
+          "expected_agreement_from_margins": 1.0,
+          "cohen_kappa": null,
+          "kappa_undefined_reason": "Single-category degenerate margins",
+          "cross_tabulation": [
+            {
+              "R1": null,
+              "R2": null,
+              "count_or_weight": 1009.0
+            }
+          ]
+        }
+      },
+      "historical_frame_size": 1009,
+      "current_primary_source_examination_per_reviewer": {
+        "R1": {
+          "yes": 92,
+          "no": 88
+        },
+        "R2": {
+          "yes": 92,
+          "no": 88
+        }
+      },
+      "raw_indicator_changes_from_historical": 0,
+      "changes_are_not_certified_errors": true
+    }
+  },
+  "overall_descriptive_enriched_sample": {
+    "source_scoped_classification": {
+      "positions": 663,
+      "distinct_units": 176,
+      "weighted": false,
+      "sum_weights": 663.0,
+      "exact_agreement": 1.0,
+      "agreeing_positions": 663,
+      "disagreeing_positions": 0,
+      "expected_agreement_from_margins": 0.4194586060436473,
+      "cohen_kappa": 1.0,
+      "kappa_undefined_reason": null,
+      "cross_tabulation": [
+        {
+          "R1": "complete_derived",
+          "R2": "complete_derived",
+          "count_or_weight": 14
+        },
+        {
+          "R1": "complete_direct",
+          "R2": "complete_direct",
+          "count_or_weight": 6
+        },
+        {
+          "R1": "not_reconstructible_in_examined_corpus",
+          "R2": "not_reconstructible_in_examined_corpus",
+          "count_or_weight": 262
+        },
+        {
+          "R1": "partial_reference",
+          "R2": "partial_reference",
+          "count_or_weight": 44
+        },
+        {
+          "R1": "reference_unverifiable",
+          "R2": "reference_unverifiable",
+          "count_or_weight": 337
+        }
+      ]
+    },
+    "cumulative_classification": {
+      "positions": 663,
+      "distinct_units": 176,
+      "weighted": false,
+      "sum_weights": 663.0,
+      "exact_agreement": 1.0,
+      "agreeing_positions": 663,
+      "disagreeing_positions": 0,
+      "expected_agreement_from_margins": 0.48684734364798243,
+      "cohen_kappa": 1.0,
+      "kappa_undefined_reason": null,
+      "cross_tabulation": [
+        {
+          "R1": "complete_derived",
+          "R2": "complete_derived",
+          "count_or_weight": 14
+        },
+        {
+          "R1": "complete_direct",
+          "R2": "complete_direct",
+          "count_or_weight": 6
+        },
+        {
+          "R1": "partial_reference",
+          "R2": "partial_reference",
+          "count_or_weight": 1
+        },
+        {
+          "R1": "public_source_unavailable",
+          "R2": "public_source_unavailable",
+          "count_or_weight": 259
+        },
+        {
+          "R1": "reference_unverifiable",
+          "R2": "reference_unverifiable",
+          "count_or_weight": 383
+        }
+      ]
+    },
+    "cumulative_indicator": {
+      "positions": 663,
+      "distinct_units": 176,
+      "weighted": false,
+      "sum_weights": 663.0,
+      "exact_agreement": 1.0,
+      "agreeing_positions": 663,
+      "disagreeing_positions": 0,
+      "expected_agreement_from_margins": 0.9385670964057975,
+      "cohen_kappa": 1.0,
+      "kappa_undefined_reason": null,
+      "cross_tabulation": [
+        {
+          "R1": 0,
+          "R2": 0,
+          "count_or_weight": 1
+        },
+        {
+          "R1": 1,
+          "R2": 1,
+          "count_or_weight": 20
+        },
+        {
+          "R1": null,
+          "R2": null,
+          "count_or_weight": 642
+        }
+      ]
+    }
+  },
+  "by_modality": {
+    "adverse_event_reports": {
+      "source_scoped_classification": {
+        "positions": 268,
+        "distinct_units": 131,
+        "weighted": false,
+        "sum_weights": 268.0,
+        "exact_agreement": 1.0,
+        "agreeing_positions": 268,
+        "disagreeing_positions": 0,
+        "expected_agreement_from_margins": 0.44868010692804633,
+        "cohen_kappa": 1.0,
+        "kappa_undefined_reason": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_direct",
+            "R2": "complete_direct",
+            "count_or_weight": 6
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "not_reconstructible_in_examined_corpus",
+            "count_or_weight": 113
+          },
+          {
+            "R1": "partial_reference",
+            "R2": "partial_reference",
+            "count_or_weight": 10
+          },
+          {
+            "R1": "reference_unverifiable",
+            "R2": "reference_unverifiable",
+            "count_or_weight": 139
+          }
+        ]
+      },
+      "cumulative_classification": {
+        "positions": 268,
+        "distinct_units": 131,
+        "weighted": false,
+        "sum_weights": 268.0,
+        "exact_agreement": 1.0,
+        "agreeing_positions": 268,
+        "disagreeing_positions": 0,
+        "expected_agreement_from_margins": 0.4986633994208064,
+        "cohen_kappa": 1.0,
+        "kappa_undefined_reason": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_direct",
+            "R2": "complete_direct",
+            "count_or_weight": 6
+          },
+          {
+            "R1": "public_source_unavailable",
+            "R2": "public_source_unavailable",
+            "count_or_weight": 104
+          },
+          {
+            "R1": "reference_unverifiable",
+            "R2": "reference_unverifiable",
+            "count_or_weight": 158
+          }
+        ]
+      }
+    },
+    "reported_all_cause_mortality_derivation": {
+      "source_scoped_classification": {
+        "positions": 132,
+        "distinct_units": 82,
+        "weighted": false,
+        "sum_weights": 132.0,
+        "exact_agreement": 1.0,
+        "agreeing_positions": 132,
+        "disagreeing_positions": 0,
+        "expected_agreement_from_margins": 0.3236914600550964,
+        "cohen_kappa": 1.0,
+        "kappa_undefined_reason": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_derived",
+            "R2": "complete_derived",
+            "count_or_weight": 14
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "not_reconstructible_in_examined_corpus",
+            "count_or_weight": 24
+          },
+          {
+            "R1": "partial_reference",
+            "R2": "partial_reference",
+            "count_or_weight": 32
+          },
+          {
+            "R1": "reference_unverifiable",
+            "R2": "reference_unverifiable",
+            "count_or_weight": 62
+          }
+        ]
+      },
+      "cumulative_classification": {
+        "positions": 132,
+        "distinct_units": 82,
+        "weighted": false,
+        "sum_weights": 132.0,
+        "exact_agreement": 1.0,
+        "agreeing_positions": 132,
+        "disagreeing_positions": 0,
+        "expected_agreement_from_margins": 0.41815886134067953,
+        "cohen_kappa": 1.0,
+        "kappa_undefined_reason": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_derived",
+            "R2": "complete_derived",
+            "count_or_weight": 14
+          },
+          {
+            "R1": "public_source_unavailable",
+            "R2": "public_source_unavailable",
+            "count_or_weight": 51
+          },
+          {
+            "R1": "reference_unverifiable",
+            "R2": "reference_unverifiable",
+            "count_or_weight": 67
+          }
+        ]
+      }
+    },
+    "suicidality_specific_structured_assessment": {
+      "source_scoped_classification": {
+        "positions": 263,
+        "distinct_units": 142,
+        "weighted": false,
+        "sum_weights": 263.0,
+        "exact_agreement": 1.0,
+        "agreeing_positions": 263,
+        "disagreeing_positions": 0,
+        "expected_agreement_from_margins": 0.4933568506122685,
+        "cohen_kappa": 1.0,
+        "kappa_undefined_reason": null,
+        "cross_tabulation": [
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "not_reconstructible_in_examined_corpus",
+            "count_or_weight": 125
+          },
+          {
+            "R1": "partial_reference",
+            "R2": "partial_reference",
+            "count_or_weight": 2
+          },
+          {
+            "R1": "reference_unverifiable",
+            "R2": "reference_unverifiable",
+            "count_or_weight": 136
+          }
+        ]
+      },
+      "cumulative_classification": {
+        "positions": 263,
+        "distinct_units": 142,
+        "weighted": false,
+        "sum_weights": 263.0,
+        "exact_agreement": 1.0,
+        "agreeing_positions": 263,
+        "disagreeing_positions": 0,
+        "expected_agreement_from_margins": 0.5172982116265957,
+        "cohen_kappa": 1.0,
+        "kappa_undefined_reason": null,
+        "cross_tabulation": [
+          {
+            "R1": "partial_reference",
+            "R2": "partial_reference",
+            "count_or_weight": 1
+          },
+          {
+            "R1": "public_source_unavailable",
+            "R2": "public_source_unavailable",
+            "count_or_weight": 104
+          },
+          {
+            "R1": "reference_unverifiable",
+            "R2": "reference_unverifiable",
+            "count_or_weight": 158
+          }
+        ]
+      }
+    }
+  },
+  "by_layer": {
+    "A": {
+      "source_scoped_classification": {
+        "positions": 163,
+        "distinct_units": 99,
+        "weighted": false,
+        "sum_weights": 163.0,
+        "exact_agreement": 1.0,
+        "agreeing_positions": 163,
+        "disagreeing_positions": 0,
+        "expected_agreement_from_margins": 0.9637171139297678,
+        "cohen_kappa": 1.0,
+        "kappa_undefined_reason": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_derived",
+            "R2": "complete_derived",
+            "count_or_weight": 2
+          },
+          {
+            "R1": "partial_reference",
+            "R2": "partial_reference",
+            "count_or_weight": 1
+          },
+          {
+            "R1": "reference_unverifiable",
+            "R2": "reference_unverifiable",
+            "count_or_weight": 160
+          }
+        ]
+      },
+      "cumulative_classification": {
+        "positions": 163,
+        "distinct_units": 99,
+        "weighted": false,
+        "sum_weights": 163.0,
+        "exact_agreement": 1.0,
+        "agreeing_positions": 163,
+        "disagreeing_positions": 0,
+        "expected_agreement_from_margins": 0.5253114531973352,
+        "cohen_kappa": 1.0,
+        "kappa_undefined_reason": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_derived",
+            "R2": "complete_derived",
+            "count_or_weight": 2
+          },
+          {
+            "R1": "partial_reference",
+            "R2": "partial_reference",
+            "count_or_weight": 1
+          },
+          {
+            "R1": "public_source_unavailable",
+            "R2": "public_source_unavailable",
+            "count_or_weight": 56
+          },
+          {
+            "R1": "reference_unverifiable",
+            "R2": "reference_unverifiable",
+            "count_or_weight": 104
+          }
+        ]
+      }
+    },
+    "B1": {
+      "source_scoped_classification": {
+        "positions": 163,
+        "distinct_units": 113,
+        "weighted": false,
+        "sum_weights": 163.0,
+        "exact_agreement": 1.0,
+        "agreeing_positions": 163,
+        "disagreeing_positions": 0,
+        "expected_agreement_from_margins": 0.9399299936015657,
+        "cohen_kappa": 1.0,
+        "kappa_undefined_reason": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_derived",
+            "R2": "complete_derived",
+            "count_or_weight": 2
+          },
+          {
+            "R1": "complete_direct",
+            "R2": "complete_direct",
+            "count_or_weight": 2
+          },
+          {
+            "R1": "partial_reference",
+            "R2": "partial_reference",
+            "count_or_weight": 1
+          },
+          {
+            "R1": "reference_unverifiable",
+            "R2": "reference_unverifiable",
+            "count_or_weight": 158
+          }
+        ]
+      },
+      "cumulative_classification": {
+        "positions": 163,
+        "distinct_units": 113,
+        "weighted": false,
+        "sum_weights": 163.0,
+        "exact_agreement": 1.0,
+        "agreeing_positions": 163,
+        "disagreeing_positions": 0,
+        "expected_agreement_from_margins": 0.4965561368512176,
+        "cohen_kappa": 1.0,
+        "kappa_undefined_reason": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_derived",
+            "R2": "complete_derived",
+            "count_or_weight": 2
+          },
+          {
+            "R1": "complete_direct",
+            "R2": "complete_direct",
+            "count_or_weight": 2
+          },
+          {
+            "R1": "public_source_unavailable",
+            "R2": "public_source_unavailable",
+            "count_or_weight": 63
+          },
+          {
+            "R1": "reference_unverifiable",
+            "R2": "reference_unverifiable",
+            "count_or_weight": 96
+          }
+        ]
+      }
+    },
+    "B2": {
+      "source_scoped_classification": {
+        "positions": 167,
+        "distinct_units": 106,
+        "weighted": false,
+        "sum_weights": 167.0,
+        "exact_agreement": 1.0,
+        "agreeing_positions": 167,
+        "disagreeing_positions": 0,
+        "expected_agreement_from_margins": 0.617125031374377,
+        "cohen_kappa": 1.0,
+        "kappa_undefined_reason": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_derived",
+            "R2": "complete_derived",
+            "count_or_weight": 5
+          },
+          {
+            "R1": "complete_direct",
+            "R2": "complete_direct",
+            "count_or_weight": 2
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "not_reconstructible_in_examined_corpus",
+            "count_or_weight": 129
+          },
+          {
+            "R1": "partial_reference",
+            "R2": "partial_reference",
+            "count_or_weight": 21
+          },
+          {
+            "R1": "reference_unverifiable",
+            "R2": "reference_unverifiable",
+            "count_or_weight": 10
+          }
+        ]
+      },
+      "cumulative_classification": {
+        "positions": 167,
+        "distinct_units": 106,
+        "weighted": false,
+        "sum_weights": 167.0,
+        "exact_agreement": 1.0,
+        "agreeing_positions": 167,
+        "disagreeing_positions": 0,
+        "expected_agreement_from_margins": 0.4783606439814981,
+        "cohen_kappa": 1.0,
+        "kappa_undefined_reason": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_derived",
+            "R2": "complete_derived",
+            "count_or_weight": 5
+          },
+          {
+            "R1": "complete_direct",
+            "R2": "complete_direct",
+            "count_or_weight": 2
+          },
+          {
+            "R1": "public_source_unavailable",
+            "R2": "public_source_unavailable",
+            "count_or_weight": 64
+          },
+          {
+            "R1": "reference_unverifiable",
+            "R2": "reference_unverifiable",
+            "count_or_weight": 96
+          }
+        ]
+      }
+    },
+    "B3": {
+      "source_scoped_classification": {
+        "positions": 170,
+        "distinct_units": 116,
+        "weighted": false,
+        "sum_weights": 170.0,
+        "exact_agreement": 1.0,
+        "agreeing_positions": 170,
+        "disagreeing_positions": 0,
+        "expected_agreement_from_margins": 0.6311418685121107,
+        "cohen_kappa": 1.0,
+        "kappa_undefined_reason": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_derived",
+            "R2": "complete_derived",
+            "count_or_weight": 5
+          },
+          {
+            "R1": "complete_direct",
+            "R2": "complete_direct",
+            "count_or_weight": 2
+          },
+          {
+            "R1": "not_reconstructible_in_examined_corpus",
+            "R2": "not_reconstructible_in_examined_corpus",
+            "count_or_weight": 133
+          },
+          {
+            "R1": "partial_reference",
+            "R2": "partial_reference",
+            "count_or_weight": 21
+          },
+          {
+            "R1": "reference_unverifiable",
+            "R2": "reference_unverifiable",
+            "count_or_weight": 9
+          }
+        ]
+      },
+      "cumulative_classification": {
+        "positions": 170,
+        "distinct_units": 116,
+        "weighted": false,
+        "sum_weights": 170.0,
+        "exact_agreement": 1.0,
+        "agreeing_positions": 170,
+        "disagreeing_positions": 0,
+        "expected_agreement_from_margins": 0.4627681660899654,
+        "cohen_kappa": 1.0,
+        "kappa_undefined_reason": null,
+        "cross_tabulation": [
+          {
+            "R1": "complete_derived",
+            "R2": "complete_derived",
+            "count_or_weight": 5
+          },
+          {
+            "R1": "complete_direct",
+            "R2": "complete_direct",
+            "count_or_weight": 2
+          },
+          {
+            "R1": "public_source_unavailable",
+            "R2": "public_source_unavailable",
+            "count_or_weight": 76
+          },
+          {
+            "R1": "reference_unverifiable",
+            "R2": "reference_unverifiable",
+            "count_or_weight": 87
+          }
+        ]
+      }
+    }
+  },
+  "interpretation": [
+    "Independence is reported by the authors for the two corrected locked sets; no contrary inference is made from matching answers.",
+    "All positions disclose prior project exposure. This is internal, retrospective, non-memory-blinded agreement, not external validation.",
+    "The enriched 663-position set includes a complete-position census and two stratified samples. Its unweighted coefficient is descriptive of this set, not a prevalence or accuracy estimate.",
+    "Rater agreement does not establish scientific accuracy or full re-examination of the source package. Source-scoped and cumulative labels are separate.",
+    "Repeated positions occur within trials. No binomial confidence interval, independence assumption, external error rate or clinical effect was calculated.",
+    "Design weights are retained for reproducibility. Weighted descriptive agreement is shown separately within each stated historical position frame; no error-rate extrapolation is made."
+  ],
+  "coverage_per_reviewer": {
+    "R1": {
+      "dossiers": 176,
+      "positions": 663,
+      "pilot_positions": 30,
+      "cumulative_labels": {
+        "reference_unverifiable": 383,
+        "public_source_unavailable": 259,
+        "partial_reference": 1,
+        "complete_derived": 14,
+        "complete_direct": 6
+      },
+      "source_scoped_labels": {
+        "not_reconstructible_in_examined_corpus": 262,
+        "reference_unverifiable": 337,
+        "partial_reference": 44,
+        "complete_derived": 14,
+        "complete_direct": 6
+      },
+      "primary_source_examined": {
+        "yes": 333,
+        "no": 330
+      },
+      "source_access": {
+        "one_or_more_obtained_sources_unexamined": 389,
+        "one_or_more_sources_unobtained": 85,
+        "mixed_access": 188,
+        "all_relevant_sources_obtained_and_examined": 1
+      },
+      "declared_separate_before_discussion": {
+        "yes": 663
+      },
+      "declared_prior_exposure": {
+        "yes": 663
+      },
+      "declared_substantive_AI": {
+        "no": 663
+      },
+      "assessed_at_values": {
+        "2026-11-04T23:48:45-03:00": 663
+      },
+      "armwise_count_field_types": {
+        "str": 599,
+        "dict": 64
+      },
+      "generic_unknown_numeric_count_text": 599,
+      "mechanisms_nonexclusive": {
+        "RESULT_NOT_PRESENTED_IN_EXAMINED_SCOPE": 267,
+        "SOURCE_NOT_EXAMINED": 561,
+        "SOURCE_NOT_OBTAINED": 259,
+        "NOT_ESTABLISHED": 43,
+        "WINDOW_INCOMPATIBLE": 6,
+        "DENOMINATOR_OR_COUNTING_UNIT": 5,
+        "POPULATION_INCOMPATIBLE": 2
+      },
+      "pilot_labels": {
+        "ITT_as_randomized": {
+          "partial_reference": 22,
+          "reference_unverifiable": 8
+        },
+        "on_treatment": {
+          "partial_reference": 18,
+          "reference_unverifiable": 12
+        }
+      }
+    },
+    "R2": {
+      "dossiers": 176,
+      "positions": 663,
+      "pilot_positions": 30,
+      "cumulative_labels": {
+        "reference_unverifiable": 383,
+        "public_source_unavailable": 259,
+        "complete_derived": 14,
+        "complete_direct": 6,
+        "partial_reference": 1
+      },
+      "source_scoped_labels": {
+        "partial_reference": 44,
+        "not_reconstructible_in_examined_corpus": 262,
+        "reference_unverifiable": 337,
+        "complete_derived": 14,
+        "complete_direct": 6
+      },
+      "primary_source_examined": {
+        "yes": 333,
+        "no": 330
+      },
+      "source_access": {
+        "one_or_more_obtained_sources_unexamined": 389,
+        "mixed_access": 188,
+        "one_or_more_sources_unobtained": 85,
+        "all_relevant_sources_obtained_and_examined": 1
+      },
+      "declared_separate_before_discussion": {
+        "yes": 663
+      },
+      "declared_prior_exposure": {
+        "yes": 663
+      },
+      "declared_substantive_AI": {
+        "no": 663
+      },
+      "assessed_at_values": {
+        "2026-11-04T23:48:45-03:00": 663
+      },
+      "armwise_count_field_types": {
+        "dict": 64,
+        "str": 599
+      },
+      "generic_unknown_numeric_count_text": 599,
+      "mechanisms_nonexclusive": {
+        "NOT_ESTABLISHED": 43,
+        "SOURCE_NOT_EXAMINED": 561,
+        "RESULT_NOT_PRESENTED_IN_EXAMINED_SCOPE": 267,
+        "SOURCE_NOT_OBTAINED": 259,
+        "WINDOW_INCOMPATIBLE": 6,
+        "POPULATION_INCOMPATIBLE": 2,
+        "DENOMINATOR_OR_COUNTING_UNIT": 5
+      },
+      "pilot_labels": {
+        "ITT_as_randomized": {
+          "partial_reference": 22,
+          "reference_unverifiable": 8
+        },
+        "on_treatment": {
+          "partial_reference": 18,
+          "reference_unverifiable": 12
+        }
+      }
+    }
+  }
+}

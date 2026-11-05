@@ -1,0 +1,74 @@
+{
+  "schema": "paired-documentary-agreement-v1",
+  "date": "2026-11-05",
+  "protocol_id": "MAJOR-REVIEW-SEPARATE-ASSESSMENT-663-20261104-v1",
+  "interpretation": [
+    "Independence is reported by the authors for the two corrected locked sets; no contrary inference is made from matching answers.",
+    "All positions disclose prior project exposure. This is internal, retrospective, non-memory-blinded agreement, not external validation.",
+    "The enriched 663-position set includes a complete-position census and two stratified samples. Its unweighted coefficient is descriptive of this set, not a prevalence or accuracy estimate.",
+    "Rater agreement does not establish scientific accuracy or full re-examination of the source package. Source-scoped and cumulative labels are separate.",
+    "Repeated positions occur within trials. No binomial confidence interval, independence assumption, external error rate or clinical effect was calculated.",
+    "Design weights are retained for reproducibility. Weighted descriptive agreement is shown separately within each stated historical position frame; no error-rate extrapolation is made."
+  ],
+  "metadata_scope": "Report wording and extra reported coverage aggregates; these aggregates are not recomputed from privacy-minimised labels. All agreement cells and label/source coverage are recomputed.",
+  "reported_coverage_not_derivable_from_minimal_pair": {
+    "R1": {
+      "assessed_at_values": {
+        "2026-11-04T23:48:45-03:00": 663
+      },
+      "armwise_count_field_types": {
+        "str": 599,
+        "dict": 64
+      },
+      "generic_unknown_numeric_count_text": 599,
+      "mechanisms_nonexclusive": {
+        "RESULT_NOT_PRESENTED_IN_EXAMINED_SCOPE": 267,
+        "SOURCE_NOT_EXAMINED": 561,
+        "SOURCE_NOT_OBTAINED": 259,
+        "NOT_ESTABLISHED": 43,
+        "WINDOW_INCOMPATIBLE": 6,
+        "DENOMINATOR_OR_COUNTING_UNIT": 5,
+        "POPULATION_INCOMPATIBLE": 2
+      },
+      "pilot_labels": {
+        "ITT_as_randomized": {
+          "partial_reference": 22,
+          "reference_unverifiable": 8
+        },
+        "on_treatment": {
+          "partial_reference": 18,
+          "reference_unverifiable": 12
+        }
+      }
+    },
+    "R2": {
+      "assessed_at_values": {
+        "2026-11-04T23:48:45-03:00": 663
+      },
+      "armwise_count_field_types": {
+        "dict": 64,
+        "str": 599
+      },
+      "generic_unknown_numeric_count_text": 599,
+      "mechanisms_nonexclusive": {
+        "NOT_ESTABLISHED": 43,
+        "SOURCE_NOT_EXAMINED": 561,
+        "RESULT_NOT_PRESENTED_IN_EXAMINED_SCOPE": 267,
+        "SOURCE_NOT_OBTAINED": 259,
+        "WINDOW_INCOMPATIBLE": 6,
+        "POPULATION_INCOMPATIBLE": 2,
+        "DENOMINATOR_OR_COUNTING_UNIT": 5
+      },
+      "pilot_labels": {
+        "ITT_as_randomized": {
+          "partial_reference": 22,
+          "reference_unverifiable": 8
+        },
+        "on_treatment": {
+          "partial_reference": 18,
+          "reference_unverifiable": 12
+        }
+      }
+    }
+  }
+}

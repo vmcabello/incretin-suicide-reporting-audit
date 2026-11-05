@@ -28,5 +28,6 @@ def main():
             if actual!=expected:
                 raise SystemExit('Recorded-reason inventory differs: '+name)
     subprocess.run([sys.executable,'-B',str(ROOT/'search_trace/validate_search_trace.py'),'--root',str(ROOT/'search_trace')],check=True)
-    print(json.dumps({'integrity_files':len(manifest['files']),'exact_result_reproduction':True,'recorded_reason_outputs_reproduced':len(expected_names),'search_trace_checked':True,'human_reassessment_completed':False,'clinical_effect_analysis':False}))
+    subprocess.run([sys.executable,'-B',str(ROOT/'validation/reproduce_agreement.py'),'--root',str(ROOT/'validation'),'--check'],check=True)
+    print(json.dumps({'integrity_files':len(manifest['files']),'exact_result_reproduction':True,'recorded_reason_outputs_reproduced':len(expected_names),'search_trace_checked':True,'locked_paired_returns_integrated':True,'descriptive_agreement_reproduced':True,'full_source_revalidation_completed':False,'clinical_effect_analysis':False}))
 if __name__=='__main__':main()

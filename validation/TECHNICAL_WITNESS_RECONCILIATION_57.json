@@ -1,0 +1,3866 @@
+{
+  "scope": "AI technical evidence reconciliation, not a new human vote or a claim of complete independent human re-extraction.",
+  "all_57_historical_positive_positions_retained": true,
+  "human_raw_labels_unchanged": true,
+  "source_original_checks": [
+    {
+      "source_id": "SRC-704827a2232f64f35ec3d90b",
+      "sha256": "704827a2232f64f35ec3d90bc31dc9cf0b863efa5ca8e11f61cd62848247f6ad",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-88198dfa955eb9e1b03c00dc",
+      "sha256": "88198dfa955eb9e1b03c00dc004f9380e690fe0cf2ad44d375eccbe096e0846f",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-a340c011e52f9440ddd3e020",
+      "sha256": "a340c011e52f9440ddd3e020b004f9d66730f300dc5fa4a7371f1c3a825d6e0e",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-d0057bb5db95a0736222d0b1",
+      "sha256": "d0057bb5db95a0736222d0b1ecd96dc184a49248755a9f04d48c21cecec10292",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-e80523f07d7e31fe7ab3550a",
+      "sha256": "e80523f07d7e31fe7ab3550aca68e6abfc2d62f56a989bdc08b6a5b148ce56c8",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-44d0dd4e9861f15d4a62bd80",
+      "sha256": "44d0dd4e9861f15d4a62bd805004f558c124de01709151fe81a8d5cf8833aeef",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-85904d66b961058e43e683ee",
+      "sha256": "85904d66b961058e43e683eec20a74ba4033b0e4899afb45ac0294d3d8cea473",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-23e891d47a17c21baa1211bf",
+      "sha256": "23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-4715d6e6be70bf9015ab4907",
+      "sha256": "4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-dd8591da03ad8a8c53fb59e4",
+      "sha256": "dd8591da03ad8a8c53fb59e478c344590f0ed69a61374637eed7de293c882c75",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-3fc115527f80fde844481f47",
+      "sha256": "3fc115527f80fde844481f4703c970bc3dcfcf0bbad84d62ff18adbe3df601c3",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": true,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-c72f731e42388b6c487227da",
+      "sha256": "c72f731e42388b6c487227dad81361bf2b56f64ac8875063ae06dab8d9c2ce7c",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-4ffc5bea39958298693d4c7c",
+      "sha256": "4ffc5bea39958298693d4c7c340173b79647651c940c95b7cf4b4233e7ddda4e",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-928e5d0e0d010ed5308d0840",
+      "sha256": "928e5d0e0d010ed5308d084087859cb7ca3cef707ad7a948a643aef81b529f36",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-5bd929df338d94e534d8c062",
+      "sha256": "5bd929df338d94e534d8c062eeaea661cde622f8c481d02f6a376a35e64c5d2b",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-aae90dd106a53892edfda7bf",
+      "sha256": "aae90dd106a53892edfda7bf46a7757f66b534fa71023c3200582f26211325f8",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-0a16d146000a107993cb580a",
+      "sha256": "0a16d146000a107993cb580a48a928f5d28f4e176b288b171236a8985c81327e",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-4e8b6e5755cfe47ccf9bdf3e",
+      "sha256": "4e8b6e5755cfe47ccf9bdf3e9dbb54f7a5e9f919b9e1312b24234e41ce6191fb",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-b723e838394253fcaa50477d",
+      "sha256": "b723e838394253fcaa50477dfc0a3de3f14112ab2896a9478d07b422bd651e70",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-8004a55f9a5aa9132d286876",
+      "sha256": "8004a55f9a5aa9132d2868764899e526fd55e0518b8c6ccbb19354f48d7d0daa",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-caa8a6775bacc0cd91dfe876",
+      "sha256": "caa8a6775bacc0cd91dfe8766622bb68a027d600427d5331bfcb041ce2c83601",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-5dce9847109da9f3bda7d9f8",
+      "sha256": "5dce9847109da9f3bda7d9f86cd7a11ba144bb910587874f87c1f79aa1b857b1",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    },
+    {
+      "source_id": "SRC-90a73121e213a52e58b4f833",
+      "sha256": "90a73121e213a52e58b4f833497f4dab1b8ec6cd37d10ad216aee78369bfd36d",
+      "hash_verified": true,
+      "neutral_catalogue_route_absent": false,
+      "original_primary_source_bytes_inspected_in_directed_technical_scope": true,
+      "does_not_certify_who_read_or_external_independence": true
+    }
+  ],
+  "rows": [
+    {
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B1",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT03811574:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03811574:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-028bc7700463332b11c0",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "complete_derived",
+        "R2": "complete_derived"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "OwnprimaryarticleTable3andmortalitystatement identify full exposed safety population and in-trial window. The1.7mg arm has100exposed,not101randomized. The article pools two placebo subarms once.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 199,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "semaglutide1.7mg",
+            "exposed_N": 100,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "pooledplacebo",
+            "exposed_N": 101,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "Baseline to week75:68treatment weeks+7off-treatmentweeks; fatalrow explicitly in-trial",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-dd8591da03ad8a8c53fb59e4"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-dd8591da03ad8a8c53fb59e4",
+            "sha256": "dd8591da03ad8a8c53fb59e478c344590f0ed69a61374637eed7de293c882c75",
+            "locator": "PDF3design68+7weeks;4safetyoutcomesto75/SAS>=1dose;5flow199/100/101;10no-deathstatement;11Table3Fatal events*=0allgroups,*in-trial"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "Do not duplicate the pooledplacebo101 into two independent controls.",
+          "No complete-vital-status guarantee beyond public reporting scope."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05963022:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "A",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05963022:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05963022:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-1725d4a3595c68a00f14",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "ArticleandregistrybothreportexplicitzeroandcompleteownSASNs;articleSSincludesdataafterrescueorcessationthrough4weekfollow-up. All206randomizedtreated.",
+        "target_arms_and_counts": [
+          {
+            "arm": "tirzepatide5mg",
+            "exposed_N": 52,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "tirzepatide10mg",
+            "exposed_N": 51,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "tirzepatide15mg",
+            "exposed_N": 52,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 51,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "40treatmentweeks+4weekplannedfollow-up,throughweek44",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-5dce9847109da9f3bda7d9f8"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-5dce9847109da9f3bda7d9f8",
+            "sha256": "5dce9847109da9f3bda7d9f86cd7a11ba144bb910587874f87c1f79aa1b857b1",
+            "locator": "PDF3all206received>=1dose;4flow/IWRSdeviation;8no deaths;9Table3Deaths0all4arms;14design40+4weeks;16SSallmITTdataregardlessrescue/adherence"
+          },
+          {
+            "source_id": "SRC-90a73121e213a52e58b4f833",
+            "sha256": "90a73121e213a52e58b4f833497f4dab1b8ec6cd37d10ad216aee78369bfd36d",
+            "locator": "Registryidentification/design/eligibility;adverseEventsModuleallcause0Ns52/51/52/51,baselineuptoweek44,allrandomizedreceived>=1dose;participantFlow"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "IWRSdeviation45participantsassigned10mgreceived5mgduringweeks24–40preserved. Doesnotchange universalallcausezero but mustnotbehidden in adose-specific treatment-effectanalysis."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "component": "suicidal_ideation",
+      "stage": "B2",
+      "modality": "adverse_event_reports",
+      "reference_id": "NCT03693430:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03693430:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-179537d6146d9f0152bd",
+      "historical_baseline_classification": "complete_direct",
+      "raw_cumulative_classification": {
+        "R1": "complete_direct",
+        "R2": "complete_direct"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_direct",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Directly tabulated explicit0/0 for both ideation andattempt in the ownSTEP5columns; participantunit andfulltreatedSAS confirmed in tablefootnote and articlemethods. No pooledSTEP1–3counts transferred.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 152,
+            "reported_ideation_participants": 0,
+            "reported_attempt_participants": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 152,
+            "reported_ideation_participants": 0,
+            "reported_attempt_participants": 0
+          }
+        ],
+        "target_window": "104treatment weeks plus planned7week follow-up,up to111weeks forAE reporting",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-23e891d47a17c21baa1211bf",
+          "SRC-4715d6e6be70bf9015ab4907"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-23e891d47a17c21baa1211bf",
+            "sha256": "23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c",
+            "locator": "Wadden2024Supplement5,eTable8PDF20ideation/attemptrows ownSTEP5columns;21No.=participants>=1event,SAS/intrial footnote"
+          },
+          {
+            "source_id": "SRC-4715d6e6be70bf9015ab4907",
+            "sha256": "4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9",
+            "locator": "XMLH3-4-IOI240054ReportingNeuropsychiatricAEs;H2-3-IOI240054StatisticalMethods:STEP5separate,SAS>=1dose,intrial+7weeksfollow-up"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "This is adverse-event modality only. C-SSRS structured observations have different respondents/window and are not made complete by this witness.",
+          "The missing internalSRC-7964...receipt and other unread sources do not negate this compatible complete source."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT03086330:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B2",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-186b738bd72ceb409008",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "complete_derived",
+        "R2": "complete_derived"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Use the article-defined exact witness: fatal events in full safety population150/151, regardless of treatment exposure/rescue, and explicit no-deaths statement. The newly complete registry-only rationale is corroborative but its generic42-daytimeframe is not silently equated with the article5weeks.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide1.0mg",
+            "exposed_N": 150,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 151,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "Published initial parallel trial:30weeks treatment+5weeks planned follow-up; fatal row explicitly in-trial",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-44d0dd4e9861f15d4a62bd80",
+          "SRC-85904d66b961058e43e683ee"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-44d0dd4e9861f15d4a62bd80",
+            "sha256": "44d0dd4e9861f15d4a62bd805004f558c124de01709151fe81a8d5cf8833aeef",
+            "locator": "PDF3parallelflow30treatment+5follow-upweeks;6fullSASfatalintrial regardless exposure/rescue;8Table3fatal0/0+dagger/fullfootnote;9explicitno deaths"
+          },
+          {
+            "source_id": "SRC-85904d66b961058e43e683ee",
+            "sha256": "85904d66b961058e43e683eec20a74ba4033b0e4899afb45ac0294d3d8cea473",
+            "locator": "resultsSection.adverseEventsModule0deaths150/151;participantFlowExposed150/151;timeFrame retains42-daygenericlabel"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "Preserve both source versions and their distinct5week/42daylabels. No averaging or unsupported harmonization.",
+          "NewA/B1records have no source examined, but the historical article witness is available in those layers."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05035095:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B3",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05035095:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05035095:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-199caeb6ff0b948aaa74",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Zero fatalrowisexplicitlythein-trialexception, withtreatedN334/333andno-deathstatement. ActualreceivedSASdefinition and in-trial period are retained without a newITTclaim.",
+        "target_arms_and_counts": [
+          {
+            "arm": "oralsemaglutide50mg",
+            "exposed_N": 334,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 333,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "68treatmentweeks+7off-treatmentweeks,throughweek75",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-5bd929df338d94e534d8c062"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-5bd929df338d94e534d8c062",
+            "sha256": "5bd929df338d94e534d8c062eeaea661cde622f8c481d02f6a376a35e64c5d2b",
+            "locator": "PDF3design68+7weeks/flow334/333;4safetyto75;5SAS/intrialdefinition;10Table3fatal0/0/nodeathstatement;11fullfootnotedaggerintrial"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "The column percentages and mostTEAErows alone do not establish full target window; use fataldagger and ownmethods."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05963022:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B2",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05963022:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05963022:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-1bbfb55488c6e4d099e6",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "complete_derived",
+        "R2": "complete_derived"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "ArticleandregistrybothreportexplicitzeroandcompleteownSASNs;articleSSincludesdataafterrescueorcessationthrough4weekfollow-up. All206randomizedtreated.",
+        "target_arms_and_counts": [
+          {
+            "arm": "tirzepatide5mg",
+            "exposed_N": 52,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "tirzepatide10mg",
+            "exposed_N": 51,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "tirzepatide15mg",
+            "exposed_N": 52,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 51,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "40treatmentweeks+4weekplannedfollow-up,throughweek44",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-5dce9847109da9f3bda7d9f8",
+          "SRC-90a73121e213a52e58b4f833"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-5dce9847109da9f3bda7d9f8",
+            "sha256": "5dce9847109da9f3bda7d9f86cd7a11ba144bb910587874f87c1f79aa1b857b1",
+            "locator": "PDF3all206received>=1dose;4flow/IWRSdeviation;8no deaths;9Table3Deaths0all4arms;14design40+4weeks;16SSallmITTdataregardlessrescue/adherence"
+          },
+          {
+            "source_id": "SRC-90a73121e213a52e58b4f833",
+            "sha256": "90a73121e213a52e58b4f833497f4dab1b8ec6cd37d10ad216aee78369bfd36d",
+            "locator": "Registryidentification/design/eligibility;adverseEventsModuleallcause0Ns52/51/52/51,baselineuptoweek44,allrandomizedreceived>=1dose;participantFlow"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "IWRSdeviation45participantsassigned10mgreceived5mgduringweeks24–40preserved. Doesnotchange universalallcausezero but mustnotbehidden in adose-specific treatment-effectanalysis."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05035095:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B2",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05035095:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05035095:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-1e2166b41ea48bbfd40d",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Zero fatalrowisexplicitlythein-trialexception, withtreatedN334/333andno-deathstatement. ActualreceivedSASdefinition and in-trial period are retained without a newITTclaim.",
+        "target_arms_and_counts": [
+          {
+            "arm": "oralsemaglutide50mg",
+            "exposed_N": 334,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 333,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "68treatmentweeks+7off-treatmentweeks,throughweek75",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-5bd929df338d94e534d8c062"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-5bd929df338d94e534d8c062",
+            "sha256": "5bd929df338d94e534d8c062eeaea661cde622f8c481d02f6a376a35e64c5d2b",
+            "locator": "PDF3design68+7weeks/flow334/333;4safetyto75;5SAS/intrialdefinition;10Table3fatal0/0/nodeathstatement;11fullfootnotedaggerintrial"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "The column percentages and mostTEAErows alone do not establish full target window; use fataldagger and ownmethods."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05963022:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B1",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05963022:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05963022:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-2786dcc4347edf37c0eb",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "ArticleandregistrybothreportexplicitzeroandcompleteownSASNs;articleSSincludesdataafterrescueorcessationthrough4weekfollow-up. All206randomizedtreated.",
+        "target_arms_and_counts": [
+          {
+            "arm": "tirzepatide5mg",
+            "exposed_N": 52,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "tirzepatide10mg",
+            "exposed_N": 51,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "tirzepatide15mg",
+            "exposed_N": 52,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 51,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "40treatmentweeks+4weekplannedfollow-up,throughweek44",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-5dce9847109da9f3bda7d9f8"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-5dce9847109da9f3bda7d9f8",
+            "sha256": "5dce9847109da9f3bda7d9f86cd7a11ba144bb910587874f87c1f79aa1b857b1",
+            "locator": "PDF3all206received>=1dose;4flow/IWRSdeviation;8no deaths;9Table3Deaths0all4arms;14design40+4weeks;16SSallmITTdataregardlessrescue/adherence"
+          },
+          {
+            "source_id": "SRC-90a73121e213a52e58b4f833",
+            "sha256": "90a73121e213a52e58b4f833497f4dab1b8ec6cd37d10ad216aee78369bfd36d",
+            "locator": "Registryidentification/design/eligibility;adverseEventsModuleallcause0Ns52/51/52/51,baselineuptoweek44,allrandomizedreceived>=1dose;participantFlow"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "IWRSdeviation45participantsassigned10mgreceived5mgduringweeks24–40preserved. Doesnotchange universalallcausezero but mustnotbehidden in adose-specific treatment-effectanalysis."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT04039503:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B1",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT04039503:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT04039503:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-2d38e670cd786be01859",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "public_source_unavailable",
+        "R2": "public_source_unavailable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Own article explicitly states no deaths occurred during the study, with all475randomized participants treated and Table3full safetydenominators116/119/120/120. Table3includes through4weeks aftertreatmentdiscontinuation.",
+        "target_arms_and_counts": [
+          {
+            "arm": "tirzepatide5mg",
+            "exposed_N": 116,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "tirzepatide10mg",
+            "exposed_N": 119,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "tirzepatide15mg",
+            "exposed_N": 120,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 120,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "40weeks treatment followed by4weeks safety follow-up",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-3fc115527f80fde844481f47"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-3fc115527f80fde844481f47",
+            "sha256": "3fc115527f80fde844481f4703c970bc3dcfcf0bbad84d62ff18adbe3df601c3",
+            "locator": "OriginalPMCarticleHTML:MethodsStudyDesign/Patients/TrialProcedures/StatisticalAnalysis;ResultsAdverseEvents;Table3title and allarmcolumns/footnotes"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "The new neutral catalogue has no route for this source, but the exact originalHTML exists locally and its hash matches; this is a retrieval-map defect,not demonstrated unavailable primary content."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "component": "suicide_death",
+      "stage": "B3",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05412004:GPI2::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05412004:GPI2::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-2f39c537a41431fd518d",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "public_source_unavailable",
+        "R2": "public_source_unavailable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Exact ownGPI2eventgroups explicitlyreport allcause0in119/114exposed, matching received-doseflow andbaseline-throughfollow-upwindow. Randomized120/115are notexposedcounts.",
+        "target_arms_and_counts": [
+          {
+            "arm": "tirzepatideMTD_GPI2",
+            "exposed_N": 119,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo_GPI2",
+            "exposed_N": 114,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "52weeks initial treatment+4weekfollow-up,baseline to56weeks",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-0a16d146000a107993cb580a"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-0a16d146000a107993cb580a",
+            "sha256": "0a16d146000a107993cb580a48a928f5d28f4e176b288b171236a8985c81327e",
+            "locator": "Registryidentification/design/eligibility; adverseEventsModuletimeFrame/description/eventGroupsEG002–003;participantFlowrecruitmentDetails+Received>=1dose; separateGPI1/GPI2"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "No poolingortransferfromGPI1.",
+          "Currentrawpartial/unavailable label doesnot invalidate the explicitprimaryzero/N/windowpremises alreadyextracted."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT03018028:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "A",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT03018028:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03018028:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-39a6bbf0e424fb18cd43",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Explicit no deaths in both observation periods, corroborated by allcausezero in each own registryarm and matching full SAS. The article Table3title alone sayson-treatment; the positive full-window proof additionally requires the p10in-trial statement and registrydefinition.",
+        "target_arms_and_counts": [
+          {
+            "arm": "oral semaglutide3mg",
+            "exposed_N": 49,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "oral semaglutide7mg",
+            "exposed_N": 49,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "oral semaglutide14mg",
+            "exposed_N": 48,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 49,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "liraglutide0.9mg",
+            "exposed_N": 48,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "Baseline to week57:52treatment weeks+5follow-upweeks; mortality explicitly in-trial",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-d0057bb5db95a0736222d0b1"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-d0057bb5db95a0736222d0b1",
+            "sha256": "d0057bb5db95a0736222d0b1ecd96dc184a49248755a9f04d48c21cecec10292",
+            "locator": "PDF3design52+5weeks;4flow49/49/48/49/48;7deathintrialexception;10explicit no deaths in either on-treatment or in-trial period;12Table3fatalrow"
+          },
+          {
+            "source_id": "SRC-e80523f07d7e31fe7ab3550a",
+            "sha256": "e80523f07d7e31fe7ab3550aca68e6abfc2d62f56a989bdc08b6a5b148ce56c8",
+            "locator": "protocolSection.identity/eligibility/design; resultsSection.adverseEventsModule timeFrame/description/eventGroups;participantFlowSAS"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "Do not treat safety by product actually received as a new ITT sensitivity.",
+          "Printed phase2/3a versus registryPHASE3 is preserved as historical phase metadata, not amended into a universal phase rule."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05564117:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B2",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05564117:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05564117:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-404e546c59da697eb2f4",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "public_source_unavailable",
+        "R2": "public_source_unavailable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Registrymortality0amongallrandomized205/102over71weeks contains theoriginalexposedsubset. ExposedN204/102is independentlydocumented in itsSASmilestone and ownarticle. Thereforezero is preserved for theexposedsubset;205mustnotberelabeledexposed.",
+        "target_arms_and_counts": [
+          {
+            "arm": "oralsemaglutide25mg",
+            "exposed_N": 204,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 102,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "64treatmentweeks+7follow-upweeks,throughweek71",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-4e8b6e5755cfe47ccf9bdf3e",
+          "SRC-b723e838394253fcaa50477d"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-4e8b6e5755cfe47ccf9bdf3e",
+            "sha256": "4e8b6e5755cfe47ccf9bdf3e9dbb54f7a5e9f919b9e1312b24234e41ce6191fb",
+            "locator": "Registryidentification/design/eligibility; adverseEventsModule explicitallrandomizedmortality0/205and0/102to71weeks, distinctfromAE/SAS;participantFlowSAS204/102"
+          },
+          {
+            "source_id": "SRC-b723e838394253fcaa50477d",
+            "sha256": "b723e838394253fcaa50477dfc0a3de3f14112ab2896a9478d07b422bd651e70",
+            "locator": "OriginalpublishedcopyPDF2population;3safetydefinition64+7weeks;8Table3fullsafetyN204/102;9no-deathstatement"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "ArticleTable3alone is on-treatment; full71weekmortalityproof comesfrom registryallcausemortality, not automatic extensionofTEAEs.",
+          "ClinicalpublicationandSASfields corroborate the reference; no newITT sensitivity iscreated."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "component": "suicide_attempt",
+      "stage": "B3",
+      "modality": "adverse_event_reports",
+      "reference_id": "NCT03693430:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03693430:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-4bf2bad06f9412328d0f",
+      "historical_baseline_classification": "complete_direct",
+      "raw_cumulative_classification": {
+        "R1": "complete_direct",
+        "R2": "complete_direct"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_direct",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Directly tabulated explicit0/0 for both ideation andattempt in the ownSTEP5columns; participantunit andfulltreatedSAS confirmed in tablefootnote and articlemethods. No pooledSTEP1–3counts transferred.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 152,
+            "reported_ideation_participants": 0,
+            "reported_attempt_participants": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 152,
+            "reported_ideation_participants": 0,
+            "reported_attempt_participants": 0
+          }
+        ],
+        "target_window": "104treatment weeks plus planned7week follow-up,up to111weeks forAE reporting",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-23e891d47a17c21baa1211bf",
+          "SRC-4715d6e6be70bf9015ab4907"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-23e891d47a17c21baa1211bf",
+            "sha256": "23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c",
+            "locator": "Wadden2024Supplement5,eTable8PDF20ideation/attemptrows ownSTEP5columns;21No.=participants>=1event,SAS/intrial footnote"
+          },
+          {
+            "source_id": "SRC-4715d6e6be70bf9015ab4907",
+            "sha256": "4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9",
+            "locator": "XMLH3-4-IOI240054ReportingNeuropsychiatricAEs;H2-3-IOI240054StatisticalMethods:STEP5separate,SAS>=1dose,intrial+7weeksfollow-up"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "This is adverse-event modality only. C-SSRS structured observations have different respondents/window and are not made complete by this witness.",
+          "The missing internalSRC-7964...receipt and other unread sources do not negate this compatible complete source."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "component": "suicide_death",
+      "stage": "B2",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05412004:GPI1::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05412004:GPI1::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-4ea26568bd15e45bce7a",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "public_source_unavailable",
+        "R2": "public_source_unavailable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Exact ownGPI1eventgroups explicitlyreport allcause0in114/120exposed, matching received-doseflow andbaseline-throughfollow-upwindow. The validatedsubset derivation does not require every additionalpublication/receipt to be available.",
+        "target_arms_and_counts": [
+          {
+            "arm": "tirzepatideMTD_GPI1",
+            "exposed_N": 114,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo_GPI1",
+            "exposed_N": 120,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "52weeks initial treatment+4weekfollow-up,baseline to56weeks",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-0a16d146000a107993cb580a"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-0a16d146000a107993cb580a",
+            "sha256": "0a16d146000a107993cb580a48a928f5d28f4e176b288b171236a8985c81327e",
+            "locator": "Registryidentification/design/eligibility; adverseEventsModuletimeFrame/description/eventGroupsEG000–001;participantFlowrecruitmentDetails+Received>=1dose; separateGPI1/GPI2"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "GPI1/GPI2have different participants andmust remain distinct units.",
+          "The currentrawpartial/unavailabledecision itself extracts thesecompatiblezero/N/windowfacts; technicalruleapplication differs from rawlabel,which remains preserved."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B3",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT03811574:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03811574:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-514b8c9860685936dc3f",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "complete_derived",
+        "R2": "complete_derived"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "OwnprimaryarticleTable3andmortalitystatement identify full exposed safety population and in-trial window. The1.7mg arm has100exposed,not101randomized. The article pools two placebo subarms once.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 199,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "semaglutide1.7mg",
+            "exposed_N": 100,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "pooledplacebo",
+            "exposed_N": 101,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "Baseline to week75:68treatment weeks+7off-treatmentweeks; fatalrow explicitly in-trial",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-dd8591da03ad8a8c53fb59e4"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-dd8591da03ad8a8c53fb59e4",
+            "sha256": "dd8591da03ad8a8c53fb59e478c344590f0ed69a61374637eed7de293c882c75",
+            "locator": "PDF3design68+7weeks;4safetyoutcomesto75/SAS>=1dose;5flow199/100/101;10no-deathstatement;11Table3Fatal events*=0allgroups,*in-trial"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "Do not duplicate the pooledplacebo101 into two independent controls.",
+          "No complete-vital-status guarantee beyond public reporting scope."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT01169779:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B3",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT01169779:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT01169779:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-5e3a31f7fd24d9394cf9",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "complete_derived",
+        "R2": "complete_derived"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Explicit no-deaths statement for the study and zero fatal participants in each treated arm. Randomizedplacebo195 and mITT195/193 are not substituted for exposed196/194.",
+        "target_arms_and_counts": [
+          {
+            "arm": "lixisenatide",
+            "exposed_N": 196,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 194,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "24weeks initial parallel treatment plus3days safety follow-up",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-704827a2232f64f35ec3d90b"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-704827a2232f64f35ec3d90b",
+            "sha256": "704827a2232f64f35ec3d90bc31dc9cf0b863efa5ca8e11f61cd62848247f6ad",
+            "locator": "PDF2paralleltrial;3safetydefinition/24weeks+3days;4randomized/exposedflow;5no-deathstatement;6Table2fatalrow"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "SRC-3bd303ea4c2ec55f5dcd469d is an internal browser receipt, not another missing primary article.",
+          "The article does not certify complete vital ascertainment for every original participant beyond its documented follow-up."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT01169779:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "A",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT01169779:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT01169779:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-5f2e0fb1542b4f238af8",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "complete_derived",
+        "R2": "complete_derived"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Explicit no-deaths statement for the study and zero fatal participants in each treated arm. Randomizedplacebo195 and mITT195/193 are not substituted for exposed196/194.",
+        "target_arms_and_counts": [
+          {
+            "arm": "lixisenatide",
+            "exposed_N": 196,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 194,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "24weeks initial parallel treatment plus3days safety follow-up",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-704827a2232f64f35ec3d90b"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-704827a2232f64f35ec3d90b",
+            "sha256": "704827a2232f64f35ec3d90bc31dc9cf0b863efa5ca8e11f61cd62848247f6ad",
+            "locator": "PDF2paralleltrial;3safetydefinition/24weeks+3days;4randomized/exposedflow;5no-deathstatement;6Table2fatalrow"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "SRC-3bd303ea4c2ec55f5dcd469d is an internal browser receipt, not another missing primary article.",
+          "The article does not certify complete vital ascertainment for every original participant beyond its documented follow-up."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B1",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05646706:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05646706:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-60c7cd0c9e74265d4c88",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "OwnarticlefatalrowusesfullSAS1004/201/201andexplicitintrialfootnote. RegistryallrandomizedmortalityN1005is deliberatelyseparate; the positiveexposedwitness comesfrom thearticleandSASflow.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide7.2mg",
+            "exposed_N": 1004,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 201,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 201,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "72treatmentweeks+9weekplannedfollow-up,throughweek81",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-8004a55f9a5aa9132d286876"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-8004a55f9a5aa9132d286876",
+            "sha256": "8004a55f9a5aa9132d2868764899e526fd55e0518b8c6ccbb19354f48d7d0daa",
+            "locator": "PDF3design/eligibility72+9weeks;4SASandflow;9no fatalAE;11Table3N1004/201/201,fatal*=0,asteriskintrial"
+          },
+          {
+            "source_id": "SRC-caa8a6775bacc0cd91dfe876",
+            "sha256": "caa8a6775bacc0cd91dfe8766622bb68a027d600427d5331bfcb041ce2c83601",
+            "locator": "Registrymortalityallrandomized0/1005,0/201,0/201to81weeks andparticipantFlowseparateSAS1004/201/201"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "Do not carry1005asexposed.",
+          "CurrentreturnregistryrowN1005is correct only asreportedallrandomizedmortality; it doesnot refute articleSAS1004."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "component": "suicide_attempt",
+      "stage": "B1",
+      "modality": "adverse_event_reports",
+      "reference_id": "NCT03693430:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03693430:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-62a2e36ec4a6856cc48c",
+      "historical_baseline_classification": "complete_direct",
+      "raw_cumulative_classification": {
+        "R1": "complete_direct",
+        "R2": "complete_direct"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_direct",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Directly tabulated explicit0/0 for both ideation andattempt in the ownSTEP5columns; participantunit andfulltreatedSAS confirmed in tablefootnote and articlemethods. No pooledSTEP1–3counts transferred.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 152,
+            "reported_ideation_participants": 0,
+            "reported_attempt_participants": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 152,
+            "reported_ideation_participants": 0,
+            "reported_attempt_participants": 0
+          }
+        ],
+        "target_window": "104treatment weeks plus planned7week follow-up,up to111weeks forAE reporting",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-23e891d47a17c21baa1211bf",
+          "SRC-4715d6e6be70bf9015ab4907"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-23e891d47a17c21baa1211bf",
+            "sha256": "23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c",
+            "locator": "Wadden2024Supplement5,eTable8PDF20ideation/attemptrows ownSTEP5columns;21No.=participants>=1event,SAS/intrial footnote"
+          },
+          {
+            "source_id": "SRC-4715d6e6be70bf9015ab4907",
+            "sha256": "4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9",
+            "locator": "XMLH3-4-IOI240054ReportingNeuropsychiatricAEs;H2-3-IOI240054StatisticalMethods:STEP5separate,SAS>=1dose,intrial+7weeksfollow-up"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "This is adverse-event modality only. C-SSRS structured observations have different respondents/window and are not made complete by this witness.",
+          "The missing internalSRC-7964...receipt and other unread sources do not negate this compatible complete source."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT04039503:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "A",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT04039503:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT04039503:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-64fba5406c0e26471b00",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "public_source_unavailable",
+        "R2": "public_source_unavailable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Own article explicitly states no deaths occurred during the study, with all475randomized participants treated and Table3full safetydenominators116/119/120/120. Table3includes through4weeks aftertreatmentdiscontinuation.",
+        "target_arms_and_counts": [
+          {
+            "arm": "tirzepatide5mg",
+            "exposed_N": 116,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "tirzepatide10mg",
+            "exposed_N": 119,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "tirzepatide15mg",
+            "exposed_N": 120,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 120,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "40weeks treatment followed by4weeks safety follow-up",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-3fc115527f80fde844481f47"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-3fc115527f80fde844481f47",
+            "sha256": "3fc115527f80fde844481f4703c970bc3dcfcf0bbad84d62ff18adbe3df601c3",
+            "locator": "OriginalPMCarticleHTML:MethodsStudyDesign/Patients/TrialProcedures/StatisticalAnalysis;ResultsAdverseEvents;Table3title and allarmcolumns/footnotes"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "The new neutral catalogue has no route for this source, but the exact originalHTML exists locally and its hash matches; this is a retrieval-map defect,not demonstrated unavailable primary content."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B2",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT02160990:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT02160990:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-6ae54735d7d3d12589c5",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "All20participants completed, and the original article explicitly states no deaths. Both arms are adults with baselineBMI30–40. The primary registry explicitly statesPHASE4; pharmacodynamic wording is not used to invent phase.",
+        "target_arms_and_counts": [
+          {
+            "arm": "exenatide5micrograms twice daily",
+            "exposed_N": 10,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 10,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "Entire30-day administered parallel trial; no additional planned off-treatment interval identified",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-88198dfa955eb9e1b03c00dc",
+          "SRC-a340c011e52f9440ddd3e020"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-88198dfa955eb9e1b03c00dc",
+            "sha256": "88198dfa955eb9e1b03c00dc004f9380e690fe0cf2ad44d375eccbe096e0846f",
+            "locator": "XML sec3Study design;sec4Participants;sec9Safety assessments;sec22Adverse events;allcompleted/no-deathstatement"
+          },
+          {
+            "source_id": "SRC-a340c011e52f9440ddd3e020",
+            "sha256": "a340c011e52f9440ddd3e020b004f9d66730f300dc5fa4a7371f1c3a825d6e0e",
+            "locator": "protocolSection.designModule explicitPHASE4; eligibility; resultsSection.participantFlowModule10/10started/completed"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "New records designate the old complete article unexamined; that scoped rereview does not refute the archived exact primary witness."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT04039503:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B3",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT04039503:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT04039503:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-6b17703c2f0e185fcbb9",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "public_source_unavailable",
+        "R2": "public_source_unavailable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Own article explicitly states no deaths occurred during the study, with all475randomized participants treated and Table3full safetydenominators116/119/120/120. Table3includes through4weeks aftertreatmentdiscontinuation.",
+        "target_arms_and_counts": [
+          {
+            "arm": "tirzepatide5mg",
+            "exposed_N": 116,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "tirzepatide10mg",
+            "exposed_N": 119,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "tirzepatide15mg",
+            "exposed_N": 120,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 120,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "40weeks treatment followed by4weeks safety follow-up",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-3fc115527f80fde844481f47"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-3fc115527f80fde844481f47",
+            "sha256": "3fc115527f80fde844481f4703c970bc3dcfcf0bbad84d62ff18adbe3df601c3",
+            "locator": "OriginalPMCarticleHTML:MethodsStudyDesign/Patients/TrialProcedures/StatisticalAnalysis;ResultsAdverseEvents;Table3title and allarmcolumns/footnotes"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "The new neutral catalogue has no route for this source, but the exact originalHTML exists locally and its hash matches; this is a retrieval-map defect,not demonstrated unavailable primary content."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05132088:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B2",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05132088:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05132088:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-6d4ffec15597d745a63c",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Fatalrowexplicitfootnotecis in-trial regardlessdiscontinuation/otherweightloweringtherapy, althoughTable3title ison-treatment. Exposedplacebo66 is distinct from randomized67.",
+        "target_arms_and_counts": [
+          {
+            "arm": "oralsemaglutide50mg",
+            "exposed_N": 134,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 66,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "68treatmentweeks+7plannedoff-treatmentweeks,throughweek75",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-aae90dd106a53892edfda7bf"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-aae90dd106a53892edfda7bf",
+            "sha256": "aae90dd106a53892edfda7bf46a7757f66b534fa71023c3200582f26211325f8",
+            "locator": "PDF3SASand68+7weeks,intrial/on-treatmentdefinitions;4flow134/66exposed;9Table3Fatal eventsc0/0,footnotecintrial"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "SAPdictionaryCompletedSuicideis not an observedcount.",
+          "Week75attendees130/64do not replace the originalexposedSAS134/66."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT03018028:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B1",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT03018028:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03018028:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-6ed5825e8b6710317e3a",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Explicit no deaths in both observation periods, corroborated by allcausezero in each own registryarm and matching full SAS. The article Table3title alone sayson-treatment; the positive full-window proof additionally requires the p10in-trial statement and registrydefinition.",
+        "target_arms_and_counts": [
+          {
+            "arm": "oral semaglutide3mg",
+            "exposed_N": 49,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "oral semaglutide7mg",
+            "exposed_N": 49,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "oral semaglutide14mg",
+            "exposed_N": 48,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 49,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "liraglutide0.9mg",
+            "exposed_N": 48,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "Baseline to week57:52treatment weeks+5follow-upweeks; mortality explicitly in-trial",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-d0057bb5db95a0736222d0b1"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-d0057bb5db95a0736222d0b1",
+            "sha256": "d0057bb5db95a0736222d0b1ecd96dc184a49248755a9f04d48c21cecec10292",
+            "locator": "PDF3design52+5weeks;4flow49/49/48/49/48;7deathintrialexception;10explicit no deaths in either on-treatment or in-trial period;12Table3fatalrow"
+          },
+          {
+            "source_id": "SRC-e80523f07d7e31fe7ab3550a",
+            "sha256": "e80523f07d7e31fe7ab3550aca68e6abfc2d62f56a989bdc08b6a5b148ce56c8",
+            "locator": "protocolSection.identity/eligibility/design; resultsSection.adverseEventsModule timeFrame/description/eventGroups;participantFlowSAS"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "Do not treat safety by product actually received as a new ITT sensitivity.",
+          "Printed phase2/3a versus registryPHASE3 is preserved as historical phase metadata, not amended into a universal phase rule."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT01169779:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B2",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT01169779:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT01169779:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-799f831330678e95f134",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "complete_derived",
+        "R2": "complete_derived"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Explicit no-deaths statement for the study and zero fatal participants in each treated arm. Randomizedplacebo195 and mITT195/193 are not substituted for exposed196/194.",
+        "target_arms_and_counts": [
+          {
+            "arm": "lixisenatide",
+            "exposed_N": 196,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 194,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "24weeks initial parallel treatment plus3days safety follow-up",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-704827a2232f64f35ec3d90b"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-704827a2232f64f35ec3d90b",
+            "sha256": "704827a2232f64f35ec3d90bc31dc9cf0b863efa5ca8e11f61cd62848247f6ad",
+            "locator": "PDF2paralleltrial;3safetydefinition/24weeks+3days;4randomized/exposedflow;5no-deathstatement;6Table2fatalrow"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "SRC-3bd303ea4c2ec55f5dcd469d is an internal browser receipt, not another missing primary article.",
+          "The article does not certify complete vital ascertainment for every original participant beyond its documented follow-up."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "A",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT04251156:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT04251156:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-7d579b70eb195381db78",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Both arms explicitly exposed, zero fatalparticipants and no-deathstatement. FatalTable3usesin-trial unlike most otherAErows.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 249,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 126,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "44weeks initial treatment plus7weekplannedfollow-up,to week51",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-c72f731e42388b6c487227da"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-c72f731e42388b6c487227da",
+            "sha256": "c72f731e42388b6c487227dad81361bf2b56f64ac8875063ae06dab8d9c2ce7c",
+            "locator": "PDF3flow249/126alltreated;4SAS/intrialdefinition;5medianintrial51.1weeks;8explicitno deaths;10Table3Fatal eventsdagger0/0 anddaggerintrial"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "No transfer from T2Dsubgroup64/32 to whole-trial fataldenominators.",
+          "Broader registry serious-event counts14versus13affected are not a demonstrated suicide/fatal conflict."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "component": "suicidal_ideation",
+      "stage": "B3",
+      "modality": "adverse_event_reports",
+      "reference_id": "NCT03693430:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03693430:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-7ee7b763c5fd3134f22b",
+      "historical_baseline_classification": "complete_direct",
+      "raw_cumulative_classification": {
+        "R1": "complete_direct",
+        "R2": "complete_direct"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_direct",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Directly tabulated explicit0/0 for both ideation andattempt in the ownSTEP5columns; participantunit andfulltreatedSAS confirmed in tablefootnote and articlemethods. No pooledSTEP1–3counts transferred.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 152,
+            "reported_ideation_participants": 0,
+            "reported_attempt_participants": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 152,
+            "reported_ideation_participants": 0,
+            "reported_attempt_participants": 0
+          }
+        ],
+        "target_window": "104treatment weeks plus planned7week follow-up,up to111weeks forAE reporting",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-23e891d47a17c21baa1211bf",
+          "SRC-4715d6e6be70bf9015ab4907"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-23e891d47a17c21baa1211bf",
+            "sha256": "23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c",
+            "locator": "Wadden2024Supplement5,eTable8PDF20ideation/attemptrows ownSTEP5columns;21No.=participants>=1event,SAS/intrial footnote"
+          },
+          {
+            "source_id": "SRC-4715d6e6be70bf9015ab4907",
+            "sha256": "4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9",
+            "locator": "XMLH3-4-IOI240054ReportingNeuropsychiatricAEs;H2-3-IOI240054StatisticalMethods:STEP5separate,SAS>=1dose,intrial+7weeksfollow-up"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "This is adverse-event modality only. C-SSRS structured observations have different respondents/window and are not made complete by this witness.",
+          "The missing internalSRC-7964...receipt and other unread sources do not negate this compatible complete source."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B2",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT04251156:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT04251156:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-83bfa15a2f28c848debb",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Both arms explicitly exposed, zero fatalparticipants and no-deathstatement. FatalTable3usesin-trial unlike most otherAErows.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 249,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 126,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "44weeks initial treatment plus7weekplannedfollow-up,to week51",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-c72f731e42388b6c487227da"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-c72f731e42388b6c487227da",
+            "sha256": "c72f731e42388b6c487227dad81361bf2b56f64ac8875063ae06dab8d9c2ce7c",
+            "locator": "PDF3flow249/126alltreated;4SAS/intrialdefinition;5medianintrial51.1weeks;8explicitno deaths;10Table3Fatal eventsdagger0/0 anddaggerintrial"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "No transfer from T2Dsubgroup64/32 to whole-trial fataldenominators.",
+          "Broader registry serious-event counts14versus13affected are not a demonstrated suicide/fatal conflict."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B1",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT02160990:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT02160990:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-842216afba579549699b",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "All20participants completed, and the original article explicitly states no deaths. Both arms are adults with baselineBMI30–40. The primary registry explicitly statesPHASE4; pharmacodynamic wording is not used to invent phase.",
+        "target_arms_and_counts": [
+          {
+            "arm": "exenatide5micrograms twice daily",
+            "exposed_N": 10,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 10,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "Entire30-day administered parallel trial; no additional planned off-treatment interval identified",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-88198dfa955eb9e1b03c00dc"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-88198dfa955eb9e1b03c00dc",
+            "sha256": "88198dfa955eb9e1b03c00dc004f9380e690fe0cf2ad44d375eccbe096e0846f",
+            "locator": "XML sec3Study design;sec4Participants;sec9Safety assessments;sec22Adverse events;allcompleted/no-deathstatement"
+          },
+          {
+            "source_id": "SRC-a340c011e52f9440ddd3e020",
+            "sha256": "a340c011e52f9440ddd3e020b004f9d66730f300dc5fa4a7371f1c3a825d6e0e",
+            "locator": "protocolSection.designModule explicitPHASE4; eligibility; resultsSection.participantFlowModule10/10started/completed"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "New records designate the old complete article unexamined; that scoped rereview does not refute the archived exact primary witness."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT03018028:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B2",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT03018028:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03018028:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-8427fd26daba3764d04c",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "complete_derived",
+        "R2": "complete_derived"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Explicit no deaths in both observation periods, corroborated by allcausezero in each own registryarm and matching full SAS. The article Table3title alone sayson-treatment; the positive full-window proof additionally requires the p10in-trial statement and registrydefinition.",
+        "target_arms_and_counts": [
+          {
+            "arm": "oral semaglutide3mg",
+            "exposed_N": 49,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "oral semaglutide7mg",
+            "exposed_N": 49,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "oral semaglutide14mg",
+            "exposed_N": 48,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 49,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "liraglutide0.9mg",
+            "exposed_N": 48,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "Baseline to week57:52treatment weeks+5follow-upweeks; mortality explicitly in-trial",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-d0057bb5db95a0736222d0b1",
+          "SRC-e80523f07d7e31fe7ab3550a"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-d0057bb5db95a0736222d0b1",
+            "sha256": "d0057bb5db95a0736222d0b1ecd96dc184a49248755a9f04d48c21cecec10292",
+            "locator": "PDF3design52+5weeks;4flow49/49/48/49/48;7deathintrialexception;10explicit no deaths in either on-treatment or in-trial period;12Table3fatalrow"
+          },
+          {
+            "source_id": "SRC-e80523f07d7e31fe7ab3550a",
+            "sha256": "e80523f07d7e31fe7ab3550aca68e6abfc2d62f56a989bdc08b6a5b148ce56c8",
+            "locator": "protocolSection.identity/eligibility/design; resultsSection.adverseEventsModule timeFrame/description/eventGroups;participantFlowSAS"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "Do not treat safety by product actually received as a new ITT sensitivity.",
+          "Printed phase2/3a versus registryPHASE3 is preserved as historical phase metadata, not amended into a universal phase rule."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B3",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05646706:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05646706:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-8828cb8935bfd7650b0b",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "public_source_unavailable",
+        "R2": "public_source_unavailable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "OwnarticlefatalrowusesfullSAS1004/201/201andexplicitintrialfootnote. RegistryallrandomizedmortalityN1005is deliberatelyseparate; the positiveexposedwitness comesfrom thearticleandSASflow.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide7.2mg",
+            "exposed_N": 1004,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 201,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 201,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "72treatmentweeks+9weekplannedfollow-up,throughweek81",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-8004a55f9a5aa9132d286876",
+          "SRC-caa8a6775bacc0cd91dfe876"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-8004a55f9a5aa9132d286876",
+            "sha256": "8004a55f9a5aa9132d2868764899e526fd55e0518b8c6ccbb19354f48d7d0daa",
+            "locator": "PDF3design/eligibility72+9weeks;4SASandflow;9no fatalAE;11Table3N1004/201/201,fatal*=0,asteriskintrial"
+          },
+          {
+            "source_id": "SRC-caa8a6775bacc0cd91dfe876",
+            "sha256": "caa8a6775bacc0cd91dfe8766622bb68a027d600427d5331bfcb041ce2c83601",
+            "locator": "Registrymortalityallrandomized0/1005,0/201,0/201to81weeks andparticipantFlowseparateSAS1004/201/201"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "Do not carry1005asexposed.",
+          "CurrentreturnregistryrowN1005is correct only asreportedallrandomizedmortality; it doesnot refute articleSAS1004."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT03018028:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B3",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT03018028:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03018028:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-8e89751942cc4a500709",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "complete_derived",
+        "R2": "complete_derived"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Explicit no deaths in both observation periods, corroborated by allcausezero in each own registryarm and matching full SAS. The article Table3title alone sayson-treatment; the positive full-window proof additionally requires the p10in-trial statement and registrydefinition.",
+        "target_arms_and_counts": [
+          {
+            "arm": "oral semaglutide3mg",
+            "exposed_N": 49,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "oral semaglutide7mg",
+            "exposed_N": 49,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "oral semaglutide14mg",
+            "exposed_N": 48,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 49,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "liraglutide0.9mg",
+            "exposed_N": 48,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "Baseline to week57:52treatment weeks+5follow-upweeks; mortality explicitly in-trial",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-d0057bb5db95a0736222d0b1",
+          "SRC-e80523f07d7e31fe7ab3550a"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-d0057bb5db95a0736222d0b1",
+            "sha256": "d0057bb5db95a0736222d0b1ecd96dc184a49248755a9f04d48c21cecec10292",
+            "locator": "PDF3design52+5weeks;4flow49/49/48/49/48;7deathintrialexception;10explicit no deaths in either on-treatment or in-trial period;12Table3fatalrow"
+          },
+          {
+            "source_id": "SRC-e80523f07d7e31fe7ab3550a",
+            "sha256": "e80523f07d7e31fe7ab3550aca68e6abfc2d62f56a989bdc08b6a5b148ce56c8",
+            "locator": "protocolSection.identity/eligibility/design; resultsSection.adverseEventsModule timeFrame/description/eventGroups;participantFlowSAS"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "Do not treat safety by product actually received as a new ITT sensitivity.",
+          "Printed phase2/3a versus registryPHASE3 is preserved as historical phase metadata, not amended into a universal phase rule."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT04039503:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B2",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT04039503:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT04039503:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-9333f34d25e5e65363d4",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "public_source_unavailable",
+        "R2": "public_source_unavailable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Own article explicitly states no deaths occurred during the study, with all475randomized participants treated and Table3full safetydenominators116/119/120/120. Table3includes through4weeks aftertreatmentdiscontinuation.",
+        "target_arms_and_counts": [
+          {
+            "arm": "tirzepatide5mg",
+            "exposed_N": 116,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "tirzepatide10mg",
+            "exposed_N": 119,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "tirzepatide15mg",
+            "exposed_N": 120,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 120,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "40weeks treatment followed by4weeks safety follow-up",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-3fc115527f80fde844481f47"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-3fc115527f80fde844481f47",
+            "sha256": "3fc115527f80fde844481f4703c970bc3dcfcf0bbad84d62ff18adbe3df601c3",
+            "locator": "OriginalPMCarticleHTML:MethodsStudyDesign/Patients/TrialProcedures/StatisticalAnalysis;ResultsAdverseEvents;Table3title and allarmcolumns/footnotes"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "The new neutral catalogue has no route for this source, but the exact originalHTML exists locally and its hash matches; this is a retrieval-map defect,not demonstrated unavailable primary content."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "component": "suicidal_ideation",
+      "stage": "B1",
+      "modality": "adverse_event_reports",
+      "reference_id": "NCT03693430:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03693430:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-9ddf7773f50446989d12",
+      "historical_baseline_classification": "complete_direct",
+      "raw_cumulative_classification": {
+        "R1": "complete_direct",
+        "R2": "complete_direct"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_direct",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Directly tabulated explicit0/0 for both ideation andattempt in the ownSTEP5columns; participantunit andfulltreatedSAS confirmed in tablefootnote and articlemethods. No pooledSTEP1–3counts transferred.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 152,
+            "reported_ideation_participants": 0,
+            "reported_attempt_participants": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 152,
+            "reported_ideation_participants": 0,
+            "reported_attempt_participants": 0
+          }
+        ],
+        "target_window": "104treatment weeks plus planned7week follow-up,up to111weeks forAE reporting",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-23e891d47a17c21baa1211bf",
+          "SRC-4715d6e6be70bf9015ab4907"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-23e891d47a17c21baa1211bf",
+            "sha256": "23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c",
+            "locator": "Wadden2024Supplement5,eTable8PDF20ideation/attemptrows ownSTEP5columns;21No.=participants>=1event,SAS/intrial footnote"
+          },
+          {
+            "source_id": "SRC-4715d6e6be70bf9015ab4907",
+            "sha256": "4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9",
+            "locator": "XMLH3-4-IOI240054ReportingNeuropsychiatricAEs;H2-3-IOI240054StatisticalMethods:STEP5separate,SAS>=1dose,intrial+7weeksfollow-up"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "This is adverse-event modality only. C-SSRS structured observations have different respondents/window and are not made complete by this witness.",
+          "The missing internalSRC-7964...receipt and other unread sources do not negate this compatible complete source."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B3",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT02160990:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT02160990:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-a800b5e3362b8cc32e89",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "All20participants completed, and the original article explicitly states no deaths. Both arms are adults with baselineBMI30–40. The primary registry explicitly statesPHASE4; pharmacodynamic wording is not used to invent phase.",
+        "target_arms_and_counts": [
+          {
+            "arm": "exenatide5micrograms twice daily",
+            "exposed_N": 10,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 10,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "Entire30-day administered parallel trial; no additional planned off-treatment interval identified",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-88198dfa955eb9e1b03c00dc",
+          "SRC-a340c011e52f9440ddd3e020"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-88198dfa955eb9e1b03c00dc",
+            "sha256": "88198dfa955eb9e1b03c00dc004f9380e690fe0cf2ad44d375eccbe096e0846f",
+            "locator": "XML sec3Study design;sec4Participants;sec9Safety assessments;sec22Adverse events;allcompleted/no-deathstatement"
+          },
+          {
+            "source_id": "SRC-a340c011e52f9440ddd3e020",
+            "sha256": "a340c011e52f9440ddd3e020b004f9d66730f300dc5fa4a7371f1c3a825d6e0e",
+            "locator": "protocolSection.designModule explicitPHASE4; eligibility; resultsSection.participantFlowModule10/10started/completed"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "New records designate the old complete article unexamined; that scoped rereview does not refute the archived exact primary witness."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05035095:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B1",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05035095:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05035095:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-b3e4f92a192bdd2d0fa0",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Zero fatalrowisexplicitlythein-trialexception, withtreatedN334/333andno-deathstatement. ActualreceivedSASdefinition and in-trial period are retained without a newITTclaim.",
+        "target_arms_and_counts": [
+          {
+            "arm": "oralsemaglutide50mg",
+            "exposed_N": 334,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 333,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "68treatmentweeks+7off-treatmentweeks,throughweek75",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-5bd929df338d94e534d8c062"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-5bd929df338d94e534d8c062",
+            "sha256": "5bd929df338d94e534d8c062eeaea661cde622f8c481d02f6a376a35e64c5d2b",
+            "locator": "PDF3design68+7weeks/flow334/333;4safetyto75;5SAS/intrialdefinition;10Table3fatal0/0/nodeathstatement;11fullfootnotedaggerintrial"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "The column percentages and mostTEAErows alone do not establish full target window; use fataldagger and ownmethods."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT03086330:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B3",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-b975d199a6b37288278f",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "complete_derived",
+        "R2": "complete_derived"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Use the article-defined exact witness: fatal events in full safety population150/151, regardless of treatment exposure/rescue, and explicit no-deaths statement. The newly complete registry-only rationale is corroborative but its generic42-daytimeframe is not silently equated with the article5weeks.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide1.0mg",
+            "exposed_N": 150,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 151,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "Published initial parallel trial:30weeks treatment+5weeks planned follow-up; fatal row explicitly in-trial",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-44d0dd4e9861f15d4a62bd80",
+          "SRC-85904d66b961058e43e683ee"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-44d0dd4e9861f15d4a62bd80",
+            "sha256": "44d0dd4e9861f15d4a62bd805004f558c124de01709151fe81a8d5cf8833aeef",
+            "locator": "PDF3parallelflow30treatment+5follow-upweeks;6fullSASfatalintrial regardless exposure/rescue;8Table3fatal0/0+dagger/fullfootnote;9explicitno deaths"
+          },
+          {
+            "source_id": "SRC-85904d66b961058e43e683ee",
+            "sha256": "85904d66b961058e43e683eec20a74ba4033b0e4899afb45ac0294d3d8cea473",
+            "locator": "resultsSection.adverseEventsModule0deaths150/151;participantFlowExposed150/151;timeFrame retains42-daygenericlabel"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "Preserve both source versions and their distinct5week/42daylabels. No averaging or unsupported harmonization.",
+          "NewA/B1records have no source examined, but the historical article witness is available in those layers."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "component": "suicide_death",
+      "stage": "B3",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05412004:GPI1::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05412004:GPI1::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-bacd547f66aed69b2505",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "public_source_unavailable",
+        "R2": "public_source_unavailable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Exact ownGPI1eventgroups explicitlyreport allcause0in114/120exposed, matching received-doseflow andbaseline-throughfollow-upwindow. The validatedsubset derivation does not require every additionalpublication/receipt to be available.",
+        "target_arms_and_counts": [
+          {
+            "arm": "tirzepatideMTD_GPI1",
+            "exposed_N": 114,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo_GPI1",
+            "exposed_N": 120,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "52weeks initial treatment+4weekfollow-up,baseline to56weeks",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-0a16d146000a107993cb580a"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-0a16d146000a107993cb580a",
+            "sha256": "0a16d146000a107993cb580a48a928f5d28f4e176b288b171236a8985c81327e",
+            "locator": "Registryidentification/design/eligibility; adverseEventsModuletimeFrame/description/eventGroupsEG000–001;participantFlowrecruitmentDetails+Received>=1dose; separateGPI1/GPI2"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "GPI1/GPI2have different participants andmust remain distinct units.",
+          "The currentrawpartial/unavailabledecision itself extracts thesecompatiblezero/N/windowfacts; technicalruleapplication differs from rawlabel,which remains preserved."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "A",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT03811574:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03811574:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-bf58f796a4093e97c868",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "complete_derived",
+        "R2": "complete_derived"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "OwnprimaryarticleTable3andmortalitystatement identify full exposed safety population and in-trial window. The1.7mg arm has100exposed,not101randomized. The article pools two placebo subarms once.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 199,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "semaglutide1.7mg",
+            "exposed_N": 100,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "pooledplacebo",
+            "exposed_N": 101,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "Baseline to week75:68treatment weeks+7off-treatmentweeks; fatalrow explicitly in-trial",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-dd8591da03ad8a8c53fb59e4"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-dd8591da03ad8a8c53fb59e4",
+            "sha256": "dd8591da03ad8a8c53fb59e478c344590f0ed69a61374637eed7de293c882c75",
+            "locator": "PDF3design68+7weeks;4safetyoutcomesto75/SAS>=1dose;5flow199/100/101;10no-deathstatement;11Table3Fatal events*=0allgroups,*in-trial"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "Do not duplicate the pooledplacebo101 into two independent controls.",
+          "No complete-vital-status guarantee beyond public reporting scope."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B2",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT03811574:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03811574:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-c072b18ff1d2ee7f0062",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "complete_derived",
+        "R2": "complete_derived"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "OwnprimaryarticleTable3andmortalitystatement identify full exposed safety population and in-trial window. The1.7mg arm has100exposed,not101randomized. The article pools two placebo subarms once.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 199,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "semaglutide1.7mg",
+            "exposed_N": 100,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "pooledplacebo",
+            "exposed_N": 101,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "Baseline to week75:68treatment weeks+7off-treatmentweeks; fatalrow explicitly in-trial",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-dd8591da03ad8a8c53fb59e4"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-dd8591da03ad8a8c53fb59e4",
+            "sha256": "dd8591da03ad8a8c53fb59e478c344590f0ed69a61374637eed7de293c882c75",
+            "locator": "PDF3design68+7weeks;4safetyoutcomesto75/SAS>=1dose;5flow199/100/101;10no-deathstatement;11Table3Fatal events*=0allgroups,*in-trial"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "Do not duplicate the pooledplacebo101 into two independent controls.",
+          "No complete-vital-status guarantee beyond public reporting scope."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B1",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT04251156:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT04251156:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-c257aa69e03ebae275c1",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Both arms explicitly exposed, zero fatalparticipants and no-deathstatement. FatalTable3usesin-trial unlike most otherAErows.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 249,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 126,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "44weeks initial treatment plus7weekplannedfollow-up,to week51",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-c72f731e42388b6c487227da"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-c72f731e42388b6c487227da",
+            "sha256": "c72f731e42388b6c487227dad81361bf2b56f64ac8875063ae06dab8d9c2ce7c",
+            "locator": "PDF3flow249/126alltreated;4SAS/intrialdefinition;5medianintrial51.1weeks;8explicitno deaths;10Table3Fatal eventsdagger0/0 anddaggerintrial"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "No transfer from T2Dsubgroup64/32 to whole-trial fataldenominators.",
+          "Broader registry serious-event counts14versus13affected are not a demonstrated suicide/fatal conflict."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "component": "suicide_death",
+      "stage": "B2",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05412004:GPI2::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05412004:GPI2::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-ca54680bb0960c524ee2",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "public_source_unavailable",
+        "R2": "public_source_unavailable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Exact ownGPI2eventgroups explicitlyreport allcause0in119/114exposed, matching received-doseflow andbaseline-throughfollow-upwindow. Randomized120/115are notexposedcounts.",
+        "target_arms_and_counts": [
+          {
+            "arm": "tirzepatideMTD_GPI2",
+            "exposed_N": 119,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo_GPI2",
+            "exposed_N": 114,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "52weeks initial treatment+4weekfollow-up,baseline to56weeks",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-0a16d146000a107993cb580a"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-0a16d146000a107993cb580a",
+            "sha256": "0a16d146000a107993cb580a48a928f5d28f4e176b288b171236a8985c81327e",
+            "locator": "Registryidentification/design/eligibility; adverseEventsModuletimeFrame/description/eventGroupsEG002–003;participantFlowrecruitmentDetails+Received>=1dose; separateGPI1/GPI2"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "No poolingortransferfromGPI1.",
+          "Currentrawpartial/unavailable label doesnot invalidate the explicitprimaryzero/N/windowpremises alreadyextracted."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05132088:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B3",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05132088:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05132088:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-cb66a78038d3a2f56295",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Fatalrowexplicitfootnotecis in-trial regardlessdiscontinuation/otherweightloweringtherapy, althoughTable3title ison-treatment. Exposedplacebo66 is distinct from randomized67.",
+        "target_arms_and_counts": [
+          {
+            "arm": "oralsemaglutide50mg",
+            "exposed_N": 134,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 66,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "68treatmentweeks+7plannedoff-treatmentweeks,throughweek75",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-aae90dd106a53892edfda7bf"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-aae90dd106a53892edfda7bf",
+            "sha256": "aae90dd106a53892edfda7bf46a7757f66b534fa71023c3200582f26211325f8",
+            "locator": "PDF3SASand68+7weeks,intrial/on-treatmentdefinitions;4flow134/66exposed;9Table3Fatal eventsc0/0,footnotecintrial"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "SAPdictionaryCompletedSuicideis not an observedcount.",
+          "Week75attendees130/64do not replace the originalexposedSAS134/66."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05564117:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B3",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05564117:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05564117:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-d0f23653e0889ecaa41e",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "public_source_unavailable",
+        "R2": "public_source_unavailable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Registrymortality0amongallrandomized205/102over71weeks contains theoriginalexposedsubset. ExposedN204/102is independentlydocumented in itsSASmilestone and ownarticle. Thereforezero is preserved for theexposedsubset;205mustnotberelabeledexposed.",
+        "target_arms_and_counts": [
+          {
+            "arm": "oralsemaglutide25mg",
+            "exposed_N": 204,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 102,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "64treatmentweeks+7follow-upweeks,throughweek71",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-4e8b6e5755cfe47ccf9bdf3e",
+          "SRC-b723e838394253fcaa50477d"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-4e8b6e5755cfe47ccf9bdf3e",
+            "sha256": "4e8b6e5755cfe47ccf9bdf3e9dbb54f7a5e9f919b9e1312b24234e41ce6191fb",
+            "locator": "Registryidentification/design/eligibility; adverseEventsModule explicitallrandomizedmortality0/205and0/102to71weeks, distinctfromAE/SAS;participantFlowSAS204/102"
+          },
+          {
+            "source_id": "SRC-b723e838394253fcaa50477d",
+            "sha256": "b723e838394253fcaa50477dfc0a3de3f14112ab2896a9478d07b422bd651e70",
+            "locator": "OriginalpublishedcopyPDF2population;3safetydefinition64+7weeks;8Table3fullsafetyN204/102;9no-deathstatement"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "ArticleTable3alone is on-treatment; full71weekmortalityproof comesfrom registryallcausemortality, not automatic extensionofTEAEs.",
+          "ClinicalpublicationandSASfields corroborate the reference; no newITT sensitivity iscreated."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B3",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT04251156:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT04251156:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-d28c840213574224be3b",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Both arms explicitly exposed, zero fatalparticipants and no-deathstatement. FatalTable3usesin-trial unlike most otherAErows.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 249,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 126,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "44weeks initial treatment plus7weekplannedfollow-up,to week51",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-c72f731e42388b6c487227da"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-c72f731e42388b6c487227da",
+            "sha256": "c72f731e42388b6c487227dad81361bf2b56f64ac8875063ae06dab8d9c2ce7c",
+            "locator": "PDF3flow249/126alltreated;4SAS/intrialdefinition;5medianintrial51.1weeks;8explicitno deaths;10Table3Fatal eventsdagger0/0 anddaggerintrial"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "No transfer from T2Dsubgroup64/32 to whole-trial fataldenominators.",
+          "Broader registry serious-event counts14versus13affected are not a demonstrated suicide/fatal conflict."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05132088:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B1",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05132088:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05132088:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-dec9bf16f9ce470e9f2e",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Fatalrowexplicitfootnotecis in-trial regardlessdiscontinuation/otherweightloweringtherapy, althoughTable3title ison-treatment. Exposedplacebo66 is distinct from randomized67.",
+        "target_arms_and_counts": [
+          {
+            "arm": "oralsemaglutide50mg",
+            "exposed_N": 134,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 66,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "68treatmentweeks+7plannedoff-treatmentweeks,throughweek75",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-aae90dd106a53892edfda7bf"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-aae90dd106a53892edfda7bf",
+            "sha256": "aae90dd106a53892edfda7bf46a7757f66b534fa71023c3200582f26211325f8",
+            "locator": "PDF3SASand68+7weeks,intrial/on-treatmentdefinitions;4flow134/66exposed;9Table3Fatal eventsc0/0,footnotecintrial"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "SAPdictionaryCompletedSuicideis not an observedcount.",
+          "Week75attendees130/64do not replace the originalexposedSAS134/66."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT01169779:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B1",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT01169779:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT01169779:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-e977470e72298315a45c",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "complete_derived",
+        "R2": "complete_derived"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Explicit no-deaths statement for the study and zero fatal participants in each treated arm. Randomizedplacebo195 and mITT195/193 are not substituted for exposed196/194.",
+        "target_arms_and_counts": [
+          {
+            "arm": "lixisenatide",
+            "exposed_N": 196,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 194,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "24weeks initial parallel treatment plus3days safety follow-up",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-704827a2232f64f35ec3d90b"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-704827a2232f64f35ec3d90b",
+            "sha256": "704827a2232f64f35ec3d90bc31dc9cf0b863efa5ca8e11f61cd62848247f6ad",
+            "locator": "PDF2paralleltrial;3safetydefinition/24weeks+3days;4randomized/exposedflow;5no-deathstatement;6Table2fatalrow"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "SRC-3bd303ea4c2ec55f5dcd469d is an internal browser receipt, not another missing primary article.",
+          "The article does not certify complete vital ascertainment for every original participant beyond its documented follow-up."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05963022:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B3",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05963022:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05963022:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-e9dd40cb479489c48481",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "complete_derived",
+        "R2": "complete_derived"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "ArticleandregistrybothreportexplicitzeroandcompleteownSASNs;articleSSincludesdataafterrescueorcessationthrough4weekfollow-up. All206randomizedtreated.",
+        "target_arms_and_counts": [
+          {
+            "arm": "tirzepatide5mg",
+            "exposed_N": 52,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "tirzepatide10mg",
+            "exposed_N": 51,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "tirzepatide15mg",
+            "exposed_N": 52,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 51,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "40treatmentweeks+4weekplannedfollow-up,throughweek44",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-5dce9847109da9f3bda7d9f8",
+          "SRC-90a73121e213a52e58b4f833"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-5dce9847109da9f3bda7d9f8",
+            "sha256": "5dce9847109da9f3bda7d9f86cd7a11ba144bb910587874f87c1f79aa1b857b1",
+            "locator": "PDF3all206received>=1dose;4flow/IWRSdeviation;8no deaths;9Table3Deaths0all4arms;14design40+4weeks;16SSallmITTdataregardlessrescue/adherence"
+          },
+          {
+            "source_id": "SRC-90a73121e213a52e58b4f833",
+            "sha256": "90a73121e213a52e58b4f833497f4dab1b8ec6cd37d10ad216aee78369bfd36d",
+            "locator": "Registryidentification/design/eligibility;adverseEventsModuleallcause0Ns52/51/52/51,baselineuptoweek44,allrandomizedreceived>=1dose;participantFlow"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "IWRSdeviation45participantsassigned10mgreceived5mgduringweeks24–40preserved. Doesnotchange universalallcausezero but mustnotbehidden in adose-specific treatment-effectanalysis."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "A",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05646706:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05646706:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-eb96481e3d48fc971d4f",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "OwnarticlefatalrowusesfullSAS1004/201/201andexplicitintrialfootnote. RegistryallrandomizedmortalityN1005is deliberatelyseparate; the positiveexposedwitness comesfrom thearticleandSASflow.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide7.2mg",
+            "exposed_N": 1004,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 201,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 201,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "72treatmentweeks+9weekplannedfollow-up,throughweek81",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-8004a55f9a5aa9132d286876"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-8004a55f9a5aa9132d286876",
+            "sha256": "8004a55f9a5aa9132d2868764899e526fd55e0518b8c6ccbb19354f48d7d0daa",
+            "locator": "PDF3design/eligibility72+9weeks;4SASandflow;9no fatalAE;11Table3N1004/201/201,fatal*=0,asteriskintrial"
+          },
+          {
+            "source_id": "SRC-caa8a6775bacc0cd91dfe876",
+            "sha256": "caa8a6775bacc0cd91dfe8766622bb68a027d600427d5331bfcb041ce2c83601",
+            "locator": "Registrymortalityallrandomized0/1005,0/201,0/201to81weeks andparticipantFlowseparateSAS1004/201/201"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "Do not carry1005asexposed.",
+          "CurrentreturnregistryrowN1005is correct only asreportedallrandomizedmortality; it doesnot refute articleSAS1004."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "component": "suicide_attempt",
+      "stage": "B2",
+      "modality": "adverse_event_reports",
+      "reference_id": "NCT03693430:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03693430:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-ecc18b31e1a55de7c81d",
+      "historical_baseline_classification": "complete_direct",
+      "raw_cumulative_classification": {
+        "R1": "complete_direct",
+        "R2": "complete_direct"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_direct",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Directly tabulated explicit0/0 for both ideation andattempt in the ownSTEP5columns; participantunit andfulltreatedSAS confirmed in tablefootnote and articlemethods. No pooledSTEP1–3counts transferred.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 152,
+            "reported_ideation_participants": 0,
+            "reported_attempt_participants": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 152,
+            "reported_ideation_participants": 0,
+            "reported_attempt_participants": 0
+          }
+        ],
+        "target_window": "104treatment weeks plus planned7week follow-up,up to111weeks forAE reporting",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-23e891d47a17c21baa1211bf",
+          "SRC-4715d6e6be70bf9015ab4907"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-23e891d47a17c21baa1211bf",
+            "sha256": "23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c",
+            "locator": "Wadden2024Supplement5,eTable8PDF20ideation/attemptrows ownSTEP5columns;21No.=participants>=1event,SAS/intrial footnote"
+          },
+          {
+            "source_id": "SRC-4715d6e6be70bf9015ab4907",
+            "sha256": "4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9",
+            "locator": "XMLH3-4-IOI240054ReportingNeuropsychiatricAEs;H2-3-IOI240054StatisticalMethods:STEP5separate,SAS>=1dose,intrial+7weeksfollow-up"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": false,
+        "proposed_different_from_raw_R2_cumulative": false,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "This is adverse-event modality only. C-SSRS structured observations have different respondents/window and are not made complete by this witness.",
+          "The missing internalSRC-7964...receipt and other unread sources do not negate this compatible complete source."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05132088:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "A",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05132088:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05132088:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-f06b5da5fb195fb35368",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Fatalrowexplicitfootnotecis in-trial regardlessdiscontinuation/otherweightloweringtherapy, althoughTable3title ison-treatment. Exposedplacebo66 is distinct from randomized67.",
+        "target_arms_and_counts": [
+          {
+            "arm": "oralsemaglutide50mg",
+            "exposed_N": 134,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 66,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "68treatmentweeks+7plannedoff-treatmentweeks,throughweek75",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-aae90dd106a53892edfda7bf"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-aae90dd106a53892edfda7bf",
+            "sha256": "aae90dd106a53892edfda7bf46a7757f66b534fa71023c3200582f26211325f8",
+            "locator": "PDF3SASand68+7weeks,intrial/on-treatmentdefinitions;4flow134/66exposed;9Table3Fatal eventsc0/0,footnotecintrial"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "SAPdictionaryCompletedSuicideis not an observedcount.",
+          "Week75attendees130/64do not replace the originalexposedSAS134/66."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT03086330:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B1",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-f1153e35b463cdd99d28",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Use the article-defined exact witness: fatal events in full safety population150/151, regardless of treatment exposure/rescue, and explicit no-deaths statement. The newly complete registry-only rationale is corroborative but its generic42-daytimeframe is not silently equated with the article5weeks.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide1.0mg",
+            "exposed_N": 150,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 151,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "Published initial parallel trial:30weeks treatment+5weeks planned follow-up; fatal row explicitly in-trial",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-44d0dd4e9861f15d4a62bd80"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-44d0dd4e9861f15d4a62bd80",
+            "sha256": "44d0dd4e9861f15d4a62bd805004f558c124de01709151fe81a8d5cf8833aeef",
+            "locator": "PDF3parallelflow30treatment+5follow-upweeks;6fullSASfatalintrial regardless exposure/rescue;8Table3fatal0/0+dagger/fullfootnote;9explicitno deaths"
+          },
+          {
+            "source_id": "SRC-85904d66b961058e43e683ee",
+            "sha256": "85904d66b961058e43e683eec20a74ba4033b0e4899afb45ac0294d3d8cea473",
+            "locator": "resultsSection.adverseEventsModule0deaths150/151;participantFlowExposed150/151;timeFrame retains42-daygenericlabel"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "Preserve both source versions and their distinct5week/42daylabels. No averaging or unsupported harmonization.",
+          "NewA/B1records have no source examined, but the historical article witness is available in those layers."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT03086330:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "A",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT03086330:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT03086330:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-f2c985690c5db31b84b3",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Use the article-defined exact witness: fatal events in full safety population150/151, regardless of treatment exposure/rescue, and explicit no-deaths statement. The newly complete registry-only rationale is corroborative but its generic42-daytimeframe is not silently equated with the article5weeks.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide1.0mg",
+            "exposed_N": 150,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 151,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "Published initial parallel trial:30weeks treatment+5weeks planned follow-up; fatal row explicitly in-trial",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-44d0dd4e9861f15d4a62bd80"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-44d0dd4e9861f15d4a62bd80",
+            "sha256": "44d0dd4e9861f15d4a62bd805004f558c124de01709151fe81a8d5cf8833aeef",
+            "locator": "PDF3parallelflow30treatment+5follow-upweeks;6fullSASfatalintrial regardless exposure/rescue;8Table3fatal0/0+dagger/fullfootnote;9explicitno deaths"
+          },
+          {
+            "source_id": "SRC-85904d66b961058e43e683ee",
+            "sha256": "85904d66b961058e43e683eec20a74ba4033b0e4899afb45ac0294d3d8cea473",
+            "locator": "resultsSection.adverseEventsModule0deaths150/151;participantFlowExposed150/151;timeFrame retains42-daygenericlabel"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "Preserve both source versions and their distinct5week/42daylabels. No averaging or unsupported harmonization.",
+          "NewA/B1records have no source examined, but the historical article witness is available in those layers."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B3",
+      "modality": "adverse_event_reports",
+      "reference_id": "NCT04657003:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT04657003:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-f2c9dca35d703f8c7c37",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "public_source_unavailable",
+        "R2": "public_source_unavailable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "The FDA review explicitly states no completed suicides in either named trial. Universalzero over namedGPHL can be disaggregated to its own arms onceidentity,Nandwindow are established. This is a derived witness,not a directly tabulated arm-specific suicidedeathrow.",
+        "target_arms_and_counts": [
+          {
+            "arm": "tirzepatide10mg",
+            "exposed_N": 312,
+            "derived_completed_suicides": 0
+          },
+          {
+            "arm": "tirzepatide15mg",
+            "exposed_N": 311,
+            "derived_completed_suicides": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 315,
+            "derived_completed_suicides": 0
+          }
+        ],
+        "target_window": "72weekinitialparallelperiod+4weekfollow-up,throughweek76;noGPHLextension",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-4ffc5bea39958298693d4c7c",
+          "SRC-928e5d0e0d010ed5308d0840"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-4ffc5bea39958298693d4c7c",
+            "sha256": "4ffc5bea39958298693d4c7c340173b79647651c940c95b7cf4b4233e7ddda4e",
+            "locator": "FDAprimaryreview PDF44–45GPHLidentity;50–52design/followupandallrandomizedtreated;74GPHLNs312/311/315;123all on/offdrugdata through4weekfollowup;195no completed suicides in namedGPHKandGPHL"
+          },
+          {
+            "source_id": "SRC-928e5d0e0d010ed5308d0840",
+            "sha256": "928e5d0e0d010ed5308d084087859cb7ca3cef707ad7a948a643aef81b529f36",
+            "locator": "Registryidentification/design/eligibility; adverseEventsModuleto76weekswithfull312/311/315exposed;participantFlowallreceiveddose;allcause2deaths10mgnotconvertedtosuicide"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "Do not allocate pooled nonzero ideation/attempt counts toGPHL.",
+          "Two allcause deaths in10mgarm are not converted to suicide; source195explicitly excludes completed suicide inGPHL."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT02160990:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "A",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT02160990:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT02160990:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-f361dc96b1ed90ae20c3",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "All20participants completed, and the original article explicitly states no deaths. Both arms are adults with baselineBMI30–40. The primary registry explicitly statesPHASE4; pharmacodynamic wording is not used to invent phase.",
+        "target_arms_and_counts": [
+          {
+            "arm": "exenatide5micrograms twice daily",
+            "exposed_N": 10,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 10,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "Entire30-day administered parallel trial; no additional planned off-treatment interval identified",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-88198dfa955eb9e1b03c00dc"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-88198dfa955eb9e1b03c00dc",
+            "sha256": "88198dfa955eb9e1b03c00dc004f9380e690fe0cf2ad44d375eccbe096e0846f",
+            "locator": "XML sec3Study design;sec4Participants;sec9Safety assessments;sec22Adverse events;allcompleted/no-deathstatement"
+          },
+          {
+            "source_id": "SRC-a340c011e52f9440ddd3e020",
+            "sha256": "a340c011e52f9440ddd3e020b004f9d66730f300dc5fa4a7371f1c3a825d6e0e",
+            "locator": "protocolSection.designModule explicitPHASE4; eligibility; resultsSection.participantFlowModule10/10started/completed"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "New records designate the old complete article unexamined; that scoped rereview does not refute the archived exact primary witness."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05035095:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "A",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05035095:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05035095:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-fbb6ff4f404cf823b302",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "reference_unverifiable",
+        "R2": "reference_unverifiable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "Zero fatalrowisexplicitlythein-trialexception, withtreatedN334/333andno-deathstatement. ActualreceivedSASdefinition and in-trial period are retained without a newITTclaim.",
+        "target_arms_and_counts": [
+          {
+            "arm": "oralsemaglutide50mg",
+            "exposed_N": 334,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 333,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "68treatmentweeks+7off-treatmentweeks,throughweek75",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-5bd929df338d94e534d8c062"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-5bd929df338d94e534d8c062",
+            "sha256": "5bd929df338d94e534d8c062eeaea661cde622f8c481d02f6a376a35e64c5d2b",
+            "locator": "PDF3design68+7weeks/flow334/333;4safetyto75;5SAS/intrialdefinition;10Table3fatal0/0/nodeathstatement;11fullfootnotedaggerintrial"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "The column percentages and mostTEAErows alone do not establish full target window; use fataldagger and ownmethods."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    },
+    {
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "component": "suicide_death",
+      "stage": "B2",
+      "modality": "reported_all_cause_mortality_derivation",
+      "reference_id": "NCT05646706:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+      "window_id": "NCT05646706:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION",
+      "position_id": "POS-ffbb015a165ded527568",
+      "historical_baseline_classification": "complete_derived",
+      "raw_cumulative_classification": {
+        "R1": "public_source_unavailable",
+        "R2": "public_source_unavailable"
+      },
+      "technical_reconciliation": {
+        "classification": "complete_derived",
+        "effective_indicator": 1,
+        "decision": "retain_exact_primary_complete_witness",
+        "reason": "OwnarticlefatalrowusesfullSAS1004/201/201andexplicitintrialfootnote. RegistryallrandomizedmortalityN1005is deliberatelyseparate; the positiveexposedwitness comesfrom thearticleandSASflow.",
+        "target_arms_and_counts": [
+          {
+            "arm": "semaglutide7.2mg",
+            "exposed_N": 1004,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "semaglutide2.4mg",
+            "exposed_N": 201,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          },
+          {
+            "arm": "placebo",
+            "exposed_N": 201,
+            "reported_all_cause_deaths": 0,
+            "derived_suicide_deaths": 0
+          }
+        ],
+        "target_window": "72treatmentweeks+9weekplannedfollow-up,throughweek81",
+        "sufficient_witness_source_ids_within_this_row_layer": [
+          "SRC-8004a55f9a5aa9132d286876",
+          "SRC-caa8a6775bacc0cd91dfe876"
+        ],
+        "later_registry_corroboration_not_used_to_complete_article_only_layer": true,
+        "source_original_scopes": [
+          {
+            "source_id": "SRC-8004a55f9a5aa9132d286876",
+            "sha256": "8004a55f9a5aa9132d2868764899e526fd55e0518b8c6ccbb19354f48d7d0daa",
+            "locator": "PDF3design/eligibility72+9weeks;4SASandflow;9no fatalAE;11Table3N1004/201/201,fatal*=0,asteriskintrial"
+          },
+          {
+            "source_id": "SRC-caa8a6775bacc0cd91dfe876",
+            "sha256": "caa8a6775bacc0cd91dfe8766622bb68a027d600427d5331bfcb041ce2c83601",
+            "locator": "Registrymortalityallrandomized0/1005,0/201,0/201to81weeks andparticipantFlowseparateSAS1004/201/201"
+          }
+        ],
+        "same_component_modality_reference_and_window_only": true,
+        "unrelated_gaps_remain_documented_but_do_not_negate_compatible_complete_witness": true,
+        "proposed_different_from_raw_R1_cumulative": true,
+        "proposed_different_from_raw_R2_cumulative": true,
+        "new_human_vote": false,
+        "new_full_independent_reextraction_claimed": false,
+        "clinical_absence_or_complete_vital_followup_certified": false,
+        "notes": [
+          "Do not carry1005asexposed.",
+          "CurrentreturnregistryrowN1005is correct only asreportedallrandomizedmortality; it doesnot refute articleSAS1004."
+        ]
+      },
+      "residual_primary_content_conflict": false
+    }
+  ]
+}

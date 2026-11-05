@@ -1,0 +1,287 @@
+{
+  "records": [
+    {
+      "reviewer": "R1",
+      "dimension": "counting_unit",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "dimension_state": "not_established",
+      "target_compatibility": "not_established",
+      "recorded_positions": 631
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "counting_unit",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "dimension_state": "supported_for_target",
+      "target_compatibility": "documented_compatible",
+      "recorded_positions": 32
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "denominator",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "dimension_state": "not_established",
+      "target_compatibility": "not_established",
+      "recorded_positions": 643
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "denominator",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "dimension_state": "supported_for_target",
+      "target_compatibility": "documented_compatible",
+      "recorded_positions": 20
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "numerator",
+      "reason_subcode": "INFORMATION_NOT_PRESENTED_IN_EXAMINED_SCOPE",
+      "dimension_state": "explicitly_incompatible_or_missing_for_target",
+      "target_compatibility": "not_established",
+      "recorded_positions": 262
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "numerator",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "dimension_state": "not_established",
+      "target_compatibility": "not_established",
+      "recorded_positions": 381
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "numerator",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "dimension_state": "supported_for_target",
+      "target_compatibility": "documented_compatible",
+      "recorded_positions": 20
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "source_access",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "dimension_state": "not_established",
+      "target_compatibility": "not_established",
+      "recorded_positions": 1
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "source_access",
+      "reason_subcode": "SOURCE_NOT_EXAMINED",
+      "dimension_state": "not_established",
+      "target_compatibility": "not_established",
+      "recorded_positions": 383
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "source_access",
+      "reason_subcode": "SOURCE_NOT_OBTAINED",
+      "dimension_state": "explicitly_incompatible_or_missing_for_target",
+      "target_compatibility": "not_established",
+      "recorded_positions": 259
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "source_access",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "dimension_state": "supported_for_target",
+      "target_compatibility": "documented_compatible",
+      "recorded_positions": 20
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "subpopulation",
+      "reason_subcode": "DOCUMENTED_INCOMPATIBILITY",
+      "dimension_state": "explicitly_incompatible_or_missing_for_target",
+      "target_compatibility": "documented_incompatible",
+      "recorded_positions": 2
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "subpopulation",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "dimension_state": "not_established",
+      "target_compatibility": "not_established",
+      "recorded_positions": 641
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "subpopulation",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "dimension_state": "supported_for_target",
+      "target_compatibility": "documented_compatible",
+      "recorded_positions": 20
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "window",
+      "reason_subcode": "DOCUMENTED_INCOMPATIBILITY",
+      "dimension_state": "explicitly_incompatible_or_missing_for_target",
+      "target_compatibility": "documented_incompatible",
+      "recorded_positions": 6
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "window",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "dimension_state": "not_established",
+      "target_compatibility": "not_established",
+      "recorded_positions": 637
+    },
+    {
+      "reviewer": "R1",
+      "dimension": "window",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "dimension_state": "supported_for_target",
+      "target_compatibility": "documented_compatible",
+      "recorded_positions": 20
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "counting_unit",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "dimension_state": "not_established",
+      "target_compatibility": "not_established",
+      "recorded_positions": 631
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "counting_unit",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "dimension_state": "supported_for_target",
+      "target_compatibility": "documented_compatible",
+      "recorded_positions": 32
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "denominator",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "dimension_state": "not_established",
+      "target_compatibility": "not_established",
+      "recorded_positions": 643
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "denominator",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "dimension_state": "supported_for_target",
+      "target_compatibility": "documented_compatible",
+      "recorded_positions": 20
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "numerator",
+      "reason_subcode": "INFORMATION_NOT_PRESENTED_IN_EXAMINED_SCOPE",
+      "dimension_state": "explicitly_incompatible_or_missing_for_target",
+      "target_compatibility": "not_established",
+      "recorded_positions": 262
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "numerator",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "dimension_state": "not_established",
+      "target_compatibility": "not_established",
+      "recorded_positions": 381
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "numerator",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "dimension_state": "supported_for_target",
+      "target_compatibility": "documented_compatible",
+      "recorded_positions": 20
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "source_access",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "dimension_state": "not_established",
+      "target_compatibility": "not_established",
+      "recorded_positions": 1
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "source_access",
+      "reason_subcode": "SOURCE_NOT_EXAMINED",
+      "dimension_state": "not_established",
+      "target_compatibility": "not_established",
+      "recorded_positions": 383
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "source_access",
+      "reason_subcode": "SOURCE_NOT_OBTAINED",
+      "dimension_state": "explicitly_incompatible_or_missing_for_target",
+      "target_compatibility": "not_established",
+      "recorded_positions": 259
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "source_access",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "dimension_state": "supported_for_target",
+      "target_compatibility": "documented_compatible",
+      "recorded_positions": 20
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "subpopulation",
+      "reason_subcode": "DOCUMENTED_INCOMPATIBILITY",
+      "dimension_state": "explicitly_incompatible_or_missing_for_target",
+      "target_compatibility": "documented_incompatible",
+      "recorded_positions": 2
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "subpopulation",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "dimension_state": "not_established",
+      "target_compatibility": "not_established",
+      "recorded_positions": 641
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "subpopulation",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "dimension_state": "supported_for_target",
+      "target_compatibility": "documented_compatible",
+      "recorded_positions": 20
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "window",
+      "reason_subcode": "DOCUMENTED_INCOMPATIBILITY",
+      "dimension_state": "explicitly_incompatible_or_missing_for_target",
+      "target_compatibility": "documented_incompatible",
+      "recorded_positions": 6
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "window",
+      "reason_subcode": "NOT_ESTABLISHED_AFTER_REVIEW",
+      "dimension_state": "not_established",
+      "target_compatibility": "not_established",
+      "recorded_positions": 637
+    },
+    {
+      "reviewer": "R2",
+      "dimension": "window",
+      "reason_subcode": "SUPPORTED_FOR_REFERENCE",
+      "dimension_state": "supported_for_target",
+      "target_compatibility": "documented_compatible",
+      "recorded_positions": 20
+    }
+  ],
+  "guard_rules": [
+    "Do not count explicitly_incompatible_or_missing_for_target as demonstrated incompatibility without checking the reason_subcode and target_compatibility. The combined state includes missing information.",
+    "INFORMATION_NOT_PRESENTED_IN_EXAMINED_SCOPE is absence of target output in a named examined scope; it is not a clinical zero, confirmed instrument non-use or universal outcome non-reporting.",
+    "SOURCE_NOT_OBTAINED and SOURCE_NOT_EXAMINED mean content remains unknown. Positive inventory access facts do not establish the clinical event content of the source.",
+    "SUPPORTED_FOR_REFERENCE for one dimension is not proof that all six dimensions, both eligible arms and the exact window are complete.",
+    "References and an original-source flag are provenance declarations; content and reference validity need separate source checks.",
+    "Returned NOT_ESTABLISHED states must not be relabeled as demonstrated incompatibility or negative event counts.",
+    "The current return schema and any legacy full-instrument schema have different representational requirements; do not silently overwrite a human return to make old state names match. Preserve raw metadata and apply an explicitly versioned analytical crosswalk if needed."
+  ],
+  "no_scientific_reclassification_applied": true,
+  "no_inferential_statistic_or_agreement_measure": true
+}

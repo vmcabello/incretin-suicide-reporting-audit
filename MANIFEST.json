@@ -1,5 +1,5 @@
 {
-  "version": "v1.1.1",
+  "version": "v1.2.0",
   "files": [
     {
       "path": ".gitattributes",
@@ -19,7 +19,7 @@
     {
       "path": "CITATION.cff",
       "bytes": 889,
-      "sha256": "c07cae5563c9682ab9d773e3a7c1a6cc1036cdd4a253f9a204c81c02f12406fe"
+      "sha256": "f49c29df527b7cf954b732caeff1792c4aad07af3490dfc45ca3ae927e95efda"
     },
     {
       "path": "corpus/ARTICLE_INFORMATION.json",
@@ -243,8 +243,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6972,
-      "sha256": "0c04695a1ce9d288b5e0923ade60de28cebb211c66a5d1507e9beff2773ce65f"
+      "bytes": 9014,
+      "sha256": "a164021756b001c30e78e7ee51659e0ae6689740aebdfd7865b25c29b3c72661"
     },
     {
       "path": "reason_inventory/ALTERNATIVE_REFERENCE_PILOT_FEASIBILITY.json",
@@ -378,13 +378,13 @@
     },
     {
       "path": "RELEASE_METADATA.json",
-      "bytes": 1280,
-      "sha256": "77089c26d27e5347f3d337b2ea3688e2756416ef54fbe447051b53a06d4b7769"
+      "bytes": 1655,
+      "sha256": "e4e0204d4c39594a4cdf2630ea1812260caa7870d338aef955eb397dccda91ac"
     },
     {
       "path": "reproduce.py",
-      "bytes": 2566,
-      "sha256": "6e19947711fe9cc1300b1183f6492d5a69079c11152be5e4b45cdffe73beb052"
+      "bytes": 2793,
+      "sha256": "cd4c9241c58a02f7c75c478287525d0208b8e810f816e58f6b47960b13a1a486"
     },
     {
       "path": "search_trace/CASE_REPRESENTATION_EDGES_EN.json",
@@ -485,6 +485,86 @@
       "path": "search_trace/validate_search_trace.py",
       "bytes": 4792,
       "sha256": "d01ea9142c4edd95b27e3870de247e89159f48bc673ca7abf9db0eec2d5ba6d8"
+    },
+    {
+      "path": "update_manifest.py",
+      "bytes": 1343,
+      "sha256": "744e54ad6e030c5423ae0a5806b1744638f30c4ce5c26a71a3db982004f8182b"
+    },
+    {
+      "path": "validation/AGREEMENT_REPORT_METADATA.json",
+      "bytes": 3029,
+      "sha256": "c385e27ca050720c2f96423aeb87cb464079541268f25340f860b56845fdad45"
+    },
+    {
+      "path": "validation/AGREEMENT_RESULTS.json",
+      "bytes": 39071,
+      "sha256": "ee5126a8a1d0a170a7433892c155e6e3a40addba8d163bd635d52ec065357e35"
+    },
+    {
+      "path": "validation/ALTERNATIVE_REFERENCE_SEMANTIC_LIMITS.json",
+      "bytes": 5021,
+      "sha256": "3ee593cfa0c7cb40e52c2257fc96eb325d2b260409c4a6ff69ac2b2da3480176"
+    },
+    {
+      "path": "validation/DIMENSION_INTERPRETATION_GUARDS.json",
+      "bytes": 10271,
+      "sha256": "d365b58eeb9737db51f562b44983ccecc2c9e079c9f67ec2588bf670c0cab792"
+    },
+    {
+      "path": "validation/INTEGRATION_DECISION_LOG_663.json",
+      "bytes": 500869,
+      "sha256": "b9ba58bdcc8678794049253fa677fe5bd2bf09bf6e4e4a582545b15819a4a5e3"
+    },
+    {
+      "path": "validation/MECHANISMS_AND_SOURCE_SCOPE.json",
+      "bytes": 1922,
+      "sha256": "eb6534081e913e24835977d75ffebb4b764171da71a38dc9b44ac3a842a232c2"
+    },
+    {
+      "path": "validation/PAIRED_RATINGS_663.json",
+      "bytes": 1819813,
+      "sha256": "e5951e2429165ace1aba918fc37e4c9bbf6ff7b82d23cb1c137d8fe1fd94c5be"
+    },
+    {
+      "path": "validation/PILOT_SUMMARY.json",
+      "bytes": 3053,
+      "sha256": "14e327ae236027fab15578e1574464155b743428a198b3e5686e61b1d7c9438b"
+    },
+    {
+      "path": "validation/README.md",
+      "bytes": 5344,
+      "sha256": "29011d912c2fa4c1cb2eebb2323794357199be4e36b5c964c58648d4c67358f4"
+    },
+    {
+      "path": "validation/reproduce_agreement.py",
+      "bytes": 10013,
+      "sha256": "fa7403bd3f387b4f212fb7568d7547833d1b5b22f2445e12a3dff41f996be814"
+    },
+    {
+      "path": "validation/RETURNED_DIMENSION_SUBCODES_AND_COVERAGE.json",
+      "bytes": 8842,
+      "sha256": "8efd7d26b067d6517658c7b587dd57b8e37adfec13aa85e861e475ad7fd173dc"
+    },
+    {
+      "path": "validation/SOURCE_ROUTE_RECONCILIATION.json",
+      "bytes": 390646,
+      "sha256": "9aaa1b74948805520d194e71232113362b3749ffb24cd0d248e57590d1add90a"
+    },
+    {
+      "path": "validation/SOURCE_ROUTE_RECONCILIATION_DELTA.json",
+      "bytes": 1850,
+      "sha256": "8871985fa4883385909f3c59b9fa40417479e3cd03717dda1017b09068aa5026"
+    },
+    {
+      "path": "validation/TECHNICAL_WITNESS_RECONCILIATION_57.json",
+      "bytes": 186436,
+      "sha256": "3683fe80c91282329b4803003f2c51a87ef0d3657f94dadafb4a0ff7ca7e3123"
+    },
+    {
+      "path": "validation/VALIDATION_STATUS.json",
+      "bytes": 1900,
+      "sha256": "41fc3533b21c2143ab9c564ee2f5909d7f33d7f34faf3dc35459d2a291ee42e6"
     },
     {
       "path": "validation_protocol/PILOT_LOCAL_SOURCE_FRAME.json",
