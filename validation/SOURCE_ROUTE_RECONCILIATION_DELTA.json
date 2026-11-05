@@ -21,7 +21,7 @@
   },
   "statistical_or_clinical_effect": "None applied. Availability and reading are separate; old and newly returned scientific judgments remain separate records.",
   "remaining_uncertainty": "27 pre-existing bounded investigation slots (135 position bindings) remain unclosed by this retrieval task. Their source-specific pertinence is not inferred.",
-  "public_file_sha256": "9aaa1b74948805520d194e71232113362b3749ffb24cd0d248e57590d1add90a",
+  "public_file_sha256": "e277c6be956569dc077801f4c50907ceed5eec124743724a108a01f5046a1abe",
   "sanitization_checks": {
     "absolute_paths_absent": true,
     "private_answers_absent": true,

@@ -548,13 +548,13 @@
     },
     {
       "path": "validation/SOURCE_ROUTE_RECONCILIATION.json",
-      "bytes": 390646,
-      "sha256": "9aaa1b74948805520d194e71232113362b3749ffb24cd0d248e57590d1add90a"
+      "bytes": 383391,
+      "sha256": "e277c6be956569dc077801f4c50907ceed5eec124743724a108a01f5046a1abe"
     },
     {
       "path": "validation/SOURCE_ROUTE_RECONCILIATION_DELTA.json",
-      "bytes": 1850,
-      "sha256": "8871985fa4883385909f3c59b9fa40417479e3cd03717dda1017b09068aa5026"
+      "bytes": 1820,
+      "sha256": "b045221a2f39cb7117a0c380d428af4c4c9349724b523932b8987f8c8f1b32e2"
     },
     {
       "path": "validation/TECHNICAL_WITNESS_RECONCILIATION_57.json",
