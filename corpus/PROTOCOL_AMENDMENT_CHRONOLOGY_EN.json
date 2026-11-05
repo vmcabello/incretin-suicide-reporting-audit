@@ -66,11 +66,109 @@
       "date": "2026-11-04",
       "event": "Editorial reconstruction requested",
       "timing_and_provenance": "Post-hoc response to new editorial review; future independent validation remains prospective from its own locked sample onwards."
+    },
+    {
+      "date": "2026-11-04",
+      "event": "Retrospective 663-position reassessment protocol fixed for the new assessment exercise",
+      "document": "validation_protocol/PROTOCOL.json",
+      "source_sha256": "a252d0f956a5216fbb5af9d157dd0e9f2915b92ea0b041fdf49a155ef42de687",
+      "timestamp_as_recorded_utc": "2026-11-05T01:52:58Z",
+      "change": "Census of 57 historical complete positions, retained stratified sample of 426 of 4,030 not-complete positions, stratified sample of 180 of 1,009 unknown positions, and a conditional 30-unit source-metadata pilot. Prior project exposure explicitly retained.",
+      "timing_and_provenance": "Protocol document date is 4 November; its own before-selection timestamp is 5 November 01:52:58 UTC (4 November 22:52:58 in America/Sao_Paulo). Written after the historical results were known and not a prospective registration or external validation.",
+      "status": "completed_historical_protocol",
+      "prospectively_registered": false
+    },
+    {
+      "date": "2026-11-05",
+      "event": "Two separately retained assessment sets locked and received",
+      "document": "validation/AGREEMENT_REPORT_METADATA.json",
+      "source_provenance_record": {
+        "project_relative_artifact": "outputs/integracao_retornos663_2026-11-05/INPUT_MANIFEST.json",
+        "sha256": "b5778ea9c30da9f21a89a55e138ec74c2542394453b5e8b4e605bfe246563724",
+        "bytes": 1090
+      },
+      "timestamp_as_recorded_utc": "2026-11-05T02:54:51Z",
+      "change": "Two 663-position returns across 176 units, each declaring human and separate formation before discussion. Twenty historical complete positions remained complete, 37 were unknown; 333 per assessor recorded some primary-source examination. Raw votes preserved.",
+      "timing_and_provenance": "User-supplied corrected human-provenance declarations are retained as declarations; prior exposure and incomplete matched-source coverage remain explicit. Lock time is reported metadata, not an independently certified first-reading time.",
+      "status": "completed_locked_returns",
+      "raw_answer_sets_published": false,
+      "raw_return_sha256": {
+        "R1": "e8f8051cfb8ec6bb6e91eda4dc288681ead4bda767856f4268518b6a7bcaed28",
+        "R2": "2a89e6f959234d721d7ad76fc3d9b1f7d6c1669bf1f44958482e4f10097a52c6"
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "event": "Source-limited paired comparison and technical witness reconciliation integrated",
+      "document": "validation/VALIDATION_STATUS.json",
+      "source_provenance_record": {
+        "project_relative_artifact": "outputs/integracao_retornos663_2026-11-05/STATUS_INTEGRACAO.json",
+        "sha256": "73da48180c834b05890f5e1c224bd3cf50d8dfe90b230c03e97f90a1d0ebfa2b",
+        "bytes": 2285
+      },
+      "change": "Paired agreement described by selection frame and source scope; all 57 historical positive witnesses checked technically without converting 37 unknown human votes to confirmations. Historical main numerical input unchanged; no full independent source validation claimed.",
+      "timing_and_provenance": "Post-hoc integration after both supplied sets were locked. Agreement is internal and scope-limited, not accuracy or scientific closure. The 30-unit pilot supplies source-metadata feasibility, not compatible outcome-count sensitivity.",
+      "status": "completed_integration",
+      "historical_main_results_changed": false,
+      "primary_source_examined_per_assessor": 333
+    },
+    {
+      "date": "2026-11-05",
+      "event": "Supporting release v1.2.0 deposited",
+      "document": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.2.0",
+      "timestamp_as_recorded_utc": "2026-11-05T03:56:36Z",
+      "source_provenance_record": {
+        "project_relative_artifact": "outputs/integracao_retornos663_2026-11-05/PUBLICATION_RECEIPT_V120.json",
+        "sha256": "9f18682b9e937d60fd57421577116df532b43432b8d59177d3e1afe09403cabb",
+        "bytes": 1923
+      },
+      "change": "Public code and sanitized data projection include search-update trace, paired-rating comparison and the explicit source-scope limits. Existing scientific snapshots and earlier tags preserved.",
+      "timing_and_provenance": "Public release timestamp is recorded in the saved repository receipt; it is not a prospective protocol registration or independent certification of source availability at the search date.",
+      "status": "completed_public_support_release"
+    },
+    {
+      "date": "2026-11-05",
+      "event": "Authors confirmed the v1.2.0-linked manuscript and supplement revision",
+      "document": "Author confirmation receipt retained locally; exact reviewed artifact hashes are recorded",
+      "source_provenance_record": {
+        "project_relative_artifact": "outputs/conferencia_autoral_submissao_ejcp_2026-11-05/CONFERENCIA_AUTORAL_2026-11-05.json",
+        "sha256": "63b0cb958bd28a627add502099dba4d20b6386ec7b429cd11b6f7038ce76d062",
+        "bytes": 3022
+      },
+      "timestamp_as_recorded_utc": "2026-11-05T15:01:50.454341+00:00",
+      "change": "Author review confirmed for the exact prior manuscript and supplement bytes listed in the receipt, followed by a local submission-file assembly. No new source examination or classification inferred.",
+      "timing_and_provenance": "The user confirmation applies to the version reviewed at that time. It does not approve subsequent scientific or editorial revisions and does not constitute journal submission.",
+      "status": "completed_version_specific_author_confirmation",
+      "journal_submission_sent": false
+    },
+    {
+      "date": "2026-11-05",
+      "event": "Further validation-linked sensitivity and matched-source follow-up requested",
+      "document": "Expert feedback retained locally; source-hash provenance only",
+      "change": "Requested an explicit linkage between current human ratings and historical analysis, priority human inspection of 37 unconfirmed historical positive positions, a comparable-coverage negative sample, nominal new-ID subset flags and a dated chronology update.",
+      "timing_and_provenance": "Post-hoc request after v1.2.0 and after the previous author confirmation. This entry records a requested revision; it does not assert that the proposed matched-source human work or revised analysis was already completed.",
+      "status": "revision_requested_matched_source_human_work_not_established_by_this_chronology",
+      "source_sha256": "4f5c179903acd3592f7c0b606e72611a2ad5c817526e9aedb6e297b1b97bb3ba"
+    },
+    {
+      "date": "2026-11-05",
+      "event": "Positive-only sensitivity completed and source-matched follow-up prepared",
+      "document": "validation_sensitivity/ and linked_review_protocol/",
+      "change": "A separately labelled scenario sets only 37 currently unconfirmed historical positives to unknown while holding the other 5,059 position codes fixed. The 159-unit B3 death union changes from 15 complete/26 unknown to 5/36; ideation and attempt remain unchanged. A separate source-matched human lot contains 37 pending positives and 72 two-phase sampled historical negatives in 59 dossiers; no new human responses are filled.",
+      "timing_and_provenance": "Post-hoc sensitivity after the current human returns. The follow-up protocol and fixed seed were frozen before its 72-position selection. Its public LF serialization is documented separately from the original pre-selection bytes. Human source verification is prepared, not completed; this event does not extend the earlier author approval to the revised manuscript.",
+      "status": "sensitivity_completed_targeted_human_review_pending",
+      "historical_primary_codes_changed": false,
+      "new_human_votes_created": false,
+      "source_protocol_sha256_original_bytes": "0fa27e24716f7de44926ec1be47cdd99ded41d9374c767de882717db9cd10f5a"
     }
   ],
   "original_rule_analysis_not_falsely_reconstructed": true,
   "public_deposit_or_DOI_not_created_by_this_export": true,
   "registration": "No prospective or retrospective public registration identified in the supplied author confirmation",
-  "schema": "consolidated-protocol-amendment-chronology-v1",
-  "scope": "Dates from internal documents and named freezes; not legal timestamps or first public disclosure certificates"
+  "schema": "consolidated-protocol-amendment-chronology-v2-additive-november-reassessment",
+  "scope": "Dates from internal documents and named freezes; not legal timestamps or first public disclosure certificates",
+  "historical_first_eight_events_preserved": true,
+  "historical_first_eight_events_semantic_sha256": "229e19d06fc918bfba01f2f8eecd3cae3de21fd6cec15143624f8139ec3e23f4",
+  "addendum_created_on": "2026-11-05",
+  "do_not_treat_historical_status_text_as_current_status": "Earlier entries report their status at their own date; later dated entries supersede progress statements without altering the preserved historical protocol."
 }

@@ -1,0 +1,97 @@
+{
+  "counts": [
+    {
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "changed": false,
+      "component": "suicidal_ideation",
+      "historical": {
+        "N": 159,
+        "confirmed_total": 1,
+        "corpus_conditional_identification_interval": [
+          0.006289308176100629,
+          0.16981132075471697
+        ],
+        "derived_confirmed": 0,
+        "direct_confirmed": 1,
+        "not_complete_in_examined_scope": 132,
+        "unknown": 26
+      },
+      "source_limited_human_positive_only_scenario": {
+        "N": 159,
+        "confirmed_total": 1,
+        "corpus_conditional_identification_interval": [
+          0.006289308176100629,
+          0.16981132075471697
+        ],
+        "derived_confirmed": 0,
+        "direct_confirmed": 1,
+        "not_complete_in_examined_scope": 132,
+        "unknown": 26
+      },
+      "stage": "B3"
+    },
+    {
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "changed": false,
+      "component": "suicide_attempt",
+      "historical": {
+        "N": 159,
+        "confirmed_total": 1,
+        "corpus_conditional_identification_interval": [
+          0.006289308176100629,
+          0.16981132075471697
+        ],
+        "derived_confirmed": 0,
+        "direct_confirmed": 1,
+        "not_complete_in_examined_scope": 132,
+        "unknown": 26
+      },
+      "source_limited_human_positive_only_scenario": {
+        "N": 159,
+        "confirmed_total": 1,
+        "corpus_conditional_identification_interval": [
+          0.006289308176100629,
+          0.16981132075471697
+        ],
+        "derived_confirmed": 0,
+        "direct_confirmed": 1,
+        "not_complete_in_examined_scope": 132,
+        "unknown": 26
+      },
+      "stage": "B3"
+    },
+    {
+      "analysis_set": "whole_population_posthoc_exploratory",
+      "changed": true,
+      "component": "suicide_death",
+      "historical": {
+        "N": 159,
+        "confirmed_total": 15,
+        "corpus_conditional_identification_interval": [
+          0.09433962264150944,
+          0.2578616352201258
+        ],
+        "derived_confirmed": 15,
+        "direct_confirmed": 0,
+        "not_complete_in_examined_scope": 118,
+        "unknown": 26
+      },
+      "source_limited_human_positive_only_scenario": {
+        "N": 159,
+        "confirmed_total": 5,
+        "corpus_conditional_identification_interval": [
+          0.031446540880503145,
+          0.2578616352201258
+        ],
+        "derived_confirmed": 5,
+        "direct_confirmed": 0,
+        "not_complete_in_examined_scope": 118,
+        "unknown": 36
+      },
+      "stage": "B3"
+    }
+  ],
+  "not_error_correction_or_replacement_primary_analysis": true,
+  "note": "Only the 37 historical complete positions currently unknown in both reassessments are set unknown, at their exact original keys. All other historical codes remain fixed. Complete current witnesses for five derived-death units remain. These conditional intervals are not accuracy estimates, clinical risks, or confidence intervals.",
+  "title": "Positive-only sensitivity linked to the source-limited human reassessment (B3, 159 whole-population units)"
+}

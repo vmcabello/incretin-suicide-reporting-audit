@@ -1,0 +1,162 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Separate source-linked human review return, 109 positions",
+  "description": "Structure only; the accompanying verifier also checks immutable target keys, per-source coverage and internal consistency. Neither schema nor locked metadata certifies scientific truth, human reading, independence or accuracy. No responses have defaults.",
+  "type": "object",
+  "required": [
+    "schema",
+    "protocol_id",
+    "protocol_sha256",
+    "reviewer",
+    "status",
+    "completed_by_human",
+    "separate_before_discussion",
+    "prior_exposure_declaration",
+    "AI_assistance_declaration",
+    "locked_at",
+    "cases"
+  ],
+  "properties": {
+    "schema": {
+      "const": "linked-source-human-review-v1"
+    },
+    "protocol_id": {
+      "const": "EJCP-LINKED-SOURCE-109-20261105-v1"
+    },
+    "reviewer": {
+      "enum": [
+        "R1",
+        "R2"
+      ]
+    },
+    "status": {
+      "const": "HUMAN_RETURN_LOCKED_FOR_COMPARISON"
+    },
+    "completed_by_human": {
+      "const": "yes"
+    },
+    "separate_before_discussion": {
+      "enum": [
+        "yes",
+        "no",
+        "not_established"
+      ]
+    },
+    "external_or_memory_blinded_validation": {
+      "const": false
+    },
+    "prior_exposure_declaration": {
+      "type": "string",
+      "minLength": 1
+    },
+    "AI_assistance_declaration": {
+      "type": "string",
+      "minLength": 1
+    },
+    "locked_at": {
+      "type": "string",
+      "minLength": 1
+    },
+    "cases": {
+      "type": "array",
+      "minItems": 59,
+      "maxItems": 59,
+      "items": {
+        "type": "object",
+        "required": [
+          "case_id",
+          "unit_id",
+          "positions",
+          "source_examinations"
+        ],
+        "properties": {
+          "unit_id": {
+            "type": "string"
+          },
+          "source_examinations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "source_id",
+                "source_identity_verified",
+                "source_kind_verified",
+                "examination_status",
+                "version_observed",
+                "sections_actually_examined",
+                "access_or_scope_limitation",
+                "examined_at"
+              ]
+            }
+          },
+          "positions": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": [
+                "position_id",
+                "unit_id",
+                "component",
+                "stage",
+                "modality",
+                "reference_id",
+                "window_id",
+                "answer"
+              ],
+              "properties": {
+                "answer": {
+                  "type": "object",
+                  "required": [
+                    "source_scoped_classification",
+                    "cumulative_classification",
+                    "six_dimensions",
+                    "count_basis",
+                    "targeted_scope_coverage",
+                    "scope_comparability_rationale",
+                    "source_bindings",
+                    "evidence_and_rationale",
+                    "formed_before_discussion",
+                    "substantive_AI_judgment_used",
+                    "assessed_at"
+                  ],
+                  "properties": {
+                    "source_scoped_classification": {
+                      "type": "string"
+                    },
+                    "cumulative_classification": {
+                      "type": "string"
+                    },
+                    "six_dimensions": {
+                      "type": "object",
+                      "required": [
+                        "numerator",
+                        "denominator",
+                        "window",
+                        "subpopulation",
+                        "counting_unit",
+                        "source_access"
+                      ]
+                    },
+                    "source_bindings": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "required": [
+                          "source_id",
+                          "relevance_and_examination",
+                          "locator_for_this_target",
+                          "rationale"
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

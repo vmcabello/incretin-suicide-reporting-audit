@@ -1,0 +1,45 @@
+{
+  "files": [
+    {
+      "fixed_private_package_or_neutral_original_bytes_sha256": "0fa27e24716f7de44926ec1be47cdd99ded41d9374c767de882717db9cd10f5a",
+      "only_CRLF_to_LF_conversion": true,
+      "path": "PROTOCOL.json",
+      "public_LF_serialization_sha256": "b27dda7d0f992e60254a4ee75908a9299662fa122b3c3735d3ac84a7349560c5"
+    },
+    {
+      "fixed_private_package_or_neutral_original_bytes_sha256": "7e39c2950d4550586fa4d619393b69fdbd512c64e86b184cb10eaac51ca4c774",
+      "only_CRLF_to_LF_conversion": true,
+      "path": "SELECTION_ROSTER.json",
+      "public_LF_serialization_sha256": "b6abcd37bdfbcffcb92a1e4b2519e8ac098e946cce1edbe188e899728f4227d6"
+    },
+    {
+      "fixed_private_package_or_neutral_original_bytes_sha256": "443e4583b265ae8238d2c0ff7306d8c207eb390786a9b2a4f9171e4eaf8948e0",
+      "only_CRLF_to_LF_conversion": true,
+      "path": "SELECTION_ROSTER.csv",
+      "public_LF_serialization_sha256": "621bfa25bce0f96a4efb6d06ba30db3026ec8df8fbe162ed64fcc66a58a7906c"
+    },
+    {
+      "fixed_private_package_or_neutral_original_bytes_sha256": "84e8d96003003dec34a1ad0747b8cfc036f902da5daa59527106202de276f001",
+      "only_CRLF_to_LF_conversion": true,
+      "path": "RETURN_SCHEMA.json",
+      "public_LF_serialization_sha256": "45f718f6108e1a48c96617d6ce15a32db402328962b3eca16ec017873c3237c4"
+    },
+    {
+      "fixed_private_package_or_neutral_original_bytes_sha256": "d34dec4ab5e774f56411ee631c4ec046ec763f7c55d24d06e84619a8d8c6c7a3",
+      "only_CRLF_to_LF_conversion": true,
+      "path": "verify_linked_return.py",
+      "public_LF_serialization_sha256": "d34dec4ab5e774f56411ee631c4ec046ec763f7c55d24d06e84619a8d8c6c7a3"
+    },
+    {
+      "fixed_private_package_or_neutral_original_bytes_sha256": "a8ce1e61033f3e438a26d317561e8c5f183259c3904f117dc5d70599f193c63a",
+      "only_CRLF_to_LF_conversion": true,
+      "path": "README.txt",
+      "public_LF_serialization_sha256": "a359e3c4c0d8940ae0ca5fefb38143f108fc7e463863a671af998b678fe92188"
+    }
+  ],
+  "new_human_answers_created": false,
+  "original_fixed_protocol_sha256": "0fa27e24716f7de44926ec1be47cdd99ded41d9374c767de882717db9cd10f5a",
+  "protocol_sha256_fields_refer_to_original_fixed_protocol_bytes": true,
+  "public_protocol_LF_sha256": "b27dda7d0f992e60254a4ee75908a9299662fa122b3c3735d3ac84a7349560c5",
+  "scope": "Byte serialization of the neutral protocol projection for a repository that declares eol=lf. No scientific values, timing, seed, allocation, probabilities, protocol content, or source/human judgments changed."
+}

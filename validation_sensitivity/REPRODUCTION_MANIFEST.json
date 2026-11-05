@@ -1,0 +1,29 @@
+{
+  "command": "python reassessed_positive_sensitivity.py --repository PATH_TO_PUBLIC_REPOSITORY --out OUTPUT_DIRECTORY",
+  "generated_file_sha256": {
+    "ILLUSTRATIVE_MEMBERSHIP_SCENARIOS_COMPARISON.csv": "cba63f8c3c83e48aa1861469f6f41ca602ca99dd437a1e62ee30a1efc91cffe6",
+    "MODALITY_RESULTS_COMPARISON.csv": "ac35ed12cb9df12390f3ade7c298162d6b1863bb4e419e8b5b0d1350d4323dce",
+    "POSITION_BRIDGE_5096.csv": "f8b7a7f6c667f0e9a818659e2921d0407479db43f7f85411b20e7ae676acf7b7",
+    "POSITION_BRIDGE_5096.json": "6e6d4728bd60f6e62adf55bccdb5dc739ce08441994f33e94e79b62147287bd3",
+    "POSITIVE_WITNESS_BRIDGE_57.csv": "61c6400591d243d6c21aa86775e5db863a5160ee2e236c466b4e7da9870c66e0",
+    "POSITIVE_WITNESS_BRIDGE_57.json": "1f31baa0cf82300e193f5722b258dbd2e20a71dfa6727b32e9537a6140cc5beb",
+    "README.txt": "ff7bae90583f77885f78c22ebccb037a353264b2b69db62152c38c709d7534b9",
+    "SECONDARY_UNION_RESULTS_COMPARISON.csv": "51275e2166e629d50abd535241092492ffa6a38a96f9f5ccea740c814d848c24",
+    "SOURCE_LIMITED_HUMAN_POSITIVE_SENSITIVITY.json": "49b28a7b1bd6e9b3298c6c61ea8ce3d54c584c5575a78175dfcebd0096274ec6",
+    "TABLE_HUMAN_LINKED_SENSITIVITY_B3_WHOLE.json": "bfceae12acb63edd3230e78c8fea3cbe47521b6e0feea8cd374e73579927aabb",
+    "WITHOUT_DERIVED_COMPLETENESS_COMPARISON.csv": "ce52ad56db72da0dfeeadd0e51b1b729d0ed03b79d0d190e242d027ab312be30",
+    "reassessed_positive_sensitivity.py": "69a68348998065f9a90b6129c892cf5050d63c537c78dd47eb86781a1d5715e4"
+  },
+  "input_sha256": {
+    "current_analysis/RESULTS_BY_MODALITY.json": "0e850c6bcd2864af84da3970cbfa5fefc897fa0cbc696e319825faefab38f1ea",
+    "current_analysis/analysis_by_modality.py": "47d5ba449d6a5a2f93d3ba316aef9c0bd8904ce56fdf30f2fb11e2c90c90b71e",
+    "current_input/documental_entrada_reconciliada.json": "c73a749c106e0db489412d03aba5f8c82e2779b9c7e354c7d0b85ed50188258a",
+    "input_snapshot/codigo/analise_final.py": "745587929653dcc2f451f97cb1ce0b891158d85ca3b6c3d2d2622493f64d3dfb",
+    "input_snapshot/dados/lacunas_cumulativas.json": "16804d654c9fc8bd08c84c0546d723a937373ce1b4a1cd630aad3c549071c015",
+    "input_snapshot/dados/populacoes_final.json": "f1abde2a2f96204efb9962fbc21985a4b040c2b1b3129ebb292d8eb83024dc00",
+    "input_snapshot/dados/selecao_residual_final.json": "e9679f96f786bba19e28182dd2ebf90fd88c028f8905d9933d7a698e5020761d",
+    "validation/PAIRED_RATINGS_663.json": "e5951e2429165ace1aba918fc37e4c9bbf6ff7b82d23cb1c137d8fe1fd94c5be",
+    "validation/TECHNICAL_WITNESS_RECONCILIATION_57.json": "3683fe80c91282329b4803003f2c51a87ef0d3657f94dadafb4a0ff7ca7e3123"
+  },
+  "schema": "positive-only-source-limited-human-reassessment-sensitivity-v1"
+}

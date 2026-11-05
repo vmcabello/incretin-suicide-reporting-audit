@@ -1,0 +1,10 @@
+analysis_set,component,stage,changed,historical_N,historical_direct_complete,historical_unknown,historical_not_complete_in_examined_scope,historical_corpus_conditional_identification_interval,source_limited_scenario_N,source_limited_scenario_direct_complete,source_limited_scenario_unknown,source_limited_scenario_not_complete_in_examined_scope,source_limited_scenario_corpus_conditional_identification_interval
+whole_population_posthoc_exploratory,suicidal_ideation,B3,False,159,1,26,132,"[0.006289308176100629, 0.16981132075471697]",159,1,26,132,"[0.006289308176100629, 0.16981132075471697]"
+whole_population_posthoc_exploratory,suicide_attempt,B3,False,159,1,26,132,"[0.006289308176100629, 0.16981132075471697]",159,1,26,132,"[0.006289308176100629, 0.16981132075471697]"
+whole_population_posthoc_exploratory,suicide_death,B3,True,159,0,27,132,"[0.0, 0.16981132075471697]",159,0,36,123,"[0.0, 0.22641509433962265]"
+supported_including_subgroups_complementary,suicidal_ideation,B3,False,170,1,33,136,"[0.0058823529411764705, 0.2]",170,1,33,136,"[0.0058823529411764705, 0.2]"
+supported_including_subgroups_complementary,suicide_attempt,B3,False,170,1,33,136,"[0.0058823529411764705, 0.2]",170,1,33,136,"[0.0058823529411764705, 0.2]"
+supported_including_subgroups_complementary,suicide_death,B3,True,170,0,34,136,"[0.0, 0.2]",170,0,43,127,"[0.0, 0.2529411764705882]"
+operational_historical_complementary,suicidal_ideation,B3,False,182,1,37,144,"[0.005494505494505495, 0.2087912087912088]",182,1,37,144,"[0.005494505494505495, 0.2087912087912088]"
+operational_historical_complementary,suicide_attempt,B3,False,182,1,37,144,"[0.005494505494505495, 0.2087912087912088]",182,1,37,144,"[0.005494505494505495, 0.2087912087912088]"
+operational_historical_complementary,suicide_death,B3,True,182,0,38,144,"[0.0, 0.2087912087912088]",182,0,47,135,"[0.0, 0.25824175824175827]"

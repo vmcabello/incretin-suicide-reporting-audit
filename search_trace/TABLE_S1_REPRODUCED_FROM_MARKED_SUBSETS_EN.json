@@ -1,0 +1,67 @@
+{
+  "schema": "table-s1-marked-subsets-reproduction-v1",
+  "table_s1_rows": [
+    {
+      "database": "PUBMED",
+      "new_identifier_representations": 357,
+      "745_lot_route": 352,
+      "prior_master_route": 5
+    },
+    {
+      "database": "EMBASE",
+      "new_identifier_representations": 429,
+      "745_lot_route": 347,
+      "prior_master_route": 82
+    },
+    {
+      "database": "PSYCINFO",
+      "new_identifier_representations": 15,
+      "745_lot_route": 10,
+      "prior_master_route": 5
+    },
+    {
+      "database": "CENTRAL",
+      "new_identifier_representations": 97,
+      "745_lot_route": 43,
+      "prior_master_route": 54
+    }
+  ],
+  "counts_not_deduplicated_trials": true,
+  "definition_differences": [
+    {
+      "database": "PUBMED",
+      "same_database_native_id_absence_count_among_saved_representations": 371,
+      "table_s1_nominal_subset_count": 357
+    },
+    {
+      "database": "EMBASE",
+      "same_database_native_id_absence_count_among_saved_representations": 429,
+      "table_s1_nominal_subset_count": 429
+    },
+    {
+      "database": "PSYCINFO",
+      "same_database_native_id_absence_count_among_saved_representations": 15,
+      "table_s1_nominal_subset_count": 15
+    },
+    {
+      "database": "CENTRAL",
+      "same_database_native_id_absence_count_among_saved_representations": 97,
+      "table_s1_nominal_subset_count": 97
+    }
+  ],
+  "central_filtered_subset_count": 95,
+  "central_full_additions_not_in_filtered95": [
+    "CN-02681923",
+    "CN-03054840"
+  ],
+  "total_marked_representations": 2558,
+  "uncertain_membership_flags": 0,
+  "notes": [
+    "A new native identifier is not a newly eligible study; cross-database overlap and modified representations remain possible.",
+    "The 95 filtered CENTRAL records are a nested subset of the 97 additions established from the complete-query comparison.",
+    "The PubMed357 flag is explicitly tied to the saved nominal list; it is not silently generalized to all identifiers absent from the September export.",
+    "Route categories count representations with a dedicated update card versus an existing-master route; prior links attached to a card are not counted twice."
+  ],
+  "recommended_table_s1_caption": "Source-specific new identifier and candidate subsets and their recorded routes",
+  "recommended_table_s1_note": "PubMed uses the saved nominal list of 357 identifiers new to the cross-database master at the update stage; another 14 IDs absent from the historical PubMed export were already represented in the master by the same publication PMID. Embase, PsycINFO and complete-query CENTRAL rows use native-ID differences against their own historical exports. The 95 filtered CENTRAL additions form a subset of the 97 complete-query additions. Counts are overlapping database representations, not eligible studies."
+}

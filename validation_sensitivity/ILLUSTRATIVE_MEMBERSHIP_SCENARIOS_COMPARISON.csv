@@ -1,0 +1,13 @@
+scenario,component,changed,historical_N_hypothetical,historical_known_confirmed_carried_forward,historical_unknown_hypothetical,historical_corpus_conditional_identification_interval,source_limited_scenario_N_hypothetical,source_limited_scenario_known_confirmed_carried_forward,source_limited_scenario_unknown_hypothetical,source_limited_scenario_corpus_conditional_identification_interval
+additional_12_population_unresolved,suicidal_ideation,False,171,1,38,"[0.005847953216374269, 0.22807017543859648]",171,1,38,"[0.005847953216374269, 0.22807017543859648]"
+additional_35_membership_unknown,suicidal_ideation,False,194,1,61,"[0.005154639175257732, 0.31958762886597936]",194,1,61,"[0.005154639175257732, 0.31958762886597936]"
+additional_2_identity_unresolved,suicidal_ideation,False,161,1,28,"[0.006211180124223602, 0.18012422360248448]",161,1,28,"[0.006211180124223602, 0.18012422360248448]"
+additional_49_combined_disjoint_uncertainties,suicidal_ideation,False,208,1,75,"[0.004807692307692308, 0.36538461538461536]",208,1,75,"[0.004807692307692308, 0.36538461538461536]"
+additional_12_population_unresolved,suicide_attempt,False,171,1,38,"[0.005847953216374269, 0.22807017543859648]",171,1,38,"[0.005847953216374269, 0.22807017543859648]"
+additional_35_membership_unknown,suicide_attempt,False,194,1,61,"[0.005154639175257732, 0.31958762886597936]",194,1,61,"[0.005154639175257732, 0.31958762886597936]"
+additional_2_identity_unresolved,suicide_attempt,False,161,1,28,"[0.006211180124223602, 0.18012422360248448]",161,1,28,"[0.006211180124223602, 0.18012422360248448]"
+additional_49_combined_disjoint_uncertainties,suicide_attempt,False,208,1,75,"[0.004807692307692308, 0.36538461538461536]",208,1,75,"[0.004807692307692308, 0.36538461538461536]"
+additional_12_population_unresolved,suicide_death,True,171,15,38,"[0.08771929824561403, 0.30994152046783624]",171,5,48,"[0.029239766081871343, 0.30994152046783624]"
+additional_35_membership_unknown,suicide_death,True,194,15,61,"[0.07731958762886598, 0.3917525773195876]",194,5,71,"[0.02577319587628866, 0.3917525773195876]"
+additional_2_identity_unresolved,suicide_death,True,161,15,28,"[0.09316770186335403, 0.2670807453416149]",161,5,38,"[0.031055900621118012, 0.2670807453416149]"
+additional_49_combined_disjoint_uncertainties,suicide_death,True,208,15,75,"[0.07211538461538461, 0.4326923076923077]",208,5,85,"[0.02403846153846154, 0.4326923076923077]"

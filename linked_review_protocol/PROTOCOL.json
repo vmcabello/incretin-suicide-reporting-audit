@@ -1,0 +1,366 @@
+{
+  "protocol_id": "EJCP-LINKED-SOURCE-109-20261105-v1",
+  "date": "2026-11-05",
+  "fixed_utc_before_selection": "2026-11-05T15:50:36.895566+00:00",
+  "selection_not_executed_at_time_of_this_file": true,
+  "design": "Retrospective internal source-linked human verification. Earlier project exposure is declared; this is not external, memory-blinded validation or a gold standard.",
+  "mandatory_frame": "Exactly the 37 of 57 historical complete positions not confirmed complete in both locked November returns, grouped in 13 units. The other 20 confirmed positions are not repeated.",
+  "phase_1_negative_frame": {
+    "N": 4030,
+    "n": 426,
+    "strata": 56,
+    "stratification": "component × modality × cumulative layer × historical source-scoped negative status; preserve all original strata and probabilities",
+    "baseline_file_sha256": "cfcf20f81f4c08056e36de9e066cae1be697faae22fd88e5d519f7b9de6755a9"
+  },
+  "phase_2_negative_sample": {
+    "n": 72,
+    "seed": "EJCP-LINKED-SOURCE-PHASE2-NEGATIVE72-20261105-v1",
+    "allocation": "One in each of 56 nonempty original strata; allocate the remaining 16 proportionally to n_h−1 by largest remainder; ties lexical by stratum_id. Sort exact original canonical position keys within stratum by SHA256(seed + pipe + position_key); take m_h. No source-availability filter, no replacement and no cherry-picking by outcome.",
+    "probabilities": "phase1=n_h/N_h; phase2=m_h/n_h; composed=m_h/N_h; weight=N_h/m_h",
+    "no_new_negative_frame_or_redraw": true
+  },
+  "allocation": [
+    {
+      "stratum_id": "STR-040c0f1a2b01",
+      "N_h": 138,
+      "n_h": 14,
+      "m_h": 2
+    },
+    {
+      "stratum_id": "STR-0c9d32a70a2a",
+      "N_h": 32,
+      "n_h": 4,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-0e2895f44449",
+      "N_h": 40,
+      "n_h": 4,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-1130677c9913",
+      "N_h": 128,
+      "n_h": 13,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-120a49a60827",
+      "N_h": 8,
+      "n_h": 1,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-1276813c1008",
+      "N_h": 6,
+      "n_h": 1,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-152fd30c7c02",
+      "N_h": 141,
+      "n_h": 15,
+      "m_h": 2
+    },
+    {
+      "stratum_id": "STR-1fab9f3f1a29",
+      "N_h": 5,
+      "n_h": 1,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-272f7484386a",
+      "N_h": 133,
+      "n_h": 14,
+      "m_h": 2
+    },
+    {
+      "stratum_id": "STR-3266c98aaabd",
+      "N_h": 125,
+      "n_h": 13,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-42d4f3580824",
+      "N_h": 10,
+      "n_h": 1,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-44e03cfaf38f",
+      "N_h": 40,
+      "n_h": 4,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-45e3b6592578",
+      "N_h": 136,
+      "n_h": 14,
+      "m_h": 2
+    },
+    {
+      "stratum_id": "STR-498c1bb356ea",
+      "N_h": 141,
+      "n_h": 15,
+      "m_h": 2
+    },
+    {
+      "stratum_id": "STR-4eb1a2d1dee8",
+      "N_h": 137,
+      "n_h": 14,
+      "m_h": 2
+    },
+    {
+      "stratum_id": "STR-61c50b9b17d0",
+      "N_h": 137,
+      "n_h": 14,
+      "m_h": 2
+    },
+    {
+      "stratum_id": "STR-6b616b94e73a",
+      "N_h": 34,
+      "n_h": 4,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-70d854ae2d24",
+      "N_h": 139,
+      "n_h": 14,
+      "m_h": 2
+    },
+    {
+      "stratum_id": "STR-7489e66bfbe5",
+      "N_h": 10,
+      "n_h": 1,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-789595e85ce9",
+      "N_h": 8,
+      "n_h": 1,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-8288b08a2219",
+      "N_h": 136,
+      "n_h": 14,
+      "m_h": 2
+    },
+    {
+      "stratum_id": "STR-83601097060b",
+      "N_h": 145,
+      "n_h": 15,
+      "m_h": 2
+    },
+    {
+      "stratum_id": "STR-866ac95a4d5a",
+      "N_h": 10,
+      "n_h": 1,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-86a366d71f31",
+      "N_h": 14,
+      "n_h": 2,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-8bcddd85b37e",
+      "N_h": 10,
+      "n_h": 1,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-8c992586d562",
+      "N_h": 115,
+      "n_h": 12,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-9be069ee0c20",
+      "N_h": 2,
+      "n_h": 1,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-a498df4cf38e",
+      "N_h": 137,
+      "n_h": 14,
+      "m_h": 2
+    },
+    {
+      "stratum_id": "STR-a65bbd459168",
+      "N_h": 137,
+      "n_h": 14,
+      "m_h": 2
+    },
+    {
+      "stratum_id": "STR-a798c5354bed",
+      "N_h": 2,
+      "n_h": 1,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-b3cdf09bbee4",
+      "N_h": 10,
+      "n_h": 1,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-b4cc9f9b65c3",
+      "N_h": 102,
+      "n_h": 11,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-b57acd503d28",
+      "N_h": 137,
+      "n_h": 14,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-b9823ee725b3",
+      "N_h": 144,
+      "n_h": 15,
+      "m_h": 2
+    },
+    {
+      "stratum_id": "STR-c11fafb329e4",
+      "N_h": 13,
+      "n_h": 2,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-c47ba1e2954e",
+      "N_h": 27,
+      "n_h": 3,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-c481f4349796",
+      "N_h": 26,
+      "n_h": 3,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-c74b3898c178",
+      "N_h": 100,
+      "n_h": 10,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-c8bc464f161e",
+      "N_h": 118,
+      "n_h": 12,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-ca8c8ccc2300",
+      "N_h": 2,
+      "n_h": 1,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-cca9d4004044",
+      "N_h": 144,
+      "n_h": 15,
+      "m_h": 2
+    },
+    {
+      "stratum_id": "STR-d3c75adcc0c2",
+      "N_h": 2,
+      "n_h": 1,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-d4df8e43694e",
+      "N_h": 144,
+      "n_h": 15,
+      "m_h": 2
+    },
+    {
+      "stratum_id": "STR-d6a94d578cca",
+      "N_h": 8,
+      "n_h": 1,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-dcac53473dbb",
+      "N_h": 144,
+      "n_h": 15,
+      "m_h": 2
+    },
+    {
+      "stratum_id": "STR-dcce825d961b",
+      "N_h": 95,
+      "n_h": 10,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-de37ff23f35b",
+      "N_h": 131,
+      "n_h": 14,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-e28bfca967da",
+      "N_h": 35,
+      "n_h": 4,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-e7d73c3fbd33",
+      "N_h": 3,
+      "n_h": 1,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-ed8e4497e7ad",
+      "N_h": 110,
+      "n_h": 11,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-f3987d5805e9",
+      "N_h": 33,
+      "n_h": 4,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-f4848abdb91d",
+      "N_h": 15,
+      "n_h": 2,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-fa71db5e7003",
+      "N_h": 95,
+      "n_h": 10,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-fc2a88d44dd7",
+      "N_h": 20,
+      "n_h": 2,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-fcd11c3b2f69",
+      "N_h": 107,
+      "n_h": 11,
+      "m_h": 1
+    },
+    {
+      "stratum_id": "STR-fdfda82f8a28",
+      "N_h": 9,
+      "n_h": 1,
+      "m_h": 1
+    }
+  ],
+  "source_coverage": "Use the original position-specific cumulative source inventory and exact compatible primary witnesses. Each source is triaged separately; obtained bytes do not certify reading. Each position records which sources were relevant, examined, inaccessible, unexamined or auxiliary. Preserve source-layer restrictions; do not use a B2 registry result to fill an article-only A judgment.",
+  "unknowns": "Unknown is a valid result when a pertinent source or target dimension remains unresolved. No inaccessible case is replaced. An unrelated internal receipt does not automatically negate a compatible complete primary witness, nor does an incomplete registry establish absence in unread articles.",
+  "independence": "R1 and R2 receive separate blank forms with no former votes, event counts, proposed technical judgments or other assessor answers. Seal each return before discussion. Prior exposure to the project is disclosed. Any substantive AI help must be explicitly recorded, never relabeled as human-only.",
+  "post_return": "Preserve original votes, examine reading coverage, compare per-position classifications and resolve disagreements only after both sets are locked. Link changes to unit/modality/layer analytical sensitivity. Agreement is internal and descriptive. Do not call coding differences an externally validated error rate; do not report a naive independent-position confidence interval or treat unavailable sources as known negative.",
+  "primary_results_changed": false,
+  "human_answers_filled": false
+}

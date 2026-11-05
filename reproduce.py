@@ -28,6 +28,17 @@ def main():
             if actual!=expected:
                 raise SystemExit('Recorded-reason inventory differs: '+name)
     subprocess.run([sys.executable,'-B',str(ROOT/'search_trace/validate_search_trace.py'),'--root',str(ROOT/'search_trace')],check=True)
+    subprocess.run([sys.executable,'-B',str(ROOT/'search_trace/validate_marked_subsets.py'),'--root',str(ROOT/'search_trace')],check=True)
     subprocess.run([sys.executable,'-B',str(ROOT/'validation/reproduce_agreement.py'),'--root',str(ROOT/'validation'),'--check'],check=True)
-    print(json.dumps({'integrity_files':len(manifest['files']),'exact_result_reproduction':True,'recorded_reason_outputs_reproduced':len(expected_names),'search_trace_checked':True,'locked_paired_returns_integrated':True,'descriptive_agreement_reproduced':True,'full_source_revalidation_completed':False,'clinical_effect_analysis':False}))
+    subprocess.run([sys.executable,'-B',str(ROOT/'linked_review_protocol/validate_public_design.py'),'--repository',str(ROOT)],check=True)
+    with tempfile.TemporaryDirectory(prefix='human_positive_sensitivity_') as td:
+        generated=Path(td)
+        subprocess.run([sys.executable,'-B',str(ROOT/'validation_sensitivity/reassessed_positive_sensitivity.py'),'--repository',str(ROOT),'--out',str(generated)],check=True)
+        sensitivity_names=sorted(f.name for f in generated.iterdir() if f.is_file())
+        expected_sensitivity_names=sorted(f.name for f in (ROOT/'validation_sensitivity').iterdir() if f.is_file())
+        if sensitivity_names!=expected_sensitivity_names:raise SystemExit('Positive-only sensitivity file roster differs')
+        for name in sensitivity_names:
+            if (generated/name).read_bytes()!=(ROOT/'validation_sensitivity'/name).read_bytes():
+                raise SystemExit('Positive-only sensitivity differs: '+name)
+    print(json.dumps({'integrity_files':len(manifest['files']),'exact_result_reproduction':True,'recorded_reason_outputs_reproduced':len(expected_names),'search_trace_checked':True,'marked_new_identifier_subsets_reproduced':True,'locked_paired_returns_integrated':True,'descriptive_agreement_reproduced':True,'targeted_public_design_109_replayed':True,'positive_only_sensitivity_outputs_reproduced':len(sensitivity_names),'historical_primary_results_replaced':False,'full_source_revalidation_completed':False,'clinical_effect_analysis':False}))
 if __name__=='__main__':main()

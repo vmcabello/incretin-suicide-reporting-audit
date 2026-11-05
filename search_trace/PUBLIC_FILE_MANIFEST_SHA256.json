@@ -1,6 +1,6 @@
 {
-  "version": "v1.1.0",
-  "scope": "Public supporting directory; scientific inputs unchanged.",
+  "version": "v1.3.0",
+  "scope": "Public supporting directory with marked new-identifier subsets; original rows and scientific decisions retained.",
   "files": [
     {
       "path": "CASE_REPRESENTATION_EDGES_EN.json",
@@ -33,6 +33,11 @@
       "sha256": "5017dc781518a7884a8e32fff2c680a591e176af48d56fc3dc451c8af46f2657"
     },
     {
+      "path": "NEW_IDENTIFIER_SUBSET_MEMBERSHIP_2558_EN.json",
+      "bytes": 5715955,
+      "sha256": "35a8276a0529f683d2acea903640d21b711b40c46f3cf1bf1e4d1d60f111ec3d"
+    },
+    {
       "path": "PRIOR_LIBRARY_DECISIONS_REUSED_EN.json",
       "bytes": 4060443,
       "sha256": "d7d5f0b416ba48248db9255e83d966654a4443ebbd0c0188d5895404878adc66"
@@ -41,6 +46,16 @@
       "path": "PRIOR_LIBRARY_DECISIONS_REUSED_EN.tsv",
       "bytes": 2197726,
       "sha256": "a4defa8864ff559e5ecb397c90a156e01399f0b7b9abaa93630a87c6700d1ae0"
+    },
+    {
+      "path": "PUBMED_14_NEW_NATIVE_IDS_ALREADY_KNOWN_TO_MASTER_EN.json",
+      "bytes": 38686,
+      "sha256": "d4ce1828c83778dd52958737f9891e39fa7700a816c60841b8a9de1e34f6a1fc"
+    },
+    {
+      "path": "README_NEW_IDENTIFIER_SUBSETS_EN.txt",
+      "bytes": 1668,
+      "sha256": "58963c565aef98e01e52cecd089fb1d0682a8de02a178f787325785c4e151f2e"
     },
     {
       "path": "README_SEARCH_TRACE.txt",
@@ -74,13 +89,13 @@
     },
     {
       "path": "SEARCH_UPDATE_REPRESENTATIONS_2558_EN.json",
-      "bytes": 6047806,
-      "sha256": "7c2c0901c1d093844118ec3ee33f04bdd85c1eb40ff996a7991587cd52c34290"
+      "bytes": 10157020,
+      "sha256": "4a234d1955a665cacf2c2b11f8919c445bc845172764e6931cba74bf2ba46440"
     },
     {
       "path": "SEARCH_UPDATE_REPRESENTATIONS_2558_EN.tsv",
-      "bytes": 2800057,
-      "sha256": "9f8d72f4d89e6c818f88093aa4bd9b709d98dede44e1d7d51b1ca7480a6ffa14"
+      "bytes": 7076137,
+      "sha256": "cf568aa361e41fffc0dce78db5791fd0315f91efaaaabca7033c25522a098b05"
     },
     {
       "path": "SEPARATE_REGISTRY55_AND_QUERY_ABSENCE_EN.json",
@@ -91,6 +106,16 @@
       "path": "SEPARATE_REGISTRY55_AND_QUERY_ABSENCE_EN.tsv",
       "bytes": 27266,
       "sha256": "836256e3b248a110f40554cbf9a864a309c2dd0aeb96f62cd7e1dae3c1113aed"
+    },
+    {
+      "path": "TABLE_S1_REPRODUCED_FROM_MARKED_SUBSETS_EN.json",
+      "bytes": 2839,
+      "sha256": "5d6b5f01d988fcf865aba535394a53caa9fbe7b01a26e15c115eb969a2a8f2f8"
+    },
+    {
+      "path": "validate_marked_subsets.py",
+      "bytes": 6129,
+      "sha256": "d76469d158ee9712a51ba3118f63e17dd73f5414610b7ccf33e2496ac2ffd95d"
     },
     {
       "path": "validate_search_trace.py",

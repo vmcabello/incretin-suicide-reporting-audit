@@ -1,0 +1,773 @@
+{
+  "schema": "pubmed-nominal-subset-definition-exceptions-v1",
+  "explanation": "371 PubMed identifiers were absent from the September PubMed export. Fourteen already had the same publication PMID in the cross-database master, leaving 357 in the saved nominal new-to-master list used by Table S1. These 14 are linked to preserved master decisions; they are neither untriaged additions nor invented exclusions.",
+  "records": [
+    {
+      "representation_id": "UPDATE19OCT:PUBMED:40439835",
+      "native_identifier": "40439835",
+      "case_ids": [],
+      "prior_library_decision_links": [
+        {
+          "group_id": "BIB:EMBASE:L647494647",
+          "identifier_match_basis_as_recorded": [
+            "same_DOI_and_normalized_title",
+            "same_primary_publication_PMID"
+          ],
+          "prior_decision_row_id": "BIB:EMBASE:L647494647",
+          "effective_route_as_recorded": "HUMAN_CONFIRMED_EXCLUDE",
+          "screening_decision_as_recorded": "EXCLUDE",
+          "rationale_recovered": true,
+          "identifier_match_does_not_certify_same_version_or_scientific_closure": true
+        }
+      ],
+      "native_record_provenance": {
+        "native_file_id": "NATIVE-89a035a8f227c4ced5745ea9",
+        "native_export_basename": "ATUALIZACAO_COMPLETA.xml",
+        "native_file_sha256": "89a035a8f227c4ced5745ea956384fe82131df12f7251513c57ebdf3ead9ed4f",
+        "record_ordinal": 668,
+        "locator": "/PubmedArticleSet/PubmedArticle[668]",
+        "native_record_canonical_sha256": "19ded304779c9de0f4a7114a9e2c8708bcf1fff4ed8d38b2ce82fb89c9726a72"
+      },
+      "new_identifier_subset_membership": {
+        "table_s1_new_identifier_subset": false,
+        "table_s1_membership_status": "established_by_named_identifier_source",
+        "table_s1_definition": "Saved nominal PubMed new-to-master candidate list; not assumed equivalent to absence from the historical PubMed export.",
+        "table_s1_route": null,
+        "new_identifier_vs_same_database_historical_export": true,
+        "historical_export_identifier_check": {
+          "project_relative_artifact": "outputs/exportacoes_2026-09-24/fontes_anteriores/pubmed/pubmed_24278.nbib",
+          "sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f",
+          "bytes": 119259314,
+          "identifier": "40439835",
+          "present": false,
+          "native_locator_if_present": null,
+          "absence_is_identifier_set_absence_not_study_ineligibility": true
+        },
+        "table_s1_membership_evidence": {
+          "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/pubmed/CANDIDATOS_NOVOS_PARA_DEDUPLICAR.json",
+          "sha256": "f60cdf366f3767976c4e77590078e59c739e7185b5c1404544d639a415171118",
+          "bytes": 876456,
+          "locator": "rows[pmid=40439835]",
+          "nominal_list_member": false
+        },
+        "central_filtered95_member": null,
+        "central_complete_query_member": null,
+        "central_filtered95_evidence": null,
+        "scientific_eligibility_or_exhaustiveness_inferred_from_subset_membership": false
+      }
+    },
+    {
+      "representation_id": "UPDATE19OCT:PUBMED:42142623",
+      "native_identifier": "42142623",
+      "case_ids": [],
+      "prior_library_decision_links": [
+        {
+          "group_id": "BIB:EMBASE:L2046480621",
+          "identifier_match_basis_as_recorded": [
+            "same_DOI_and_normalized_title",
+            "same_primary_publication_PMID"
+          ],
+          "prior_decision_row_id": "BIB:EMBASE:L2046480621",
+          "effective_route_as_recorded": "HUMAN_CONFIRMED_EXCLUDE",
+          "screening_decision_as_recorded": "EXCLUDE",
+          "rationale_recovered": true,
+          "identifier_match_does_not_certify_same_version_or_scientific_closure": true
+        }
+      ],
+      "native_record_provenance": {
+        "native_file_id": "NATIVE-89a035a8f227c4ced5745ea9",
+        "native_export_basename": "ATUALIZACAO_COMPLETA.xml",
+        "native_file_sha256": "89a035a8f227c4ced5745ea956384fe82131df12f7251513c57ebdf3ead9ed4f",
+        "record_ordinal": 1133,
+        "locator": "/PubmedArticleSet/PubmedArticle[1133]",
+        "native_record_canonical_sha256": "ef5132ab02f27544b057048d6dc28e83a2240b1f2a4173a4c46e085fc94a82ef"
+      },
+      "new_identifier_subset_membership": {
+        "table_s1_new_identifier_subset": false,
+        "table_s1_membership_status": "established_by_named_identifier_source",
+        "table_s1_definition": "Saved nominal PubMed new-to-master candidate list; not assumed equivalent to absence from the historical PubMed export.",
+        "table_s1_route": null,
+        "new_identifier_vs_same_database_historical_export": true,
+        "historical_export_identifier_check": {
+          "project_relative_artifact": "outputs/exportacoes_2026-09-24/fontes_anteriores/pubmed/pubmed_24278.nbib",
+          "sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f",
+          "bytes": 119259314,
+          "identifier": "42142623",
+          "present": false,
+          "native_locator_if_present": null,
+          "absence_is_identifier_set_absence_not_study_ineligibility": true
+        },
+        "table_s1_membership_evidence": {
+          "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/pubmed/CANDIDATOS_NOVOS_PARA_DEDUPLICAR.json",
+          "sha256": "f60cdf366f3767976c4e77590078e59c739e7185b5c1404544d639a415171118",
+          "bytes": 876456,
+          "locator": "rows[pmid=42142623]",
+          "nominal_list_member": false
+        },
+        "central_filtered95_member": null,
+        "central_complete_query_member": null,
+        "central_filtered95_evidence": null,
+        "scientific_eligibility_or_exhaustiveness_inferred_from_subset_membership": false
+      }
+    },
+    {
+      "representation_id": "UPDATE19OCT:PUBMED:42174221",
+      "native_identifier": "42174221",
+      "case_ids": [],
+      "prior_library_decision_links": [
+        {
+          "group_id": "BIB:EMBASE:L2045715668",
+          "identifier_match_basis_as_recorded": [
+            "same_DOI_and_normalized_title",
+            "same_primary_publication_PMID"
+          ],
+          "prior_decision_row_id": "BIB:EMBASE:L2045715668",
+          "effective_route_as_recorded": "HUMAN_CONFIRMED_EXCLUDE_SCREENING",
+          "screening_decision_as_recorded": "original_master_confirmation",
+          "rationale_recovered": true,
+          "identifier_match_does_not_certify_same_version_or_scientific_closure": true
+        }
+      ],
+      "native_record_provenance": {
+        "native_file_id": "NATIVE-89a035a8f227c4ced5745ea9",
+        "native_export_basename": "ATUALIZACAO_COMPLETA.xml",
+        "native_file_sha256": "89a035a8f227c4ced5745ea956384fe82131df12f7251513c57ebdf3ead9ed4f",
+        "record_ordinal": 1149,
+        "locator": "/PubmedArticleSet/PubmedArticle[1149]",
+        "native_record_canonical_sha256": "505a09e06bb07b11721c8d2aa92ee7fdf65f5c2879bb9a9c62e99591369f5521"
+      },
+      "new_identifier_subset_membership": {
+        "table_s1_new_identifier_subset": false,
+        "table_s1_membership_status": "established_by_named_identifier_source",
+        "table_s1_definition": "Saved nominal PubMed new-to-master candidate list; not assumed equivalent to absence from the historical PubMed export.",
+        "table_s1_route": null,
+        "new_identifier_vs_same_database_historical_export": true,
+        "historical_export_identifier_check": {
+          "project_relative_artifact": "outputs/exportacoes_2026-09-24/fontes_anteriores/pubmed/pubmed_24278.nbib",
+          "sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f",
+          "bytes": 119259314,
+          "identifier": "42174221",
+          "present": false,
+          "native_locator_if_present": null,
+          "absence_is_identifier_set_absence_not_study_ineligibility": true
+        },
+        "table_s1_membership_evidence": {
+          "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/pubmed/CANDIDATOS_NOVOS_PARA_DEDUPLICAR.json",
+          "sha256": "f60cdf366f3767976c4e77590078e59c739e7185b5c1404544d639a415171118",
+          "bytes": 876456,
+          "locator": "rows[pmid=42174221]",
+          "nominal_list_member": false
+        },
+        "central_filtered95_member": null,
+        "central_complete_query_member": null,
+        "central_filtered95_evidence": null,
+        "scientific_eligibility_or_exhaustiveness_inferred_from_subset_membership": false
+      }
+    },
+    {
+      "representation_id": "UPDATE19OCT:PUBMED:42250261",
+      "native_identifier": "42250261",
+      "case_ids": [],
+      "prior_library_decision_links": [
+        {
+          "group_id": "BIB:PSYCINFO:2027-82169-001",
+          "identifier_match_basis_as_recorded": [
+            "same_DOI_and_normalized_title",
+            "same_primary_publication_PMID"
+          ],
+          "prior_decision_row_id": "BIB:PSYCINFO:2027-82169-001",
+          "effective_route_as_recorded": "HUMAN_CONFIRMED_EXCLUDE_SCREENING",
+          "screening_decision_as_recorded": "original_master_confirmation",
+          "rationale_recovered": true,
+          "identifier_match_does_not_certify_same_version_or_scientific_closure": true
+        }
+      ],
+      "native_record_provenance": {
+        "native_file_id": "NATIVE-89a035a8f227c4ced5745ea9",
+        "native_export_basename": "ATUALIZACAO_COMPLETA.xml",
+        "native_file_sha256": "89a035a8f227c4ced5745ea956384fe82131df12f7251513c57ebdf3ead9ed4f",
+        "record_ordinal": 1183,
+        "locator": "/PubmedArticleSet/PubmedArticle[1183]",
+        "native_record_canonical_sha256": "60a6f0a758dad9d2ec837c2c29b6669aaba9dee3235290f5337c348f70c3a635"
+      },
+      "new_identifier_subset_membership": {
+        "table_s1_new_identifier_subset": false,
+        "table_s1_membership_status": "established_by_named_identifier_source",
+        "table_s1_definition": "Saved nominal PubMed new-to-master candidate list; not assumed equivalent to absence from the historical PubMed export.",
+        "table_s1_route": null,
+        "new_identifier_vs_same_database_historical_export": true,
+        "historical_export_identifier_check": {
+          "project_relative_artifact": "outputs/exportacoes_2026-09-24/fontes_anteriores/pubmed/pubmed_24278.nbib",
+          "sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f",
+          "bytes": 119259314,
+          "identifier": "42250261",
+          "present": false,
+          "native_locator_if_present": null,
+          "absence_is_identifier_set_absence_not_study_ineligibility": true
+        },
+        "table_s1_membership_evidence": {
+          "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/pubmed/CANDIDATOS_NOVOS_PARA_DEDUPLICAR.json",
+          "sha256": "f60cdf366f3767976c4e77590078e59c739e7185b5c1404544d639a415171118",
+          "bytes": 876456,
+          "locator": "rows[pmid=42250261]",
+          "nominal_list_member": false
+        },
+        "central_filtered95_member": null,
+        "central_complete_query_member": null,
+        "central_filtered95_evidence": null,
+        "scientific_eligibility_or_exhaustiveness_inferred_from_subset_membership": false
+      }
+    },
+    {
+      "representation_id": "UPDATE19OCT:PUBMED:42379510",
+      "native_identifier": "42379510",
+      "case_ids": [],
+      "prior_library_decision_links": [
+        {
+          "group_id": "BIB:EMBASE:L2048128214",
+          "identifier_match_basis_as_recorded": [
+            "same_DOI_and_normalized_title",
+            "same_primary_publication_PMID"
+          ],
+          "prior_decision_row_id": "BIB:EMBASE:L2048128214",
+          "effective_route_as_recorded": "HUMAN_CONFIRMED_EXCLUDE",
+          "screening_decision_as_recorded": "EXCLUDE",
+          "rationale_recovered": true,
+          "identifier_match_does_not_certify_same_version_or_scientific_closure": true
+        }
+      ],
+      "native_record_provenance": {
+        "native_file_id": "NATIVE-89a035a8f227c4ced5745ea9",
+        "native_export_basename": "ATUALIZACAO_COMPLETA.xml",
+        "native_file_sha256": "89a035a8f227c4ced5745ea956384fe82131df12f7251513c57ebdf3ead9ed4f",
+        "record_ordinal": 1239,
+        "locator": "/PubmedArticleSet/PubmedArticle[1239]",
+        "native_record_canonical_sha256": "5cd8467ce63749bd03efb50b2bd0686d77637cac7470170135ac38d7370f04e0"
+      },
+      "new_identifier_subset_membership": {
+        "table_s1_new_identifier_subset": false,
+        "table_s1_membership_status": "established_by_named_identifier_source",
+        "table_s1_definition": "Saved nominal PubMed new-to-master candidate list; not assumed equivalent to absence from the historical PubMed export.",
+        "table_s1_route": null,
+        "new_identifier_vs_same_database_historical_export": true,
+        "historical_export_identifier_check": {
+          "project_relative_artifact": "outputs/exportacoes_2026-09-24/fontes_anteriores/pubmed/pubmed_24278.nbib",
+          "sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f",
+          "bytes": 119259314,
+          "identifier": "42379510",
+          "present": false,
+          "native_locator_if_present": null,
+          "absence_is_identifier_set_absence_not_study_ineligibility": true
+        },
+        "table_s1_membership_evidence": {
+          "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/pubmed/CANDIDATOS_NOVOS_PARA_DEDUPLICAR.json",
+          "sha256": "f60cdf366f3767976c4e77590078e59c739e7185b5c1404544d639a415171118",
+          "bytes": 876456,
+          "locator": "rows[pmid=42379510]",
+          "nominal_list_member": false
+        },
+        "central_filtered95_member": null,
+        "central_complete_query_member": null,
+        "central_filtered95_evidence": null,
+        "scientific_eligibility_or_exhaustiveness_inferred_from_subset_membership": false
+      }
+    },
+    {
+      "representation_id": "UPDATE19OCT:PUBMED:42405847",
+      "native_identifier": "42405847",
+      "case_ids": [],
+      "prior_library_decision_links": [
+        {
+          "group_id": "BIB:EMBASE:L2047214094",
+          "identifier_match_basis_as_recorded": [
+            "same_DOI_and_normalized_title",
+            "same_primary_publication_PMID"
+          ],
+          "prior_decision_row_id": "BIB:EMBASE:L2047214094",
+          "effective_route_as_recorded": "HUMAN_CONFIRMED_EXCLUDE",
+          "screening_decision_as_recorded": "EXCLUDE",
+          "rationale_recovered": true,
+          "identifier_match_does_not_certify_same_version_or_scientific_closure": true
+        }
+      ],
+      "native_record_provenance": {
+        "native_file_id": "NATIVE-89a035a8f227c4ced5745ea9",
+        "native_export_basename": "ATUALIZACAO_COMPLETA.xml",
+        "native_file_sha256": "89a035a8f227c4ced5745ea956384fe82131df12f7251513c57ebdf3ead9ed4f",
+        "record_ordinal": 1261,
+        "locator": "/PubmedArticleSet/PubmedArticle[1261]",
+        "native_record_canonical_sha256": "fb91f4ea39c46105a609f37839fd5e82e3c3709a5e6f6fea26f70e6f75db24cc"
+      },
+      "new_identifier_subset_membership": {
+        "table_s1_new_identifier_subset": false,
+        "table_s1_membership_status": "established_by_named_identifier_source",
+        "table_s1_definition": "Saved nominal PubMed new-to-master candidate list; not assumed equivalent to absence from the historical PubMed export.",
+        "table_s1_route": null,
+        "new_identifier_vs_same_database_historical_export": true,
+        "historical_export_identifier_check": {
+          "project_relative_artifact": "outputs/exportacoes_2026-09-24/fontes_anteriores/pubmed/pubmed_24278.nbib",
+          "sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f",
+          "bytes": 119259314,
+          "identifier": "42405847",
+          "present": false,
+          "native_locator_if_present": null,
+          "absence_is_identifier_set_absence_not_study_ineligibility": true
+        },
+        "table_s1_membership_evidence": {
+          "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/pubmed/CANDIDATOS_NOVOS_PARA_DEDUPLICAR.json",
+          "sha256": "f60cdf366f3767976c4e77590078e59c739e7185b5c1404544d639a415171118",
+          "bytes": 876456,
+          "locator": "rows[pmid=42405847]",
+          "nominal_list_member": false
+        },
+        "central_filtered95_member": null,
+        "central_complete_query_member": null,
+        "central_filtered95_evidence": null,
+        "scientific_eligibility_or_exhaustiveness_inferred_from_subset_membership": false
+      }
+    },
+    {
+      "representation_id": "UPDATE19OCT:PUBMED:42426654",
+      "native_identifier": "42426654",
+      "case_ids": [],
+      "prior_library_decision_links": [
+        {
+          "group_id": "BIB:EMBASE:L651721231",
+          "identifier_match_basis_as_recorded": [
+            "same_DOI_and_normalized_title",
+            "same_primary_publication_PMID"
+          ],
+          "prior_decision_row_id": "BIB:EMBASE:L651721231",
+          "effective_route_as_recorded": "HUMAN_CONFIRMED_EXCLUDE",
+          "screening_decision_as_recorded": "EXCLUDE",
+          "rationale_recovered": true,
+          "identifier_match_does_not_certify_same_version_or_scientific_closure": true
+        }
+      ],
+      "native_record_provenance": {
+        "native_file_id": "NATIVE-89a035a8f227c4ced5745ea9",
+        "native_export_basename": "ATUALIZACAO_COMPLETA.xml",
+        "native_file_sha256": "89a035a8f227c4ced5745ea956384fe82131df12f7251513c57ebdf3ead9ed4f",
+        "record_ordinal": 1273,
+        "locator": "/PubmedArticleSet/PubmedArticle[1273]",
+        "native_record_canonical_sha256": "89e9da12bbd339f28e50e4aa7d39967c5e4db07c00c5c7029d240b5235b5aa01"
+      },
+      "new_identifier_subset_membership": {
+        "table_s1_new_identifier_subset": false,
+        "table_s1_membership_status": "established_by_named_identifier_source",
+        "table_s1_definition": "Saved nominal PubMed new-to-master candidate list; not assumed equivalent to absence from the historical PubMed export.",
+        "table_s1_route": null,
+        "new_identifier_vs_same_database_historical_export": true,
+        "historical_export_identifier_check": {
+          "project_relative_artifact": "outputs/exportacoes_2026-09-24/fontes_anteriores/pubmed/pubmed_24278.nbib",
+          "sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f",
+          "bytes": 119259314,
+          "identifier": "42426654",
+          "present": false,
+          "native_locator_if_present": null,
+          "absence_is_identifier_set_absence_not_study_ineligibility": true
+        },
+        "table_s1_membership_evidence": {
+          "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/pubmed/CANDIDATOS_NOVOS_PARA_DEDUPLICAR.json",
+          "sha256": "f60cdf366f3767976c4e77590078e59c739e7185b5c1404544d639a415171118",
+          "bytes": 876456,
+          "locator": "rows[pmid=42426654]",
+          "nominal_list_member": false
+        },
+        "central_filtered95_member": null,
+        "central_complete_query_member": null,
+        "central_filtered95_evidence": null,
+        "scientific_eligibility_or_exhaustiveness_inferred_from_subset_membership": false
+      }
+    },
+    {
+      "representation_id": "UPDATE19OCT:PUBMED:42467088",
+      "native_identifier": "42467088",
+      "case_ids": [],
+      "prior_library_decision_links": [
+        {
+          "group_id": "BIB:EMBASE:L2047564661",
+          "identifier_match_basis_as_recorded": [
+            "same_DOI_and_normalized_title",
+            "same_primary_publication_PMID"
+          ],
+          "prior_decision_row_id": "BIB:EMBASE:L2047564661",
+          "effective_route_as_recorded": "HUMAN_CONFIRMED_DOCUMENTARY_SOURCE",
+          "screening_decision_as_recorded": "RETAIN_DOCUMENTARY_SOURCE",
+          "rationale_recovered": true,
+          "identifier_match_does_not_certify_same_version_or_scientific_closure": true
+        }
+      ],
+      "native_record_provenance": {
+        "native_file_id": "NATIVE-89a035a8f227c4ced5745ea9",
+        "native_export_basename": "ATUALIZACAO_COMPLETA.xml",
+        "native_file_sha256": "89a035a8f227c4ced5745ea956384fe82131df12f7251513c57ebdf3ead9ed4f",
+        "record_ordinal": 1296,
+        "locator": "/PubmedArticleSet/PubmedArticle[1296]",
+        "native_record_canonical_sha256": "db5fe5e8c5c287a6709bb592ece744c5826caf6e153170f6ddd69581c7fab2fc"
+      },
+      "new_identifier_subset_membership": {
+        "table_s1_new_identifier_subset": false,
+        "table_s1_membership_status": "established_by_named_identifier_source",
+        "table_s1_definition": "Saved nominal PubMed new-to-master candidate list; not assumed equivalent to absence from the historical PubMed export.",
+        "table_s1_route": null,
+        "new_identifier_vs_same_database_historical_export": true,
+        "historical_export_identifier_check": {
+          "project_relative_artifact": "outputs/exportacoes_2026-09-24/fontes_anteriores/pubmed/pubmed_24278.nbib",
+          "sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f",
+          "bytes": 119259314,
+          "identifier": "42467088",
+          "present": false,
+          "native_locator_if_present": null,
+          "absence_is_identifier_set_absence_not_study_ineligibility": true
+        },
+        "table_s1_membership_evidence": {
+          "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/pubmed/CANDIDATOS_NOVOS_PARA_DEDUPLICAR.json",
+          "sha256": "f60cdf366f3767976c4e77590078e59c739e7185b5c1404544d639a415171118",
+          "bytes": 876456,
+          "locator": "rows[pmid=42467088]",
+          "nominal_list_member": false
+        },
+        "central_filtered95_member": null,
+        "central_complete_query_member": null,
+        "central_filtered95_evidence": null,
+        "scientific_eligibility_or_exhaustiveness_inferred_from_subset_membership": false
+      }
+    },
+    {
+      "representation_id": "UPDATE19OCT:PUBMED:42482200",
+      "native_identifier": "42482200",
+      "case_ids": [],
+      "prior_library_decision_links": [
+        {
+          "group_id": "BIB:EMBASE:L651804323",
+          "identifier_match_basis_as_recorded": [
+            "same_DOI_and_normalized_title",
+            "same_primary_publication_PMID"
+          ],
+          "prior_decision_row_id": "BIB:EMBASE:L651804323",
+          "effective_route_as_recorded": "HUMAN_CONFIRMED_EXCLUDE",
+          "screening_decision_as_recorded": "EXCLUDE",
+          "rationale_recovered": true,
+          "identifier_match_does_not_certify_same_version_or_scientific_closure": true
+        }
+      ],
+      "native_record_provenance": {
+        "native_file_id": "NATIVE-89a035a8f227c4ced5745ea9",
+        "native_export_basename": "ATUALIZACAO_COMPLETA.xml",
+        "native_file_sha256": "89a035a8f227c4ced5745ea956384fe82131df12f7251513c57ebdf3ead9ed4f",
+        "record_ordinal": 1304,
+        "locator": "/PubmedArticleSet/PubmedArticle[1304]",
+        "native_record_canonical_sha256": "5ce8a4b76030827bfd3d80deb29f75bed88b34c0b217104e11895d540ed80828"
+      },
+      "new_identifier_subset_membership": {
+        "table_s1_new_identifier_subset": false,
+        "table_s1_membership_status": "established_by_named_identifier_source",
+        "table_s1_definition": "Saved nominal PubMed new-to-master candidate list; not assumed equivalent to absence from the historical PubMed export.",
+        "table_s1_route": null,
+        "new_identifier_vs_same_database_historical_export": true,
+        "historical_export_identifier_check": {
+          "project_relative_artifact": "outputs/exportacoes_2026-09-24/fontes_anteriores/pubmed/pubmed_24278.nbib",
+          "sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f",
+          "bytes": 119259314,
+          "identifier": "42482200",
+          "present": false,
+          "native_locator_if_present": null,
+          "absence_is_identifier_set_absence_not_study_ineligibility": true
+        },
+        "table_s1_membership_evidence": {
+          "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/pubmed/CANDIDATOS_NOVOS_PARA_DEDUPLICAR.json",
+          "sha256": "f60cdf366f3767976c4e77590078e59c739e7185b5c1404544d639a415171118",
+          "bytes": 876456,
+          "locator": "rows[pmid=42482200]",
+          "nominal_list_member": false
+        },
+        "central_filtered95_member": null,
+        "central_complete_query_member": null,
+        "central_filtered95_evidence": null,
+        "scientific_eligibility_or_exhaustiveness_inferred_from_subset_membership": false
+      }
+    },
+    {
+      "representation_id": "UPDATE19OCT:PUBMED:42496918",
+      "native_identifier": "42496918",
+      "case_ids": [],
+      "prior_library_decision_links": [
+        {
+          "group_id": "BIB:EMBASE:L651827174",
+          "identifier_match_basis_as_recorded": [
+            "same_DOI_and_normalized_title",
+            "same_primary_publication_PMID"
+          ],
+          "prior_decision_row_id": "BIB:EMBASE:L651827174",
+          "effective_route_as_recorded": "HUMAN_CONFIRMED_EXCLUDE",
+          "screening_decision_as_recorded": "EXCLUDE",
+          "rationale_recovered": true,
+          "identifier_match_does_not_certify_same_version_or_scientific_closure": true
+        }
+      ],
+      "native_record_provenance": {
+        "native_file_id": "NATIVE-89a035a8f227c4ced5745ea9",
+        "native_export_basename": "ATUALIZACAO_COMPLETA.xml",
+        "native_file_sha256": "89a035a8f227c4ced5745ea956384fe82131df12f7251513c57ebdf3ead9ed4f",
+        "record_ordinal": 1309,
+        "locator": "/PubmedArticleSet/PubmedArticle[1309]",
+        "native_record_canonical_sha256": "0efc4fb57024f4b79949fe9aea9e19c4e94c8ba2c2298632c215f1382fb5273c"
+      },
+      "new_identifier_subset_membership": {
+        "table_s1_new_identifier_subset": false,
+        "table_s1_membership_status": "established_by_named_identifier_source",
+        "table_s1_definition": "Saved nominal PubMed new-to-master candidate list; not assumed equivalent to absence from the historical PubMed export.",
+        "table_s1_route": null,
+        "new_identifier_vs_same_database_historical_export": true,
+        "historical_export_identifier_check": {
+          "project_relative_artifact": "outputs/exportacoes_2026-09-24/fontes_anteriores/pubmed/pubmed_24278.nbib",
+          "sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f",
+          "bytes": 119259314,
+          "identifier": "42496918",
+          "present": false,
+          "native_locator_if_present": null,
+          "absence_is_identifier_set_absence_not_study_ineligibility": true
+        },
+        "table_s1_membership_evidence": {
+          "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/pubmed/CANDIDATOS_NOVOS_PARA_DEDUPLICAR.json",
+          "sha256": "f60cdf366f3767976c4e77590078e59c739e7185b5c1404544d639a415171118",
+          "bytes": 876456,
+          "locator": "rows[pmid=42496918]",
+          "nominal_list_member": false
+        },
+        "central_filtered95_member": null,
+        "central_complete_query_member": null,
+        "central_filtered95_evidence": null,
+        "scientific_eligibility_or_exhaustiveness_inferred_from_subset_membership": false
+      }
+    },
+    {
+      "representation_id": "UPDATE19OCT:PUBMED:42543031",
+      "native_identifier": "42543031",
+      "case_ids": [],
+      "prior_library_decision_links": [
+        {
+          "group_id": "BIB:EMBASE:L2048325832",
+          "identifier_match_basis_as_recorded": [
+            "same_DOI_and_normalized_title",
+            "same_primary_publication_PMID"
+          ],
+          "prior_decision_row_id": "BIB:EMBASE:L2048325832",
+          "effective_route_as_recorded": "HUMAN_CONFIRMED_EXCLUDE",
+          "screening_decision_as_recorded": "EXCLUDE",
+          "rationale_recovered": true,
+          "identifier_match_does_not_certify_same_version_or_scientific_closure": true
+        }
+      ],
+      "native_record_provenance": {
+        "native_file_id": "NATIVE-89a035a8f227c4ced5745ea9",
+        "native_export_basename": "ATUALIZACAO_COMPLETA.xml",
+        "native_file_sha256": "89a035a8f227c4ced5745ea956384fe82131df12f7251513c57ebdf3ead9ed4f",
+        "record_ordinal": 1332,
+        "locator": "/PubmedArticleSet/PubmedArticle[1332]",
+        "native_record_canonical_sha256": "417fdb8d0fdf8739c46d85619c7ef0c01f27366f7197792bd35f0e3c2ea7f761"
+      },
+      "new_identifier_subset_membership": {
+        "table_s1_new_identifier_subset": false,
+        "table_s1_membership_status": "established_by_named_identifier_source",
+        "table_s1_definition": "Saved nominal PubMed new-to-master candidate list; not assumed equivalent to absence from the historical PubMed export.",
+        "table_s1_route": null,
+        "new_identifier_vs_same_database_historical_export": true,
+        "historical_export_identifier_check": {
+          "project_relative_artifact": "outputs/exportacoes_2026-09-24/fontes_anteriores/pubmed/pubmed_24278.nbib",
+          "sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f",
+          "bytes": 119259314,
+          "identifier": "42543031",
+          "present": false,
+          "native_locator_if_present": null,
+          "absence_is_identifier_set_absence_not_study_ineligibility": true
+        },
+        "table_s1_membership_evidence": {
+          "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/pubmed/CANDIDATOS_NOVOS_PARA_DEDUPLICAR.json",
+          "sha256": "f60cdf366f3767976c4e77590078e59c739e7185b5c1404544d639a415171118",
+          "bytes": 876456,
+          "locator": "rows[pmid=42543031]",
+          "nominal_list_member": false
+        },
+        "central_filtered95_member": null,
+        "central_complete_query_member": null,
+        "central_filtered95_evidence": null,
+        "scientific_eligibility_or_exhaustiveness_inferred_from_subset_membership": false
+      }
+    },
+    {
+      "representation_id": "UPDATE19OCT:PUBMED:42567359",
+      "native_identifier": "42567359",
+      "case_ids": [],
+      "prior_library_decision_links": [
+        {
+          "group_id": "BIB:CENTRAL:CN-03062754",
+          "identifier_match_basis_as_recorded": [
+            "same_primary_publication_PMID"
+          ],
+          "prior_decision_row_id": "BIB:CENTRAL:CN-03062754",
+          "effective_route_as_recorded": "HUMAN_CONFIRMED_EXCLUDE",
+          "screening_decision_as_recorded": "EXCLUDE",
+          "rationale_recovered": true,
+          "identifier_match_does_not_certify_same_version_or_scientific_closure": true
+        },
+        {
+          "group_id": "BIB:EMBASE:L2048732523",
+          "identifier_match_basis_as_recorded": [
+            "same_DOI_and_normalized_title",
+            "same_primary_publication_PMID"
+          ],
+          "prior_decision_row_id": "BIB:EMBASE:L2048732523",
+          "effective_route_as_recorded": "HUMAN_CONFIRMED_EXCLUDE",
+          "screening_decision_as_recorded": "EXCLUDE",
+          "rationale_recovered": true,
+          "identifier_match_does_not_certify_same_version_or_scientific_closure": true
+        }
+      ],
+      "native_record_provenance": {
+        "native_file_id": "NATIVE-89a035a8f227c4ced5745ea9",
+        "native_export_basename": "ATUALIZACAO_COMPLETA.xml",
+        "native_file_sha256": "89a035a8f227c4ced5745ea956384fe82131df12f7251513c57ebdf3ead9ed4f",
+        "record_ordinal": 1352,
+        "locator": "/PubmedArticleSet/PubmedArticle[1352]",
+        "native_record_canonical_sha256": "6b63549a510224a318265398a06ee46c3e920952ad41a5a1640a404de867c214"
+      },
+      "new_identifier_subset_membership": {
+        "table_s1_new_identifier_subset": false,
+        "table_s1_membership_status": "established_by_named_identifier_source",
+        "table_s1_definition": "Saved nominal PubMed new-to-master candidate list; not assumed equivalent to absence from the historical PubMed export.",
+        "table_s1_route": null,
+        "new_identifier_vs_same_database_historical_export": true,
+        "historical_export_identifier_check": {
+          "project_relative_artifact": "outputs/exportacoes_2026-09-24/fontes_anteriores/pubmed/pubmed_24278.nbib",
+          "sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f",
+          "bytes": 119259314,
+          "identifier": "42567359",
+          "present": false,
+          "native_locator_if_present": null,
+          "absence_is_identifier_set_absence_not_study_ineligibility": true
+        },
+        "table_s1_membership_evidence": {
+          "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/pubmed/CANDIDATOS_NOVOS_PARA_DEDUPLICAR.json",
+          "sha256": "f60cdf366f3767976c4e77590078e59c739e7185b5c1404544d639a415171118",
+          "bytes": 876456,
+          "locator": "rows[pmid=42567359]",
+          "nominal_list_member": false
+        },
+        "central_filtered95_member": null,
+        "central_complete_query_member": null,
+        "central_filtered95_evidence": null,
+        "scientific_eligibility_or_exhaustiveness_inferred_from_subset_membership": false
+      }
+    },
+    {
+      "representation_id": "UPDATE19OCT:PUBMED:42638166",
+      "native_identifier": "42638166",
+      "case_ids": [],
+      "prior_library_decision_links": [
+        {
+          "group_id": "BIB:EMBASE:L2048590297",
+          "identifier_match_basis_as_recorded": [
+            "same_DOI_and_normalized_title",
+            "same_primary_publication_PMID"
+          ],
+          "prior_decision_row_id": "BIB:EMBASE:L2048590297",
+          "effective_route_as_recorded": "HUMAN_CONFIRMED_EXCLUDE",
+          "screening_decision_as_recorded": "EXCLUDE",
+          "rationale_recovered": true,
+          "identifier_match_does_not_certify_same_version_or_scientific_closure": true
+        }
+      ],
+      "native_record_provenance": {
+        "native_file_id": "NATIVE-89a035a8f227c4ced5745ea9",
+        "native_export_basename": "ATUALIZACAO_COMPLETA.xml",
+        "native_file_sha256": "89a035a8f227c4ced5745ea956384fe82131df12f7251513c57ebdf3ead9ed4f",
+        "record_ordinal": 1409,
+        "locator": "/PubmedArticleSet/PubmedArticle[1409]",
+        "native_record_canonical_sha256": "7784ae2c4e8d06dad597c02b552beac1f29255397560bae01ce38912e3f6d721"
+      },
+      "new_identifier_subset_membership": {
+        "table_s1_new_identifier_subset": false,
+        "table_s1_membership_status": "established_by_named_identifier_source",
+        "table_s1_definition": "Saved nominal PubMed new-to-master candidate list; not assumed equivalent to absence from the historical PubMed export.",
+        "table_s1_route": null,
+        "new_identifier_vs_same_database_historical_export": true,
+        "historical_export_identifier_check": {
+          "project_relative_artifact": "outputs/exportacoes_2026-09-24/fontes_anteriores/pubmed/pubmed_24278.nbib",
+          "sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f",
+          "bytes": 119259314,
+          "identifier": "42638166",
+          "present": false,
+          "native_locator_if_present": null,
+          "absence_is_identifier_set_absence_not_study_ineligibility": true
+        },
+        "table_s1_membership_evidence": {
+          "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/pubmed/CANDIDATOS_NOVOS_PARA_DEDUPLICAR.json",
+          "sha256": "f60cdf366f3767976c4e77590078e59c739e7185b5c1404544d639a415171118",
+          "bytes": 876456,
+          "locator": "rows[pmid=42638166]",
+          "nominal_list_member": false
+        },
+        "central_filtered95_member": null,
+        "central_complete_query_member": null,
+        "central_filtered95_evidence": null,
+        "scientific_eligibility_or_exhaustiveness_inferred_from_subset_membership": false
+      }
+    },
+    {
+      "representation_id": "UPDATE19OCT:PUBMED:42660856",
+      "native_identifier": "42660856",
+      "case_ids": [],
+      "prior_library_decision_links": [
+        {
+          "group_id": "BIB:EMBASE:L2048772337",
+          "identifier_match_basis_as_recorded": [
+            "same_DOI_and_normalized_title",
+            "same_primary_publication_PMID"
+          ],
+          "prior_decision_row_id": "BIB:EMBASE:L2048772337",
+          "effective_route_as_recorded": "HUMAN_CONFIRMED_EXCLUDE",
+          "screening_decision_as_recorded": "EXCLUDE",
+          "rationale_recovered": true,
+          "identifier_match_does_not_certify_same_version_or_scientific_closure": true
+        }
+      ],
+      "native_record_provenance": {
+        "native_file_id": "NATIVE-89a035a8f227c4ced5745ea9",
+        "native_export_basename": "ATUALIZACAO_COMPLETA.xml",
+        "native_file_sha256": "89a035a8f227c4ced5745ea956384fe82131df12f7251513c57ebdf3ead9ed4f",
+        "record_ordinal": 1421,
+        "locator": "/PubmedArticleSet/PubmedArticle[1421]",
+        "native_record_canonical_sha256": "62a0f36d34325cea294b608b9308d6beea4c567c45fce873f560e0e25c4ccae8"
+      },
+      "new_identifier_subset_membership": {
+        "table_s1_new_identifier_subset": false,
+        "table_s1_membership_status": "established_by_named_identifier_source",
+        "table_s1_definition": "Saved nominal PubMed new-to-master candidate list; not assumed equivalent to absence from the historical PubMed export.",
+        "table_s1_route": null,
+        "new_identifier_vs_same_database_historical_export": true,
+        "historical_export_identifier_check": {
+          "project_relative_artifact": "outputs/exportacoes_2026-09-24/fontes_anteriores/pubmed/pubmed_24278.nbib",
+          "sha256": "a2f201fc5d1bd8822975cc62a375b082f873903bbb2bd6ca33cc740c6e60841f",
+          "bytes": 119259314,
+          "identifier": "42660856",
+          "present": false,
+          "native_locator_if_present": null,
+          "absence_is_identifier_set_absence_not_study_ineligibility": true
+        },
+        "table_s1_membership_evidence": {
+          "project_relative_artifact": "outputs/atualizacao_buscas_2026-10-19/pubmed/CANDIDATOS_NOVOS_PARA_DEDUPLICAR.json",
+          "sha256": "f60cdf366f3767976c4e77590078e59c739e7185b5c1404544d639a415171118",
+          "bytes": 876456,
+          "locator": "rows[pmid=42660856]",
+          "nominal_list_member": false
+        },
+        "central_filtered95_member": null,
+        "central_complete_query_member": null,
+        "central_filtered95_evidence": null,
+        "scientific_eligibility_or_exhaustiveness_inferred_from_subset_membership": false
+      }
+    }
+  ]
+}
