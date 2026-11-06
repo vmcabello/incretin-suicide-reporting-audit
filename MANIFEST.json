@@ -318,8 +318,8 @@
     },
     {
       "path": "minor161/PUBLIC_LINK_BYTE_VERIFICATION.json",
-      "bytes": 997,
-      "sha256": "e89db160843c92efc1335dc4a33749c225d7535895dbe94a96edef7053a907a1"
+      "bytes": 972,
+      "sha256": "42a20d5a46b2b388989cb6160953d1724a3306376834a2f8eef36fa8e8de95f2"
     },
     {
       "path": "minor161/TABLE_S2_NOTE_EN.json",
