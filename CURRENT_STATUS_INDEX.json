@@ -64,7 +64,8 @@
   },
   "journal_submission_sent": false,
   "local_source_routes_raw_personal_returns_primary_fulltexts_included": false,
-  "release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.6.0",
+  "maintenance_record": "minor161/MAINTENANCE_SCOPE_EN.json",
+  "release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.6.1",
   "schema": "current-versus-historical-status-index-v2",
   "unit_rosters": [
     159,
@@ -72,5 +73,5 @@
     182
   ],
   "unknowns_not_clinical_zeros": true,
-  "working_version": "v1.6.0"
+  "working_version": "v1.6.1"
 }

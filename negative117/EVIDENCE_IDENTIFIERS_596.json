@@ -106,6 +106,11 @@
       "title": "Suplemento vinculado pela editora — 10.1001/jamanetworkopen.2025.39848"
     },
     {
+      "bibliographic_reference": "Wägner AM, Miranda-Calderín G, Ugarte-Lopetegui MA, et al. Effect of liraglutide on physical performance in type 2 diabetes: Results of a randomized, double-blind, controlled trial (LIPER2). Diabetes Metab. 2019;45(3):268–275. doi:10.1016/j.diabet.2018.08.010.",
+      "bibliographic_verification_date": "2026-11-06",
+      "bibliographic_verification_method": "AI-assisted inspection of hash-matching archived content and public bibliographic/registry metadata; not a new human rating.",
+      "document_version": "Archived 8-page typeset article-in-press PDF, marked DIABET-1040 and Diabetes & Metabolism xxx (2018) xxx–xxx. Accepted 23 August 2018. The final indexed citation is 2019;45(3):268–275, electronically published 14 September 2018; the archived PDF itself has no final pagination and says “Available online xxx”.",
+      "doi": "10.1016/j.diabet.2018.08.010",
       "external_original_source": false,
       "locator_hints_historical_not_new_examination": [
         "SRC-f7eab56ffe66eef89962b613#sha256=f7eab56ffe66eef89962b613a40828d98d7f64c2f11d6d45219726a334913d2c; PDF physical page 1; PDF physical page 2; PDF physical page 3; PDF physical page 4; PDF physical page 6; PDF physical page 7",
@@ -116,13 +121,27 @@
         "PDF physical page 6",
         "PDF physical page 7"
       ],
-      "public_urls": [],
-      "retrieval_role_hint": "own_publication_or_supplement_candidate_by_catalogue_role_identity_requires_reader_check",
+      "pmid": "30223083",
+      "primary_file_not_redistributed": true,
+      "public_urls": [
+        "https://doi.org/10.1016/j.diabet.2018.08.010",
+        "https://pubmed.ncbi.nlm.nih.gov/30223083/",
+        "https://www.sciencedirect.com/science/article/pii/S1262363618301691"
+      ],
+      "retrieval_role_hint": "primary_results_article_article_in_press_version",
+      "role": "primary_results_article_article_in_press_version",
       "sha256": "f7eab56ffe66eef89962b613a40828d98d7f64c2f11d6d45219726a334913d2c",
       "source_id": "SRC-f7eab56ffe66eef89962b613",
-      "title": "[CONTACT_REDACTED]"
+      "title": "LIPER2 results article — Wägner et al., Diabetes & Metabolism (article-in-press PDF)",
+      "trial": "LIPER2; EudraCT 2012-005197-63",
+      "version_evidence_locator": "Archived PDF physical page 1, header, article history and article-in-press footer."
     },
     {
+      "bibliographic_reference": "Wägner AM, Miranda-Calderín G, Ugarte-Lopetegui MA, et al. Effect of liraglutide on physical performance in type 2 diabetes (LIPER2): A randomised, double-blind, controlled trial. Contemp Clin Trials Commun. 2016;4:46–51. doi:10.1016/j.conctc.2016.06.007.",
+      "bibliographic_verification_date": "2026-11-06",
+      "bibliographic_verification_method": "AI-assisted inspection of hash-matching archived content and public bibliographic/registry metadata; not a new human rating.",
+      "document_version": "PMC full-text XML representation of the published protocol/design article; electronic publication 24 June 2016, volume 4, pages 46–51 (collection date 15 December 2016). This is not the 2018/2019 results article or its supplement. No separate protocol revision is assigned.",
+      "doi": "10.1016/j.conctc.2016.06.007",
       "external_original_source": false,
       "locator_hints_historical_not_new_examination": [
         "SRC-3f89c9e6cf294368ef6655d4#sha256=3f89c9e6cf294368ef6655d4f2a0f2904822c57801ae4ab1019ed56fa3dc9764; XML abstract 2; XML p 7; XML p 19; XML table-wrap 21; XML p 28; XML p 30",
@@ -140,27 +159,44 @@
         "XML p 64",
         "XML p 76"
       ],
+      "pmcid": "PMC5935879",
+      "pmid": "29736469",
+      "primary_file_not_redistributed": true,
       "public_urls": [
         "https://doi.org/10.1016/j.conctc.2016.06.007",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC5935879/",
         "https://pubmed.ncbi.nlm.nih.gov/29736469/"
       ],
-      "retrieval_role_hint": "registry_or_registry_linked_document_by_catalogue_role_identity_requires_reader_check",
+      "retrieval_role_hint": "published_protocol_design_article_full_text_xml",
+      "role": "published_protocol_design_article_full_text_xml",
       "sha256": "3f89c9e6cf294368ef6655d4f2a0f2904822c57801ae4ab1019ed56fa3dc9764",
       "source_id": "SRC-3f89c9e6cf294368ef6655d4",
-      "title": "Effect of liraglutide on physical performance in type 2 diabetes (LIPER2): A randomised, double-blind, controlled trial"
+      "title": "LIPER2 protocol/design article — Wägner et al., Contemporary Clinical Trials Communications (2016)",
+      "trial": "LIPER2; EudraCT 2012-005197-63",
+      "version_evidence_locator": "Archived XML front/article-meta: article-id, pub-date(epub), pub-date(collection), volume, fpage, lpage; abstract describes planned recruitment."
     },
     {
+      "bibliographic_reference": "Wägner AM (sponsor). Effect of liraglutide on physical performance: a randomised, double-blind, controlled study in patients with type 2 diabetes (LIPER2). EU Clinical Trials Register, EudraCT 2012-005197-63, Spain protocol record; sponsor protocol code U1111-1128-8762. Record first entered 21 December 2012.",
+      "bibliographic_verification_date": "2026-11-06",
+      "bibliographic_verification_method": "AI-assisted inspection of hash-matching archived content and public bibliographic/registry metadata; not a new human rating.",
+      "document_version": "Archived HTML protocol record, Spain/AEMPS; first database entry 21 December 2012. No document revision number is displayed. The first-entry date does not establish the date of the archived snapshot or a results version.",
+      "eudract": "2012-005197-63",
       "external_original_source": false,
       "locator_hints_historical_not_new_examination": [
         "SRC-389c1214c1c89dfd453a85d3#sha256=389c1214c1c89dfd453a85d3b39b1f28392eac1ad97201e31db4ee9ec1daa993; <td class=\"first\">E.6.4</td><td class=\"second\">Safety</td><td class=\"third\"> No </td>",
         "<td class=\"first\">E.6.4</td><td class=\"second\">Safety</td><td class=\"third\"> No </td>"
       ],
-      "public_urls": [],
-      "retrieval_role_hint": "registry_or_registry_linked_document_by_catalogue_role_identity_requires_reader_check",
+      "primary_file_not_redistributed": true,
+      "public_urls": [
+        "https://www.clinicaltrialsregister.eu/ctr-search/trial/2012-005197-63/ES"
+      ],
+      "retrieval_role_hint": "registry_protocol_record_not_results",
+      "role": "registry_protocol_record_not_results",
       "sha256": "389c1214c1c89dfd453a85d3b39b1f28392eac1ad97201e31db4ee9ec1daa993",
       "source_id": "SRC-389c1214c1c89dfd453a85d3",
-      "title": "Clinical Trials Register"
+      "title": "LIPER2 — EU Clinical Trials Register protocol record, EudraCT 2012-005197-63 (Spain)",
+      "trial": "LIPER2; EudraCT 2012-005197-63",
+      "version_evidence_locator": "Summary and A.2–A.4.1; date first entered; A.3.2 LIPER2."
     },
     {
       "external_original_source": false,
@@ -175,49 +211,106 @@
       "title": "CONCILIACAO_DUAS_FAMILIAS.json"
     },
     {
+      "bibliographic_reference": "Wägner AM, Miranda-Calderín G, Ugarte-Lopetegui MA, et al. Effect of liraglutide on physical performance in type 2 diabetes: Results of a randomized, double-blind, controlled trial (LIPER2). Diabetes Metab. 2019;45(3):268–275. doi:10.1016/j.diabet.2018.08.010. Supplementary material: Table S1, between-group echocardiographic comparisons; Table S2, treatment side-effects. Publisher attachment 1-s2.0-S1262363618301691-mmc1.docx.",
+      "bibliographic_verification_date": "2026-11-06",
+      "bibliographic_verification_method": "AI-assisted inspection of hash-matching archived content and public bibliographic/registry metadata; not a new human rating.",
+      "document_version": "Publisher-linked supplementary DOCX, mmc1, associated with DOI 10.1016/j.diabet.2018.08.010. No visible scientific version number or date is stated. Internal OOXML revision/edit timestamps are not a declared document version or publication date. The file retrieved from the publisher on 6 November 2026 is byte-identical to the archived file (189,661 bytes).",
       "external_original_source": false,
+      "live_byte_identity_verification_date": "2026-11-06",
+      "live_byte_identity_verified": true,
+      "live_bytes": 189661,
       "locator_hints_historical_not_new_examination": [
         "SRC-8d64b4f9b31729b33bbbed58#sha256=8d64b4f9b31729b33bbbed584f87e30869ba66383cb4661280d674d18b373f1a; Named source content and attribution/definition domain",
         "Named source content and attribution/definition domain"
       ],
-      "public_urls": [],
-      "retrieval_role_hint": "own_publication_or_supplement_candidate_by_catalogue_role_identity_requires_reader_check",
+      "parent_doi": "10.1016/j.diabet.2018.08.010",
+      "primary_file_not_redistributed": true,
+      "public_urls": [
+        "https://ars.els-cdn.com/content/image/1-s2.0-S1262363618301691-mmc1.docx",
+        "https://www.sciencedirect.com/science/article/pii/S1262363618301691",
+        "https://doi.org/10.1016/j.diabet.2018.08.010"
+      ],
+      "retrieval_role_hint": "publisher_linked_supplement_to_primary_results_article",
+      "role": "publisher_linked_supplement_to_primary_results_article",
       "sha256": "8d64b4f9b31729b33bbbed584f87e30869ba66383cb4661280d674d18b373f1a",
       "source_id": "SRC-8d64b4f9b31729b33bbbed58",
-      "title": "1-s2.0-S1262363618301691-mmc1.docx"
+      "title": "LIPER2 results article — Supplementary material, Tables S1–S2 (publisher file mmc1.docx)",
+      "trial": "LIPER2; EudraCT 2012-005197-63",
+      "version_evidence_locator": "All DOCX body content and rendered pages 1–4: Table S1 (pages 1–2), Table S2 (pages 3–4); no visible document version/date."
     },
     {
+      "bibliographic_reference": "Imperial College London. GLP-1 Receptor Agonist interVentIon for poor responders afTer bariAtric Surgery: The GRAVITAS trial. EU Clinical Trials Register, EudraCT 2014-003923-23, clinical trial results, version 1, published 2 February 2020. ISRCTN13643081.",
+      "bibliographic_verification_date": "2026-11-06",
+      "bibliographic_verification_method": "AI-assisted inspection of hash-matching archived content and public bibliographic/registry metadata; not a new human rating.",
+      "document_version": "Results version v1, publication date 2 February 2020; first results publication also 2 February 2020. The record labels the analysis final and gives analysis date 1 August 2019. This is the results record, distinct from the GB protocol record.",
+      "eudract": "2014-003923-23",
       "external_original_source": false,
+      "isrctn": "ISRCTN13643081",
       "locator_hints_historical_not_new_examination": [
         "SRC-c7df2508bdab2bdfc49e7bac#sha256=c7df2508bdab2bdfc49e7bac5e5b943e26a7a908c59bfad47084e88a69b7ded7;Own attributable methods, result domains, safety tables and footnotes; GRAVITAS_EU_RESULTS.html; complete registry result/AE/outcome modules when present; protocol-only HTML has no posted outcome counts"
       ],
-      "public_urls": [],
-      "retrieval_role_hint": "source_type_not_certified_by_catalogue_filename_or_file_extension",
+      "primary_file_not_redistributed": true,
+      "public_urls": [
+        "https://www.clinicaltrialsregister.eu/ctr-search/trial/2014-003923-23/results"
+      ],
+      "retrieval_role_hint": "registry_final_results_record",
+      "role": "registry_final_results_record",
       "sha256": "c7df2508bdab2bdfc49e7bac5e5b943e26a7a908c59bfad47084e88a69b7ded7",
       "source_id": "SRC-c7df2508bdab2bdfc49e7bac",
-      "title": "GRAVITAS_EU_RESULTS.html"
+      "title": "GRAVITAS — EU Clinical Trials Register final results, EudraCT 2014-003923-23, version 1 (2 February 2020)",
+      "trial": "GRAVITAS; EudraCT 2014-003923-23; ISRCTN13643081",
+      "version_evidence_locator": "Summary > Results information: Results version number, This version publication date, First version publication date; Trial information > Results analysis stage."
     },
     {
+      "bibliographic_reference": "Miras AD, Pérez-Pevida B, Aldhwayan M, et al. Adjunctive liraglutide treatment in patients with persistent or recurrent type 2 diabetes after metabolic surgery (GRAVITAS): a randomised, double-blind, placebo-controlled trial. Lancet Diabetes Endocrinol. 2019;7(7):549–559. doi:10.1016/S2213-8587(19)30157-3.",
+      "bibliographic_verification_date": "2026-11-06",
+      "bibliographic_verification_method": "AI-assisted inspection of hash-matching archived content and public bibliographic/registry metadata; not a new human rating.",
+      "document_version": "Author accepted manuscript, 24 PDF pages, labelled “Accepted Version” in UCL Discovery. The publicly retrievable PDF is byte-identical to the archived source (864,528 bytes). The manuscript itself does not state an acceptance/version date; final article electronic publication 4 June 2019 and July 2019 journal issue are bibliographic dates, not an inferred date of this accepted file.",
+      "doi": "10.1016/S2213-8587(19)30157-3",
       "external_original_source": false,
+      "live_byte_identity_verification_date": "2026-11-06",
+      "live_byte_identity_verified": true,
+      "live_bytes": 864528,
       "locator_hints_historical_not_new_examination": [
         "SRC-5e3bc65219601d54001e54da#sha256=5e3bc65219601d54001e54da711c1cfc585ed0a965c7e9dc38d52fbc6ff952b4;Own attributable methods, result domains, safety tables and footnotes; DOC-2ac31af43c065094.pdf"
       ],
-      "public_urls": [],
-      "retrieval_role_hint": "source_type_not_certified_by_catalogue_filename_or_file_extension",
+      "pmid": "31174993",
+      "primary_file_not_redistributed": true,
+      "public_urls": [
+        "https://doi.org/10.1016/S2213-8587(19)30157-3",
+        "https://pubmed.ncbi.nlm.nih.gov/31174993/",
+        "https://discovery.ucl.ac.uk/id/eprint/10083662/",
+        "https://discovery.ucl.ac.uk/id/eprint/10083662/1/Gravitas%20accepted.pdf"
+      ],
+      "retrieval_role_hint": "primary_results_article_author_accepted_manuscript",
+      "role": "primary_results_article_author_accepted_manuscript",
       "sha256": "5e3bc65219601d54001e54da711c1cfc585ed0a965c7e9dc38d52fbc6ff952b4",
       "source_id": "SRC-5e3bc65219601d54001e54da",
-      "title": "DOC-2ac31af43c065094.pdf"
+      "title": "GRAVITAS results article — Miras et al., author accepted manuscript (UCL Discovery)",
+      "trial": "GRAVITAS; EudraCT 2014-003923-23; ISRCTN13643081",
+      "version_evidence_locator": "Archived PDF physical page 1, manuscript title/authors; UCL Discovery record identifies Gravitas accepted.pdf as Accepted Version."
     },
     {
+      "bibliographic_reference": "Imperial College London. GLP-1 Receptor Agonist interVentIon for poor responders afTer bariAtric Surgery: The GRAVITAS trial. EU Clinical Trials Register, EudraCT 2014-003923-23, United Kingdom protocol record; sponsor protocol code 1.1. Record first entered 25 August 2015.",
+      "bibliographic_verification_date": "2026-11-06",
+      "bibliographic_verification_method": "AI-assisted inspection of hash-matching archived content and public bibliographic/registry metadata; not a new human rating.",
+      "document_version": "Archived HTML protocol record for GB/UK-MHRA, despite the historical .json filename. First database entry 25 August 2015. The value 1.1 is explicitly labelled sponsor protocol code number; it is not treated as a verified revision/date. No record revision number is displayed.",
+      "eudract": "2014-003923-23",
       "external_original_source": false,
       "locator_hints_historical_not_new_examination": [
         "SRC-313b653c555d2f8be60eef3e#sha256=313b653c555d2f8be60eef3e327cb440aba48e1c850c5a77335fdd6f76a3c35f;Own attributable methods, result domains, safety tables and footnotes; DOC-2ac31af43c065094_313b653c555d.json; complete registry result/AE/outcome modules when present; protocol-only HTML has no posted outcome counts"
       ],
-      "public_urls": [],
-      "retrieval_role_hint": "source_type_not_certified_by_catalogue_filename_or_file_extension",
+      "primary_file_not_redistributed": true,
+      "public_urls": [
+        "https://www.clinicaltrialsregister.eu/ctr-search/trial/2014-003923-23/GB"
+      ],
+      "retrieval_role_hint": "registry_protocol_record_html_despite_json_filename",
+      "role": "registry_protocol_record_html_despite_json_filename",
       "sha256": "313b653c555d2f8be60eef3e327cb440aba48e1c850c5a77335fdd6f76a3c35f",
       "source_id": "SRC-313b653c555d2f8be60eef3e",
-      "title": "DOC-2ac31af43c065094_313b653c555d.json"
+      "title": "GRAVITAS — EU Clinical Trials Register protocol record, EudraCT 2014-003923-23 (United Kingdom)",
+      "trial": "GRAVITAS; EudraCT 2014-003923-23",
+      "version_evidence_locator": "HTML doctype and Summary; A.2 EudraCT number, A.3 title, A.4.1 sponsor protocol code; first-entry date."
     },
     {
       "external_original_source": false,

@@ -1,0 +1,25 @@
+{
+  "verified_on": "2026-11-06",
+  "verification": "HTTP download into memory; bytes not redistributed",
+  "records": [
+    {
+      "source_id": "SRC-5e3bc65219601d54001e54da",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10083662/1/Gravitas%20accepted.pdf",
+      "http_status": 200,
+      "bytes": 864528,
+      "sha256": "5e3bc65219601d54001e54da711c1cfc585ed0a965c7e9dc38d52fbc6ff952b4",
+      "content_type": "application/pdf",
+      "equals_archived_source": true
+    },
+    {
+      "source_id": "SRC-8d64b4f9b31729b33bbbed58",
+      "url": "https://ars.els-cdn.com/content/image/1-s2.0-S1262363618301691-mmc1.docx",
+      "http_status": 200,
+      "bytes": 189661,
+      "sha256": "8d64b4f9b31729b33bbbed584f87e30869ba66383cb4661280d674d18b373f1a",
+      "content_type": "application/word",
+      "equals_archived_source": true
+    }
+  ],
+  "interpretation": "Verifies bibliographic linkage and bytes only; not a new independent human source examination."
+}

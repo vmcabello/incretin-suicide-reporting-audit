@@ -5,7 +5,7 @@ Authors: Vitor Motta Cabello dos Santos; Guilherme Keltke
 Affiliation: Independent researchers, Campinas, Sao Paulo, Brazil
 Corresponding author: Vitor Motta Cabello dos Santos
 Correspondence: cabellovitor@gmail.com
-Version: v1.6.0, 6 November 2026
+Version: v1.6.1, 6 November 2026
 This is supporting data and code, not manuscript publication or a preprint.
 The corresponding-author contact is intentionally included as publication metadata.
 Original third-party source texts and personal raw reviewer returns are excluded.

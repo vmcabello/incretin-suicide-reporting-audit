@@ -48,20 +48,21 @@
   "funding": "None",
   "historical_snapshot_bytes_changed": false,
   "kind": "Research data and analysis code",
-  "last_published_release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.6.0",
-  "last_published_version": "v1.6.0",
+  "last_published_release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.6.1",
+  "last_published_version": "v1.6.1",
   "licenses": {
     "author_owned_classifications_and_documentation": "CC-BY-4.0",
     "software": "MIT"
   },
+  "maintenance_scope": "Source locators, bibliographic citations and layer-comparison interpretation only; unchanged scientific results.",
   "manuscript_preprint_included": false,
   "new_human_votes_created": false,
   "prepared": "2026-11-06",
-  "prior_version": "v1.5.0",
+  "prior_version": "v1.6.0",
   "release_status": "VERSIONED_AUTHOR_APPROVED_SUPPORT",
-  "release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.6.0",
+  "release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.6.1",
   "repository": "https://github.com/vmcabello/incretin-suicide-reporting-audit",
   "source_scope": "Fixed historical exploratory corpus; no exhaustive trial-universe claim",
   "submission_ready": true,
-  "version": "v1.6.0"
+  "version": "v1.6.1"
 }

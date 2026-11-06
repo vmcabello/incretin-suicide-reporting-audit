@@ -1,0 +1,25 @@
+{
+  "approved_scientific_version": "Both authors approved the recalculated 6 November manuscript/supplement and submission. This maintenance updates locators, citations and explanatory wording without transferring approval to new scientific results.",
+  "date": "2026-11-06",
+  "journal_submission_sent": false,
+  "new_human_cases": 0,
+  "new_statistical_analysis": false,
+  "remaining_unexamined_scopes_preserved": true,
+  "source_review": "AI technical verification of already archived documents, not a new human assessment round.",
+  "unchanged_primary_population": 159,
+  "unchanged_secondary_union_complete_unknown": {
+    "suicidal_ideation": [
+      1,
+      59
+    ],
+    "suicide_attempt": [
+      2,
+      46
+    ],
+    "suicide_death": [
+      17,
+      76
+    ]
+  },
+  "version": "v1.6.1"
+}

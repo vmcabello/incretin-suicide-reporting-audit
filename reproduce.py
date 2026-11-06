@@ -9,5 +9,5 @@ def main():
         subprocess.run([sys.executable,'-B',str(ROOT/'negative117/reproduce_neg117.py'),'--repository',str(ROOT),'--out',td],check=True)
         if a.out:
             a.out.parent.mkdir(parents=True,exist_ok=True);a.out.write_bytes((Path(td)/'CURRENT_RESULTS.json').read_bytes())
-    print(json.dumps({'release':'v1.6.0','historical_replay':'PASS','current_NEG117_replay':'PASS','clinical_effect_analysis':False,'journal_submission_sent':False}))
+    print(json.dumps({'release':json.loads((ROOT/'RELEASE_METADATA.json').read_text(encoding='utf-8'))['version'],'historical_replay':'PASS','current_NEG117_replay':'PASS','clinical_effect_analysis':False,'journal_submission_sent':False}))
 if __name__=='__main__':main()

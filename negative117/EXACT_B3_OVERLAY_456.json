@@ -855,7 +855,7 @@
             "classification": "not_reconstructible_in_examined_corpus",
             "count_basis": "not_reconstructed",
             "counts_denominators_or_missing_dimensions": "Não foi demonstrado par n/N específico do componente na referência integral. Silêncio de tabela, limiar de frequência e zero de mortalidade não foram convertidos em zero deste componente. População: LIPER2: 24 randomizados, 12 por braço; distingui-los dos 21 em análise por protocolo. Janela: 6 meses (26±2 semanas); considerar contatos previstos no protocolo.",
-            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado\nR1 — proposta preparatória: relato de eventos adversos / ideação suicida. O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Não foi demonstrado par n/N específico do componente na referência integral. Silêncio de tabela, limiar de frequência e zero de mortalidade não foram convertidos em zero deste componente.",
+            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.\nR1 — proposta preparatória: relato de eventos adversos / ideação suicida. O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Não foi demonstrado par n/N específico do componente na referência integral. Silêncio de tabela, limiar de frequência e zero de mortalidade não foram convertidos em zero deste componente.",
             "source_ids_used": [
               "SRC-f7eab56ffe66eef89962b613",
               "SRC-3f89c9e6cf294368ef6655d4",
@@ -867,7 +867,7 @@
             "classification": "not_reconstructible_in_examined_corpus",
             "count_basis": "not_reconstructed",
             "counts_denominators_or_missing_dimensions": "Não foi demonstrado par n/N específico do componente na referência integral. Silêncio de tabela, limiar de frequência e zero de mortalidade não foram convertidos em zero deste componente. População: LIPER2: 24 randomizados, 12 por braço; distingui-los dos 21 em análise por protocolo. Janela: 6 meses (26±2 semanas); considerar contatos previstos no protocolo.",
-            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado\nR2 — pontos para conferência: Não foi demonstrado par n/N específico do componente na referência integral. Silêncio de tabela, limiar de frequência e zero de mortalidade não foram convertidos em zero deste componente. Na fonte desta unidade: O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Manter separadas identificação do estudo, população exposta e modalidade; o dado parcial não foi arredondado a zero.",
+            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.\nR2 — pontos para conferência: Não foi demonstrado par n/N específico do componente na referência integral. Silêncio de tabela, limiar de frequência e zero de mortalidade não foram convertidos em zero deste componente. Na fonte desta unidade: O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Manter separadas identificação do estudo, população exposta e modalidade; o dado parcial não foi arredondado a zero.",
             "source_ids_used": [
               "SRC-f7eab56ffe66eef89962b613",
               "SRC-3f89c9e6cf294368ef6655d4",
@@ -929,7 +929,7 @@
             },
             {
               "examination_status": "examined_relevant",
-              "locator": "Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado",
+              "locator": "Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.",
               "source_content_sha256": "8d64b4f9b31729b33bbbed584f87e30869ba66383cb4661280d674d18b373f1a",
               "source_id": "SRC-8d64b4f9b31729b33bbbed58",
               "source_role": "primary_article_or_supplement",
@@ -938,7 +938,8 @@
                 "suicidal_ideation",
                 "suicide_death"
               ],
-              "target_relevance_or_gap_reason": "Exame dirigido dos trechos/localizadores registrados, com os limites específicos descritos nas justificativas da unidade. Contagens de outras populações, fases, eventos ou canais não foram transferidas. Não se declara leitura humana integral."
+              "target_relevance_or_gap_reason": "Table S2 reports treatment side-effects with placebo n=12 and liraglutide n=12. It has no suicide-specific row or component-specific assessed denominator, no structured suicidality result, and no explicit all-cause mortality total or exhaustive cause-of-death accounting. The n=12 arm headers are not suicidality-assessment denominators. Table S1 reports echocardiographic outcomes. Absence of a row, or the main article's report of no serious adverse events, is not an observed zero for suicidal ideation, attempt, or death. These contents support retaining not_reconstructible_in_examined_corpus for the existing five exact B3 judgments; this correction supplies a locator and does not add a complete proof or a clinical zero. Technical locator clarification on6November2026 from inspection of the hash-matched original DOCX and its preserved rendering, corroborating the25October2026 archived TableS2 examination. Original reviewer returns and their hashes are preserved. The corrected derivative is not a new reviewer response or evidence of observed human reading; classifications and scope decisions are unchanged.",
+              "technical_locator_correction": "minor161/DOCUMENTARY_CORRECTION_LEDGER.json"
             }
           ],
           "R2": [
@@ -983,7 +984,7 @@
             },
             {
               "examination_status": "examined_relevant",
-              "locator": "Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado",
+              "locator": "Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.",
               "source_content_sha256": "8d64b4f9b31729b33bbbed584f87e30869ba66383cb4661280d674d18b373f1a",
               "source_id": "SRC-8d64b4f9b31729b33bbbed58",
               "source_role": "primary_article_or_supplement",
@@ -992,7 +993,8 @@
                 "suicidal_ideation",
                 "suicide_death"
               ],
-              "target_relevance_or_gap_reason": "Exame dirigido dos trechos/localizadores registrados, com os limites específicos descritos nas justificativas da unidade. Contagens de outras populações, fases, eventos ou canais não foram transferidas. Não se declara leitura humana integral."
+              "target_relevance_or_gap_reason": "Table S2 reports treatment side-effects with placebo n=12 and liraglutide n=12. It has no suicide-specific row or component-specific assessed denominator, no structured suicidality result, and no explicit all-cause mortality total or exhaustive cause-of-death accounting. The n=12 arm headers are not suicidality-assessment denominators. Table S1 reports echocardiographic outcomes. Absence of a row, or the main article's report of no serious adverse events, is not an observed zero for suicidal ideation, attempt, or death. These contents support retaining not_reconstructible_in_examined_corpus for the existing five exact B3 judgments; this correction supplies a locator and does not add a complete proof or a clinical zero. Technical locator clarification on6November2026 from inspection of the hash-matched original DOCX and its preserved rendering, corroborating the25October2026 archived TableS2 examination. Original reviewer returns and their hashes are preserved. The corrected derivative is not a new reviewer response or evidence of observed human reading; classifications and scope decisions are unchanged.",
+              "technical_locator_correction": "minor161/DOCUMENTARY_CORRECTION_LEDGER.json"
             }
           ]
         },
@@ -1000,7 +1002,7 @@
         "substantive_AI_assistance_disclosed": true,
         "window_definition": "6 meses (26±2 semanas); considerar contatos previstos no protocolo. Alvo fixo inclui fase paralela inicial e observação planejada após retirada; não misturar extensão/troca ou completar duração não documentada."
       },
-      "public_procedure_context": "Source-version and examination narratives are preserved as recorded. Retained preparatory denials of human-reading declaration were superseded by the authors procedural clarification; explicit unexamined scopes and classifications were not changed by that clarification.",
+      "public_procedure_context": "Source-version and examination narratives are preserved as recorded. Retained preparatory denials of human-reading declaration were superseded by the authors procedural clarification; explicit unexamined scopes and classifications were not changed by that clarification. v1.6.1 corrects the obsolete LIPER2 supplement locator using the archived same-hash source and dated examination record; see minor161/DOCUMENTARY_CORRECTION_LEDGER.json. Raw-return and examination-record hashes identify the original historical files, not these technically normalized locator strings. No new reviewer decision is inferred.",
       "reference_id": "EUCTR2012-005197-63:INITIAL_PARALLEL_CANDIDATE::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
       "stage": "B3",
       "unit_id": "EUCTR2012-005197-63:INITIAL_PARALLEL_CANDIDATE",
@@ -1042,7 +1044,7 @@
             "classification": "not_reconstructible_in_examined_corpus",
             "count_basis": "not_reconstructed",
             "counts_denominators_or_missing_dimensions": "Não foi demonstrado par n/N por braço desta unidade, para este componente, com pessoas efetivamente avaliadas e toda a janela-alvo. Critérios de seleção, PHQ-9 total, plano C-SSRS, dados agrupados e comportamento composto não substituem o resultado específico. População: LIPER2: 24 randomizados, 12 por braço; distingui-los dos 21 em análise por protocolo. Janela: 6 meses (26±2 semanas); considerar contatos previstos no protocolo.",
-            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado\nR1 — proposta preparatória: avaliação estruturada específica / ideação suicida. O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Não foi demonstrado par n/N por braço desta unidade, para este componente, com pessoas efetivamente avaliadas e toda a janela-alvo. Critérios de seleção, PHQ-9 total, plano C-SSRS, dados agrupados e comportamento composto não substituem o resultado específico.",
+            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.\nR1 — proposta preparatória: avaliação estruturada específica / ideação suicida. O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Não foi demonstrado par n/N por braço desta unidade, para este componente, com pessoas efetivamente avaliadas e toda a janela-alvo. Critérios de seleção, PHQ-9 total, plano C-SSRS, dados agrupados e comportamento composto não substituem o resultado específico.",
             "source_ids_used": [
               "SRC-f7eab56ffe66eef89962b613",
               "SRC-3f89c9e6cf294368ef6655d4",
@@ -1054,7 +1056,7 @@
             "classification": "not_reconstructible_in_examined_corpus",
             "count_basis": "not_reconstructed",
             "counts_denominators_or_missing_dimensions": "Não foi demonstrado par n/N por braço desta unidade, para este componente, com pessoas efetivamente avaliadas e toda a janela-alvo. Critérios de seleção, PHQ-9 total, plano C-SSRS, dados agrupados e comportamento composto não substituem o resultado específico. População: LIPER2: 24 randomizados, 12 por braço; distingui-los dos 21 em análise por protocolo. Janela: 6 meses (26±2 semanas); considerar contatos previstos no protocolo.",
-            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado\nR2 — pontos para conferência: Não foi demonstrado par n/N por braço desta unidade, para este componente, com pessoas efetivamente avaliadas e toda a janela-alvo. Critérios de seleção, PHQ-9 total, plano C-SSRS, dados agrupados e comportamento composto não substituem o resultado específico. Na fonte desta unidade: O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Manter separadas identificação do estudo, população exposta e modalidade; o dado parcial não foi arredondado a zero.",
+            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.\nR2 — pontos para conferência: Não foi demonstrado par n/N por braço desta unidade, para este componente, com pessoas efetivamente avaliadas e toda a janela-alvo. Critérios de seleção, PHQ-9 total, plano C-SSRS, dados agrupados e comportamento composto não substituem o resultado específico. Na fonte desta unidade: O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Manter separadas identificação do estudo, população exposta e modalidade; o dado parcial não foi arredondado a zero.",
             "source_ids_used": [
               "SRC-f7eab56ffe66eef89962b613",
               "SRC-3f89c9e6cf294368ef6655d4",
@@ -1116,7 +1118,7 @@
             },
             {
               "examination_status": "examined_relevant",
-              "locator": "Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado",
+              "locator": "Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.",
               "source_content_sha256": "8d64b4f9b31729b33bbbed584f87e30869ba66383cb4661280d674d18b373f1a",
               "source_id": "SRC-8d64b4f9b31729b33bbbed58",
               "source_role": "primary_article_or_supplement",
@@ -1125,7 +1127,8 @@
                 "suicidal_ideation",
                 "suicide_death"
               ],
-              "target_relevance_or_gap_reason": "Exame dirigido dos trechos/localizadores registrados, com os limites específicos descritos nas justificativas da unidade. Contagens de outras populações, fases, eventos ou canais não foram transferidas. Não se declara leitura humana integral."
+              "target_relevance_or_gap_reason": "Table S2 reports treatment side-effects with placebo n=12 and liraglutide n=12. It has no suicide-specific row or component-specific assessed denominator, no structured suicidality result, and no explicit all-cause mortality total or exhaustive cause-of-death accounting. The n=12 arm headers are not suicidality-assessment denominators. Table S1 reports echocardiographic outcomes. Absence of a row, or the main article's report of no serious adverse events, is not an observed zero for suicidal ideation, attempt, or death. These contents support retaining not_reconstructible_in_examined_corpus for the existing five exact B3 judgments; this correction supplies a locator and does not add a complete proof or a clinical zero. Technical locator clarification on6November2026 from inspection of the hash-matched original DOCX and its preserved rendering, corroborating the25October2026 archived TableS2 examination. Original reviewer returns and their hashes are preserved. The corrected derivative is not a new reviewer response or evidence of observed human reading; classifications and scope decisions are unchanged.",
+              "technical_locator_correction": "minor161/DOCUMENTARY_CORRECTION_LEDGER.json"
             }
           ],
           "R2": [
@@ -1170,7 +1173,7 @@
             },
             {
               "examination_status": "examined_relevant",
-              "locator": "Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado",
+              "locator": "Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.",
               "source_content_sha256": "8d64b4f9b31729b33bbbed584f87e30869ba66383cb4661280d674d18b373f1a",
               "source_id": "SRC-8d64b4f9b31729b33bbbed58",
               "source_role": "primary_article_or_supplement",
@@ -1179,7 +1182,8 @@
                 "suicidal_ideation",
                 "suicide_death"
               ],
-              "target_relevance_or_gap_reason": "Exame dirigido dos trechos/localizadores registrados, com os limites específicos descritos nas justificativas da unidade. Contagens de outras populações, fases, eventos ou canais não foram transferidas. Não se declara leitura humana integral."
+              "target_relevance_or_gap_reason": "Table S2 reports treatment side-effects with placebo n=12 and liraglutide n=12. It has no suicide-specific row or component-specific assessed denominator, no structured suicidality result, and no explicit all-cause mortality total or exhaustive cause-of-death accounting. The n=12 arm headers are not suicidality-assessment denominators. Table S1 reports echocardiographic outcomes. Absence of a row, or the main article's report of no serious adverse events, is not an observed zero for suicidal ideation, attempt, or death. These contents support retaining not_reconstructible_in_examined_corpus for the existing five exact B3 judgments; this correction supplies a locator and does not add a complete proof or a clinical zero. Technical locator clarification on6November2026 from inspection of the hash-matched original DOCX and its preserved rendering, corroborating the25October2026 archived TableS2 examination. Original reviewer returns and their hashes are preserved. The corrected derivative is not a new reviewer response or evidence of observed human reading; classifications and scope decisions are unchanged.",
+              "technical_locator_correction": "minor161/DOCUMENTARY_CORRECTION_LEDGER.json"
             }
           ]
         },
@@ -1187,7 +1191,7 @@
         "substantive_AI_assistance_disclosed": true,
         "window_definition": "6 meses (26±2 semanas); considerar contatos previstos no protocolo. Alvo fixo inclui fase paralela inicial e observação planejada após retirada; não misturar extensão/troca ou completar duração não documentada."
       },
-      "public_procedure_context": "Source-version and examination narratives are preserved as recorded. Retained preparatory denials of human-reading declaration were superseded by the authors procedural clarification; explicit unexamined scopes and classifications were not changed by that clarification.",
+      "public_procedure_context": "Source-version and examination narratives are preserved as recorded. Retained preparatory denials of human-reading declaration were superseded by the authors procedural clarification; explicit unexamined scopes and classifications were not changed by that clarification. v1.6.1 corrects the obsolete LIPER2 supplement locator using the archived same-hash source and dated examination record; see minor161/DOCUMENTARY_CORRECTION_LEDGER.json. Raw-return and examination-record hashes identify the original historical files, not these technically normalized locator strings. No new reviewer decision is inferred.",
       "reference_id": "EUCTR2012-005197-63:INITIAL_PARALLEL_CANDIDATE::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
       "stage": "B3",
       "unit_id": "EUCTR2012-005197-63:INITIAL_PARALLEL_CANDIDATE",
@@ -1229,7 +1233,7 @@
             "classification": "partial_reference",
             "count_basis": "not_reconstructed",
             "counts_denominators_or_missing_dimensions": "Não foi demonstrado par n/N específico do componente na referência integral. Zero de morte não foi inferido de ausência de SAEs, de perdas ou de relação com produto. População: LIPER2: 24 randomizados, 12 por braço; distingui-los dos 21 em análise por protocolo. Janela: 6 meses (26±2 semanas); considerar contatos previstos no protocolo.",
-            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado\nR1 — proposta preparatória: relato de eventos adversos / morte por suicídio. O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Não foi demonstrado par n/N específico do componente na referência integral. Zero de morte não foi inferido de ausência de SAEs, de perdas ou de relação com produto.",
+            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.\nR1 — proposta preparatória: relato de eventos adversos / morte por suicídio. O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Não foi demonstrado par n/N específico do componente na referência integral. Zero de morte não foi inferido de ausência de SAEs, de perdas ou de relação com produto.",
             "source_ids_used": [
               "SRC-f7eab56ffe66eef89962b613",
               "SRC-3f89c9e6cf294368ef6655d4",
@@ -1241,7 +1245,7 @@
             "classification": "partial_reference",
             "count_basis": "not_reconstructed",
             "counts_denominators_or_missing_dimensions": "Não foi demonstrado par n/N específico do componente na referência integral. Zero de morte não foi inferido de ausência de SAEs, de perdas ou de relação com produto. População: LIPER2: 24 randomizados, 12 por braço; distingui-los dos 21 em análise por protocolo. Janela: 6 meses (26±2 semanas); considerar contatos previstos no protocolo.",
-            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado\nR2 — pontos para conferência: Não foi demonstrado par n/N específico do componente na referência integral. Zero de morte não foi inferido de ausência de SAEs, de perdas ou de relação com produto. Na fonte desta unidade: O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Manter separadas identificação do estudo, população exposta e modalidade; o dado parcial não foi arredondado a zero.",
+            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.\nR2 — pontos para conferência: Não foi demonstrado par n/N específico do componente na referência integral. Zero de morte não foi inferido de ausência de SAEs, de perdas ou de relação com produto. Na fonte desta unidade: O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Manter separadas identificação do estudo, população exposta e modalidade; o dado parcial não foi arredondado a zero.",
             "source_ids_used": [
               "SRC-f7eab56ffe66eef89962b613",
               "SRC-3f89c9e6cf294368ef6655d4",
@@ -1303,7 +1307,7 @@
             },
             {
               "examination_status": "examined_relevant",
-              "locator": "Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado",
+              "locator": "Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.",
               "source_content_sha256": "8d64b4f9b31729b33bbbed584f87e30869ba66383cb4661280d674d18b373f1a",
               "source_id": "SRC-8d64b4f9b31729b33bbbed58",
               "source_role": "primary_article_or_supplement",
@@ -1312,7 +1316,8 @@
                 "suicidal_ideation",
                 "suicide_death"
               ],
-              "target_relevance_or_gap_reason": "Exame dirigido dos trechos/localizadores registrados, com os limites específicos descritos nas justificativas da unidade. Contagens de outras populações, fases, eventos ou canais não foram transferidas. Não se declara leitura humana integral."
+              "target_relevance_or_gap_reason": "Table S2 reports treatment side-effects with placebo n=12 and liraglutide n=12. It has no suicide-specific row or component-specific assessed denominator, no structured suicidality result, and no explicit all-cause mortality total or exhaustive cause-of-death accounting. The n=12 arm headers are not suicidality-assessment denominators. Table S1 reports echocardiographic outcomes. Absence of a row, or the main article's report of no serious adverse events, is not an observed zero for suicidal ideation, attempt, or death. These contents support retaining not_reconstructible_in_examined_corpus for the existing five exact B3 judgments; this correction supplies a locator and does not add a complete proof or a clinical zero. Technical locator clarification on6November2026 from inspection of the hash-matched original DOCX and its preserved rendering, corroborating the25October2026 archived TableS2 examination. Original reviewer returns and their hashes are preserved. The corrected derivative is not a new reviewer response or evidence of observed human reading; classifications and scope decisions are unchanged.",
+              "technical_locator_correction": "minor161/DOCUMENTARY_CORRECTION_LEDGER.json"
             }
           ],
           "R2": [
@@ -1357,7 +1362,7 @@
             },
             {
               "examination_status": "examined_relevant",
-              "locator": "Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado",
+              "locator": "Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.",
               "source_content_sha256": "8d64b4f9b31729b33bbbed584f87e30869ba66383cb4661280d674d18b373f1a",
               "source_id": "SRC-8d64b4f9b31729b33bbbed58",
               "source_role": "primary_article_or_supplement",
@@ -1366,7 +1371,8 @@
                 "suicidal_ideation",
                 "suicide_death"
               ],
-              "target_relevance_or_gap_reason": "Exame dirigido dos trechos/localizadores registrados, com os limites específicos descritos nas justificativas da unidade. Contagens de outras populações, fases, eventos ou canais não foram transferidas. Não se declara leitura humana integral."
+              "target_relevance_or_gap_reason": "Table S2 reports treatment side-effects with placebo n=12 and liraglutide n=12. It has no suicide-specific row or component-specific assessed denominator, no structured suicidality result, and no explicit all-cause mortality total or exhaustive cause-of-death accounting. The n=12 arm headers are not suicidality-assessment denominators. Table S1 reports echocardiographic outcomes. Absence of a row, or the main article's report of no serious adverse events, is not an observed zero for suicidal ideation, attempt, or death. These contents support retaining not_reconstructible_in_examined_corpus for the existing five exact B3 judgments; this correction supplies a locator and does not add a complete proof or a clinical zero. Technical locator clarification on6November2026 from inspection of the hash-matched original DOCX and its preserved rendering, corroborating the25October2026 archived TableS2 examination. Original reviewer returns and their hashes are preserved. The corrected derivative is not a new reviewer response or evidence of observed human reading; classifications and scope decisions are unchanged.",
+              "technical_locator_correction": "minor161/DOCUMENTARY_CORRECTION_LEDGER.json"
             }
           ]
         },
@@ -1374,7 +1380,7 @@
         "substantive_AI_assistance_disclosed": true,
         "window_definition": "6 meses (26±2 semanas); considerar contatos previstos no protocolo. Alvo fixo inclui fase paralela inicial e observação planejada após retirada; não misturar extensão/troca ou completar duração não documentada."
       },
-      "public_procedure_context": "Source-version and examination narratives are preserved as recorded. Retained preparatory denials of human-reading declaration were superseded by the authors procedural clarification; explicit unexamined scopes and classifications were not changed by that clarification.",
+      "public_procedure_context": "Source-version and examination narratives are preserved as recorded. Retained preparatory denials of human-reading declaration were superseded by the authors procedural clarification; explicit unexamined scopes and classifications were not changed by that clarification. v1.6.1 corrects the obsolete LIPER2 supplement locator using the archived same-hash source and dated examination record; see minor161/DOCUMENTARY_CORRECTION_LEDGER.json. Raw-return and examination-record hashes identify the original historical files, not these technically normalized locator strings. No new reviewer decision is inferred.",
       "reference_id": "EUCTR2012-005197-63:INITIAL_PARALLEL_CANDIDATE::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
       "stage": "B3",
       "unit_id": "EUCTR2012-005197-63:INITIAL_PARALLEL_CANDIDATE",
@@ -1416,7 +1422,7 @@
             "classification": "not_reconstructible_in_examined_corpus",
             "count_basis": "not_reconstructed",
             "counts_denominators_or_missing_dimensions": "Derivação de n suicida não concluída para o alvo inteiro: é preciso zero explícito de todas as mortes ou causas exaustivas, na mesma população, contraste e janela. Mortalidade geral positiva sem todas as causas, zero apenas de SAE relacionado ou ausência de PT não basta. População: LIPER2: 24 randomizados, 12 por braço; distingui-los dos 21 em análise por protocolo. Janela: 6 meses (26±2 semanas); considerar contatos previstos no protocolo.",
-            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado\nR1 — proposta preparatória: derivação de mortalidade por todas as causas / morte por suicídio. O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Derivação de n suicida não concluída para o alvo inteiro: é preciso zero explícito de todas as mortes ou causas exaustivas, na mesma população, contraste e janela. Mortalidade geral positiva sem todas as causas, zero apenas de SAE relacionado ou ausência de PT não basta.",
+            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.\nR1 — proposta preparatória: derivação de mortalidade por todas as causas / morte por suicídio. O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Derivação de n suicida não concluída para o alvo inteiro: é preciso zero explícito de todas as mortes ou causas exaustivas, na mesma população, contraste e janela. Mortalidade geral positiva sem todas as causas, zero apenas de SAE relacionado ou ausência de PT não basta.",
             "source_ids_used": [
               "SRC-f7eab56ffe66eef89962b613",
               "SRC-3f89c9e6cf294368ef6655d4",
@@ -1428,7 +1434,7 @@
             "classification": "not_reconstructible_in_examined_corpus",
             "count_basis": "not_reconstructed",
             "counts_denominators_or_missing_dimensions": "Derivação de n suicida não concluída para o alvo inteiro: é preciso zero explícito de todas as mortes ou causas exaustivas, na mesma população, contraste e janela. Mortalidade geral positiva sem todas as causas, zero apenas de SAE relacionado ou ausência de PT não basta. População: LIPER2: 24 randomizados, 12 por braço; distingui-los dos 21 em análise por protocolo. Janela: 6 meses (26±2 semanas); considerar contatos previstos no protocolo.",
-            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado\nR2 — pontos para conferência: Derivação de n suicida não concluída para o alvo inteiro: é preciso zero explícito de todas as mortes ou causas exaustivas, na mesma população, contraste e janela. Mortalidade geral positiva sem todas as causas, zero apenas de SAE relacionado ou ausência de PT não basta. Na fonte desta unidade: O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Manter separadas identificação do estudo, população exposta e modalidade; o dado parcial não foi arredondado a zero.",
+            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.\nR2 — pontos para conferência: Derivação de n suicida não concluída para o alvo inteiro: é preciso zero explícito de todas as mortes ou causas exaustivas, na mesma população, contraste e janela. Mortalidade geral positiva sem todas as causas, zero apenas de SAE relacionado ou ausência de PT não basta. Na fonte desta unidade: O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Manter separadas identificação do estudo, população exposta e modalidade; o dado parcial não foi arredondado a zero.",
             "source_ids_used": [
               "SRC-f7eab56ffe66eef89962b613",
               "SRC-3f89c9e6cf294368ef6655d4",
@@ -1490,7 +1496,7 @@
             },
             {
               "examination_status": "examined_relevant",
-              "locator": "Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado",
+              "locator": "Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.",
               "source_content_sha256": "8d64b4f9b31729b33bbbed584f87e30869ba66383cb4661280d674d18b373f1a",
               "source_id": "SRC-8d64b4f9b31729b33bbbed58",
               "source_role": "primary_article_or_supplement",
@@ -1499,7 +1505,8 @@
                 "suicidal_ideation",
                 "suicide_death"
               ],
-              "target_relevance_or_gap_reason": "Exame dirigido dos trechos/localizadores registrados, com os limites específicos descritos nas justificativas da unidade. Contagens de outras populações, fases, eventos ou canais não foram transferidas. Não se declara leitura humana integral."
+              "target_relevance_or_gap_reason": "Table S2 reports treatment side-effects with placebo n=12 and liraglutide n=12. It has no suicide-specific row or component-specific assessed denominator, no structured suicidality result, and no explicit all-cause mortality total or exhaustive cause-of-death accounting. The n=12 arm headers are not suicidality-assessment denominators. Table S1 reports echocardiographic outcomes. Absence of a row, or the main article's report of no serious adverse events, is not an observed zero for suicidal ideation, attempt, or death. These contents support retaining not_reconstructible_in_examined_corpus for the existing five exact B3 judgments; this correction supplies a locator and does not add a complete proof or a clinical zero. Technical locator clarification on6November2026 from inspection of the hash-matched original DOCX and its preserved rendering, corroborating the25October2026 archived TableS2 examination. Original reviewer returns and their hashes are preserved. The corrected derivative is not a new reviewer response or evidence of observed human reading; classifications and scope decisions are unchanged.",
+              "technical_locator_correction": "minor161/DOCUMENTARY_CORRECTION_LEDGER.json"
             }
           ],
           "R2": [
@@ -1544,7 +1551,7 @@
             },
             {
               "examination_status": "examined_relevant",
-              "locator": "Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado",
+              "locator": "Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.",
               "source_content_sha256": "8d64b4f9b31729b33bbbed584f87e30869ba66383cb4661280d674d18b373f1a",
               "source_id": "SRC-8d64b4f9b31729b33bbbed58",
               "source_role": "primary_article_or_supplement",
@@ -1553,7 +1560,8 @@
                 "suicidal_ideation",
                 "suicide_death"
               ],
-              "target_relevance_or_gap_reason": "Exame dirigido dos trechos/localizadores registrados, com os limites específicos descritos nas justificativas da unidade. Contagens de outras populações, fases, eventos ou canais não foram transferidas. Não se declara leitura humana integral."
+              "target_relevance_or_gap_reason": "Table S2 reports treatment side-effects with placebo n=12 and liraglutide n=12. It has no suicide-specific row or component-specific assessed denominator, no structured suicidality result, and no explicit all-cause mortality total or exhaustive cause-of-death accounting. The n=12 arm headers are not suicidality-assessment denominators. Table S1 reports echocardiographic outcomes. Absence of a row, or the main article's report of no serious adverse events, is not an observed zero for suicidal ideation, attempt, or death. These contents support retaining not_reconstructible_in_examined_corpus for the existing five exact B3 judgments; this correction supplies a locator and does not add a complete proof or a clinical zero. Technical locator clarification on6November2026 from inspection of the hash-matched original DOCX and its preserved rendering, corroborating the25October2026 archived TableS2 examination. Original reviewer returns and their hashes are preserved. The corrected derivative is not a new reviewer response or evidence of observed human reading; classifications and scope decisions are unchanged.",
+              "technical_locator_correction": "minor161/DOCUMENTARY_CORRECTION_LEDGER.json"
             }
           ]
         },
@@ -1561,7 +1569,7 @@
         "substantive_AI_assistance_disclosed": true,
         "window_definition": "6 meses (26±2 semanas); considerar contatos previstos no protocolo. Alvo fixo inclui fase paralela inicial e observação planejada após retirada; não misturar extensão/troca ou completar duração não documentada."
       },
-      "public_procedure_context": "Source-version and examination narratives are preserved as recorded. Retained preparatory denials of human-reading declaration were superseded by the authors procedural clarification; explicit unexamined scopes and classifications were not changed by that clarification.",
+      "public_procedure_context": "Source-version and examination narratives are preserved as recorded. Retained preparatory denials of human-reading declaration were superseded by the authors procedural clarification; explicit unexamined scopes and classifications were not changed by that clarification. v1.6.1 corrects the obsolete LIPER2 supplement locator using the archived same-hash source and dated examination record; see minor161/DOCUMENTARY_CORRECTION_LEDGER.json. Raw-return and examination-record hashes identify the original historical files, not these technically normalized locator strings. No new reviewer decision is inferred.",
       "reference_id": "EUCTR2012-005197-63:INITIAL_PARALLEL_CANDIDATE::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
       "stage": "B3",
       "unit_id": "EUCTR2012-005197-63:INITIAL_PARALLEL_CANDIDATE",
@@ -1603,7 +1611,7 @@
             "classification": "not_reconstructible_in_examined_corpus",
             "count_basis": "not_reconstructed",
             "counts_denominators_or_missing_dimensions": "Não foi demonstrado par n/N por braço desta unidade, para este componente, com pessoas efetivamente avaliadas e toda a janela-alvo. Critérios de seleção, PHQ-9 total, plano C-SSRS, dados agrupados e comportamento composto não substituem o resultado específico. População: LIPER2: 24 randomizados, 12 por braço; distingui-los dos 21 em análise por protocolo. Janela: 6 meses (26±2 semanas); considerar contatos previstos no protocolo.",
-            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado\nR1 — proposta preparatória: avaliação estruturada específica / morte por suicídio. O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Não foi demonstrado par n/N por braço desta unidade, para este componente, com pessoas efetivamente avaliadas e toda a janela-alvo. Critérios de seleção, PHQ-9 total, plano C-SSRS, dados agrupados e comportamento composto não substituem o resultado específico.",
+            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.\nR1 — proposta preparatória: avaliação estruturada específica / morte por suicídio. O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Não foi demonstrado par n/N por braço desta unidade, para este componente, com pessoas efetivamente avaliadas e toda a janela-alvo. Critérios de seleção, PHQ-9 total, plano C-SSRS, dados agrupados e comportamento composto não substituem o resultado específico.",
             "source_ids_used": [
               "SRC-f7eab56ffe66eef89962b613",
               "SRC-3f89c9e6cf294368ef6655d4",
@@ -1615,7 +1623,7 @@
             "classification": "not_reconstructible_in_examined_corpus",
             "count_basis": "not_reconstructed",
             "counts_denominators_or_missing_dimensions": "Não foi demonstrado par n/N por braço desta unidade, para este componente, com pessoas efetivamente avaliadas e toda a janela-alvo. Critérios de seleção, PHQ-9 total, plano C-SSRS, dados agrupados e comportamento composto não substituem o resultado específico. População: LIPER2: 24 randomizados, 12 por braço; distingui-los dos 21 em análise por protocolo. Janela: 6 meses (26±2 semanas); considerar contatos previstos no protocolo.",
-            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado\nR2 — pontos para conferência: Não foi demonstrado par n/N por braço desta unidade, para este componente, com pessoas efetivamente avaliadas e toda a janela-alvo. Critérios de seleção, PHQ-9 total, plano C-SSRS, dados agrupados e comportamento composto não substituem o resultado específico. Na fonte desta unidade: O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Manter separadas identificação do estudo, população exposta e modalidade; o dado parcial não foi arredondado a zero.",
+            "locator_and_reason": "SRC-f7eab56ffe66eef89962b613: PDF pp3–5: população, ITT/PP e análise de segurança | SRC-3f89c9e6cf294368ef6655d4: XML body: desenho, população e Safety end-points; não é resultado final | SRC-389c1214c1c89dfd453a85d3: HTML full body text | SRC-8d64b4f9b31729b33bbbed58: Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.\nR2 — pontos para conferência: Não foi demonstrado par n/N por braço desta unidade, para este componente, com pessoas efetivamente avaliadas e toda a janela-alvo. Critérios de seleção, PHQ-9 total, plano C-SSRS, dados agrupados e comportamento composto não substituem o resultado específico. Na fonte desta unidade: O artigo pp3–5 informa ausência de AEs graves e sintomas gastrointestinais; isto não é declaração de ausência de óbito ou de ideação. Protocolo e suplemento devem ser lidos como fontes de escopo, não como resultados novos. Manter separadas identificação do estudo, população exposta e modalidade; o dado parcial não foi arredondado a zero.",
             "source_ids_used": [
               "SRC-f7eab56ffe66eef89962b613",
               "SRC-3f89c9e6cf294368ef6655d4",
@@ -1677,7 +1685,7 @@
             },
             {
               "examination_status": "examined_relevant",
-              "locator": "Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado",
+              "locator": "Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.",
               "source_content_sha256": "8d64b4f9b31729b33bbbed584f87e30869ba66383cb4661280d674d18b373f1a",
               "source_id": "SRC-8d64b4f9b31729b33bbbed58",
               "source_role": "primary_article_or_supplement",
@@ -1686,7 +1694,8 @@
                 "suicidal_ideation",
                 "suicide_death"
               ],
-              "target_relevance_or_gap_reason": "Exame dirigido dos trechos/localizadores registrados, com os limites específicos descritos nas justificativas da unidade. Contagens de outras populações, fases, eventos ou canais não foram transferidas. Não se declara leitura humana integral."
+              "target_relevance_or_gap_reason": "Table S2 reports treatment side-effects with placebo n=12 and liraglutide n=12. It has no suicide-specific row or component-specific assessed denominator, no structured suicidality result, and no explicit all-cause mortality total or exhaustive cause-of-death accounting. The n=12 arm headers are not suicidality-assessment denominators. Table S1 reports echocardiographic outcomes. Absence of a row, or the main article's report of no serious adverse events, is not an observed zero for suicidal ideation, attempt, or death. These contents support retaining not_reconstructible_in_examined_corpus for the existing five exact B3 judgments; this correction supplies a locator and does not add a complete proof or a clinical zero. Technical locator clarification on6November2026 from inspection of the hash-matched original DOCX and its preserved rendering, corroborating the25October2026 archived TableS2 examination. Original reviewer returns and their hashes are preserved. The corrected derivative is not a new reviewer response or evidence of observed human reading; classifications and scope decisions are unchanged.",
+              "technical_locator_correction": "minor161/DOCUMENTARY_CORRECTION_LEDGER.json"
             }
           ],
           "R2": [
@@ -1731,7 +1740,7 @@
             },
             {
               "examination_status": "examined_relevant",
-              "locator": "Identificação/tipo da fonte; exame de conteúdo clínico não demonstrado",
+              "locator": "Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.",
               "source_content_sha256": "8d64b4f9b31729b33bbbed584f87e30869ba66383cb4661280d674d18b373f1a",
               "source_id": "SRC-8d64b4f9b31729b33bbbed58",
               "source_role": "primary_article_or_supplement",
@@ -1740,7 +1749,8 @@
                 "suicidal_ideation",
                 "suicide_death"
               ],
-              "target_relevance_or_gap_reason": "Exame dirigido dos trechos/localizadores registrados, com os limites específicos descritos nas justificativas da unidade. Contagens de outras populações, fases, eventos ou canais não foram transferidas. Não se declara leitura humana integral."
+              "target_relevance_or_gap_reason": "Table S2 reports treatment side-effects with placebo n=12 and liraglutide n=12. It has no suicide-specific row or component-specific assessed denominator, no structured suicidality result, and no explicit all-cause mortality total or exhaustive cause-of-death accounting. The n=12 arm headers are not suicidality-assessment denominators. Table S1 reports echocardiographic outcomes. Absence of a row, or the main article's report of no serious adverse events, is not an observed zero for suicidal ideation, attempt, or death. These contents support retaining not_reconstructible_in_examined_corpus for the existing five exact B3 judgments; this correction supplies a locator and does not add a complete proof or a clinical zero. Technical locator clarification on6November2026 from inspection of the hash-matched original DOCX and its preserved rendering, corroborating the25October2026 archived TableS2 examination. Original reviewer returns and their hashes are preserved. The corrected derivative is not a new reviewer response or evidence of observed human reading; classifications and scope decisions are unchanged.",
+              "technical_locator_correction": "minor161/DOCUMENTARY_CORRECTION_LEDGER.json"
             }
           ]
         },
@@ -1748,7 +1758,7 @@
         "substantive_AI_assistance_disclosed": true,
         "window_definition": "6 meses (26±2 semanas); considerar contatos previstos no protocolo. Alvo fixo inclui fase paralela inicial e observação planejada após retirada; não misturar extensão/troca ou completar duração não documentada."
       },
-      "public_procedure_context": "Source-version and examination narratives are preserved as recorded. Retained preparatory denials of human-reading declaration were superseded by the authors procedural clarification; explicit unexamined scopes and classifications were not changed by that clarification.",
+      "public_procedure_context": "Source-version and examination narratives are preserved as recorded. Retained preparatory denials of human-reading declaration were superseded by the authors procedural clarification; explicit unexamined scopes and classifications were not changed by that clarification. v1.6.1 corrects the obsolete LIPER2 supplement locator using the archived same-hash source and dated examination record; see minor161/DOCUMENTARY_CORRECTION_LEDGER.json. Raw-return and examination-record hashes identify the original historical files, not these technically normalized locator strings. No new reviewer decision is inferred.",
       "reference_id": "EUCTR2012-005197-63:INITIAL_PARALLEL_CANDIDATE::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
       "stage": "B3",
       "unit_id": "EUCTR2012-005197-63:INITIAL_PARALLEL_CANDIDATE",

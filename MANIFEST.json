@@ -1,5 +1,5 @@
 {
-  "version": "v1.6.0",
+  "version": "v1.6.1",
   "files": [
     {
       "path": ".gitattributes",
@@ -19,7 +19,7 @@
     {
       "path": "CITATION.cff",
       "bytes": 1170,
-      "sha256": "f4ffe762e3d77a92156904952343042b8c3d75efbe8d25c1bd3ae4585dd2457b"
+      "sha256": "23da70e0c4ddbffc3ae8c53a9cb75d2339bd63b657049791dce612e8d0fc134d"
     },
     {
       "path": "corpus/ARTICLE_INFORMATION.json",
@@ -203,8 +203,8 @@
     },
     {
       "path": "CURRENT_STATUS_INDEX.json",
-      "bytes": 2695,
-      "sha256": "d2da427ccbf77c27e6259a818d241b68832107b0c9afce41f8b6d15070cdac0a"
+      "bytes": 2757,
+      "sha256": "d4595576d926310b36e2743d5da808b1afd375a1a622ab2376e611a612fbde97"
     },
     {
       "path": "DATA_DICTIONARY.md",
@@ -297,6 +297,36 @@
       "sha256": "d34dec4ab5e774f56411ee631c4ec046ec763f7c55d24d06e84619a8d8c6c7a3"
     },
     {
+      "path": "minor161/BIBLIOGRAPHIC_REFERENCES_EN.json",
+      "bytes": 12917,
+      "sha256": "7ed8d4bff4f2ca0cd8677c9555a7469b492bcf73db60938ddf15eb9f9b2fc442"
+    },
+    {
+      "path": "minor161/DOCUMENTARY_CORRECTION_LEDGER.json",
+      "bytes": 90020,
+      "sha256": "a69e22a1f1fbfe81ac0af51001e2269731f63b9a784d9c0a6608e7aa3d54b351"
+    },
+    {
+      "path": "minor161/LIPER2_LOCATOR_VERIFICATION_EN.json",
+      "bytes": 2562,
+      "sha256": "1ad78eab35769a09db139a01933e3bc154e78045ac5e82e674ac166ee0ee84bb"
+    },
+    {
+      "path": "minor161/MAINTENANCE_SCOPE_EN.json",
+      "bytes": 803,
+      "sha256": "754c46c6e91caf61d48d7caee64253467e8df13672271b99d1477d6192702668"
+    },
+    {
+      "path": "minor161/PUBLIC_LINK_BYTE_VERIFICATION.json",
+      "bytes": 997,
+      "sha256": "e89db160843c92efc1335dc4a33749c225d7535895dbe94a96edef7053a907a1"
+    },
+    {
+      "path": "minor161/TABLE_S2_NOTE_EN.json",
+      "bytes": 746,
+      "sha256": "3e93e24001ccb4bd11999bd7ca8a5d6ddeac7765959508c02b992bbf3b69bce0"
+    },
+    {
       "path": "negative117/AI_USAGE_CURRENT_ROUND_EN.json",
       "bytes": 1107,
       "sha256": "32846886bd5d105b9e6d339c2e52392e7933e45b0c75781694212167ad9f6af7"
@@ -353,13 +383,13 @@
     },
     {
       "path": "negative117/EVIDENCE_IDENTIFIERS_596.json",
-      "bytes": 545260,
-      "sha256": "6f58e76f4a63789120b65900f1afa8a3c2d771117fe60a6a5dd42f1f88dc768e"
+      "bytes": 555510,
+      "sha256": "ecc1a13cba44eb0b2d0ff0ba8dc0026445090349d5f308a4a58947c015ea9c65"
     },
     {
       "path": "negative117/EXACT_B3_OVERLAY_456.json",
-      "bytes": 8972540,
-      "sha256": "2f5f9ada71589c7cf8f62c03547f2b0c2ffb30c9a6d642b7ba55a74009ab196b"
+      "bytes": 8988995,
+      "sha256": "280dc5030d70f2815706aed76b3cb41ed1269a382ea97a73a519b898f3a41047"
     },
     {
       "path": "negative117/expected/CURRENT_RESULTS.json",
@@ -404,7 +434,7 @@
     {
       "path": "ONLINE_RESOURCE_METADATA_EN.txt",
       "bytes": 728,
-      "sha256": "4a9043899d9fdcb675120d1ce7bb777b62790a1d88e0001b217751ff89d6d6fb"
+      "sha256": "5ef4c1e4d67a513a72972dd1b07c945b3546513bc36afaad6cb7514ac5e5682f"
     },
     {
       "path": "PUBLIC_PROJECTION_PROVENANCE.json",
@@ -413,8 +443,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2951,
-      "sha256": "be4e9d813a7c3be57e83a71924652185e36275005d2b3cd33a97f97b0d61ccb5"
+      "bytes": 3699,
+      "sha256": "51678a62b7988db22e17ef2e09ea362535beb84f9ca50224c911a1bc68f7ff20"
     },
     {
       "path": "reason_inventory/ALTERNATIVE_REFERENCE_PILOT_FEASIBILITY.json",
@@ -548,13 +578,13 @@
     },
     {
       "path": "RELEASE_METADATA.json",
-      "bytes": 2288,
-      "sha256": "43e4cc3a366f66d6e02621abb5bd84e65d647b06f04735b57cdaac883b9607ee"
+      "bytes": 2427,
+      "sha256": "5f8368bbef97ff3ad1addd277a289ea53b22893da6163cb0c36783ae0daa35e3"
     },
     {
       "path": "reproduce.py",
-      "bytes": 979,
-      "sha256": "99bb4aa40ce293d5370cda195c7315497f3060d7c39499469e18a22479525494"
+      "bytes": 1052,
+      "sha256": "8e4d87e08f1dfdebf66ca2b9e80851f0fdd16ddd2f0f50940729314b89b64739"
     },
     {
       "path": "reproduce_v1_5_0.py",

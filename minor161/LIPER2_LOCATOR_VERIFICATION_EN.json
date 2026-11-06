@@ -1,0 +1,14 @@
+{
+  "classification_changes_recommended": 0,
+  "conclusion": "Content examination is evidenced and the locator is stale; correct the current technical derivative with explicit provenance, preserve the five existing B3 states. No new human case or scientific recalculation required by this source clarification.",
+  "historical_evidence": {
+    "20261025_receipt_created_utc": "2026-10-25T23:46:56.905846+00:00",
+    "attribution_limit": "Historical receipt is evidence of a prior documentary examination, not a directly observed human reading. Both-author procedural clarification and approval remain author-declared and are not newly inferred from the hash.",
+    "now_verification": "AI source reinspection on2026-11-06 confirms the content and location independently of the stale preparatory phrase.",
+    "receipt_claim": "Supplement obtained through publisher link and all4 rendered pages inspected; ADENDO_LIPER2 already names S2 pp3-4 and absence of target rows."
+  },
+  "new_human_review_cases": 0,
+  "proposed_current_locator_en": "Supplementary Table S2, 'Treatment side-effects during the study period', including its continuation (DOCX word/document.xml, third and fourth tables; pages 3-4 of the preserved four-page rendering). Table S1, 'Between-group differences in echocardiographic parameters' (pages 1-2), was checked for the remaining document content.",
+  "proposed_provenance_note_en": "Technical locator clarification on6November2026 from inspection of the hash-matched original DOCX and its preserved rendering, corroborating the25October2026 archived TableS2 examination. Original reviewer returns and their hashes are preserved. The corrected derivative is not a new reviewer response or evidence of observed human reading; classifications and scope decisions are unchanged.",
+  "proposed_relevance_en": "Table S2 reports treatment side-effects with placebo n=12 and liraglutide n=12. It has no suicide-specific row or component-specific assessed denominator, no structured suicidality result, and no explicit all-cause mortality total or exhaustive cause-of-death accounting. The n=12 arm headers are not suicidality-assessment denominators. Table S1 reports echocardiographic outcomes. Absence of a row, or the main article's report of no serious adverse events, is not an observed zero for suicidal ideation, attempt, or death. These contents support retaining not_reconstructible_in_examined_corpus for the existing five exact B3 judgments; this correction supplies a locator and does not add a complete proof or a clinical zero."
+}
