@@ -1,0 +1,76 @@
+{
+  "caption": "Current dimension-specific findings in the 109-position source follow-up and its 27 retained closed-scope negatives",
+  "headers": [
+    "Dimension and returned finding",
+    "R1, all 109",
+    "R2, all 109",
+    "R1, 27 closed negatives",
+    "R2, 27 closed negatives"
+  ],
+  "notes": [
+    "Counts are documentary positions, not trials, patients or events; categories across rows are nonexclusive.",
+    "The 109 follow-up positions are nested within the earlier 663; neither denominator is the full 5,096-position corpus.",
+    "R1 and R2 raw reason codes are shown separately. Differences have not been rewritten as mechanistic consensus.",
+    "Missing after examination is a recorded source-scoped information gap; explicit incompatibility is a demonstrated difference from the fixed audit reference; unresolved access/examination remains unknown.",
+    "The 27 retained closed negatives are the analytically compatible closed-scope subset of the 72 earlier-negative positions. They are not a random population of all historical negatives.",
+    "No absent code was converted to an absent outcome or absent instrument. Current technical positive witnesses and cumulative gaps determine the analysis, separately from these raw dimension codes."
+  ],
+  "rows": [
+    [
+      "Numerator not established after source examination",
+      52,
+      33,
+      25,
+      27
+    ],
+    [
+      "Denominator not established after source examination",
+      35,
+      20,
+      19,
+      16
+    ],
+    [
+      "Counting unit not established after source examination",
+      37,
+      27,
+      22,
+      23
+    ],
+    [
+      "Reported population explicitly incompatible",
+      5,
+      1,
+      2,
+      1
+    ],
+    [
+      "Population not established after source examination",
+      3,
+      16,
+      2,
+      13
+    ],
+    [
+      "Reported window explicitly incompatible",
+      8,
+      2,
+      4,
+      1
+    ],
+    [
+      "Window not established after source examination",
+      34,
+      32,
+      20,
+      26
+    ],
+    [
+      "Pertinent source access/examination unresolved",
+      10,
+      25,
+      0,
+      0
+    ]
+  ]
+}

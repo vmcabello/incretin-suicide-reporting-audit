@@ -1,0 +1,23 @@
+{
+  "local_path_contact_signed_URL_sanitization": {
+    "email_strings_removed": 1,
+    "other_drive_prefixes_removed": 0,
+    "other_user_home_prefixes_removed": 0,
+    "strings_changed": 12,
+    "workspace_prefixes_removed": 11
+  },
+  "not_distributed": [
+    "private return containers and author dialogue",
+    "third-party primary full texts",
+    "licensed native exports",
+    "local filesystem routes",
+    "runtime/system instructions"
+  ],
+  "parent_input_policy": "Regenerate the already public v1.5 parent and alternate inputs using their preserved code and public records; do not duplicate private full inputs.",
+  "private_and_public_full_input_hashes_expected_equal": false,
+  "private_current_input_sha256": "dc17141cabaa2502b8d25b7f3f0d03bc832566130c5b9fe1381ea82059eecd5e",
+  "private_current_results_sha256": "576d1f0692b4491363fb79e934bf3d02ea0163bde8e350a6dc050a2956e5b197",
+  "private_overlay_fields_retained_in_anonymous_scientific_projection": true,
+  "scientific_invariant": "All current and sensitivity tables equal the private approved numerical version; exact-key effective states are also compared in local prepublication QA.",
+  "source_hash_semantics": "Artifact hashes identify original private archived sources; public projection hashes are separate file-integrity hashes."
+}

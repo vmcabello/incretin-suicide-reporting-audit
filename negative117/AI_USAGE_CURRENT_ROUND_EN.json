@@ -1,0 +1,22 @@
+{
+  "current_served_model_identifier": "not inventoried; unavailable in this release",
+  "date": "2026-11-06",
+  "historical_model_logs": "Earlier configurations are dated historical records; an interface model request is not execution evidence.",
+  "immutable_backend_snapshot": "unavailable",
+  "provider": "OpenAI",
+  "responsibility": "Human authors retain responsibility; computational agreement does not certify all documentary interpretations.",
+  "retained_instructions": "The user authorized proceeding after analytical-stage notice, preserving unknowns and earlier decisions; both authors subsequently approved the recalculated manuscript and submission. This is an English summary, not a verbatim full prompt transcript.",
+  "roles": [
+    "source-scope integration",
+    "programming and deterministic calculations",
+    "independent computational comparison",
+    "editorial adaptation",
+    "layout verification"
+  ],
+  "scientific_instructions": [
+    "PROTOCOL_UNIFIED_NEGATIVE_REVIEW_V4.json",
+    "DATA_DICTIONARY_NEG117_EN.json",
+    "reproduce_neg117.py"
+  ],
+  "tool": "OpenAI Codex"
+}

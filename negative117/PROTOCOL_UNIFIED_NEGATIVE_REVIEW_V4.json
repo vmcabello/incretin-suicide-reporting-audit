@@ -1,0 +1,303 @@
+{
+  "P1_action": "Verify the named older-scope deficit against historical own-source evidence and any current later source. Retrieve existing bytes first. Do not assume a listed auxiliary or receipt is an unavailable clinical article. Ask both assessors for only new source examination/target closure determinations. Preserve original answers, share no new votes before separately sealed returns.",
+  "P1_new_dossiers": 57,
+  "P1_new_endpoint_determinations": 69,
+  "P1_selection": "Census, not a convenience sample: exact B3 modality key currently effective 0; whole-population primary stratum; all modalities of that same unit/component B3 union currently 0; key outside current109; earlier663 has cumulative unknown for at least one assessor. Group within unit, retain every affected component/modality/reference/window key.",
+  "P1_unit_component_endpoints": 69,
+  "P1_weak_modality_positions": 76,
+  "P2_additional_unit_component_endpoints": 125,
+  "P2_endpoints": 125,
+  "P2_included_in_same_single_lot": true,
+  "P2_not_dispatched_as_fresh_votes": false,
+  "P2_selection": "All remaining whole-population B3 union-negative unit/component endpoints having an earlier A/B1/B2 weak-scope key from the same 350-key frame, without a P1 exact-B3 key. Reconcile cumulative containment/source coverage before deciding if further human examination is irreducible.",
+  "adjudication": "Keep both raw returns; document exact disagreeing source/reference issue and final human conciliation. Unresolved disagreement stays unknown. Neither AI inventory nor this template supplies human votes.",
+  "all_B3_modality_positions": 457,
+  "amended_utc_before_new_source_outcome_reading_or_human_return": "2026-11-06T01:47:26.236643+00:00",
+  "amendment_reason": "A union-negative endpoint needs adequate scope for all its modalities, not only the sampled weak key. The already identified earlier-layer scope queue is combined now so authors receive one lot rather than serial new batches.",
+  "analysis_after_return": "Any replacement of classifications and recomputation require an explicit separate analysis stage. This round changes no scientific input/results. Report impact by modality and union with trial dependence; no accuracy or corpus error-rate claim from this enriched census.",
+  "citation_source_list_amended_utc_before_new_human_returns": "2026-11-06T02:04:03.182542+00:00",
+  "citation_source_list_amendment": "Ten already identified articles are explicit DOI/URL source entries, separate from584local artifact IDs and their derived receipts. A local receipt does not substitute for original article examination. An assessor may record direct institutional reading with actual version/date/locator, or keep the pertinent scope unknown. This changes no117unit/194component/456modality target.",
+  "citation_source_list_parent_sha256": "eebbc79c42c0d630509e3018cd3d1463df265de6cb6b70823d061a01e5d7ce3c",
+  "created_utc": "2026-11-06T01:39:02.577109+00:00",
+  "current_single_lot_selection": "Full census of the194already identified primary-whole-population B3union-negative unit/component endpoints having a current-negative exact key among350source-limited earlier663returns outside current109, at B3(P1)or an earlier cumulative layer(P2). For each endpoint include every expected B3modality. Reuse the one current109exactkey without rerating. No additional convenience/probability sample is selected.",
+  "earlier350limitedkeys_are_source_context_not350flat_new_votes": true,
+  "exact_current109_modality_keys_reused_without_new_vote": 1,
+  "external_article_citations_added": [
+    {
+      "doi": "10.1111/j.1463-1326.2009.01194.x",
+      "sha256": null,
+      "source_id": "EXT-PENDING-DOI-0187d4b1acf19278542d1d4d",
+      "unit_ids": [
+        "NCT00395746:CANDIDATE_BLOCK"
+      ],
+      "url": "https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/j.1463-1326.2009.01194.x"
+    },
+    {
+      "doi": "10.1111/dme.12328",
+      "sha256": null,
+      "source_id": "EXT-PENDING-DOI-2cbeb15cc89a9c9ce1a309cf",
+      "unit_ids": [
+        "NCT00763451:CANDIDATE_BLOCK"
+      ],
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/dme.12328"
+    },
+    {
+      "doi": "10.1111/dom.12121",
+      "sha256": null,
+      "source_id": "EXT-PENDING-DOI-e05e1273920a3d7192c56875",
+      "unit_ids": [
+        "NCT00763815:CANDIDATE_BLOCK"
+      ],
+      "url": "https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.12121"
+    },
+    {
+      "doi": "10.1111/dom.12414",
+      "sha256": null,
+      "source_id": "EXT-PENDING-DOI-a0abd2d999452d3fbfd1e6fc",
+      "unit_ids": [
+        "NCT00839527:CANDIDATE_BLOCK"
+      ],
+      "url": "https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.12414"
+    },
+    {
+      "doi": "10.1111/dom.12382",
+      "sha256": null,
+      "source_id": "EXT-PENDING-DOI-8639511a80c19246b6207dd3",
+      "unit_ids": [
+        "NCT00849056:CANDIDATE_BLOCK"
+      ],
+      "url": "https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.12382"
+    },
+    {
+      "doi": "10.1111/dom.12937",
+      "sha256": null,
+      "source_id": "EXT-PENDING-DOI-30042637221a46312c119a82",
+      "unit_ids": [
+        "NCT02152371:CANDIDATE_BLOCK"
+      ],
+      "url": "https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.12937"
+    },
+    {
+      "doi": "10.1111/dom.15079",
+      "sha256": null,
+      "source_id": "EXT-PENDING-DOI-9486fb8983d337832d1bc30c",
+      "unit_ids": [
+        "NCT03713684:CANDIDATE_BLOCK",
+        "NCT03770728:CANDIDATE_BLOCK"
+      ],
+      "url": "https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.15079"
+    },
+    {
+      "doi": "10.1111/dom.15263",
+      "sha256": null,
+      "source_id": "EXT-PENDING-DOI-e94f31720705c9b78650ca37",
+      "unit_ids": [
+        "NCT04591626:CANDIDATE_BLOCK"
+      ],
+      "url": "https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.15263"
+    },
+    {
+      "doi": "10.1001/jamanetworkopen.2025.39848",
+      "sha256": null,
+      "source_id": "EXT-PENDING-DOI-99cfbbed34c18e27a3b47f9c",
+      "unit_ids": [
+        "ACTRN12617001613392:INITIAL_PARALLEL_CANDIDATE_BLOCK"
+      ],
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840683"
+    },
+    {
+      "doi": "10.1016/j.jdiacomp.2022.108188",
+      "sha256": null,
+      "source_id": "EXT-PENDING-DOI-af0ef5f482b5fa16e1ca1dac",
+      "unit_ids": [
+        "UTN1111-1181-9567:INITIAL_PARALLEL_CANDIDATE"
+      ],
+      "url": "https://www.sciencedirect.com/science/article/pii/S1056872722000824"
+    }
+  ],
+  "human_targets_changed": false,
+  "known_results": "Retrospective response to a review. Historical results, 663 returns and 109 follow-up are already known; this is not prospective registration or blinded external validation.",
+  "named_items_with_local_hash_matched_bytes": 584,
+  "named_unique_source_receipt_or_representation_ids": 584,
+  "negative_evidence_requirement": "Name every relevant source (hash/version), record examined/irrelevant/unavailable/unexamined with locators, and the exact missing or incompatible dimension. A negative is bounded to the examined admissible corpus. A protocol alone, keyword absence, no losses, zero related AEs or no serious AEs does not prove the endpoint zero.",
+  "new_blank_B3_modality_positions": 456,
+  "new_cases_or_outcome_targets_added": 0,
+  "new_current_human_votes_created": 0,
+  "new_human_decisions_currently_created": 0,
+  "new_human_votes_created": 0,
+  "newly_archived_originals_added": [
+    {
+      "doi": "10.1111/dme.12328",
+      "original_receipt_preserved": true,
+      "path": "[LOCAL_WORKSPACE]/outputs\\revisao_maior_sustentacao_documental_2026-11-05\\fontes_obtidas_nesta_rodada\\GETGOAL_F1_dme12328_original.pdf",
+      "pre_vote_external_citation_IDs_canonicalized_to_original_hash_source_id": [
+        "EXT-PENDING-DOI-2cbeb15cc89a9c9ce1a309cf"
+      ],
+      "sha256": "b689b6864b9c78b5ad3586c245a38f226edb08d6987011dae6bfe8f374a310ff",
+      "source_id": "SRC-b689b6864b9c78b5ad3586c2",
+      "unit_ids": [
+        "NCT00763451:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "doi": "10.1111/j.1463-1326.2009.01194.x",
+      "original_receipt_preserved": true,
+      "path": "[LOCAL_WORKSPACE]/outputs\\revisao_maior_sustentacao_documental_2026-11-05\\fontes_obtidas_nesta_rodada\\Kaku2010_liraglutide_Japan_ORIGINAL.pdf",
+      "pre_vote_external_citation_IDs_canonicalized_to_original_hash_source_id": [
+        "EXT-PENDING-DOI-0187d4b1acf19278542d1d4d"
+      ],
+      "sha256": "3f142ef4b8bcc02aa1bdf63c0ab98850f964975de8098d1bd97c0b74a7722961",
+      "source_id": "SRC-3f142ef4b8bcc02aa1bdf63c",
+      "unit_ids": [
+        "NCT00395746:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "doi": "10.1111/dom.12121",
+      "original_receipt_preserved": true,
+      "path": "[LOCAL_WORKSPACE]/outputs\\revisao_maior_sustentacao_documental_2026-11-05\\fontes_obtidas_nesta_rodada\\GetGoal_P_Pinget2013_ORIGINAL.pdf",
+      "pre_vote_external_citation_IDs_canonicalized_to_original_hash_source_id": [
+        "EXT-PENDING-DOI-e05e1273920a3d7192c56875"
+      ],
+      "sha256": "988cfcf41dfb73d3e459438de9b0a2e508e9db930293b8be7335ef615600a33e",
+      "source_id": "SRC-988cfcf41dfb73d3e459438d",
+      "unit_ids": [
+        "NCT00763815:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "doi": "10.1111/dom.12414",
+      "original_receipt_preserved": true,
+      "path": "[LOCAL_WORKSPACE]/outputs\\revisao_maior_sustentacao_documental_2026-11-05\\fontes_obtidas_nesta_rodada\\HARMONY5_Home2015_ORIGINAL.pdf",
+      "pre_vote_external_citation_IDs_canonicalized_to_original_hash_source_id": [
+        "EXT-PENDING-DOI-a0abd2d999452d3fbfd1e6fc"
+      ],
+      "sha256": "16d404dbb91891e4e7379840b160c6bce1c38205d7f132d246007e0dd903d0f0",
+      "source_id": "SRC-16d404dbb91891e4e7379840",
+      "unit_ids": [
+        "NCT00839527:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "doi": "10.1111/dom.12382",
+      "original_receipt_preserved": true,
+      "path": "[LOCAL_WORKSPACE]/outputs\\revisao_maior_sustentacao_documental_2026-11-05\\fontes_obtidas_nesta_rodada\\HARMONY1_Reusch2014_ORIGINAL.pdf",
+      "pre_vote_external_citation_IDs_canonicalized_to_original_hash_source_id": [
+        "EXT-PENDING-DOI-8639511a80c19246b6207dd3"
+      ],
+      "sha256": "aa1e4263ade78359f0929c1d8f34a4a199c619e59c2d39597ed6805a64b37000",
+      "source_id": "SRC-aa1e4263ade78359f0929c1d",
+      "unit_ids": [
+        "NCT00849056:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "doi": "10.1111/dom.12937",
+      "original_receipt_preserved": true,
+      "path": "[LOCAL_WORKSPACE]/outputs\\revisao_maior_sustentacao_documental_2026-11-05\\fontes_obtidas_nesta_rodada\\AWARD9_Pozzilli2017_ORIGINAL.pdf",
+      "pre_vote_external_citation_IDs_canonicalized_to_original_hash_source_id": [
+        "EXT-PENDING-DOI-30042637221a46312c119a82"
+      ],
+      "sha256": "994012514a6d8a486bbba53e7de40c85649441a3c7d4166d42ddacdce5073661",
+      "source_id": "SRC-994012514a6d8a486bbba53e",
+      "unit_ids": [
+        "NCT02152371:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "doi": "10.1111/dom.15079",
+      "original_receipt_preserved": true,
+      "path": "[LOCAL_WORKSPACE]/outputs\\revisao_maior_sustentacao_documental_2026-11-05\\fontes_obtidas_nesta_rodada\\AMPLITUDE_D_L_S_Aroda2023_ORIGINAL.pdf",
+      "pre_vote_external_citation_IDs_canonicalized_to_original_hash_source_id": [
+        "EXT-PENDING-DOI-9486fb8983d337832d1bc30c"
+      ],
+      "sha256": "c265717ca26fddc70040bc3079dd66da457c63c45c7bab74c888b6b7ff80901f",
+      "source_id": "SRC-c265717ca26fddc70040bc30",
+      "unit_ids": [
+        "NCT03713684:CANDIDATE_BLOCK",
+        "NCT03770728:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "doi": "10.1111/dom.15263",
+      "original_receipt_preserved": true,
+      "path": "[LOCAL_WORKSPACE]/outputs\\revisao_maior_sustentacao_documental_2026-11-05\\fontes_obtidas_nesta_rodada\\AWARD_CHN3_Wang2023_ORIGINAL.pdf",
+      "pre_vote_external_citation_IDs_canonicalized_to_original_hash_source_id": [
+        "EXT-PENDING-DOI-e94f31720705c9b78650ca37"
+      ],
+      "sha256": "e19055b904f1c5fd9da7884e01d49fce07c54bfb1e47f30b96c463746da4eed4",
+      "source_id": "SRC-e19055b904f1c5fd9da7884e",
+      "unit_ids": [
+        "NCT04591626:CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "document_role": "main_article",
+      "doi": "10.1001/jamanetworkopen.2025.39848",
+      "original_receipt_preserved": true,
+      "path": "[LOCAL_WORKSPACE]/outputs\\revisao_maior_sustentacao_documental_2026-11-05\\fontes_obtidas_nesta_rodada\\BROWN2025_MAIN_ORIGINAL.pdf",
+      "pre_vote_external_citation_IDs_canonicalized_to_original_hash_source_id": [
+        "EXT-PENDING-DOI-99cfbbed34c18e27a3b47f9c"
+      ],
+      "sha256": "c8077236067986f85b9ce952e5223412c62472650ef0eb7a94a00b38a48dce40",
+      "source_id": "SRC-c8077236067986f85b9ce952",
+      "unit_ids": [
+        "ACTRN12617001613392:INITIAL_PARALLEL_CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "document_role": "publisher_linked_protocol",
+      "doi": "10.1001/jamanetworkopen.2025.39848",
+      "original_receipt_preserved": true,
+      "path": "[LOCAL_WORKSPACE]/outputs\\revisao_maior_sustentacao_documental_2026-11-05\\fontes_obtidas_nesta_rodada\\BROWN2025_PROTOCOL_ORIGINAL.pdf",
+      "pre_vote_external_citation_IDs_canonicalized_to_original_hash_source_id": [],
+      "sha256": "96a39103c8bfd7c68f1ed70fb2a8103d841c0ff7a0f65640c7c4ddd7aa173f2d",
+      "source_id": "SRC-96a39103c8bfd7c68f1ed70f",
+      "unit_ids": [
+        "ACTRN12617001613392:INITIAL_PARALLEL_CANDIDATE_BLOCK"
+      ]
+    },
+    {
+      "document_role": "publisher_linked_supplement",
+      "doi": "10.1001/jamanetworkopen.2025.39848",
+      "original_receipt_preserved": true,
+      "path": "[LOCAL_WORKSPACE]/outputs\\revisao_maior_sustentacao_documental_2026-11-05\\fontes_obtidas_nesta_rodada\\BROWN2025_SUPPLEMENT_ORIGINAL.pdf",
+      "pre_vote_external_citation_IDs_canonicalized_to_original_hash_source_id": [],
+      "sha256": "ddfb3c38d7738f7750f96b8a9f661efe8f44b5701b2dec240c53c5e7a8f9042d",
+      "source_id": "SRC-ddfb3c38d7738f7750f96b8a",
+      "unit_ids": [
+        "ACTRN12617001613392:INITIAL_PARALLEL_CANDIDATE_BLOCK"
+      ]
+    }
+  ],
+  "no_fabricated_original_content_hash": true,
+  "no_repeat109": true,
+  "no_replacement_of_original_probability_selections": true,
+  "original_sample_status": "The current109 includes the 72-position second-phase follow-up (5 complete,40 unknown,27 negative). Its data are reused. Of the other 354 original 426-sample positions,350 remain NC and4 are now unknown; no redraw is made.",
+  "parent_protocol_file": "PROTOCOL_TARGETED_NEGATIVE_REVIEW.json",
+  "parent_protocol_sha256": "e6098d85e5a725f45cf6043d940a67cf5968608b80a8eff1960e382ffd2fbfc5",
+  "remaining_historical_only_support": "Retain traceable historical position judgments, but do not call them freshly dual source-validated. The matrix reports all keys. This targeted expansion does not validate the entire 3,923-position negative frame or estimate an external error rate.",
+  "reuse_rule": "A primary source may be read once within a unit. Reuse may support another key only with explicit identical unit/component/modality/reference/window and admissible source subset. No transfer between different suicide components or between AE and structured assessment. No automatic later-layer closure inferred from an internal receipt.",
+  "review_dimensions": [
+    "source identity/version",
+    "relevant source-union accounted",
+    "people versus events",
+    "arm attribution",
+    "component numerator",
+    "component denominator",
+    "baseline eligible treated population",
+    "initial parallel plus planned observation window",
+    "modality",
+    "direct versus derived"
+  ],
+  "schema": "unified-targeted-negative-source-coverage-protocol-v4-original-acquisition",
+  "scientific_input_or_result_changed": false,
+  "scientific_input_sha256": "13a326efae3c3111bd9b1469ef06da59e26b1cc33753e6611f5caacfe33b9f7c",
+  "source_acquisition_amended_utc_before_human_returns": "2026-11-06T02:14:43.833965+00:00",
+  "source_acquisition_amendment": "New original article bytes are added as source candidates to the same117units/194endpoints/456newmodalitykeys, before any human answers. Existing derived receipts remain visible. Obtaining originals creates no clinical classification or human reading claim.",
+  "source_acquisition_parent_sha256": "a7fbfb451002bc2d8f6b88ae907afe31e78b227daf0bfbd7e13b59ee4726c159",
+  "status": "FIXED_BEFORE_ANY_NEW_SOURCE_OUTCOME_EXTRACTION_OR_HUMAN_RETURN_IN_THIS_ROUND",
+  "unit_component_endpoints": 194,
+  "unit_dossiers": 117,
+  "unknown_rule": "If relevant source content or reference mapping remains unresolved after the bounded search, retain unknown. Do not force a negative for an inaccessible source. Positive compatible proofs may suffice despite unrelated unknowns, per frozen rules."
+}

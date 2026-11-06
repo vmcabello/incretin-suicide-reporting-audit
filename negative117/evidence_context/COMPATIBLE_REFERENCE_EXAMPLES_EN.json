@@ -1,0 +1,219 @@
+{
+  "cases": [
+    {
+      "comparison_changes": "Useful component counts are present under a different population specification; the fixed audit fails population/window harmonization, not simple total absence of suicide reporting.",
+      "component": "suicide_death",
+      "evidence": [
+        {
+          "local_artifact_exists_and_sha_verified": true,
+          "locator": "Table S4, PDF p42 / printed p41; header, suicide row and unknown-cause footnote.",
+          "public_url": null,
+          "sha256": "df91cb4fa3fa0223497f3b828b3c2645f75a8a82d41b91b7e6f96b7e02f08a16",
+          "source_id": "SRC-df91cb4fa3fa0223497f3b82"
+        },
+        {
+          "local_artifact_exists_and_sha_verified": true,
+          "locator": "resultsSection.adverseEventsModule: eventGroups, description and timeFrame.",
+          "public_url": "https://clinicaltrials.gov/study/NCT01144338",
+          "sha256": "7968dac25400b47b46122c65223c1b272ad00671c2b705be74d2bc3e313405f6",
+          "source_id": "SRC-7968dac25400b47b46122c65"
+        }
+      ],
+      "mechanisms": [
+        "reported population mismatch",
+        "unclassified causes limit etiological derivation",
+        "source/modality distinction"
+      ],
+      "not_inferred": "No ITT-to-safety patient matching, no zero among unknown-cause deaths, and no new alternative-reference complete classification without a complete window and counting-unit proof.",
+      "review_type": "Current technical source reinspection for explanation; no new human outcome vote or frozen-status change.",
+      "source_reported_facts": "Table S4 reports classified suicide deaths of 0 and 1 with ITT denominators 7,356 and 7,396, and 110 and 142 deaths of unknown cause. The registry reports adverse-event safety groups of 7,344 and 7,372, with only serious adverse events collected.",
+      "trial": "EXSCEL",
+      "under_fixed_audit_specification": "The ITT row is not silently assigned to the treated/as-received safety denominators or their AE period. The existing death positions remain partial/non-complete in the fixed-reference analysis.",
+      "under_source_reported_specification": "The classified suicide row can be read for the ITT population. It is a source-defined tabulation, not evidence of no additional suicides among deaths of unknown cause.",
+      "unit_id": "NCT01144338:CANDIDATE_BLOCK"
+    },
+    {
+      "comparison_changes": "The source supports both an AE zero and structured positive findings because measurement modalities differ. The audit result depends on modality and reference, not on treating one finding as an error.",
+      "component": "suicidal_ideation and suicide_attempt",
+      "evidence": [
+        {
+          "local_artifact_exists_and_sha_verified": true,
+          "locator": "eTable7 PDF pp13-17: separate participants, baseline/postbaseline, visits and footnotes; eTable8 PDF pp20-21: full columns and counting-unit footnote.",
+          "public_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11372653/",
+          "sha256": "23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c",
+          "source_id": "SRC-23e891d47a17c21baa1211bf"
+        },
+        {
+          "local_artifact_exists_and_sha_verified": true,
+          "locator": "Methods: psychiatric assessments and schedule; STEP 5 C-SSRS visits through week 104. Table 3 postbaseline rows and full footnote: observed respondents 152/146 and participants with ideation 1/2.",
+          "public_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11372653/",
+          "sha256": "4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9",
+          "source_id": "SRC-4715d6e6be70bf9015ab4907"
+        }
+      ],
+      "mechanisms": [
+        "modality mismatch",
+        "observed respondents differ from the full treated population",
+        "structured observation-window mismatch/not established"
+      ],
+      "not_inferred": "No comparison of clinical risks, no AE-zero transfer to C-SSRS, and no counting repeated visits as separate participants.",
+      "review_type": "Current technical source reinspection; existing AE positive and structured partial statuses retained.",
+      "source_reported_facts": "eTable 8 gives separate adverse-event ideation and attempt rows, 0 participants in each arm with treated N=152/152, and defines No. as participants with at least one event. Main Table 3 reports postbaseline C-SSRS ideation in 1/152 and 2/146 observed respondents; its footnote defines the denominator as people with an observation. eTable 7 lists STEP 5 participants #16 (semaglutide), #17 and #18 (placebo); repeated assessments for #17 remain one participant. The structured assessment schedule ends at week 104.",
+      "trial": "STEP 5",
+      "under_fixed_audit_specification": "AE completeness does not complete C-SSRS. The observed-respondent result does not reconstruct ideation in all treated participants through the full planned post-treatment observation; current fixed-target structured positions remain partial.",
+      "under_source_reported_specification": "Adverse-event ideation and attempt are directly reconstructible for the in-trial SAS. Structured ideation is tabulated for the source-defined observed respondents as 1/152 versus 2/146; these are not the AE denominators.",
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK"
+    },
+    {
+      "comparison_changes": "Resolving what counts as planned observation makes the exact article-plus-protocol proof sufficient; a broader lifetime or indefinitely passive follow-up question would remain unanswered.",
+      "component": "suicide_death",
+      "evidence": [
+        {
+          "locator": "Corrected own article PDFpp.1,6,8; mortalityparagraph,Table2; correctionnoticep.1",
+          "sha256": "e9907728c66e8c6f728bbb65160cd33f69174bbcda75153e19ff7a9c0850028a",
+          "source_id": "SRC-e9907728c66e8c6f728bbb65"
+        },
+        {
+          "locator": "ProtocolH9X-MC-GBGE(b) PDFpp.17–19,41–42,67–70;§§4.1–4.2,8.2.1; scheduleofactivities",
+          "sha256": "dbbddc56f1509c231be3d2ca44595cab04d02539c53eb32bb8249e59f67fb4bd",
+          "source_id": "SRC-dbbddc56f1509c231be3d2ca"
+        }
+      ],
+      "mechanisms": [
+        "planned window versus passive later SAE notification",
+        "derivation rather than direct report"
+      ],
+      "not_inferred": "Drug-relatedness is not proof of non-suicide; the explicit causes are used. No direct suicide-specific own-arm row is claimed.",
+      "review_type": "Existing ratified technical positive witness reused, not newly adjudicated.",
+      "source_count_facts": [
+        {
+          "N": 142,
+          "arm": "dulaglutide1.5mg",
+          "calculation": "2 all-cause deaths -1 uterinecarcinoma -1pneumonia=0",
+          "n": 0
+        },
+        {
+          "N": 141,
+          "arm": "dulaglutide0.75mg",
+          "calculation": "0 all-cause deaths implies0suicide deaths",
+          "n": 0
+        },
+        {
+          "N": 140,
+          "arm": "placebo",
+          "calculation": "0 all-cause deaths implies0suicide deaths",
+          "n": 0
+        }
+      ],
+      "source_reported_facts": "The corrected article gives two deaths in dulaglutide 1.5 mg attributed to uterine carcinoma and pneumonia and none in the other arms; treated denominators are 142/141/140. Protocol GBGE(b) has week 24/Visit 11 or early termination as final planned visit; after-discharge related-SAE notification is passive.",
+      "trial": "AWARD-10",
+      "under_fixed_audit_specification": "The verified B2/B3 witness is complete_derived for that planned period. It does not certify continuous vital-status follow-up after withdrawal or indefinite passive reporting.",
+      "under_source_reported_specification": "The reported 24-week planned study period can support a derived zero suicide-death count in each treated arm when combined with the protocol window.",
+      "unit_id": "NCT02597049:CANDIDATE_BLOCK"
+    },
+    {
+      "comparison_changes": "Changing only ITT/safety denominator or observation window would not resolve incomplete intent/cause attribution. The limiting information is distinct from a mere population specification mismatch.",
+      "component": "suicide_death",
+      "evidence": [
+        {
+          "local_artifact_exists_and_sha_verified": true,
+          "locator": "PDF pp11-12 Table3: people versus events, full header/footnotes; p13 Safety Results mortality paragraph.",
+          "public_url": "https://doi.org/10.1016/S2213-8587(26)00125-7",
+          "sha256": "eb623e77bcc44ffb3bf58a4db9fc47956da92a7f2dbf5ca4665f49d6f8634f65",
+          "source_id": "SRC-eb623e77bcc44ffb3bf58a4d"
+        },
+        {
+          "local_artifact_exists_and_sha_verified": true,
+          "locator": "247-page supplement, Table S8 PDFp40 and TableS9 PDFp41; trial-period definitions and safety schedule.",
+          "public_url": null,
+          "sha256": "d039144f1da43b0592f899e4e47020466ae159171b63a38eab0c03f71f2dddd2",
+          "source_id": "SRC-d039144f1da43b0592f899e4"
+        }
+      ],
+      "mechanisms": [
+        "incomplete cause attribution",
+        "participant/event distinction",
+        "intent not established"
+      ],
+      "not_inferred": "Unknown cause is not non-suicide; trauma is not automatically accidental; events are not participants.",
+      "review_type": "Current technical reinspection supports explanatory example; frozen classifications unchanged.",
+      "source_reported_facts": "The main article Table 3 distinguishes fatal participants from fatal events; in one arm 2 fatal participants correspond to 3 events. Twelve deaths are reported, 11 adjudicated; one cagrilintide death has no established cause. One CagriSema death is labelled trauma without clarified intent in the inspected narrative.",
+      "trial": "REIMAGINE 2",
+      "under_fixed_audit_specification": "Nonzero mortality with an unestablished cause and unspecified-intent trauma does not give an exhaustive zero-suicide derivation for every eligible arm; current mortality-derivation positions remain partial.",
+      "under_source_reported_specification": "All-cause/fatal-event totals and reported cause categories are available for the source-defined safety period.",
+      "unit_id": "NCT06065540:CANDIDATE_BLOCK"
+    },
+    {
+      "comparison_changes": "Even relaxing population/window cannot create an observed numerator from planning text; adding a later admissible source is a different documentary layer.",
+      "component": "suicide_attempt in B1 adverse-event modality",
+      "evidence": [
+        {
+          "local_artifact_exists_and_sha_verified": true,
+          "locator": "PDFp1identity,p2full index,pp3-18 observed biomarker tables; embedded SAP pp117-118 and128-129: SAS, AE periods, planned analyses.",
+          "public_url": null,
+          "sha256": "c6588540bff08aa5fe2cc2d248217e43fdbefd64437e26cca6138854e775f4e2",
+          "source_id": "SRC-c6588540bff08aa5fe2cc2d2"
+        }
+      ],
+      "mechanisms": [
+        "observed numerator absent from examined source scope",
+        "planned analysis versus observed result",
+        "source-layer restriction"
+      ],
+      "not_inferred": "No zero attempt count is derived from absent rows or from an SAP. No claim of reading a main article absent from that inventory.",
+      "position_id": "POS-02df2a01f9775ec22ca5",
+      "review_type": "Current exact109 assessor evidence plus technical reinspection of source identity/index/planning distinction.",
+      "source_reported_facts": "The B1 supplied clinical item is the REMODEL supplement. Its observed tables concern molecular/renal results and the embedded protocol/SAP defines safety sets and AE periods. Both current assessors record no observed own-arm attempt numerator in that B1 scope.",
+      "trial": "REMODEL",
+      "under_fixed_audit_specification": "This B1 attempt position is a closed-scope non-complete finding for the supplied, examined source union. The registry attempt information mentioned in the review is admissible at later layers and cannot be imported into B1.",
+      "under_source_reported_specification": "Safety monitoring/planned analyses can be described from the protocol/SAP, but they are not observed attempt counts.",
+      "unit_id": "NCT04865770:CANDIDATE_BLOCK"
+    },
+    {
+      "comparison_changes": "Restricting the contrast or accepting pooled summaries changes the scientific reference; original-arm completeness and full source examination are separate gates.",
+      "component": "ideation/adverse-event and attempt/structured positions in B1/B2",
+      "evidence": [
+        {
+          "local_artifact_exists_and_sha_verified": true,
+          "locator": "eTable7 PDF pp13-17: separate participants, baseline/postbaseline, visits and footnotes; eTable8 PDF pp20-21: full columns and counting-unit footnote.",
+          "public_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11372653/",
+          "sha256": "23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c",
+          "source_id": "SRC-23e891d47a17c21baa1211bf"
+        },
+        {
+          "local_artifact_exists_and_sha_verified": true,
+          "locator": "Methods: psychiatric assessments and schedule; STEP 5 C-SSRS visits through week 104. Table 3 postbaseline rows and full footnote: observed respondents 152/146 and participants with ideation 1/2.",
+          "public_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11372653/",
+          "sha256": "4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9",
+          "source_id": "SRC-4715d6e6be70bf9015ab4907"
+        }
+      ],
+      "mechanisms": [
+        "pooled results",
+        "missing original eligible arm",
+        "source examination incompleteness"
+      ],
+      "not_inferred": "No pooled outcome allocation across trials, no invented 1.0 mg counts, and no unknown-to-negative conversion.",
+      "position_ids": [
+        "POS-12c8fdd22b8ec1ff8adc",
+        "POS-3465307deb95a5ca4de2",
+        "POS-afd126533d24507aa43b"
+      ],
+      "review_type": "Exact109 returned assessor evidence; source-specific codes remain discordant as returned.",
+      "source_reported_facts": "The original contrast has semaglutide 2.4 mg, 1.0 mg and placebo. The psychiatric reports pool STEP 1-3 for 2.4 mg/placebo; some STEP 2 participants are identifiable, but the original 1.0 mg arm is not reconstructed. Current R2 records pertinent results still needing examination.",
+      "trial": "STEP 2",
+      "under_fixed_audit_specification": "That subset does not reconstruct every original eligible arm. Where pertinent material remains unexamined, the cumulative state is unknown rather than proven absence.",
+      "under_source_reported_specification": "The restricted 2.4 mg/placebo pooled report or listed individuals can be described for that reported subset.",
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK"
+    }
+  ],
+  "date": "2026-11-05",
+  "frozen_analysis_changed": false,
+  "limits": [
+    "These are source-verified comparative examples, not a new corpus-wide alternative-reference analysis.",
+    "Source-defined useful reporting is not automatically complete for either the fixed audit reference or an alternative reference unless all required dimensions are demonstrated.",
+    "Current technical source reinspection is labelled as such and is not described as an additional independent human review."
+  ],
+  "quantitative_alternative_reference_analysis_performed": false,
+  "schema": "current-source-specification-comparison-examples-v1"
+}

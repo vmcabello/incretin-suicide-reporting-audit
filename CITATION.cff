@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "Cite this versioned public data and analysis-code support release; this is not a manuscript or preprint."
 type: dataset
 title: "Incretin therapy suicide-related outcome reporting audit: data and code"
-version: 1.5.0
-date-released: 2026-11-05
+version: 1.6.0
+date-released: 2026-11-06
 authors:
   - family-names: "Santos"
     given-names: "Vitor Motta Cabello dos"
@@ -12,6 +12,6 @@ authors:
     given-names: "Guilherme"
     orcid: "https://orcid.org/0009-0007-5415-0572"
 repository-code: "https://github.com/vmcabello/incretin-suicide-reporting-audit"
-url: "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.5.0"
+url: "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.6.0"
 license: "CC-BY-4.0"
-abstract: "Versioned additive support for an exploratory documentary audit of a fixed historical corpus. Corrected R2 ratings and separate internal assessments, as declared by the authors, are preserved before AI-assisted technical conciliation. Earlier exports, results and protocols remain byte-exact historical snapshots. Agreement is not an accuracy estimate or external validation; no clinical treatment effect or complete source validation is claimed."
+abstract: "Author-approved current documentary analysis after targeted117-dossier source checking and exact456-position B3 integration. Earlier versions and differing internal review procedures remain identified. Substantive AI preparation and author-declared source checking are disclosed. Few reconstructions are confirmed, with broad conditional uncertainty. This fixed historical corpus does not estimate clinical suicide risk or validate every historical negative."

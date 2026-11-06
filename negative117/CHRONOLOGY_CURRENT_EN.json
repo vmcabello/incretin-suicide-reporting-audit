@@ -1,0 +1,21 @@
+{
+  "events": [
+    {
+      "date": "2026-11-06",
+      "new_human_votes_inferred": false,
+      "type": "targeted117_returns_and_author_procedure_clarification"
+    },
+    {
+      "date": "2026-11-06",
+      "new_clinical_counts": false,
+      "type": "NEG117_456_exact_B3_positions_integrated_and_independently_reproduced"
+    },
+    {
+      "date": "2026-11-06",
+      "journal_submission_sent": false,
+      "type": "both_authors_approved_current_recalculated_version_and_submission_as_reported"
+    }
+  ],
+  "historical_prefix": "corpus/PROTOCOL_AMENDMENT_CHRONOLOGY_EN.json",
+  "historical_prefix_sha256": "752f95ff88fcc795555bec0a04fac07145683664e182d16c2884fd0f3119c2de"
+}

@@ -1,5 +1,5 @@
 {
-  "version": "v1.5.0",
+  "version": "v1.6.0",
   "files": [
     {
       "path": ".gitattributes",
@@ -18,8 +18,8 @@
     },
     {
       "path": "CITATION.cff",
-      "bytes": 1158,
-      "sha256": "67410c0d28e1ada0bcb20239cd02c2c84f02fd129176b1c47849e8f24592593b"
+      "bytes": 1170,
+      "sha256": "f4ffe762e3d77a92156904952343042b8c3d75efbe8d25c1bd3ae4585dd2457b"
     },
     {
       "path": "corpus/ARTICLE_INFORMATION.json",
@@ -203,8 +203,8 @@
     },
     {
       "path": "CURRENT_STATUS_INDEX.json",
-      "bytes": 5567,
-      "sha256": "d60ef2c30a3a1c31903621331da76f6b00d4cdedfa6ce1098edeed163ac89cd8"
+      "bytes": 2695,
+      "sha256": "d2da427ccbf77c27e6259a818d241b68832107b0c9afce41f8b6d15070cdac0a"
     },
     {
       "path": "DATA_DICTIONARY.md",
@@ -297,14 +297,124 @@
       "sha256": "d34dec4ab5e774f56411ee631c4ec046ec763f7c55d24d06e84619a8d8c6c7a3"
     },
     {
+      "path": "negative117/AI_USAGE_CURRENT_ROUND_EN.json",
+      "bytes": 1107,
+      "sha256": "32846886bd5d105b9e6d339c2e52392e7933e45b0c75781694212167ad9f6af7"
+    },
+    {
+      "path": "negative117/AUTHOR_PROCEDURE_AND_APPROVAL_EN.json",
+      "bytes": 1003,
+      "sha256": "b8c0ad0aaad545bf10fce276cbf892aa6dc18f61f8c9e244105ee9f9f76b07f6"
+    },
+    {
+      "path": "negative117/CHRONOLOGY_CURRENT_EN.json",
+      "bytes": 681,
+      "sha256": "d25ab463e961526e535e0017e6c2fae8a253c0a3d2065e7658b32a88b46190c5"
+    },
+    {
+      "path": "negative117/DATA_DICTIONARY_NEG117_EN.json",
+      "bytes": 1442,
+      "sha256": "64e5d51968878a387e6ba382a480ccaa34b023c763cc7b87db2f5e26be55e75b"
+    },
+    {
+      "path": "negative117/evidence_context/COMPARISON_EBRAHIMI_CURRENT_EN.json",
+      "bytes": 193246,
+      "sha256": "78a08906da95f6d3a69faf851e0ca385ffbac7ffcb714093bab573c90757b70a"
+    },
+    {
+      "path": "negative117/evidence_context/COMPATIBLE_REFERENCE_EXAMPLES_EN.json",
+      "bytes": 15542,
+      "sha256": "4dd89d37e31d1ed030c16e7e911437184633a353d2633b0bb7e6d92a4b14e21a"
+    },
+    {
+      "path": "negative117/evidence_context/CURRENT_EXACT_MECHANISMS_109.json",
+      "bytes": 1110831,
+      "sha256": "55154bad30cb020bfc0d297e9519849fc1342835f903e9cdd05e5ad612254acf"
+    },
+    {
+      "path": "negative117/evidence_context/CURRENT_MECHANISM_RULES_EN.json",
+      "bytes": 3173,
+      "sha256": "9fcdd30fb1378d43af0f3a3b3aa401133d3373196ea1d6197d510f353f2771bc"
+    },
+    {
+      "path": "negative117/evidence_context/FOCAL_COMPARISON_EN.csv",
+      "bytes": 4153,
+      "sha256": "c532a2604694c9944d913f8901680cad77ea9016773859c44a6684997337b2fa"
+    },
+    {
+      "path": "negative117/evidence_context/MANUSCRIPT_READY_CURRENT_MECHANISM_TABLE_EN.json",
+      "bytes": 2154,
+      "sha256": "32e5ba935cc2562e9f52fa4b435279519b967ec0e36fe8b35c500d3c8e825894"
+    },
+    {
+      "path": "negative117/evidence_context/SHARED_TRIAL_IDENTITY_CROSSWALK_EN.csv",
+      "bytes": 9847,
+      "sha256": "91c3eb2c5c3bfa064f156075819aafa3f363e632105753dab46ce14fd9ebced7"
+    },
+    {
+      "path": "negative117/EVIDENCE_IDENTIFIERS_596.json",
+      "bytes": 545260,
+      "sha256": "6f58e76f4a63789120b65900f1afa8a3c2d771117fe60a6a5dd42f1f88dc768e"
+    },
+    {
+      "path": "negative117/EXACT_B3_OVERLAY_456.json",
+      "bytes": 8972540,
+      "sha256": "2f5f9ada71589c7cf8f62c03547f2b0c2ffb30c9a6d642b7ba55a74009ab196b"
+    },
+    {
+      "path": "negative117/expected/CURRENT_RESULTS.json",
+      "bytes": 296077,
+      "sha256": "1dc472500d6c99db9ad1d413fe147eb3750bd01b29589097ee69899dacf1ae4d"
+    },
+    {
+      "path": "negative117/expected/WITHOUT_PRIOR_FORWARD_PROPAGATION_RESULTS.json",
+      "bytes": 284394,
+      "sha256": "bb303f8cbba607713d166baebc3e2ed88f1e50b50b63e6ce760b2e0d8800d54e"
+    },
+    {
+      "path": "negative117/PROTOCOL_UNIFIED_NEGATIVE_REVIEW_V4.json",
+      "bytes": 16902,
+      "sha256": "de303970616ddce3701b137c7e2b76ada31e4de3743c3bb4bf974feea1e5e185"
+    },
+    {
+      "path": "negative117/PUBLIC_PROJECTION_PROVENANCE.json",
+      "bytes": 1309,
+      "sha256": "e00ad13565c36a4210f8b47b44f6a7cb32a544651545f79da3e6929dcc658c85"
+    },
+    {
+      "path": "negative117/README_EN.txt",
+      "bytes": 3395,
+      "sha256": "100e49aa4c20af188d1dc7f9c558ba873455ad4519e0bbce67157b521eef4e76"
+    },
+    {
+      "path": "negative117/README_V150_ROOT_HISTORICAL.md",
+      "bytes": 9126,
+      "sha256": "c6f66675c5041034ae3d8bcaf10c4a4fea5ddf6022e62aae4f4908760829b56f"
+    },
+    {
+      "path": "negative117/RELEASE_METADATA_V150_FROZEN.json",
+      "bytes": 3909,
+      "sha256": "4b960a75e2df29f4ecc48c1980777544db764e516cf70b678b79841b58dc8a2e"
+    },
+    {
+      "path": "negative117/reproduce_neg117.py",
+      "bytes": 5164,
+      "sha256": "920d53c4d7082e893f11f4edfe7f7ba6722bf7745647e4e5b92e66bc08660cd9"
+    },
+    {
+      "path": "ONLINE_RESOURCE_METADATA_EN.txt",
+      "bytes": 728,
+      "sha256": "4a9043899d9fdcb675120d1ce7bb777b62790a1d88e0001b217751ff89d6d6fb"
+    },
+    {
       "path": "PUBLIC_PROJECTION_PROVENANCE.json",
       "bytes": 5226,
       "sha256": "b2e101d244e1781b9541118ec69b7ab2ddad9476a03111f69b1ff1c7be745b5c"
     },
     {
       "path": "README.md",
-      "bytes": 9126,
-      "sha256": "c6f66675c5041034ae3d8bcaf10c4a4fea5ddf6022e62aae4f4908760829b56f"
+      "bytes": 2951,
+      "sha256": "be4e9d813a7c3be57e83a71924652185e36275005d2b3cd33a97f97b0d61ccb5"
     },
     {
       "path": "reason_inventory/ALTERNATIVE_REFERENCE_PILOT_FEASIBILITY.json",
@@ -438,11 +548,16 @@
     },
     {
       "path": "RELEASE_METADATA.json",
-      "bytes": 3909,
-      "sha256": "a02840d4f91492fd626a02ba1c390a9f67a23352ea08a48c8d7dd034b9dc05de"
+      "bytes": 2288,
+      "sha256": "43e4cc3a366f66d6e02621abb5bd84e65d647b06f04735b57cdaac883b9607ee"
     },
     {
       "path": "reproduce.py",
+      "bytes": 979,
+      "sha256": "99bb4aa40ce293d5370cda195c7315497f3060d7c39499469e18a22479525494"
+    },
+    {
+      "path": "reproduce_v1_5_0.py",
       "bytes": 12694,
       "sha256": "c54931d5553d92815f39d70b32731837c23244ba459bce1bff65383469b583ee"
     },

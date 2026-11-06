@@ -1,0 +1,42 @@
+{
+  "global_codebook_application": "This revision exports existing evidence and defines prospective recoding rules. It does not certify new exhaustive reading of all 5096 positions.",
+  "hierarchy": "Keep source-scoped observation, cumulative effective state and examination coverage as three distinct fields. Preserve raw assessor disagreement; technical proof dispositions are separately labelled.",
+  "rules": [
+    {
+      "category": "Information not presented in examined source scope",
+      "exclude": "Unexamined source; no term hit; no code; protocol planning only.",
+      "interpretation": "Limited to that source or documented examined union; does not prove non-collection.",
+      "positive_rule": "An examiner explicitly records missing_after_examination for numerator or another required dimension and provides the relevant source/section."
+    },
+    {
+      "category": "Reported population or original-arm set incompatible",
+      "exclude": "A numerical denominator difference alone without an established reason.",
+      "interpretation": "The source can report useful data while failing the fixed audit reference.",
+      "positive_rule": "An explicit incompatible subpopulation/denominator code or verified original table shows ITT versus treated, pooled trials or omission of an eligible original arm."
+    },
+    {
+      "category": "Reported window incompatible or incomplete",
+      "exclude": "Missing dates alone: classify the window as not established, not proven incompatible.",
+      "interpretation": "Source-specific reconstruction may remain possible; target reconstruction needs matching bounds.",
+      "positive_rule": "Source-defined follow-up is explicitly shorter, longer, on-treatment only or otherwise fails the target; distinguish planned observation from passive later notification."
+    },
+    {
+      "category": "Counting unit or component not separable",
+      "exclude": "Do not infer suicide attempt from any C-SSRS behavior or death from unspecified trauma.",
+      "interpretation": "Preserve numerator meaning and modality, even with the same source.",
+      "positive_rule": "Examined table reports events, persons, composite suicidality/self-harm or an unseparated structured category incompatible with the required component/person count."
+    },
+    {
+      "category": "Pertinent source not obtained or not examined",
+      "exclude": "An available file hash alone is not reading evidence.",
+      "interpretation": "Unknown effective reconstruction, unless a separate compatible positive witness is sufficient.",
+      "positive_rule": "Named source/inventory gap or explicit unknown dimension and incomplete scope is retained."
+    },
+    {
+      "category": "Sufficient exact positive witness",
+      "exclude": "A vote of complete without required source facts; pooled positive transport; guessed zero.",
+      "interpretation": "Overrides other unresolved sources only for the exact reference; underlying gaps remain recorded.",
+      "positive_rule": "Verified counts, treated arm denominators, counting unit, population and planned window for every eligible arm; derivation explicit if needed."
+    }
+  ]
+}

@@ -1,0 +1,3147 @@
+{
+  "author_process_current_source": {
+    "correction_honoured": "Both authors redid the109-position assessments from scratch,as declared by the author; subsequent technical reconciliation remained separate.",
+    "path": "outputs/fechamento_final_ejcp_v15_2026-11-05/STATUS_FINAL.json"
+  },
+  "crosswalk": [
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT00838903:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT00838903:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT00838903:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT00838903:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT00838903:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT00838903:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT00838903:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT00838903:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT00838903:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT00838903:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT00838903:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT00838903:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT00838903:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT00838903:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT00838903:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT00838903:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT00838903:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT00838903:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT00838903:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT00838903:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT00838903:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT00838903",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT00838903:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT00838903:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Ahren 2014",
+      "ebrahimi_reference_number": 42,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "8ae803f03895403f1939a2458e487303e6c9726e9648826906a62bdcf495850f",
+          "source_id": "SRC-8ae803f03895403f1939a245"
+        }
+      ],
+      "identity_caveat": "DPP-4 entry; multiarm parent also has placebo",
+      "literature_locator": "Corrected Table1 and reference42; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.2337/dc14-0024",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "briefTitle": "Efficacy and Safety of Albiglutide in Treatment of Type 2 Diabetes",
+          "nctId": "NCT00838903",
+          "officialTitle": "A Randomized, Double-Blind, Placebo and Active-Controlled, Parallel-Group, Multicenter Study to Determine the Efficacy and Safety of Albiglutide When Used in Combination With Metformin Compared With Metformin Plus Sitagliptin, Metformin Plus Glimepiride, and Metformin Plus Placebo in Subjects With Type 2 Diabetes Mellitus",
+          "orgStudyIdInfo": {
+            "id": "112753"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "GlaxoSmithKline"
+          }
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "49865873fd344df94563a86cbd272f071e9f3e4ba7f9f46bdd682fc4ddf8aaec",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT00838903"
+      },
+      "trial_alias_for_identity": "HARMONY 3",
+      "trial_publication_doi": "10.2337/dc14-0024"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_parent_identity": null,
+      "current_population_stratum": null,
+      "current_roster_locator": null,
+      "current_unit_id": null,
+      "ebrahimi_label": "Ahren 2017",
+      "ebrahimi_reference_number": 43,
+      "identity_caveat": "DPP-4 entry; no retained-unit identity assigned",
+      "literature_locator": "Corrected Table1 and reference43; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "not_assigned_to_retained_182_in_this_crosswalk",
+      "primary_publication_url": "https://doi.org/10.1016/S2213-8587(17)30092-X",
+      "primary_whole_population": null,
+      "registry_identity_bridge": null,
+      "trial_alias_for_identity": "SUSTAIN 2",
+      "trial_publication_doi": "10.1016/S2213-8587(17)30092-X"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_parent_identity": null,
+      "current_population_stratum": null,
+      "current_roster_locator": null,
+      "current_unit_id": null,
+      "ebrahimi_label": "Astrup 2012",
+      "ebrahimi_reference_number": 44,
+      "identity_caveat": "No retained-unit identity assigned; do not map from drug alone",
+      "literature_locator": "Corrected Table1 and reference44; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "not_assigned_to_retained_182_in_this_crosswalk",
+      "primary_publication_url": "https://doi.org/10.1038/ijo.2011.158",
+      "primary_whole_population": null,
+      "registry_identity_bridge": null,
+      "trial_alias_for_identity": "NN8022-1807",
+      "trial_publication_doi": "10.1038/ijo.2011.158"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_parent_identity": null,
+      "current_population_stratum": null,
+      "current_roster_locator": null,
+      "current_unit_id": null,
+      "ebrahimi_label": "Athauda 2017",
+      "ebrahimi_reference_number": 45,
+      "identity_caveat": "No retained-unit identity assigned; distinct target-population question",
+      "literature_locator": "Corrected Table1 and reference45; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "not_assigned_to_retained_182_in_this_crosswalk",
+      "primary_publication_url": "https://doi.org/10.1016/S0140-6736(17)31585-4",
+      "primary_whole_population": null,
+      "registry_identity_bridge": null,
+      "trial_alias_for_identity": "Exenatide Parkinson trial",
+      "trial_publication_doi": "10.1016/S0140-6736(17)31585-4"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01557166:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01557166:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01557166:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01557166:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01557166:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01557166:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01557166:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01557166:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01557166:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01557166:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01557166:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01557166:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01557166:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01557166:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01557166:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01557166:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT01557166:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01557166:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01557166:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01557166:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01557166:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT01557166",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT01557166:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT01557166:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Blackman 2016",
+      "ebrahimi_reference_number": 46,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "72a3a10985a571fa25d0629bcd09d97c428ac4c495eb0655ef53bfc6d807b372",
+          "source_id": "SRC-72a3a10985a571fa25d0629b"
+        }
+      ],
+      "identity_caveat": "Parent identity only",
+      "literature_locator": "Corrected Table1 and reference46; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.1038/ijo.2016.52",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "briefTitle": "Effect of Liraglutide in Obese Subjects With Moderate or Severe Obstructive Sleep Apnoea: SCALE™ - Sleep Apnoea",
+          "nctId": "NCT01557166",
+          "officialTitle": "Effect of Liraglutide in Obese Subjects With Moderate or Severe Obstructive Sleep Apnoea. A 32 Week Randomised, Double-blind, Placebo-controlled, Parallel Group, Multi-centre and Multinational Trial",
+          "orgStudyIdInfo": {
+            "id": "NN8022-3970"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Novo Nordisk A/S"
+          },
+          "secondaryIdInfos": [
+            {
+              "domain": "WHO",
+              "id": "U1111-1126-6260",
+              "type": "OTHER"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "19c22aeb6391742176e70f261f8ebbe57e4213f0f4ebc7dafef5decca50f09b4",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT01557166"
+      },
+      "trial_alias_for_identity": "SCALE Sleep Apnea",
+      "trial_publication_doi": "10.1038/ijo.2016.52"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT00765817:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT00765817:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT00765817:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT00765817:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT00765817:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT00765817:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT00765817:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT00765817:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT00765817:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT00765817:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT00765817:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT00765817:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT00765817:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT00765817:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT00765817:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT00765817:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT00765817:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT00765817:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT00765817:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT00765817:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT00765817:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT00765817",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT00765817:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT00765817:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Buse 2011",
+      "ebrahimi_reference_number": 47,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "d96864efd4f92365887bdf1d2143b62178482f41334a959ff181d85513b79429",
+          "source_id": "SRC-d96864efd4f92365887bdf1d"
+        }
+      ],
+      "identity_caveat": "Parent identity only",
+      "literature_locator": "Corrected Table1 and reference47; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.7326/0003-4819-154-2-201101180-00300",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "briefTitle": "Addition Of Exenatide To Insulin Glargine In Type 2 Diabetes Mellitus",
+          "nctId": "NCT00765817",
+          "officialTitle": "A Randomized Trial Comparing Exenatide With Placebo in Subjects With Type 2 Diabetes on Insulin Glargine With or Without Oral Antihyperglycemic Medications",
+          "orgStudyIdInfo": {
+            "id": "H8O-US-GWCO"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "AstraZeneca"
+          }
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "33153213850d2c5fb61d019f96c258a329fa36f12cea5a4d102166445a926ee5",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT00765817"
+      },
+      "trial_alias_for_identity": "H8O-US-GWCO",
+      "trial_publication_doi": "10.7326/0003-4819-154-2-201101180-00300"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01272232:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01272232:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272232:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01272232:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01272232:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272232:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01272232:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01272232:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272232:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01272232:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01272232:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272232:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01272232:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01272232:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272232:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01272232:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT01272232:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272232:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01272232:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01272232:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272232:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT01272232",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT01272232:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT01272232:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Davies 2015",
+      "ebrahimi_reference_number": 48,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "985cc062e3f607b0466f8f2900178cc1ff129bfaaaca5099138f94d32afe104e",
+          "source_id": "SRC-985cc062e3f607b0466f8f29"
+        }
+      ],
+      "identity_caveat": "Dose pooling / arm compatibility not inferred",
+      "literature_locator": "Corrected Table1 and reference48; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.1001/jama.2015.9676",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "briefTitle": "Effect of Liraglutide on Body Weight in Overweight or Obese Subjects With Type 2 Diabetes: SCALE™ - Diabetes",
+          "nctId": "NCT01272232",
+          "officialTitle": "Effect of Liraglutide on Body Weight in Overweight or Obese Subjects With Type 2 Diabetes: A 56 Week Randomised, Double-blind, Placebo-controlled, Three Armed Parallel Group, Multi-centre, Multinational Trial With a 12 Week Observational Follow-up Period",
+          "orgStudyIdInfo": {
+            "id": "NN8022-1922"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Novo Nordisk A/S"
+          },
+          "secondaryIdInfos": [
+            {
+              "id": "2008-002199-88",
+              "type": "EUDRACT_NUMBER"
+            },
+            {
+              "domain": "WHO",
+              "id": "U1111-1118-7963",
+              "type": "OTHER"
+            },
+            {
+              "id": "2008",
+              "link": "https://reporter.nih.gov/quickSearch/2008",
+              "type": "NIH"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "f5415b0812982f04f7f4068f4173bd18289273a5b23f392a05b964672af07644",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT01272232"
+      },
+      "trial_alias_for_identity": "SCALE Diabetes",
+      "trial_publication_doi": "10.1001/jama.2015.9676"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT03552757:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03552757:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03552757:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT03552757:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03552757:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03552757:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT03552757:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03552757:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03552757:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT03552757:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03552757:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03552757:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03552757:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03552757:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03552757:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03552757:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT03552757:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03552757:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03552757:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03552757:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03552757:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT03552757",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT03552757:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Davies 2021",
+      "ebrahimi_reference_number": 49,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "eda2a390e2af89ae45e3c4406e74a04c933d36cc789c2d3869593675426173af",
+          "source_id": "SRC-eda2a390e2af89ae45e3c440"
+        }
+      ],
+      "identity_caveat": "Three original arms; secondary 2.4-mg analysis differs",
+      "literature_locator": "Corrected Table1 and reference49; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.1016/S0140-6736(21)00213-0",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "acronym": "STEP 2",
+          "briefTitle": "Research Study Investigating How Well Semaglutide Works in People With Type 2 Diabetes Suffering From Overweight or Obesity",
+          "nctId": "NCT03552757",
+          "officialTitle": "Effect and Safety of Semaglutide 2.4 mg Once-weekly in Subjects With Overweight or Obesity and Type 2 Diabetes",
+          "orgStudyIdInfo": {
+            "id": "NN9536-4374"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Novo Nordisk A/S"
+          },
+          "secondaryIdInfos": [
+            {
+              "domain": "World Health Organization (WHO)",
+              "id": "U1111-1200-8148",
+              "type": "OTHER"
+            },
+            {
+              "domain": "European Medicines Agency (EudraCT)",
+              "id": "2017-003414-10",
+              "type": "OTHER"
+            },
+            {
+              "id": "2017",
+              "link": "https://reporter.nih.gov/quickSearch/2017",
+              "type": "NIH"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "d64056e00eba009b8422b5bd51285fdcc7002142f4fb2f8e5fbf53958da1f89b",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT03552757"
+      },
+      "trial_alias_for_identity": "STEP 2",
+      "trial_publication_doi": "10.1016/S0140-6736(21)00213-0"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT03353350:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03353350:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03353350:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT03353350:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03353350:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT03353350:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT03353350:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03353350:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT03353350:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT03353350:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03353350:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT03353350:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03353350:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03353350:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT03353350:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03353350:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT03353350:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03353350:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03353350:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03353350:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT03353350:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT03353350",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT03353350:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT03353350:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Frias 2022",
+      "ebrahimi_reference_number": 50,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "0c5c858e87c4708fd575d9bd949b7fd212e80439de1577c0df58cf4fd43bba38",
+          "source_id": "SRC-0c5c858e87c4708fd575d9bd"
+        }
+      ],
+      "identity_caveat": "Parent identity only",
+      "literature_locator": "Corrected Table1 and reference50; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.2337/dc21-2656",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "acronym": "AMPLITUDE-M",
+          "briefTitle": "Efficacy and Safety of Efpeglenatide Versus Placebo in Patients With Type 2 Diabetes Mellitus Inadequately Controlled With Diet and Exercise",
+          "nctId": "NCT03353350",
+          "officialTitle": "A 56-week, Multicenter, Double-blind, Placebo-controlled, Randomized Study to Evaluate the Efficacy and Safety of Efpeglenatide Once Weekly in Patients With Type 2 Diabetes Mellitus Inadequately Controlled With Diet and Exercise",
+          "orgStudyIdInfo": {
+            "id": "EFC14822"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Hanmi Pharmaceutical Company Limited"
+          },
+          "secondaryIdInfos": [
+            {
+              "id": "2016-001857-42"
+            },
+            {
+              "domain": "UTN",
+              "id": "U1111-1182-1806",
+              "type": "OTHER"
+            },
+            {
+              "id": "2016",
+              "link": "https://reporter.nih.gov/quickSearch/2016",
+              "type": "NIH"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "42d8d39d83d6c082665b53fe8cc3fa73c149340c7a2ff1e8a38fb1f337a96674",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT03353350"
+      },
+      "trial_alias_for_identity": "AMPLITUDE-M",
+      "trial_publication_doi": "10.2337/dc21-2656"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT02963922:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT02963922:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT02963922:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT02963922:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT02963922:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT02963922:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT02963922:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT02963922:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT02963922:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT02963922:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT02963922:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT02963922:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT02963922:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT02963922:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT02963922:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT02963922:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT02963922:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT02963922:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT02963922:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT02963922:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT02963922:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT02963922",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT02963922:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT02963922:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Garvey 2020",
+      "ebrahimi_reference_number": 51,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "bdd95b098c037f19dadaa93c6a5870d7a531927c1ebe2476ae60fe4398f2bd38",
+          "source_id": "SRC-bdd95b098c037f19dadaa93c"
+        }
+      ],
+      "identity_caveat": "Parent identity only",
+      "literature_locator": "Corrected Table1 and reference51; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.2337/dc19-1745",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "acronym": "SCALE™ Insulin",
+          "briefTitle": "Effect and Safety of Liraglutide 3.0 mg in Subjects With Overweight or Obesity and Type 2 Diabetes Mellitus Treated With Basal Insulin",
+          "nctId": "NCT02963922",
+          "officialTitle": "Effect and Safety of Liraglutide 3.0 mg in Subjects With Overweight or Obesity and Type 2 Diabetes Mellitus Treated With Basal Insulin",
+          "orgStudyIdInfo": {
+            "id": "NN8022-4272"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Novo Nordisk A/S"
+          },
+          "secondaryIdInfos": [
+            {
+              "domain": "World Health Organization (WHO)",
+              "id": "U1111-1177-4903",
+              "type": "OTHER"
+            },
+            {
+              "id": "2015-005619-33",
+              "type": "EUDRACT_NUMBER"
+            },
+            {
+              "id": "2015",
+              "link": "https://reporter.nih.gov/quickSearch/2015",
+              "type": "NIH"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "4e2883b8e10256472e85499c725e8edfeb7a08036c7d93ad76619d3f0d42e602",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT02963922"
+      },
+      "trial_alias_for_identity": "SCALE Insulin",
+      "trial_publication_doi": "10.2337/dc19-1745"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT03693430:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03693430:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "complete_direct",
+          "window_id": "NCT03693430:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT03693430:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03693430:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03693430:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT03693430:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03693430:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "complete_direct",
+          "window_id": "NCT03693430:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT03693430:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03693430:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03693430:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03693430:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03693430:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT03693430:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03693430:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT03693430:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03693430:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03693430:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03693430:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT03693430:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT03693430",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT03693430:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Garvey 2022",
+      "ebrahimi_reference_number": 33,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "efddb11ec3161e8295aa8245d9b2fd43abca5c0e49c7797b3dd93ae1fecf4f65",
+          "source_id": "SRC-efddb11ec3161e8295aa8245"
+        }
+      ],
+      "identity_caveat": "Separate counting units examined in focal comparison",
+      "literature_locator": "Corrected Table1 and reference33; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.1038/s41591-022-02026-4",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "acronym": "STEP 5",
+          "briefTitle": "Two-year Research Study Investigating How Well Semaglutide Works in People Suffering From Overweight or Obesity",
+          "nctId": "NCT03693430",
+          "officialTitle": "Two-year Effect and Safety of Semaglutide 2.4 mg Once-weekly in Subjects With Overweight or Obesity",
+          "orgStudyIdInfo": {
+            "id": "NN9536-4378"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Novo Nordisk A/S"
+          },
+          "secondaryIdInfos": [
+            {
+              "domain": "European Medicines Agency (EudraCT)",
+              "id": "2017-003726-32",
+              "type": "REGISTRY"
+            },
+            {
+              "domain": "World Health Organization (WHO)",
+              "id": "U1111-1202-1740",
+              "type": "OTHER"
+            },
+            {
+              "id": "2017",
+              "link": "https://reporter.nih.gov/quickSearch/2017",
+              "type": "NIH"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "de8135a7cae600f053da6a559a7814f72288098be0bb17122430325b89cecc03",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT03693430"
+      },
+      "trial_alias_for_identity": "STEP 5",
+      "trial_publication_doi": "10.1038/s41591-022-02026-4"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01394952:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01394952:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01394952:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01394952:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01394952:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01394952:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01394952:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01394952:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01394952:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01394952:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01394952:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01394952:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01394952:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01394952:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01394952:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01394952:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT01394952:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01394952:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01394952:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01394952:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01394952:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT01394952",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT01394952:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT01394952:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Gerstein 2019",
+      "ebrahimi_reference_number": 52,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "6737a44c381f379d8841faa81789d158eaeca69a292b6d1a55f469f883ec26d4",
+          "source_id": "SRC-6737a44c381f379d8841faa8"
+        }
+      ],
+      "identity_caveat": "Parent identity only",
+      "literature_locator": "Corrected Table1 and reference52; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.1016/S0140-6736(19)31149-3",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "acronym": "REWIND",
+          "briefTitle": "Researching Cardiovascular Events With a Weekly Incretin in Diabetes (REWIND)",
+          "nctId": "NCT01394952",
+          "officialTitle": "The Effect of Dulaglutide on Major Cardiovascular Events in Patients With Type 2 Diabetes: Researching Cardiovascular Events With a Weekly INcretin in Diabetes (REWIND)",
+          "orgStudyIdInfo": {
+            "id": "13438"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Eli Lilly and Company"
+          },
+          "secondaryIdInfos": [
+            {
+              "domain": "Eli Lilly and Company",
+              "id": "H9X-MC-GBDJ",
+              "type": "OTHER"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "7dbccd1882aa39b291dd8ff6f0a917b71bd1043fb536f6dd073f7f89f2be956b",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT01394952"
+      },
+      "trial_alias_for_identity": "REWIND",
+      "trial_publication_doi": "10.1016/S0140-6736(19)31149-3"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT02465515:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT02465515:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT02465515:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT02465515:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT02465515:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT02465515:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT02465515:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT02465515:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT02465515:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT02465515:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT02465515:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT02465515:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT02465515:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT02465515:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT02465515:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT02465515:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT02465515:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT02465515:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT02465515:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT02465515:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT02465515:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT02465515",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT02465515:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT02465515:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Hernandez 2018",
+      "ebrahimi_reference_number": 53,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "acd58635a26a04ebc1d80b8580381484f493bf5b9929d8728522ec1a472dd700",
+          "source_id": "SRC-acd58635a26a04ebc1d80b85"
+        }
+      ],
+      "identity_caveat": "Parent identity only",
+      "literature_locator": "Corrected Table1 and reference53; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.1016/S0140-6736(18)32261-X",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "briefTitle": "Effect of Albiglutide, When Added to Standard Blood Glucose Lowering Therapies, on Major Cardiovascular Events in Subjects With Type 2 Diabetes Mellitus",
+          "nctId": "NCT02465515",
+          "officialTitle": "A Long Term, Randomised, Double Blind, Placebo-controlled Study to Determine the Effect of Albiglutide, When Added to Standard Blood Glucose Lowering Therapies, on Major Cardiovascular Events in Patients With Type 2 Diabetes Mellitus",
+          "orgStudyIdInfo": {
+            "id": "116174"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "GlaxoSmithKline"
+          },
+          "secondaryIdInfos": [
+            {
+              "id": "2014-001824-32",
+              "type": "EUDRACT_NUMBER"
+            },
+            {
+              "id": "2014",
+              "link": "https://reporter.nih.gov/quickSearch/2014",
+              "type": "NIH"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "30b79fd4e1ba79b7438640e57ba9e5ee1ca55c395222ddb5fa97fa89f05b4881",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT02465515"
+      },
+      "trial_alias_for_identity": "HARMONY Outcomes",
+      "trial_publication_doi": "10.1016/S0140-6736(18)32261-X"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01144338:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01144338:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01144338:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01144338:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01144338:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01144338:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01144338:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01144338:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01144338:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01144338:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01144338:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01144338:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01144338:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01144338:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01144338:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01144338:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT01144338:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01144338:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01144338:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01144338:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01144338:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT01144338",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT01144338:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT01144338:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Holman 2017",
+      "ebrahimi_reference_number": 54,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "locator": "protocolSection.designModule; eligibilityModule; armsInterventionsModule; statusModule; resultsSection.adverseEventsModule.eventGroups",
+          "sha256": "7968dac25400b47b46122c65223c1b272ad00671c2b705be74d2bc3e313405f6",
+          "source_id": "SRC-7968dac25400b47b46122c65"
+        },
+        {
+          "locator": "Methods: Trial design, Trial population, Randomization and trial regimen, Statistical analysis; Results: Patients and Table2 footnote*",
+          "sha256": "08be2e7d5f95d345bb0a5419c0a0adff326eed069e95b119ead4d305fcc10b61",
+          "source_id": "SRC-08be2e7d5f95d345bb0a5419"
+        }
+      ],
+      "identity_caveat": "ITT / as-treated safety / cause-of-death scopes differ",
+      "literature_locator": "Corrected Table1 and reference54; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.1056/NEJMoa1612917",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "briefTitle": "Exenatide Study of Cardiovascular Event Lowering Trial (EXSCEL): A Trial To Evaluate Cardiovascular Outcomes After Treatment With Exenatide Once Weekly In Patients With Type 2 Diabetes Mellitus",
+          "nctId": "NCT01144338",
+          "officialTitle": "Exenatide Study of Cardiovascular Event Lowering Trial (EXSCEL). A Randomized, Placebo Controlled Clinical Trial to Evaluate Cardiovascular Outcomes After Treatment With Exenatide Once Weekly in Patients With Type 2 Diabetes Mellitus.",
+          "orgStudyIdInfo": {
+            "id": "D5551C00003"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "AstraZeneca"
+          },
+          "secondaryIdInfos": [
+            {
+              "domain": "Bristol Myers Squibb",
+              "id": "MB001-002",
+              "type": "OTHER"
+            },
+            {
+              "domain": "Bristol-Myers Squibb",
+              "id": "BCB109",
+              "type": "OTHER"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "54f28118e865eca460f8784e0a2cd2b15a788ba65b8a61b986fa35e3ef0ee6b2",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT01144338"
+      },
+      "trial_alias_for_identity": "EXSCEL",
+      "trial_publication_doi": "10.1056/NEJMoa1612917"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_parent_identity": null,
+      "current_population_stratum": null,
+      "current_roster_locator": null,
+      "current_unit_id": null,
+      "ebrahimi_label": "Leiter 2021 [table label]",
+      "ebrahimi_reference_number": 55,
+      "identity_caveat": "DPP-4 entry; bibliography is 2014; no retained identity assigned",
+      "literature_locator": "Corrected Table1 and reference55; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "not_assigned_to_retained_182_in_this_crosswalk",
+      "primary_publication_url": "https://doi.org/10.2337/dc13-2855",
+      "primary_whole_population": null,
+      "registry_identity_bridge": null,
+      "trial_alias_for_identity": "HARMONY 8",
+      "trial_publication_doi": "10.2337/dc13-2855"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01272219:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01272219:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01272219:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01272219:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01272219:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01272219:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01272219:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT01272219",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT01272219:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Le Roux 2017",
+      "ebrahimi_reference_number": 41,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "4d6de3cf9621b5559e63e9fa68296b82d33058e8a3d728d8a98a3dc59fabb4bc",
+          "source_id": "SRC-4d6de3cf9621b5559e63e9fa"
+        }
+      ],
+      "identity_caveat": "Family match only: 160-week prediabetes extension is not original full cohort",
+      "literature_locator": "Corrected Table1 and reference41; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.1016/S0140-6736(17)30069-7",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "briefTitle": "Effect of Liraglutide on Body Weight in Non-diabetic Obese Subjects or Overweight Subjects With Co-morbidities: SCALE™ - Obesity and Pre-diabetes",
+          "nctId": "NCT01272219",
+          "officialTitle": "Effect of Liraglutide on Body Weight in Non-diabetic Obese Subjects or Overweight Subjects With Co-morbidities: A Randomised, Double-blind, Placebo Controlled, Parallel Group, Multi-centre, Multinational Trial With Stratification of Subject to Either 56 or 160 Weeks of Treatment Based on Pre-diabetes Status at Randomisation",
+          "orgStudyIdInfo": {
+            "id": "NN8022-1839"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Novo Nordisk A/S"
+          },
+          "secondaryIdInfos": [
+            {
+              "id": "2008-001049-24",
+              "type": "EUDRACT_NUMBER"
+            },
+            {
+              "domain": "WHO",
+              "id": "U1111-1118-7871",
+              "type": "OTHER"
+            },
+            {
+              "id": "2008",
+              "link": "https://reporter.nih.gov/quickSearch/2008",
+              "type": "NIH"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "9b3c8820955dd7b4d8dcf0abeb6d8fd00be1c4b4145ec9a79094d76a127d481d",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT01272219"
+      },
+      "trial_alias_for_identity": "SCALE Obesity and Prediabetes",
+      "trial_publication_doi": "10.1016/S0140-6736(17)30069-7"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01179048:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01179048:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01179048:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01179048:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01179048:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01179048:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01179048:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01179048:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01179048:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01179048:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01179048:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01179048:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01179048:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01179048:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01179048:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01179048:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT01179048:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01179048:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01179048:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01179048:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01179048:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT01179048",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT01179048:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT01179048:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Marso 2016",
+      "ebrahimi_reference_number": 56,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "02870a75060bc4fe926381bd6aceaa78de1df0e2908ad8362fb539e02c3d60ed",
+          "source_id": "SRC-02870a75060bc4fe926381bd"
+        }
+      ],
+      "identity_caveat": "Parent identity only",
+      "literature_locator": "Corrected Table1 and reference56; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.1056/NEJMoa1603827",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "acronym": "LEADER®",
+          "briefTitle": "Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results",
+          "nctId": "NCT01179048",
+          "officialTitle": "A Long-term, Multi-centre, International, Randomised Double-blind, Placebo-controlled Trial to Determine Liraglutide Effects on Cardiovascular Events",
+          "orgStudyIdInfo": {
+            "id": "EX2211-3748"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Novo Nordisk A/S"
+          },
+          "secondaryIdInfos": [
+            {
+              "id": "2009-012201-19",
+              "type": "EUDRACT_NUMBER"
+            },
+            {
+              "domain": "WHO",
+              "id": "U1111-1113-7090",
+              "type": "OTHER"
+            },
+            {
+              "domain": "CFDA",
+              "id": "CTR20130003",
+              "type": "OTHER"
+            },
+            {
+              "id": "2009",
+              "link": "https://reporter.nih.gov/quickSearch/2009",
+              "type": "NIH"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "224d5d94ac40be68ab2d055975a3cbd961baaca2e7aa987c15abc01fa4938de5",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT01179048"
+      },
+      "trial_alias_for_identity": "LEADER",
+      "trial_publication_doi": "10.1056/NEJMoa1603827"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01836523:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01836523:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01836523:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01836523:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01836523:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01836523:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01836523:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01836523:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01836523:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01836523:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01836523:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01836523:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01836523:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01836523:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01836523:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01836523:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT01836523:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01836523:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01836523:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01836523:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01836523:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT01836523",
+      "current_population_stratum": "eligible_subpopulation_admission",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT01836523:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT01836523:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Mathieu 2016",
+      "ebrahimi_reference_number": 57,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "e76cdb14a6d40a018a5a649d7862a97d429ba7f2c88a00d57b46de27984d0b54",
+          "source_id": "SRC-e76cdb14a6d40a018a5a649d"
+        }
+      ],
+      "identity_caveat": "Our admission is eligible subpopulation, not entire original T1D cohort",
+      "literature_locator": "Corrected Table1 and reference57; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.2337/dc16-0691",
+      "primary_whole_population": false,
+      "registry_identity_bridge": {
+        "identity": {
+          "acronym": "ADJUNCT ONE™",
+          "briefTitle": "The Efficacy and Safety of Liraglutide as Adjunct Therapy to Insulin in the Treatment of Type 1 Diabetes",
+          "nctId": "NCT01836523",
+          "officialTitle": "The Efficacy and Safety of Liraglutide as Adjunct Therapy to Insulin in the Treatment of Type 1 Diabetes. A 52-week Randomised, Treat-to-target, Placebo-controlled, Double Blinded, Parallel Group, Multinational, Multi-centre Trial",
+          "orgStudyIdInfo": {
+            "id": "NN9211-3919"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Novo Nordisk A/S"
+          },
+          "secondaryIdInfos": [
+            {
+              "id": "2012-003580-21",
+              "type": "EUDRACT_NUMBER"
+            },
+            {
+              "domain": "WHO",
+              "id": "U1111-1133-0590",
+              "type": "OTHER"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "a463a060753a386db5f0afbb106463a8572b571de4a975f30102f65d35d61026",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT01836523"
+      },
+      "trial_alias_for_identity": "ADJUNCT ONE",
+      "trial_publication_doi": "10.2337/dc16-0691"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_parent_identity": null,
+      "current_population_stratum": null,
+      "current_roster_locator": null,
+      "current_unit_id": null,
+      "ebrahimi_label": "Newsome 2021",
+      "ebrahimi_reference_number": 58,
+      "identity_caveat": "No retained-unit identity assigned; no eligibility inference",
+      "literature_locator": "Corrected Table1 and reference58; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "not_assigned_to_retained_182_in_this_crosswalk",
+      "primary_publication_url": "https://doi.org/10.1056/NEJMoa2028395",
+      "primary_whole_population": null,
+      "registry_identity_bridge": null,
+      "trial_alias_for_identity": "NN9931-4296 NASH",
+      "trial_publication_doi": "10.1056/NEJMoa2028395"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01147250:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01147250:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01147250:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01147250:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01147250:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01147250:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01147250:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01147250:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01147250:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01147250:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01147250:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01147250:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01147250:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01147250:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01147250:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01147250:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT01147250:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01147250:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01147250:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01147250:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01147250:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT01147250",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT01147250:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT01147250:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Pfeffer 2015",
+      "ebrahimi_reference_number": 59,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "c3249c69569d6ee7ab640c7812e6774e054c6966bc4298a60e8da036f30a550d",
+          "source_id": "SRC-c3249c69569d6ee7ab640c78"
+        }
+      ],
+      "identity_caveat": "Parent identity only",
+      "literature_locator": "Corrected Table1 and reference59; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.1056/NEJMoa1509225",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "acronym": "ELIXA",
+          "briefTitle": "Evaluation of Cardiovascular Outcomes in Patients With Type 2 Diabetes After Acute Coronary Syndrome During Treatment With AVE0010 (Lixisenatide)",
+          "nctId": "NCT01147250",
+          "officialTitle": "A Randomized, Double-blind, Placebo-controlled, Parallel-group, Multicenter Study to Evaluate Cardiovascular Outcomes During Treatment With Lixisenatide in Type 2 Diabetic Patients After an Acute Coronary Syndrome",
+          "orgStudyIdInfo": {
+            "id": "EFC11319"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Sanofi"
+          },
+          "secondaryIdInfos": [
+            {
+              "id": "2009-012852-26",
+              "type": "EUDRACT_NUMBER"
+            },
+            {
+              "domain": "UTN",
+              "id": "U1111-1116-5558",
+              "type": "OTHER"
+            },
+            {
+              "id": "2009",
+              "link": "https://reporter.nih.gov/quickSearch/2009",
+              "type": "NIH"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "2a408eb8dd2e42c221eb6f601a883fa61fd5709bd7a47b2a4cbc4d952083796b",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT01147250"
+      },
+      "trial_alias_for_identity": "ELIXA",
+      "trial_publication_doi": "10.1056/NEJMoa1509225"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01272219:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01272219:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01272219:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01272219:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01272219:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01272219:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01272219:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01272219:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01272219:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT01272219",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT01272219:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Pi-Sunyer 2015",
+      "ebrahimi_reference_number": 60,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "4d6de3cf9621b5559e63e9fa68296b82d33058e8a3d728d8a98a3dc59fabb4bc",
+          "source_id": "SRC-4d6de3cf9621b5559e63e9fa"
+        }
+      ],
+      "identity_caveat": "Family match only: corrected non-extension stratum is not entire trial",
+      "literature_locator": "Corrected Table1 and reference60; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.1056/NEJMoa1411892",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "briefTitle": "Effect of Liraglutide on Body Weight in Non-diabetic Obese Subjects or Overweight Subjects With Co-morbidities: SCALE™ - Obesity and Pre-diabetes",
+          "nctId": "NCT01272219",
+          "officialTitle": "Effect of Liraglutide on Body Weight in Non-diabetic Obese Subjects or Overweight Subjects With Co-morbidities: A Randomised, Double-blind, Placebo Controlled, Parallel Group, Multi-centre, Multinational Trial With Stratification of Subject to Either 56 or 160 Weeks of Treatment Based on Pre-diabetes Status at Randomisation",
+          "orgStudyIdInfo": {
+            "id": "NN8022-1839"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Novo Nordisk A/S"
+          },
+          "secondaryIdInfos": [
+            {
+              "id": "2008-001049-24",
+              "type": "EUDRACT_NUMBER"
+            },
+            {
+              "domain": "WHO",
+              "id": "U1111-1118-7871",
+              "type": "OTHER"
+            },
+            {
+              "id": "2008",
+              "link": "https://reporter.nih.gov/quickSearch/2008",
+              "type": "NIH"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "9b3c8820955dd7b4d8dcf0abeb6d8fd00be1c4b4145ec9a79094d76a127d481d",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT01272219"
+      },
+      "trial_alias_for_identity": "SCALE Obesity and Prediabetes",
+      "trial_publication_doi": "10.1056/NEJMoa1411892"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_parent_identity": null,
+      "current_population_stratum": null,
+      "current_roster_locator": null,
+      "current_unit_id": null,
+      "ebrahimi_label": "Pozzilli 2020",
+      "ebrahimi_reference_number": 61,
+      "identity_caveat": "No retained-unit identity assigned; no eligibility inference",
+      "literature_locator": "Corrected Table1 and reference61; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "not_assigned_to_retained_182_in_this_crosswalk",
+      "primary_publication_url": "https://doi.org/10.1210/clinem/dgaa149",
+      "primary_whole_population": null,
+      "registry_identity_bridge": null,
+      "trial_alias_for_identity": "Albiglutide new-onset T1D",
+      "trial_publication_doi": "10.1210/clinem/dgaa149"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT00849056:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT00849056:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT00849056:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT00849056:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT00849056:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT00849056:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT00849056:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT00849056:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT00849056:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT00849056:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT00849056:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT00849056:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT00849056:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT00849056:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT00849056:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT00849056:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT00849056:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT00849056:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT00849056:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT00849056:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT00849056:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT00849056",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT00849056:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT00849056:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Reusch 2014",
+      "ebrahimi_reference_number": 62,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "ac0221dfc582ffb66936bdffef26187d59fcdf7eb226b6b97694de93fb477067",
+          "source_id": "SRC-ac0221dfc582ffb66936bdff"
+        }
+      ],
+      "identity_caveat": "Registry pioglitazone combination study112755; not HARMONY2/112756",
+      "literature_locator": "Corrected Table1 and reference62; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.1111/dom.12382",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "briefTitle": "Safety and Efficacy of Albiglutide in Type 2 Diabetes",
+          "nctId": "NCT00849056",
+          "officialTitle": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Multicenter Study to Determine the Efficacy and Safety of Albiglutide When Used in Combination With Pioglitazone With or Without Metformin in Subjects With Type 2 Diabetes Mellitus",
+          "orgStudyIdInfo": {
+            "id": "112755"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "GlaxoSmithKline"
+          }
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "cf4f7cb1922c018e098e50104d4f7b99f38a42be16203e285f97252383676ca2",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT00849056"
+      },
+      "trial_alias_for_identity": "HARMONY 1",
+      "trial_publication_doi": "10.1111/dom.12382"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_parent_identity": null,
+      "current_population_stratum": null,
+      "current_roster_locator": null,
+      "current_unit_id": null,
+      "ebrahimi_label": "Unger 2022",
+      "ebrahimi_reference_number": 63,
+      "identity_caveat": "DPP-4 entry; no retained-unit identity assigned",
+      "literature_locator": "Corrected Table1 and reference63; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "not_assigned_to_retained_182_in_this_crosswalk",
+      "primary_publication_url": "https://doi.org/10.1111/dom.14566",
+      "primary_whole_population": null,
+      "registry_identity_bridge": null,
+      "trial_alias_for_identity": "LIRA-PRIME",
+      "trial_publication_doi": "10.1111/dom.14566"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_parent_identity": null,
+      "current_population_stratum": null,
+      "current_roster_locator": null,
+      "current_unit_id": null,
+      "ebrahimi_label": "VonHerrath 2021",
+      "ebrahimi_reference_number": 64,
+      "identity_caveat": "No retained-unit identity assigned; no eligibility inference",
+      "literature_locator": "Corrected Table1 and reference64; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "not_assigned_to_retained_182_in_this_crosswalk",
+      "primary_publication_url": "https://doi.org/10.1016/S2213-8587(21)00019-X",
+      "primary_whole_population": null,
+      "registry_identity_bridge": null,
+      "trial_alias_for_identity": "Anti-IL-21/liraglutide T1D",
+      "trial_publication_doi": "10.1016/S2213-8587(21)00019-X"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT00781937:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT00781937:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT00781937:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT00781937:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT00781937:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT00781937:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT00781937:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT00781937:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT00781937:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT00781937:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT00781937:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT00781937:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT00781937:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT00781937:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT00781937:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT00781937:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT00781937:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT00781937:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT00781937:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT00781937:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT00781937:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT00781937",
+      "current_population_stratum": "not_established",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT00781937:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT00781937:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Wadden 2013",
+      "ebrahimi_reference_number": 65,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "5817951f41f0add966e0823e3ca94697e68659cfae95996b7ad1089d86085ebf",
+          "source_id": "SRC-5817951f41f0add966e0823e"
+        }
+      ],
+      "identity_caveat": "Matched retained unit is outside the primary whole-population stratum",
+      "literature_locator": "Corrected Table1 and reference65; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.1038/ijo.2013.120",
+      "primary_whole_population": false,
+      "registry_identity_bridge": {
+        "identity": {
+          "briefTitle": "Comparison of Liraglutide Versus Placebo in Weight Loss Maintenance in Obese Subjects: SCALE - Maintenance",
+          "nctId": "NCT00781937",
+          "officialTitle": "Effect of Liraglutide on Long-term Weight Maintenance and Additional Weight Loss Induced by a 4 to 12 Week Low Calorie Diet in Obese Subjects; A 56 Week Randomised, Double-blind, Placebo Controlled, Parallel Group, Multicentre Trial With a 12 Week Follow-up Period",
+          "orgStudyIdInfo": {
+            "id": "NN8022-1923"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Novo Nordisk A/S"
+          }
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "4fbb1253b1571b98185ffc73fca8bd802683f328d10d6db1c93f134929e86f22",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT00781937"
+      },
+      "trial_alias_for_identity": "SCALE Maintenance",
+      "trial_publication_doi": "10.1038/ijo.2013.120"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT02963935:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT02963935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT02963935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT02963935:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT02963935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT02963935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT02963935:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT02963935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT02963935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT02963935:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT02963935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT02963935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT02963935:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT02963935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT02963935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT02963935:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT02963935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT02963935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT02963935:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT02963935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT02963935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT02963935",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT02963935:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT02963935:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Wadden 2020 [2019 in eTable2]",
+      "ebrahimi_reference_number": 66,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "ae94535eee89507e13ed6fdf7381cfe4a447f37a7427d9723387d331e83dfc2e",
+          "source_id": "SRC-ae94535eee89507e13ed6fdf"
+        }
+      ],
+      "identity_caveat": "Year labels differ; DOI/trial resolves identity",
+      "literature_locator": "Corrected Table1 and reference66; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.1002/oby.22726",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "acronym": "SCALE™ IBT",
+          "briefTitle": "Effect and Safety of Liraglutide 3.0 mg as an Adjunct to Intensive Behaviour Therapy for Obesity in a Non-specialist Setting",
+          "nctId": "NCT02963935",
+          "officialTitle": "Effect and Safety of Liraglutide 3.0 mg as an Adjunct to Intensive Behaviour Therapy for Obesity in a Non-specialist Setting",
+          "orgStudyIdInfo": {
+            "id": "NN8022-4274"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Novo Nordisk A/S"
+          },
+          "secondaryIdInfos": [
+            {
+              "domain": "World Health Organization (WHO)",
+              "id": "U1111-1177-5059",
+              "type": "OTHER"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "9900adc84b916cc3e89a7ebea8e3eab19dadeae18f263510bc59a50eff0f42f3",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT02963935"
+      },
+      "trial_alias_for_identity": "SCALE IBT",
+      "trial_publication_doi": "10.1002/oby.22726"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT03611582:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03611582:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03611582:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT03611582:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03611582:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03611582:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT03611582:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03611582:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03611582:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT03611582:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03611582:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03611582:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03611582:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03611582:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT03611582:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03611582:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT03611582:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03611582:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03611582:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03611582:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT03611582:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT03611582",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT03611582:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT03611582:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Wadden 2021",
+      "ebrahimi_reference_number": 67,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "bdaf55236501d463907e8f73be80d324093d2602dba7f8ec565cc5fb69092e5c",
+          "source_id": "SRC-bdaf55236501d463907e8f73"
+        }
+      ],
+      "identity_caveat": "Pooled psychiatric report not substituted for trial-specific reference",
+      "literature_locator": "Corrected Table1 and reference67; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.1001/jama.2021.1831",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "acronym": "STEP 3",
+          "briefTitle": "Research Study to Look at How Well Semaglutide is at Lowering Weight When Taken Together With an Intensive Lifestyle Program",
+          "nctId": "NCT03611582",
+          "officialTitle": "Effect and Safety of Semaglutide 2.4 mg Once-weekly as Adjunct to Intensive Behavioural Therapy in Subjects With Overweight or Obesity",
+          "orgStudyIdInfo": {
+            "id": "NN9536-4375"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Novo Nordisk A/S"
+          },
+          "secondaryIdInfos": [
+            {
+              "domain": "World Health Organization (WHO)",
+              "id": "U1111-1200-8199",
+              "type": "OTHER"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "5e9106ee9686c0557a87cf05630ff18a0007d863a1346a134e292b7e6318585c",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT03611582"
+      },
+      "trial_alias_for_identity": "STEP 3",
+      "trial_publication_doi": "10.1001/jama.2021.1831"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT03548935:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03548935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03548935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT03548935:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03548935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03548935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT03548935:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03548935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03548935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT03548935:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03548935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03548935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03548935:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03548935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "complete_derived",
+          "window_id": "NCT03548935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03548935:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT03548935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03548935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03548935:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03548935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03548935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT03548935",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT03548935:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Wilding 2018 [table label]",
+      "ebrahimi_reference_number": 68,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "eea955ece75b54d3172087a5eb3d078a432800daf4ade5c4bf08b7823fc461e5",
+          "source_id": "SRC-eea955ece75b54d3172087a5"
+        }
+      ],
+      "identity_caveat": "Reference is 2021; retain displayed label and resolve via DOI",
+      "literature_locator": "Corrected Table1 and reference68; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.1056/NEJMoa2032183",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "acronym": "STEP 1",
+          "briefTitle": "STEP 1: Research Study Investigating How Well Semaglutide Works in People Suffering From Overweight or Obesity",
+          "nctId": "NCT03548935",
+          "officialTitle": "Effect and Safety of Semaglutide 2.4 mg Once-weekly in Subjects With Overweight or Obesity",
+          "orgStudyIdInfo": {
+            "id": "NN9536-4373"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Novo Nordisk A/S"
+          },
+          "secondaryIdInfos": [
+            {
+              "domain": "World Health Organization (WHO)",
+              "id": "U1111-1200-8053",
+              "type": "OTHER"
+            },
+            {
+              "domain": "European Medicines Agency (EudraCT)",
+              "id": "2017-003436-36",
+              "type": "REGISTRY"
+            },
+            {
+              "id": "2017",
+              "link": "https://reporter.nih.gov/quickSearch/2017",
+              "type": "NIH"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "b0a7fecd568b052e2ac0cd99fa369b0683d1f1e348437598890539f3acd427d3",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT03548935"
+      },
+      "trial_alias_for_identity": "STEP 1",
+      "trial_publication_doi": "10.1056/NEJMoa2032183"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01064687:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01064687:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01064687:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT01064687:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01064687:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01064687:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01064687:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01064687:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01064687:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT01064687:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01064687:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01064687:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01064687:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT01064687:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01064687:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01064687:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT01064687:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT01064687:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT01064687:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT01064687:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT01064687:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT01064687",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT01064687:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT01064687:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Wysham 2014",
+      "ebrahimi_reference_number": 69,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "f1ba5fc19a4a34114fdbc42c6a1fb8474a4b33c903a21afbe521bc464feea3c6",
+          "source_id": "SRC-f1ba5fc19a4a34114fdbc42c"
+        }
+      ],
+      "identity_caveat": "Multiple GLP-1 arms; phase/dose pooling not silently equated",
+      "literature_locator": "Corrected Table1 and reference69; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.2337/dc13-2760",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "acronym": "AWARD-1",
+          "briefTitle": "A Study in Participants With Type 2 Diabetes Mellitus",
+          "nctId": "NCT01064687",
+          "officialTitle": "A Randomized, Placebo-Controlled Comparison of the Effects of Two Doses of LY2189265 or Exenatide on Glycemic Control in Patients With Type 2 Diabetes on Stable Doses of Metformin and Pioglitazone (AWARD-1: Assessment of Weekly Administration of LY2189265 in Diabetes-1)",
+          "orgStudyIdInfo": {
+            "id": "11373"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Eli Lilly and Company"
+          },
+          "secondaryIdInfos": [
+            {
+              "domain": "Eli Lilly and Company",
+              "id": "H9X-MC-GBDA",
+              "type": "OTHER"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "45370c4d4487e3d99756b271d925c7f134df9a7fadb8deb2ebd17bae32721293",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT01064687"
+      },
+      "trial_alias_for_identity": "AWARD-1",
+      "trial_publication_doi": "10.2337/dc13-2760"
+    },
+    {
+      "contrast_population_window_equivalence_established": false,
+      "current_B3_positions": [
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT03021187:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03021187:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03021187:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "locator": "assessments[unit_id=NCT03021187:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03021187:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT03021187:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT03021187:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03021187:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT03021187:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "locator": "assessments[unit_id=NCT03021187:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03021187:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT03021187:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03021187:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "modality": "adverse_event_reports",
+          "reference_id": "NCT03021187:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03021187:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03021187:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "modality": "reported_all_cause_mortality_derivation",
+          "reference_id": "NCT03021187:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "partial_reference",
+          "window_id": "NCT03021187:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "locator": "assessments[unit_id=NCT03021187:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "modality": "suicidality_specific_structured_assessment",
+          "reference_id": "NCT03021187:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "status": "not_reconstructible_in_examined_corpus",
+          "window_id": "NCT03021187:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "current_parent_identity": "NCT03021187",
+      "current_population_stratum": "entire_population_eligible_by_entry_criteria",
+      "current_roster_locator": "CORPUS_UNITS_182.csv[unit_id=NCT03021187:CANDIDATE_BLOCK]",
+      "current_unit_id": "NCT03021187:CANDIDATE_BLOCK",
+      "ebrahimi_label": "Zinman 2019",
+      "ebrahimi_reference_number": 70,
+      "frozen_unit_identity_evidence_refs": [
+        {
+          "exists": true,
+          "integrity_matches_declared": true,
+          "locator": "protocolSection.identificationModule/designModule/descriptionModule/armsInterventionsModule; resultsSection.participantFlowModule",
+          "sha256": "0bdf7a0d06916cf381d1710c6d94dde5983c8bd1be26b99ff0c1f1385e768edc",
+          "source_id": "SRC-0bdf7a0d06916cf381d1710c"
+        }
+      ],
+      "identity_caveat": "Dose pooling / source-collection scopes not inferred",
+      "literature_locator": "Corrected Table1 and reference70; Supplement1 eTable2 PDFp4",
+      "literature_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/",
+      "match_level": "parent_trial_identity_only",
+      "primary_publication_url": "https://doi.org/10.2337/dc19-0898",
+      "primary_whole_population": true,
+      "registry_identity_bridge": {
+        "identity": {
+          "acronym": "PIONEER 8",
+          "briefTitle": "Efficacy and Safety of Oral Semaglutide Versus Placebo in Subjects With Type 2 Diabetes Mellitus Treated With Insulin",
+          "nctId": "NCT03021187",
+          "officialTitle": "Efficacy and Safety of Oral Semaglutide Versus Placebo in Subjects With Type 2 Diabetes Mellitus Treated With Insulin. A 52-week, Randomised, Double-blind, Placebo-controlled Trial (PIONEER 8 - Insulin add-on)",
+          "orgStudyIdInfo": {
+            "id": "NN9924-4280"
+          },
+          "organization": {
+            "class": "INDUSTRY",
+            "fullName": "Novo Nordisk A/S"
+          },
+          "secondaryIdInfos": [
+            {
+              "id": "2016-000988-16",
+              "type": "EUDRACT_NUMBER"
+            },
+            {
+              "domain": "World Health Organization (WHO)",
+              "id": "U1111-1180-3637",
+              "type": "OTHER"
+            },
+            {
+              "domain": "JAPIC",
+              "id": "JapicCTI-173508",
+              "type": "OTHER"
+            },
+            {
+              "id": "2016",
+              "link": "https://reporter.nih.gov/quickSearch/2016",
+              "type": "NIH"
+            }
+          ]
+        },
+        "identity_use_only": true,
+        "locator": "protocolSection.identificationModule",
+        "outcomes_not_reclassified": true,
+        "sha256": "82f66e8833b0ea291ed39410f8fddbe58b448be1a7be45e510cb8be6cf5204b5",
+        "url": "https://clinicaltrials.gov/api/v2/studies/NCT03021187"
+      },
+      "trial_alias_for_identity": "PIONEER 8",
+      "trial_publication_doi": "10.2337/dc19-0898"
+    }
+  ],
+  "crosswalk_summary": {
+    "any_equivalent_population_window_contrast_claimed": false,
+    "displayed_entries": 31,
+    "distinct_retained_parent_matches": 22,
+    "not_assigned_entries": 8,
+    "parent_matched_entries": 23
+  },
+  "current_source_input": {
+    "path": "outputs/harmonizacao_fontes109_r2_2026-11-05/analise/CURRENT_RECONCILED_INPUT.json",
+    "positions": 5096,
+    "sha256": "13a326efae3c3111bd9b1469ef06da59e26b1cc33753e6611f5caacfe33b9f7c",
+    "units": 182
+  },
+  "focal_examples": [
+    {
+      "current_positions": [
+        {
+          "component": "suicidal_ideation",
+          "evidence_refs": [
+            "SRC-23e891d47a17c21baa1211bf#sha256=23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c;Wadden2024 secondary publication; eTable8 PDF20–21; in-trial SAS152/152, No.=people≥1event",
+            "SRC-4715d6e6be70bf9015ab4907#sha256=4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9;Wadden2024 publication identity/Methods in-trial SAS; not the STEP5 primary paper",
+            "SRC-7964eba1c9d00ee0b31b5153#records[unit_id=NCT03693430:CANDIDATE_BLOCK,component=suicidal_ideation]"
+          ],
+          "input_locator": "assessments[unit_id=NCT03693430:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "layer": "B3",
+          "modality": "adverse_event_reports",
+          "recorded_rationale": null,
+          "reference_id": "NCT03693430:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "scope_gaps": null,
+          "status": "complete_direct",
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "window_id": "NCT03693430:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "evidence_refs": [
+            "SRC-23e891d47a17c21baa1211bf#sha256=23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c;Wadden2024 secondary publication; eTable8 PDF20–21; in-trial SAS152/152, No.=people≥1event",
+            "SRC-4715d6e6be70bf9015ab4907#sha256=4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9;Wadden2024 publication identity/Methods in-trial SAS; not the STEP5 primary paper",
+            "SRC-7964eba1c9d00ee0b31b5153#records[unit_id=NCT03693430:CANDIDATE_BLOCK,component=suicide_attempt]"
+          ],
+          "input_locator": "assessments[unit_id=NCT03693430:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "layer": "B3",
+          "modality": "adverse_event_reports",
+          "recorded_rationale": null,
+          "reference_id": "NCT03693430:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "scope_gaps": null,
+          "status": "complete_direct",
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "window_id": "NCT03693430:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "example_id": "STEP5-AE",
+      "interpretation": "This is a positive source-compatible example: the audit accepts AE reconstruction instead of treating prior meta-analysis inclusion as evidence of failure.",
+      "primary_source_locator": "Wadden2024 Supplement5,eTable8,PDFpp20-21; Methods,Statistical Methods and Reporting of Neuropsychiatric AEs.",
+      "primary_source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11372653/",
+      "prior_locator": "Corrected Ebrahimi Supplement1,eFigure1,PDFp5,Garvey2022 row.",
+      "prior_reported_quantity": "AE-composite events/person-years:0/288 vs0/256.",
+      "registry_id": "NCT03693430",
+      "source_compatible_quantity": "Suicidal-ideation AE:0/152 vs0/152 people; suicide-attempt AE:0/152 vs0/152 people.",
+      "specific_limitation": "Person-years and pooled clinical-event composites are not the audit's people-with-at-least-one-component-AE numerator. The own STEP5 AE table provides the matching dosed safety denominators and in-trial plus planned follow-up scope.",
+      "trial": "STEP 5"
+    },
+    {
+      "current_positions": [
+        {
+          "component": "suicidal_ideation",
+          "evidence_refs": [
+            "SRC-004c57415274e43ef0c1e0f3#sha256=004c57415274e43ef0c1e0f33774c44afa1b2bab74826ab94e3c29dd6e06c778;Own attributable methods, result domains, safety tables, footnotes and complete registry result/outcome/AE modules; PMC9556320.xml",
+            "SRC-4715d6e6be70bf9015ab4907#sha256=4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9;Own attributable methods, result domains, safety tables, footnotes and complete registry result/outcome/AE modules; PMC11372653.xml; compatible secondary: own trial membership distinguished from pooled and overlapping participant references",
+            "SRC-efddb11ec3161e8295aa8245#sha256=efddb11ec3161e8295aa8245d9b2fd43abca5c0e49c7797b3dd93ae1fecf4f65;Own attributable methods, result domains, safety tables, footnotes and complete registry result/outcome/AE modules; NCT03693430.json",
+            "SRC-a3ea1a6185b448ae6d60a809#sha256=a3ea1a6185b448ae6d60a8090e84cdf5e982a6e0287e86261e202cbd21521567;Own attributable methods, result domains, safety tables, footnotes and complete registry result/outcome/AE modules; 41591_2022_2026_MOESM1_ESM1.pdf",
+            "SRC-dbd7d4f5a66853be6e906577#sha256=dbd7d4f5a66853be6e906577ec649615c6e069a76268d7b499f3f49281c11ee6;Own attributable methods, result domains, safety tables, footnotes and complete registry result/outcome/AE modules; 41591_2022_2026_MOESM3_ESM.pdf",
+            "SRC-23e891d47a17c21baa1211bf#sha256=23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c;Own attributable methods, result domains, safety tables, footnotes and complete registry result/outcome/AE modules; S23e891d47a17c21b.pdf; compatible secondary: own trial membership distinguished from pooled and overlapping participant references",
+            "SRC-943e538e2505e2a4ffc42122#sha256=943e538e2505e2a4ffc42122febcffcaa5dca229a7440107977a73a2db0138d1;Own attributable methods, result domains, safety tables, footnotes and complete registry result/outcome/AE modules; Prot_000.pdf",
+            "SRC-defe8ca426006bce14004f63#sha256=defe8ca426006bce14004f638b8fe353214bd23453a6a94c9aa51a96e2491ce4;Own attributable methods, result domains, safety tables, footnotes and complete registry result/outcome/AE modules; SAP_001.pdf",
+            "SRC-7e8b89568cd512d3647cbc8f#sha256=7e8b89568cd512d3647cbc8f19beb2112ec374373eb6ae35004d0ab67bd41faf;Own attributable methods, result domains, safety tables, footnotes and complete registry result/outcome/AE modules; paper.pdf"
+          ],
+          "input_locator": "assessments[unit_id=NCT03693430:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "layer": "B3",
+          "modality": "suicidality_specific_structured_assessment",
+          "recorded_rationale": null,
+          "reference_id": "NCT03693430:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "scope_gaps": null,
+          "status": "partial_reference",
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "window_id": "NCT03693430:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "example_id": "STEP5-CSSRS",
+      "interpretation": "The counting units and coverage differ. The numbers are compatible with repeated scale observations, but this comparison does not establish Ebrahimi's exact extraction rule or a clinical-effect error.",
+      "primary_source_locator": "Wadden2024 main Table3; Supplement5,eTable7B,PDFpp16-17; eTable8,PDFpp20-21; Methods questionnaire schedule.",
+      "primary_source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11372653/",
+      "prior_locator": "Corrected Ebrahimi Supplement1,eFigure5,PDFp9,Garvey2022 row.",
+      "prior_reported_quantity": "C-SSRS-inclusive composite:1/287 vs3/253 events/person-years.",
+      "registry_id": "NCT03693430",
+      "source_compatible_quantity": "C-SSRS postbaseline ideation:1/152 vs2/146 people with observed scale data. Two placebo participants contribute three positive visit records (#17 at weeks68 and84;#18 at week12).",
+      "specific_limitation": "Observed instrument recipients do not provide complete assessment for all152 dosed placebo participants and the full fixed observation period. Positive visits and unique people answer different questions; a scale zero cannot be imported from the AE table.",
+      "trial": "STEP 5"
+    },
+    {
+      "current_positions": [
+        {
+          "component": "suicidal_ideation",
+          "evidence_refs": [
+            "SRC-6f9b733543eda61db264d37c#sha256=6f9b733543eda61db264d37c580940b060ae1f7440c708e6670671b8d3eec3f0;Own NCT03548935 identity; complete registry results/AE/flow modules and reporting windows, or separately registered prospective protocol/SAP. Earlier source-bound final judgments retained; planning is not observed output.",
+            "SRC-eea955ece75b54d3172087a5#sha256=eea955ece75b54d3172087a5eb3d078a432800daf4ade5c4bf08b7823fc461e5;Own NCT03548935 identity; complete registry results/AE/flow modules and reporting windows, or separately registered prospective protocol/SAP. Earlier source-bound final judgments retained; planning is not observed output.",
+            "SRC-5758661dfc0a9fe8ae03fda3#sha256=5758661dfc0a9fe8ae03fda3ddb733a6955464d96d5583ebd04c7ed2ad4fe709;Own NCT03548935 identity; complete registry results/AE/flow modules and reporting windows, or separately registered prospective protocol/SAP. Earlier source-bound final judgments retained; planning is not observed output.",
+            "SRC-23e891d47a17c21baa1211bf#sha256=23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c;Wadden STEP psychiatric supplement eMethods PDF p3; eTable7 pp14-15 participant#7 STEP1 SB(1,2,4,5) and later week52; p17 defines SB5=death by suicide. All three table/footnote pages visually checked. No assumed correction or automatic death derived from inconsistent code.",
+            "SRC-7c231d3c278b40e3e354625b#sha256=7c231d3c278b40e3e354625b0502e8ca77ecdb82368efda2cbf357f2ed50ceed;Own STEP1 NN9536-4373 CSR cover 17Aug2020; PDF pp53-54 mental-health ascertainment; pp58-59 SAS/in-trial/on-treatment definitions; p81 missed PHQ9/CSSRS after discontinuation; pp129,133-134 and662 in-trial fatal events/EAC; pp173-179,653-655 psychiatric AEs and overlapping overdose searches; pp4100-4101 observed CSSRS/PHQ9 item9 with actual respondent references. Directed relevant sections, not all6980pages read.",
+            "SRC-742a7445824c605fae1e16f7#sha256=742a7445824c605fae1e16f7069f12d44a3c2037414215782adcf90af931b7c9;Own NCT03548935 identity; complete registry results/AE/flow modules and reporting windows, or separately registered prospective protocol/SAP. Earlier source-bound final judgments retained; planning is not observed output.",
+            "SRC-2fd4c89647b2c995ab852042#sha256=2fd4c89647b2c995ab852042a64348a96ae5b7de067180a83ed91ad4c7fde95f;Own NCT03548935 identity; complete registry results/AE/flow modules and reporting windows, or separately registered prospective protocol/SAP. Earlier source-bound final judgments retained; planning is not observed output.",
+            "SRC-4715d6e6be70bf9015ab4907#sha256=4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9;Own compatible Wadden STEP1/2/3/5 posthoc; Methods trial membership and Results suicidal behavior: STEP1 semaglutide attempt week36, ideation later, resolved at end. Not trial-specific whole-reference respondent totals for every domain, not STEP2 1mg results."
+          ],
+          "input_locator": "assessments[unit_id=NCT03548935:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "layer": "B3",
+          "modality": "suicidality_specific_structured_assessment",
+          "recorded_rationale": null,
+          "reference_id": "NCT03548935:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "scope_gaps": null,
+          "status": "partial_reference",
+          "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+          "window_id": "NCT03548935:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "evidence_refs": [
+            "SRC-eda2a390e2af89ae45e3c440#sha256=eda2a390e2af89ae45e3c4406e74a04c933d36cc789c2d3869593675426173af;Own NCT03552757 identity; complete registry results/AE/flow modules and reporting windows, or separately registered prospective protocol/SAP. Earlier source-bound final judgments retained; planning is not observed output.",
+            "SRC-91655aff8d1f877f945cd1ac#sha256=91655aff8d1f877f945cd1ac5997d5b312fb3bd6a1b28d2c54e9240a324fe1f8;Own NCT03552757 identity; complete registry results/AE/flow modules and reporting windows, or separately registered prospective protocol/SAP. Earlier source-bound final judgments retained; planning is not observed output.",
+            "SRC-acdbe377e5b800cfe896d16a#sha256=acdbe377e5b800cfe896d16a3ea90e72bb03d9c38b6100a644be0f2de612d925;Own STEP2 NN9536-4374 CSR cover 28Aug2020; PDF pp58-59 mental-health ascertainment; pp64-65 SAS and observation definitions; pp150-151 fatal-event causes/windows; pp204-207 psychiatric AEs/mental health incl1mg arm; pp3862-3863 actual CSSRS and PHQ9item9 respondents. Directed relevant sections, not all5678pages read.",
+            "SRC-4fcca9c7b0d755f72cc9bddf#sha256=4fcca9c7b0d755f72cc9bddfaee37326f81ac8df10251ee9b222a2430e5ea0e4;Own NCT03552757 identity; complete registry results/AE/flow modules and reporting windows, or separately registered prospective protocol/SAP. Earlier source-bound final judgments retained; planning is not observed output.",
+            "SRC-c30ec7689ba50519bdd6de3d#sha256=c30ec7689ba50519bdd6de3d5cdec401f289233dec4f570e4ff6e84809c4aa8a;Own NCT03552757 identity; complete registry results/AE/flow modules and reporting windows, or separately registered prospective protocol/SAP. Earlier source-bound final judgments retained; planning is not observed output.",
+            "SRC-4715d6e6be70bf9015ab4907#sha256=4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9;Own compatible Wadden STEP1/2/3/5 posthoc; Methods trial membership and Results suicidal behavior: STEP1 semaglutide attempt week36, ideation later, resolved at end. Not trial-specific whole-reference respondent totals for every domain, not STEP2 1mg results.",
+            "SRC-23e891d47a17c21baa1211bf#sha256=23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c;Wadden STEP psychiatric supplement eMethods PDF p3; eTable7 pp14-15 participant#7 STEP1 SB(1,2,4,5) and later week52; p17 defines SB5=death by suicide. All three table/footnote pages visually checked. No assumed correction or automatic death derived from inconsistent code."
+          ],
+          "input_locator": "assessments[unit_id=NCT03552757:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "layer": "B3",
+          "modality": "suicidality_specific_structured_assessment",
+          "recorded_rationale": null,
+          "reference_id": "NCT03552757:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "scope_gaps": null,
+          "status": "partial_reference",
+          "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+          "window_id": "NCT03552757:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicidal_ideation",
+          "evidence_refs": [
+            "SRC-bdaf55236501d463907e8f73#sha256=bdaf55236501d463907e8f73be80d324093d2602dba7f8ec565cc5fb69092e5c;Own attributable methods, result domains, safety tables, footnotes and complete registry result/outcome/AE modules; NCT03611582.json",
+            "SRC-762e47e62c9e7e3632d33d05#sha256=762e47e62c9e7e3632d33d053c118dcfcbd13a36d99e4b9414b88dbe7297ef02;Own attributable methods, result domains, safety tables, footnotes and complete registry result/outcome/AE modules; joi210014supp1_prod_1618250237.05292.pdf",
+            "SRC-e2360c46f4213ad0beddf217#sha256=e2360c46f4213ad0beddf217f10a7b895f70290618d54bd0ebfaef9f11a28649;Own attributable methods, result domains, safety tables, footnotes and complete registry result/outcome/AE modules; joi210014supp3_prod_1618250237.06296.pdf",
+            "SRC-23e891d47a17c21baa1211bf#sha256=23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c;Own attributable methods, result domains, safety tables, footnotes and complete registry result/outcome/AE modules; S23e891d47a17c21b.pdf; compatible secondary: own trial membership distinguished from pooled and overlapping participant references",
+            "SRC-7302e60759ea4158ea20aca8#sha256=7302e60759ea4158ea20aca83c5caa5a6da0b674ab707a6d408e9065e1fd8174;Own attributable methods, result domains, safety tables, footnotes and complete registry result/outcome/AE modules; Prot_000.pdf",
+            "SRC-a675818f68d2f81df84a3773#sha256=a675818f68d2f81df84a37734ad0c63125f0ed8b82ed39efebec3231a8cfa6ba;Own attributable methods, result domains, safety tables, footnotes and complete registry result/outcome/AE modules; SAP_001.pdf",
+            "SRC-4715d6e6be70bf9015ab4907#sha256=4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9;Own attributable methods, result domains, safety tables, footnotes and complete registry result/outcome/AE modules; PMC11372653.xml; compatible secondary: own trial membership distinguished from pooled and overlapping participant references"
+          ],
+          "input_locator": "assessments[unit_id=NCT03611582:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=suicidality_specific_structured_assessment]",
+          "layer": "B3",
+          "modality": "suicidality_specific_structured_assessment",
+          "recorded_rationale": null,
+          "reference_id": "NCT03611582:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "scope_gaps": [
+            {
+              "origin_position_id": "POS-6dcf870a359f1e4dbea0",
+              "origin_stage": "B2",
+              "reported_unresolved_source_ids_union": [
+                "SRC-7302e60759ea4158ea20aca8",
+                "SRC-762e47e62c9e7e3632d33d05",
+                "SRC-a675818f68d2f81df84a3773",
+                "SRC-e2360c46f4213ad0beddf217"
+              ],
+              "technical_deduction_not_a_new_human_vote": true
+            }
+          ],
+          "status": "partial_reference",
+          "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+          "window_id": "NCT03611582:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "example_id": "STEP1-3-CSSRS",
+      "interpretation": "Publicly reported psychiatric information can support an aggregate clinical synthesis without completing this audit's original arm-by-arm,trial-specific,dosed-reference question.",
+      "primary_source_locator": "Wadden2024 main Table3; Supplement5,eTable7B,PDFpp14-16; Statistical Methods,pooling STEP1-3 and excluding STEP2 1.0mg arm.",
+      "primary_source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11372653/",
+      "prior_locator": "Corrected Ebrahimi Supplement1,eFigure5,PDFp9,Wilding2018/Davies2021/Wadden2021 rows.",
+      "prior_reported_quantity": "eFigure5 lines:STEP1,10/1703 vs11/849; STEP2,5/1052 vs4/525; STEP3,0/531 vs2/266 (events/person-years).",
+      "registry_id": "NCT03548935;NCT03552757;NCT03611582",
+      "source_compatible_quantity": "The psychiatric source reports pooled STEP1-3 C-SSRS denominators2066/1228 and8/7 postbaseline-ideation people. eTable7B identifies trial-specific people:STEP1 6/4,STEP2 2/1,STEP3 0/2; it does not provide the corresponding per-trial scale denominators.",
+      "specific_limitation": "The available pooled denominator cannot be silently split across trials or substituted by randomized counts. STEP2 also has an original1.0mg arm absent from the pooled psychiatric analysis. Retained partial statuses also preserve pertinent source-examination gaps; this focal table does not claim those gaps were closed.",
+      "trial": "STEP 1,2,3"
+    },
+    {
+      "current_positions": [
+        {
+          "component": "suicidal_ideation",
+          "evidence_refs": [
+            "SRC-08be2e7d5f95d345bb0a5419#sha256=08be2e7d5f95d345bb0a5419c0a0adff326eed069e95b119ead4d305fcc10b61;Methods: Trial design, Trial population, Randomization and trial regimen, Statistical analysis; Results: Patients and Table2 footnote*",
+            "SRC-df91cb4fa3fa0223497f3b82#sha256=df91cb4fa3fa0223497f3b828b3c2645f75a8a82d41b91b7e6f96b7e02f08a16;FigureS2 participant flow; TableS4 PDF42,printed41",
+            "SRC-1f1cc3ae9bc9640d673fda65#sha256=1f1cc3ae9bc9640d673fda6538397a3b827e61da6cd3ce33fd6093188717c459;sections2.1.1/2.1.3 PDF15; sections3.2 PDF18;4.6/4.6.1 PDF30–31",
+            "SRC-0723bce4b3c243f4e928519f#sha256=0723bce4b3c243f4e928519fcae71945dd4c3bf8ec897801e21ee89ec3c907af;own EXSCEL protocol, eligibility/design and safety sections; no result counts inferred from plans",
+            "SRC-7968dac25400b47b46122c65#sha256=7968dac25400b47b46122c65223c1b272ad00671c2b705be74d2bc3e313405f6;protocolSection.designModule; eligibilityModule; armsInterventionsModule; statusModule; resultsSection.adverseEventsModule.eventGroups",
+            "SRC-c1e09272acd17d3963026dc8#sha256=c1e09272acd17d3963026dc8996cdc550c8fd972756636ab0526511d9c62b125;findings; conclusion; remaining_unknown_or_not_reconstructed"
+          ],
+          "input_locator": "assessments[unit_id=NCT01144338:CANDIDATE_BLOCK,component=suicidal_ideation,stage=B3,modality=adverse_event_reports]",
+          "layer": "B3",
+          "modality": "adverse_event_reports",
+          "recorded_rationale": "Registro primário resultsSection.adverseEventsModule: somente SAEs; ideação2pessoas no ativo/1no placebo e tentativa1/2. As contagens não foram somadas a Depression suicidal, pois sobreposição individual não é conhecida. numEvents difere de numAffected; cobertura restrita a SAEs e atribuição as-treated não fecham o componente inteiro na referência. EXSCEL: artigo próprio, suplemento TableS4 e SAP separam ITT por alocação de segurança por tratamento recebido. TableS4 relata suicídio classificado0/1 no ITT7356/7396, com causas de morte desconhecidas110/142. Os N7344/7372 do registro são de segurança/as-treated; não foram substituídos no ITT nem tomados como referência original doseada por alocação. Uma linha de causa classificada não reconstrói todos os suicídios, e mortalidade global positiva não produz derivação de zero.",
+          "reference_id": "NCT01144338:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "scope_gaps": null,
+          "status": "partial_reference",
+          "unit_id": "NCT01144338:CANDIDATE_BLOCK",
+          "window_id": "NCT01144338:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_attempt",
+          "evidence_refs": [
+            "SRC-08be2e7d5f95d345bb0a5419#sha256=08be2e7d5f95d345bb0a5419c0a0adff326eed069e95b119ead4d305fcc10b61;Methods: Trial design, Trial population, Randomization and trial regimen, Statistical analysis; Results: Patients and Table2 footnote*",
+            "SRC-df91cb4fa3fa0223497f3b82#sha256=df91cb4fa3fa0223497f3b828b3c2645f75a8a82d41b91b7e6f96b7e02f08a16;FigureS2 participant flow; TableS4 PDF42,printed41",
+            "SRC-1f1cc3ae9bc9640d673fda65#sha256=1f1cc3ae9bc9640d673fda6538397a3b827e61da6cd3ce33fd6093188717c459;sections2.1.1/2.1.3 PDF15; sections3.2 PDF18;4.6/4.6.1 PDF30–31",
+            "SRC-0723bce4b3c243f4e928519f#sha256=0723bce4b3c243f4e928519fcae71945dd4c3bf8ec897801e21ee89ec3c907af;own EXSCEL protocol, eligibility/design and safety sections; no result counts inferred from plans",
+            "SRC-7968dac25400b47b46122c65#sha256=7968dac25400b47b46122c65223c1b272ad00671c2b705be74d2bc3e313405f6;protocolSection.designModule; eligibilityModule; armsInterventionsModule; statusModule; resultsSection.adverseEventsModule.eventGroups",
+            "SRC-c1e09272acd17d3963026dc8#sha256=c1e09272acd17d3963026dc8996cdc550c8fd972756636ab0526511d9c62b125;findings; conclusion; remaining_unknown_or_not_reconstructed"
+          ],
+          "input_locator": "assessments[unit_id=NCT01144338:CANDIDATE_BLOCK,component=suicide_attempt,stage=B3,modality=adverse_event_reports]",
+          "layer": "B3",
+          "modality": "adverse_event_reports",
+          "recorded_rationale": "Registro primário resultsSection.adverseEventsModule: somente SAEs; ideação2pessoas no ativo/1no placebo e tentativa1/2. As contagens não foram somadas a Depression suicidal, pois sobreposição individual não é conhecida. numEvents difere de numAffected; cobertura restrita a SAEs e atribuição as-treated não fecham o componente inteiro na referência. EXSCEL: artigo próprio, suplemento TableS4 e SAP separam ITT por alocação de segurança por tratamento recebido. TableS4 relata suicídio classificado0/1 no ITT7356/7396, com causas de morte desconhecidas110/142. Os N7344/7372 do registro são de segurança/as-treated; não foram substituídos no ITT nem tomados como referência original doseada por alocação. Uma linha de causa classificada não reconstrói todos os suicídios, e mortalidade global positiva não produz derivação de zero.",
+          "reference_id": "NCT01144338:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "scope_gaps": null,
+          "status": "partial_reference",
+          "unit_id": "NCT01144338:CANDIDATE_BLOCK",
+          "window_id": "NCT01144338:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "evidence_refs": [
+            "SRC-08be2e7d5f95d345bb0a5419#sha256=08be2e7d5f95d345bb0a5419c0a0adff326eed069e95b119ead4d305fcc10b61;Methods: Trial design, Trial population, Randomization and trial regimen, Statistical analysis; Results: Patients and Table2 footnote*",
+            "SRC-df91cb4fa3fa0223497f3b82#sha256=df91cb4fa3fa0223497f3b828b3c2645f75a8a82d41b91b7e6f96b7e02f08a16;FigureS2 participant flow; TableS4 PDF42,printed41",
+            "SRC-1f1cc3ae9bc9640d673fda65#sha256=1f1cc3ae9bc9640d673fda6538397a3b827e61da6cd3ce33fd6093188717c459;sections2.1.1/2.1.3 PDF15; sections3.2 PDF18;4.6/4.6.1 PDF30–31",
+            "SRC-0723bce4b3c243f4e928519f#sha256=0723bce4b3c243f4e928519fcae71945dd4c3bf8ec897801e21ee89ec3c907af;own EXSCEL protocol, eligibility/design and safety sections; no result counts inferred from plans",
+            "SRC-7968dac25400b47b46122c65#sha256=7968dac25400b47b46122c65223c1b272ad00671c2b705be74d2bc3e313405f6;protocolSection.designModule; eligibilityModule; armsInterventionsModule; statusModule; resultsSection.adverseEventsModule.eventGroups",
+            "SRC-c1e09272acd17d3963026dc8#sha256=c1e09272acd17d3963026dc8996cdc550c8fd972756636ab0526511d9c62b125;findings; conclusion; remaining_unknown_or_not_reconstructed"
+          ],
+          "input_locator": "assessments[unit_id=NCT01144338:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=adverse_event_reports]",
+          "layer": "B3",
+          "modality": "adverse_event_reports",
+          "recorded_rationale": "EXSCEL: artigo próprio, suplemento TableS4 e SAP separam ITT por alocação de segurança por tratamento recebido. TableS4 relata suicídio classificado0/1 no ITT7356/7396, com causas de morte desconhecidas110/142. Os N7344/7372 do registro são de segurança/as-treated; não foram substituídos no ITT nem tomados como referência original doseada por alocação. Uma linha de causa classificada não reconstrói todos os suicídios, e mortalidade global positiva não produz derivação de zero.",
+          "reference_id": "NCT01144338:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "scope_gaps": null,
+          "status": "partial_reference",
+          "unit_id": "NCT01144338:CANDIDATE_BLOCK",
+          "window_id": "NCT01144338:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        },
+        {
+          "component": "suicide_death",
+          "evidence_refs": [
+            "SRC-08be2e7d5f95d345bb0a5419#sha256=08be2e7d5f95d345bb0a5419c0a0adff326eed069e95b119ead4d305fcc10b61;Methods: Trial design, Trial population, Randomization and trial regimen, Statistical analysis; Results: Patients and Table2 footnote*",
+            "SRC-df91cb4fa3fa0223497f3b82#sha256=df91cb4fa3fa0223497f3b828b3c2645f75a8a82d41b91b7e6f96b7e02f08a16;FigureS2 participant flow; TableS4 PDF42,printed41",
+            "SRC-1f1cc3ae9bc9640d673fda65#sha256=1f1cc3ae9bc9640d673fda6538397a3b827e61da6cd3ce33fd6093188717c459;sections2.1.1/2.1.3 PDF15; sections3.2 PDF18;4.6/4.6.1 PDF30–31",
+            "SRC-0723bce4b3c243f4e928519f#sha256=0723bce4b3c243f4e928519fcae71945dd4c3bf8ec897801e21ee89ec3c907af;own EXSCEL protocol, eligibility/design and safety sections; no result counts inferred from plans",
+            "SRC-7968dac25400b47b46122c65#sha256=7968dac25400b47b46122c65223c1b272ad00671c2b705be74d2bc3e313405f6;protocolSection.designModule; eligibilityModule; armsInterventionsModule; statusModule; resultsSection.adverseEventsModule.eventGroups",
+            "SRC-c1e09272acd17d3963026dc8#sha256=c1e09272acd17d3963026dc8996cdc550c8fd972756636ab0526511d9c62b125;findings; conclusion; remaining_unknown_or_not_reconstructed"
+          ],
+          "input_locator": "assessments[unit_id=NCT01144338:CANDIDATE_BLOCK,component=suicide_death,stage=B3,modality=reported_all_cause_mortality_derivation]",
+          "layer": "B3",
+          "modality": "reported_all_cause_mortality_derivation",
+          "recorded_rationale": "EXSCEL: artigo próprio, suplemento TableS4 e SAP separam ITT por alocação de segurança por tratamento recebido. TableS4 relata suicídio classificado0/1 no ITT7356/7396, com causas de morte desconhecidas110/142. Os N7344/7372 do registro são de segurança/as-treated; não foram substituídos no ITT nem tomados como referência original doseada por alocação. Uma linha de causa classificada não reconstrói todos os suicídios, e mortalidade global positiva não produz derivação de zero.",
+          "reference_id": "NCT01144338:CANDIDATE_BLOCK::BASELINE_ELIGIBLE_EXPOSED_INITIAL_PARALLEL",
+          "scope_gaps": null,
+          "status": "partial_reference",
+          "unit_id": "NCT01144338:CANDIDATE_BLOCK",
+          "window_id": "NCT01144338:CANDIDATE_BLOCK::INITIAL_PARALLEL_PLUS_PLANNED_OFFTREATMENT_OBSERVATION"
+        }
+      ],
+      "example_id": "EXSCEL",
+      "interpretation": "This preserves the existence of usable reported events while distinguishing them from full fixed-reference reconstruction. Facts are reused from the frozen source-specific ledger; the parallel current mechanism audit rechecked TableS4 PDFp42. This task did not claim a fresh full review of every EXSCEL source.",
+      "parallel_primary_source_recheck": "../mecanismos_atuais/COMPATIBLE_REFERENCE_EXAMPLES_EN.json",
+      "primary_source_locator": "Holman2017 main Table2/footnote and Statistical analysis; Supplement TableS4,PDFp42; SAP sections2.1.1/2.1.3(PDF15),3.2(PDF18),4.6/4.6.1(PDF30-31); ClinicalTrials.gov resultsSection.adverseEventsModule.",
+      "primary_source_url": "https://doi.org/10.1056/NEJMoa1612917",
+      "prior_locator": "Corrected Ebrahimi Supplement1,eFigure1,PDFp5,Holman2017; main Table1.",
+      "prior_reported_quantity": "Composite events/person-years:4/17662 vs4/17751; Table1 participant counts7356/7396.",
+      "registry_id": "NCT01144338",
+      "registry_source_url": "https://clinicaltrials.gov/study/NCT01144338",
+      "source_compatible_quantity": "Source-ledger retained facts:registry SAE ideation2/1 people and attempt1/2; safety as-treated N7344/7372. Main supplement TableS4:classified suicide deaths0/1 in ITT N7356/7396,with110/142 deaths of unknown cause.",
+      "specific_limitation": "The source ledger distinguishes serious-event coverage,events versus affected people,unknown overlap with other suicide-related terms,as-treated safety versus randomized allocation,and deaths with unclassified cause. A composite4/4 does not establish complete component-specific numerator/denominator coverage.",
+      "trial": "EXSCEL"
+    }
+  ],
+  "generated_utc": "2026-11-06T01:40:29.838669+00:00",
+  "interpretation": {
+    "abstract_27_of_144": "The abstract gives27/144 for the placebo comparison. The body separates31/144 recording incidence into27placebo and4DPP4 comparisons. This is not a complete per-component,per-arm,dosed-population and observation-window audit.",
+    "data_route": "Primary article,then registry,then corresponding-author inquiry. This audit concerns public reconstructibility; the former review's author-supplied data route is not assumed publicly recoverable.",
+    "estimands": "Prior review:spectrum-composite event incidence/person-time; one person may contribute multiple events. Current audit:people with each component,by original eligible treated arm,modality and fixed planned observation.",
+    "not_comparable": "Do not compare27/144 with audit k/159 or k/182,nor interpret differences as error,underreporting prevalence or a risk difference.",
+    "novelty": "The contribution is the source-to-component-to-arm-to-reference bridge and its explicit limits; it does not claim first evidence that reporting is sparse.",
+    "systematic_recording_not_structured_scale": "Systematic recording in the review abstract is not proof of C-SSRS use or comprehensive structured ascertainment in27trials."
+  },
+  "literature_sources": [
+    {
+      "access": "corrected officialPMC HTML accessed using web tool",
+      "correction_date": "2025-07-16",
+      "doi": "10.1001/jamapsychiatry.2025.0091",
+      "locator": "Abstract Results; Results first paragraph; Self-Harm/Suicide-Related Adverse Events Data; Table1; references33,41-70",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/"
+    },
+    {
+      "access": "corrected publisher PDF already supplied locally,14pages; eTable2/eFigures1&5 visually checked",
+      "local_file_name": "yoi250005supp1_prod_1755883049.23309.pdf",
+      "locators": [
+        "eTable2,PDFp4",
+        "eFigure1,PDFp5",
+        "eFigure5,PDFp9"
+      ],
+      "public_fulltext_redistributed": false,
+      "sha256": "b0bac64cd84bc0e58f762c5f1c948f4f5e2b30df5a6028802b64316801c71e03",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923776/bin/jamapsychiatry-e250091-s001.pdf"
+    },
+    {
+      "access": "official correction text accessed",
+      "doi": "10.1001/jamapsychiatry.2025.1716",
+      "meaning": "Person-years corrected; main paper and supplement revised; authors state main interpretations unchanged.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12268519/"
+    },
+    {
+      "access": "official abstract/introductory methods paragraph accessed; full reply not newly retrieved",
+      "doi": "10.1001/jamapsychiatry.2025.1652",
+      "meaning": "Available methods paragraph specifies randomized N and median or maximal exposure. No inaccessible remainder is treated as newly read.",
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2836539"
+    },
+    {
+      "access": "officialPMC HTML accessed; local secondary-source XML and supplied Supplement5 available",
+      "doi": "10.1001/jamainternmed.2024.4346",
+      "public_fulltext_redistributed": false,
+      "supplement5_pages": 30,
+      "supplement5_sha256": "23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11372653/"
+    }
+  ],
+  "missing_documents": [
+    {
+      "document": "Supplement2 data-sharing statement",
+      "essential_to_this_comparison": false,
+      "reason": "Official link encountered browser verification; contains a data-sharing statement,not the study-level extraction ledger. No new user action needed for the demonstrated contrasts."
+    },
+    {
+      "availability": "Not identified in the examined main paper/Supplement1; eTable2 gives references,not a per-count source map. No private author dataset was requested or presumed.",
+      "document": "Ebrahimi complete144-report study-level outcome extraction/source-route ledger",
+      "essential_to_demonstrated_examples": false
+    }
+  ],
+  "new_human_votes": 0,
+  "new_meta_analysis": false,
+  "schema": "EJCP-corrected-literature-comparison-v1",
+  "scientific_classifications_changed": false,
+  "scope": "Identity crosswalk of the31 displayed Table1 entries,not a reconstruction of all144 screened-in reports and not a harmonized comparison of proportions."
+}
