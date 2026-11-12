@@ -5,7 +5,7 @@ This is Online Resource 2 data/code support for the current 28-population docume
 Run from this extracted folder with Python 3.10 or newer (standard library only):
   python reproduce.py --check
 
-This verifies the public file manifest, reproduces RESULTADOS_COMPLETOS.json byte for byte from the frozen judgments and core, and runs 28 synthetic tests. The original analysis commands remain available:
+This verifies the public file manifest, reproduces RESULTADOS_COMPLETOS.json byte for byte from the frozen judgments and core, and runs 28 synthetic tests. The portable helper restores the archived Windows CRLF output convention on POSIX after verifying that every other content byte matches; this changes no data or calculations. The original analysis commands remain available:
   python codigo/run_analysis.py --output reproduced.json
   python -m unittest discover -s codigo -p test_analysis.py -v
 

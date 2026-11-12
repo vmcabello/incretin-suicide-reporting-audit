@@ -124,7 +124,7 @@
     {
       "path": "core28/ESM2_MANIFEST.json",
       "bytes": 8185,
-      "sha256": "cfb1e2ac8aada045b0936e05583efdefed86a8de3ab245023196861dfd812b21"
+      "sha256": "9f3c77c245684ae6c17cb9064672a4ca8b3a32c9f11bde85da2028ec9e97a132"
     },
     {
       "path": "core28/evidencias/CATALOGO_FONTES_VERIFICADAS.json",
@@ -213,8 +213,8 @@
     },
     {
       "path": "core28/PUBLIC_RELEASE.json",
-      "bytes": 2519,
-      "sha256": "53aad7a57062f15e54b160970be094d7be8cb458bf43d4b12e8371e0027fb2d9"
+      "bytes": 2820,
+      "sha256": "449f9b069d24618d48d966bd6fe3877745e52db902f0e90f9fbcf6e4b1716893"
     },
     {
       "path": "core28/README.txt",
@@ -228,13 +228,13 @@
     },
     {
       "path": "core28/README_PUBLIC_RELEASE.txt",
-      "bytes": 2049,
-      "sha256": "b62a25b5781e9fb87d25f89e9ff1e91dd0af27ea1777ac6f5e173a6602d2a096"
+      "bytes": 2224,
+      "sha256": "e082a84a19904761194b8b29e474cccda507a6ad0bf973d39413d287a642734d"
     },
     {
       "path": "core28/reproduce.py",
-      "bytes": 1501,
-      "sha256": "8149a39c13a201bb6d45fb5ac6fa24a4937364bc078d81fb4ec355678d420fae"
+      "bytes": 2108,
+      "sha256": "832441230de9b60fa86a350e7b11ec854db1d3ea3e6f2b4b5b9d21f5361c1fa5"
     },
     {
       "path": "core28/RESULTADOS_COMPLETOS.json",

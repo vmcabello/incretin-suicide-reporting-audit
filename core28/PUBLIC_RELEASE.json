@@ -48,5 +48,6 @@
     "author_owned_classifications_and_documentation": "CC-BY-4.0",
     "third_party_source_material": "Rights retained by original owners"
   },
-  "historical_notes": "Analysis-stage status/next-step fields in retained files describe their creation-time state. PUBLIC_RELEASE.json and the root README identify the current public release."
+  "historical_notes": "Analysis-stage status/next-step fields in retained files describe their creation-time state. PUBLIC_RELEASE.json and the root README identify the current public release.",
+  "output_serialization": "The frozen result JSON uses Windows CRLF. The new replay helper verifies identical content bytes after CRLF/LF normalization, restores the archived CRLF convention on POSIX and then requires exact byte equality. Original analysis code and numerical results are unchanged."
 }
