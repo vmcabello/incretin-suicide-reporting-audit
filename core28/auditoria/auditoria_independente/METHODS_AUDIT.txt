@@ -1,0 +1,72 @@
+Independent AI computational/methodological audit of CORE28 frozen judgments
+Date: 2026-11-11
+Input SHA256: 9214d5de3565b49c127c4c414e02edecc88a9f15588112344a573871dbb431f7
+
+The independent count script verified the input/core hashes, unique complete
+grid of 1008 records, correspondence of analytical states and numeric indicator,
+28 separately randomized populations, 27 registry identifiers, and expected
+inapplicability of all-cause mortality derivation to ideation and attempt.
+All input files were read only. This is not a new independent human review of
+scientific source classification and does not validate each source judgment.
+
+Principal quantitative observation
+Every applicable frozen cell is complete or unknown; there are no bounded
+not-complete cells. Consequently all upper conditional identification limits
+are 100%. The data establish confirmed documentary witnesses and unresolved
+coverage. They do not establish a proportion of trials demonstrably incapable
+of reconstruction, nor that most trials are not reconstructible. Unknowns must
+remain in N; complete-case denominators would misleadingly report 100%.
+
+Main presentation
+1. Separate all four references, three components, and applicable modalities.
+2. Present absolute direct-complete, derived-complete, unknown, bounded-negative
+   counts before conditional percentages. Show NA explicitly, not as 0/28.
+3. Reference-specific any-modality unions are secondary and count each trial
+   population once. Never add modality positives, references, arm counts or
+   person/event data. Within secondary unions, C_direct means at least one
+   direct witness; C_derived is derived-only completeness, not all units having
+   any derived witness. Explain overlapping direct and derived witnesses.
+4. Report k/N to (k+u)/N as identification intervals conditional on this exact
+   finite corpus, source snapshot and coding. No sampling confidence interval,
+   p-value, effect meta-analysis, or causal source-layer interpretation is needed.
+5. Later technical closure is an AI assessment using historical ratifications,
+   not newly supplied human votes, new blinded validation, or new agreement data.
+
+Defensible sensitivities
+- Four references are alternative target definitions, not poolable replications.
+- Withhold all-cause-mortality modality and recompute the secondary union from
+  AE and structured assessments; retain in-scope unknowns and original N=28.
+- Direct-witness-only: withhold complete-derived witnesses. Because the frozen
+  file has no direct-only bounded-examination judgment, a previously complete
+  derived-only cell becomes unknown, not negative. The outcome is sufficiency of
+  the retained direct evidence, not a claim that no direct document exists.
+- Show source/program strata (6 SCALE, 15 STEP, 7 SURMOUNT) and/or omit-one-
+  program scenarios; label exploratory composition checks and do not interpret
+  program differences as drug differences or independent drug-risk estimates.
+- Optionally omit the four author-ratified population-amendment units (N=24),
+  or the two diet-run-in populations (N=26). These are scope sensitivities,
+  never claims that approved membership was invalid; retain full core as main.
+- Keep SURMOUNT-OSA GPI1 and GPI2 as separately randomized primary units. If a
+  registry-level sensitivity N=27 is desired, define 'all nested populations
+  reconstructible': complete only when both OSA populations are complete; bounded
+  noncomplete if any is bounded noncomplete; otherwise unknown. This changes
+  the estimand to registry coverage. Do not collapse by any-positive and call it
+  equivalent to trial-population completeness. No patient pooling is performed.
+
+Important limitations
+All judgments use a current cumulative documentary snapshot dated 11Nov2026.
+They cannot reconstruct dated A/B1/B2/B3 layers without source admissibility
+chronology. Historical 182/159 analyses remain a different corpus/date and must
+not be treated as before/after effects of these changes. Source-safety and
+on-treatment witnesses can differ in population, assignment and follow-up rules
+across studies and across modalities. More positives in one reference do not
+demonstrate a causal benefit of restricting follow-up or adding source types.
+
+Independent outputs
+audit_counts.py
+INDEPENDENT_COUNTS.json (36 modality strata including 8 NA strata; 12 unions;
+all positive membership and union cells)
+INDEPENDENT_SENSITIVITIES.json (five exploratory sensitivity definitions)
+
+No new reviewer case arose from the count/method check. Classification changes,
+new manuscript author approval and external publication are not inferred.

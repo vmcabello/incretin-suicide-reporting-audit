@@ -1,0 +1,15 @@
+{
+  "version": "CORE28-DOCUMENTARY-ANALYSIS-v1",
+  "status": "DOCUMENTARY_STATISTICS_AND_SENSITIVITIES_COMPLETE",
+  "input_sha256": "9214d5de3565b49c127c4c414e02edecc88a9f15588112344a573871dbb431f7",
+  "references": 4,
+  "trial_populations": 28,
+  "registry_ids": 27,
+  "source_ratings_modified": false,
+  "new_reviewer_cases": 0,
+  "prior_decisions_reused_within_scope": true,
+  "portal_changed": false,
+  "public_repository_changed": false,
+  "future_manuscript_approval_not_inferred": true,
+  "next_step": "Incorporate the verified core tables and revised interpretation into a new manuscript; retain historical comparator and limitations."
+}

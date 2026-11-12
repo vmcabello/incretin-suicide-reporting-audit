@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-11",
+  "review_type": "AI methodological and scientific-interpretation QA; not external peer review or new human source validation",
+  "disposition": "PASS_NO_SUBSTANTIVE_ISSUES",
+  "reviewed_snapshot_hashes": {
+    "COMECE_AQUI.html": "4184b9d18ef79fc64ee93ac78e3f968afffb552b2a26b164d1f54deadf750f1c",
+    "METODOS_E_RESULTADOS_EN.txt": "d4d399b10b888cec03a8512e475f65f42ffea9b8bad85426d26bb0ee7e91526b",
+    "RESULTADOS_COMPLETOS.json": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+  },
+  "source_input_sha256": "9214d5de3565b49c127c4c414e02edecc88a9f15588112344a573871dbb431f7",
+  "checks_passed": [
+    "Four references and seven applicable component/modality combinations are presented separately; any-modality unions are explicitly secondary.",
+    "Twenty-eight independently randomized populations, 27 registry identifiers and the two OSA populations are distinguished.",
+    "All 436 applicable main/secondary/sensitivity table rows satisfy complete+unknown+bounded_not_complete=N and direct_supported+requires_derivation=complete.",
+    "All 436 applicable intervals correctly retain an upper endpoint of 100%, reflecting the absence of bounded not-complete frozen classifications.",
+    "The report explicitly rejects interpreting unknowns as clinical zeros or proven documentary negatives and does not claim most trials are non-reconstructible.",
+    "Conditional identification intervals are distinguished from confidence intervals and clinical-risk estimates; selection/classification error and outside-core populations are excluded from their coverage claim.",
+    "Mortality has substantial confirmed reconstruction, predominantly derived, while ideation/attempt and structured confirmations remain limited; the narrative follows these results rather than repeating the earlier low-mortality-confirmation narrative.",
+    "Modality overlap is explained numerically: historical death AE14 plus mortality18 yields20 unique populations, not32 trials or deaths.",
+    "Derived-proof withdrawal is scenario-unknown and does not rewrite original source judgments; unknowns introduced by this restriction are separately recorded in JSON.",
+    "The no-mortality-modality sensitivity correctly retains derived adverse-event evidence and is not mislabeled direct-only.",
+    "The 24-population scenario is labeled compositional, preserves authorized core membership, and does not claim the omitted ratified cases are ineligible or that an original prospective analysis was recreated.",
+    "The 27-registry scenario names the different estimand and explicitly uses conjunction across population-specific modality unions.",
+    "Programme and reference comparisons do not claim causality, comparative clinical safety, significance or treatment effects.",
+    "Retrospective non-exhaustive selection, current documentary cutoff, source-specific windows, prior knowledge and AI technical assistance are disclosed.",
+    "Computational reproducibility is not presented as independent human validation; no new human approval or independent reading is invented.",
+    "The text is labeled a draft analytical writing aid, distinct from an approved or submitted manuscript; historical182/159 analyses remain dated comparators."
+  ],
+  "substantive_findings": [],
+  "nonblocking_editorial_notes": [],
+  "editorial_notes_resolved_on_final_recheck": [
+    {
+      "location": "COMECE_AQUI.html validation paragraph",
+      "resolution": "The validation paragraph now explicitly states that the48 main/secondary rows include8 inapplicable combinations. It also describes the positive-population identity and union-state cross-check. No result was changed."
+    },
+    {
+      "location": "COMECE_AQUI.html and METODOS_E_RESULTADOS_EN.txt",
+      "resolution": "Reviewed number spacing corrections, including6 SCALE,15 STEP, the SHA-256 label and GPI1/GPI2 wording. The result JSON hash is unchanged. These edits do not alter scientific interpretation."
+    }
+  ],
+  "limitations_of_this_qa": [
+    "This review checks the scientific interpretation and consistency of the generated reports against the frozen coding. It does not re-open all original source documents or certify each underlying documentary judgment.",
+    "The separate arithmetic implementation's96-row comparison was reported by the coordinator. This QA additionally checked identities and interval endpoints across all436 applicable reported rows; it did not claim another full independent extraction."
+  ],
+  "final_recheck_results_unchanged": true,
+  "new_human_cases": [],
+  "authoritative_inputs_or_reports_modified": false
+}

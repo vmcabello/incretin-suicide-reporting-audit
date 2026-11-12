@@ -1,0 +1,52 @@
+{
+  "version": "v2.0.0",
+  "date": "2026-11-11",
+  "title": "Public reconstructibility of suicide related outcomes in 28 liraglutide semaglutide and tirzepatide trial populations",
+  "repository": "https://github.com/vmcabello/incretin-suicide-reporting-audit",
+  "release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v2.0.0",
+  "direct_zip_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/download/v2.0.0/ESM_2.zip",
+  "kind": "Research data and analysis code",
+  "trial_populations": 28,
+  "registry_ids": 27,
+  "references": 4,
+  "applicable_positions": 784,
+  "all_frozen_scientific_files_byte_unchanged": true,
+  "frozen_file_sha256": {
+    "dados/JULGAMENTOS_CONGELADOS.json": "9214d5de3565b49c127c4c414e02edecc88a9f15588112344a573871dbb431f7",
+    "dados/NUCLEO_CONGELADO_28.json": "c6632aaca797c46a540552e56be239afb2ac1b3725dad42cae728df8e44bc36f",
+    "RESULTADOS_COMPLETOS.json": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+  },
+  "source_submission_archive_sha256": "c41a7ff3a9902a334fde408d4bfdc996906da400809959b5d0fad1a3c6ae99da",
+  "source_submission_archive_entries": 43,
+  "public_projection_omissions": [
+    {
+      "path": "manuscript_provenance/CONTENT_PM_EN.json",
+      "sha256": "f0620472527631fa7690c452e508aec1533b05bdfb5cd0eb7a3eb29227920bff",
+      "reason": "Editorial source includes full manuscript prose; excluded because this release publishes data/code rather than a manuscript preprint."
+    }
+  ],
+  "original_submission_manifest": "provenance/SUBMISSION_ESM2_MANIFEST.json",
+  "public_integrity_manifest": "ESM2_MANIFEST.json",
+  "public_additions": [
+    "README_PUBLIC_RELEASE.txt",
+    "PUBLIC_RELEASE.json",
+    "LICENSE",
+    "DATA_LICENSE.md",
+    "reproduce.py"
+  ],
+  "previous_release": "v1.6.1",
+  "historical_corpus_is_different": true,
+  "clinical_risk_estimation": false,
+  "new_ratings_generated": false,
+  "new_statistical_analysis": false,
+  "new_human_votes_created": false,
+  "doi": null,
+  "manuscript_preprint_included": false,
+  "journal_submission_performed_by_this_release": false,
+  "licences": {
+    "author_owned_code": "MIT",
+    "author_owned_classifications_and_documentation": "CC-BY-4.0",
+    "third_party_source_material": "Rights retained by original owners"
+  },
+  "historical_notes": "Analysis-stage status/next-step fields in retained files describe their creation-time state. PUBLIC_RELEASE.json and the root README identify the current public release."
+}

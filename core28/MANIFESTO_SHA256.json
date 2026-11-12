@@ -1,0 +1,189 @@
+{
+  "files": [
+    {
+      "path": "auditoria/auditoria_independente/audit_counts.py",
+      "sha256": "a677e5ba774d9466e2da9b6391e763310bd06feda993e4ce8922d261b6f09d37",
+      "bytes": 8578
+    },
+    {
+      "path": "auditoria/auditoria_independente/INDEPENDENT_COUNTS.json",
+      "sha256": "295ebb8c3046bc6297e35e215ac58410a22ff152b9d5fcee947f4bca512dad0c",
+      "bytes": 152784
+    },
+    {
+      "path": "auditoria/auditoria_independente/INDEPENDENT_SENSITIVITIES.json",
+      "sha256": "ed5b8a3e20bdf50c82a762a6bfdf43184321a8838ed801fd2896bc20557f8674",
+      "bytes": 22580
+    },
+    {
+      "path": "auditoria/auditoria_independente/METHODS_AUDIT.txt",
+      "sha256": "3e9c0d4a62245493ad1cf5e94072ac7010b1aa3a8435c2c21799ba387348b572",
+      "bytes": 4639
+    },
+    {
+      "path": "auditoria/auditoria_metodos/QA_PLANO_E_SENSIBILIDADES.json",
+      "sha256": "f501b70f29ffd433c7183d0389da719c0f9753a74cb4bdbab73dde4f42af8c9b",
+      "bytes": 9945
+    },
+    {
+      "path": "auditoria/auditoria_metodos/QA_RELATORIO_FINAL.json",
+      "sha256": "1d3257caff39ebede3287e202ef26a47ea60821cc5865a5ecae52fb7602de9aa",
+      "bytes": 4637
+    },
+    {
+      "path": "auditoria/COMPARACAO_IMPLEMENTACOES.json",
+      "sha256": "a86286ac902fb5d60c1bf526a9d993660bf27c7aecebdc910018817e032ed68a",
+      "bytes": 392
+    },
+    {
+      "path": "auditoria/QA_RENDER_HTML.json",
+      "sha256": "b2bc46864cb9f85f5f3fb727d5642c1f1918c85774f2f525f749adeda13d194f",
+      "bytes": 200
+    },
+    {
+      "path": "auditoria/TESTES_SINTETICOS.txt",
+      "sha256": "34b6aae99a8c295b5f4ff54f4f8f4232810a0bb38f26af43981c6f41e0323875",
+      "bytes": 3498
+    },
+    {
+      "path": "codigo/analysis_core.py",
+      "sha256": "22482bef2b00c27ae132610548069ced4869ff7f6801f6e49bf4898ca4f367e4",
+      "bytes": 12445
+    },
+    {
+      "path": "codigo/build_report.py",
+      "sha256": "5e2a68f0a4f225e95fdca13038f1a93cc6b561ac86cd6f07f440c802665bc0d0",
+      "bytes": 38041
+    },
+    {
+      "path": "codigo/finalize_delivery.py",
+      "sha256": "c357ff7dcc6bc9fb3b86aefc41134abc86ad8615875dca243ff1b35a643b4506",
+      "bytes": 3844
+    },
+    {
+      "path": "codigo/run_analysis.py",
+      "sha256": "07f6d06a58f10561b8cbfc16a35c0d1be7b71c6a1a8fe62f64fd6de2d0d8eb22",
+      "bytes": 918
+    },
+    {
+      "path": "codigo/test_analysis.py",
+      "sha256": "11d6098281c36af55554c2f69045025f5c50cfaafa5245ed517d3d4283d105fd",
+      "bytes": 6051
+    },
+    {
+      "path": "COMECE_AQUI.html",
+      "sha256": "4184b9d18ef79fc64ee93ac78e3f968afffb552b2a26b164d1f54deadf750f1c",
+      "bytes": 43222
+    },
+    {
+      "path": "dados/CONGELAMENTO_ORIGINAL.json",
+      "sha256": "1fe3555cdbb51b7753c131627d6e60def0ad305a00201ab0c74b06a61025660e",
+      "bytes": 675
+    },
+    {
+      "path": "dados/JULGAMENTOS_CONGELADOS.json",
+      "sha256": "9214d5de3565b49c127c4c414e02edecc88a9f15588112344a573871dbb431f7",
+      "bytes": 8826958
+    },
+    {
+      "path": "dados/NUCLEO_CONGELADO_28.json",
+      "sha256": "c6632aaca797c46a540552e56be239afb2ac1b3725dad42cae728df8e44bc36f",
+      "bytes": 286409
+    },
+    {
+      "path": "evidencias/CATALOGO_FONTES_VERIFICADAS.json",
+      "sha256": "e5806c74470bac41d1c455017ae2cd6ce85b90d9910b7e196081099f67c8e798",
+      "bytes": 97371
+    },
+    {
+      "path": "evidencias/EVIDENCIAS_DOS_JULGAMENTOS.json",
+      "sha256": "fe6b3970e6a0dd9b1be424b2c6a0f281c7b350d70b7831dcd343cc7147974877",
+      "bytes": 292404
+    },
+    {
+      "path": "evidencias/INDICE_JULGAMENTOS.html",
+      "sha256": "83cd740b40fa2dd0154ce678df85c62f77f4e30b15055be6ca1323bc8fb506b6",
+      "bytes": 5776593
+    },
+    {
+      "path": "lote_unico/ESTADO_LOTE.json",
+      "sha256": "d263f2ae2cdc7dbd54c0402f706362cab87d5477e2eec7c0f4ee55a018185b5c",
+      "bytes": 11822
+    },
+    {
+      "path": "MATRIZ_POR_ENSAIO.html",
+      "sha256": "8cabcc9292ef4276567016d597b426a88ed39bd6afe063d9e70961dc17a901a8",
+      "bytes": 89208
+    },
+    {
+      "path": "METODOS_E_RESULTADOS_EN.txt",
+      "sha256": "d4d399b10b888cec03a8512e475f65f42ffea9b8bad85426d26bb0ee7e91526b",
+      "bytes": 9378
+    },
+    {
+      "path": "plano/ESCLARECIMENTOS_OPERACIONAIS.json",
+      "sha256": "f1df23bab148bf0de2af2c48b08c56e46cc986b53b1cee589433714f95998ed9",
+      "bytes": 2481
+    },
+    {
+      "path": "plano/NOTA_SEMANTICA_REGISTRO.json",
+      "sha256": "4a6a31a0e2c0e0a1e5d5ab91d5804874465f99ffdd60c0895744beddb343549c",
+      "bytes": 1819
+    },
+    {
+      "path": "plano/PLANO_ANALITICO.json",
+      "sha256": "907d96bce789a76509bc4d41613fc23b919afb4896533d4ca6a35181fecadaab",
+      "bytes": 4056
+    },
+    {
+      "path": "plano/PROTOCOLO_RATIFICADO.json",
+      "sha256": "9f1058cc593bec17f048ab89db16ef35eaf5573e171398cd1d964251b6e866ba",
+      "bytes": 5541
+    },
+    {
+      "path": "plano/REGRAS_FECHAMENTO.json",
+      "sha256": "718a0111d838cdc93aa82b1f956b1268ead3f37d502da6b2858e72f8b52df42d",
+      "bytes": 6778
+    },
+    {
+      "path": "PROVENIENCIA_IA.json",
+      "sha256": "a61f98f43b10f4d8ed26a0ecbcf1bb20f8ff825f5dc09d65026a4cde5c6c7630",
+      "bytes": 509
+    },
+    {
+      "path": "README.txt",
+      "sha256": "2389ab21c26e99f06799e41d1dbf277f7ea41e1f4e7e75481a3bbd9f4d87606b",
+      "bytes": 2456
+    },
+    {
+      "path": "RESULTADOS_COMPLETOS.json",
+      "sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3",
+      "bytes": 1917206
+    },
+    {
+      "path": "SENSIBILIDADES_POR_MODALIDADE.html",
+      "sha256": "c6c50e5b2e156c68919c8041ab3391eda485e09b7dd38b5aaf0616f7b59cfbd4",
+      "bytes": 55411
+    },
+    {
+      "path": "STATUS_ATUAL.json",
+      "sha256": "45bf96c6dc171b881ec56e6e56626bce0edfff95b91110f00cdf93861f8a21b2",
+      "bytes": 661
+    },
+    {
+      "path": "TRANSICOES_REFERENCIAS.html",
+      "sha256": "c81583efa43678a2ef4bf6d8c0f1d4b36176fd2a29846c209b43b4f6567ae246",
+      "bytes": 52157
+    },
+    {
+      "path": "VALIDACAO_FINAL.json",
+      "sha256": "c7c6b1673f8d76568433bb9b83bd77fc547ad01fc9a88d018e40c02f9312b71b",
+      "bytes": 782
+    }
+  ],
+  "excludes": [
+    "MANIFESTO_SHA256.json",
+    "PACOTE_ANALISE_NUCLEO28.zip",
+    "__pycache__"
+  ]
+}

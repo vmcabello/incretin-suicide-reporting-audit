@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "headless_local_artifact_only": true,
+  "user_browser_or_portal_changed": false,
+  "matrix_filter_visible_rows": 4,
+  "evidence_anchor_expands": true,
+  "javascript_errors": []
+}

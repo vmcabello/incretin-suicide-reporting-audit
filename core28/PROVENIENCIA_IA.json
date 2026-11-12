@@ -1,0 +1,15 @@
+{
+  "provider": "OpenAI",
+  "application": "Codex desktop",
+  "date": "2026-11-11",
+  "model_version": "Exact model/version unavailable in preserved execution metadata; not inferred.",
+  "activities": [
+    "Analysis plan implementation",
+    "Statistical code and tests",
+    "Separate computational audit",
+    "Report interpretation"
+  ],
+  "instructions_location": "plano/PLANO_ANALITICO.json",
+  "new_independent_human_validation": false,
+  "author_approval_of_future_manuscript": false
+}

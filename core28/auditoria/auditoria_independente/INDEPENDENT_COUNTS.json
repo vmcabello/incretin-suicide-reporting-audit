@@ -1,0 +1,5111 @@
+{
+  "input_sha256": "9214d5de3565b49c127c4c414e02edecc88a9f15588112344a573871dbb431f7",
+  "auditor": "AI computational audit, not human validation",
+  "grid_checks_passed": true,
+  "trial_populations": 28,
+  "registry_ids": 27,
+  "by_reference_component_modality": [
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "N": 28,
+      "C_direct": 3,
+      "C_derived": 0,
+      "C": 3,
+      "U": 25,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 3,
+      "upper_numerator": 28,
+      "lower_pct": 10.714285714285714,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 28,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 0,
+      "upper_numerator": 28,
+      "lower_pct": 0.0,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "modality": "all_cause_mortality_derivation",
+      "N": 0,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 0,
+      "B": 0,
+      "NA": 28,
+      "lower_numerator": 0,
+      "upper_numerator": 0,
+      "lower_pct": null,
+      "upper_pct": null
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "N": 28,
+      "C_direct": 2,
+      "C_derived": 3,
+      "C": 5,
+      "U": 23,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 5,
+      "upper_numerator": 28,
+      "lower_pct": 17.857142857142858,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 28,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 0,
+      "upper_numerator": 28,
+      "lower_pct": 0.0,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "modality": "all_cause_mortality_derivation",
+      "N": 0,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 0,
+      "B": 0,
+      "NA": 28,
+      "lower_numerator": 0,
+      "upper_numerator": 0,
+      "lower_pct": null,
+      "upper_pct": null
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "N": 28,
+      "C_direct": 1,
+      "C_derived": 13,
+      "C": 14,
+      "U": 14,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 14,
+      "upper_numerator": 28,
+      "lower_pct": 50.0,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 28,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 0,
+      "upper_numerator": 28,
+      "lower_pct": 0.0,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "modality": "all_cause_mortality_derivation",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 18,
+      "C": 18,
+      "U": 10,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 18,
+      "upper_numerator": 28,
+      "lower_pct": 64.28571428571429,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "N": 28,
+      "C_direct": 1,
+      "C_derived": 1,
+      "C": 2,
+      "U": 26,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 2,
+      "upper_numerator": 28,
+      "lower_pct": 7.142857142857143,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 28,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 0,
+      "upper_numerator": 28,
+      "lower_pct": 0.0,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicidal_ideation",
+      "modality": "all_cause_mortality_derivation",
+      "N": 0,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 0,
+      "B": 0,
+      "NA": 28,
+      "lower_numerator": 0,
+      "upper_numerator": 0,
+      "lower_pct": null,
+      "upper_pct": null
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "N": 28,
+      "C_direct": 1,
+      "C_derived": 4,
+      "C": 5,
+      "U": 23,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 5,
+      "upper_numerator": 28,
+      "lower_pct": 17.857142857142858,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 28,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 0,
+      "upper_numerator": 28,
+      "lower_pct": 0.0,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicide_attempt",
+      "modality": "all_cause_mortality_derivation",
+      "N": 0,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 0,
+      "B": 0,
+      "NA": 28,
+      "lower_numerator": 0,
+      "upper_numerator": 0,
+      "lower_pct": null,
+      "upper_pct": null
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 9,
+      "C": 9,
+      "U": 19,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 9,
+      "upper_numerator": 28,
+      "lower_pct": 32.142857142857146,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 28,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 0,
+      "upper_numerator": 28,
+      "lower_pct": 0.0,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicide_death",
+      "modality": "all_cause_mortality_derivation",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 11,
+      "C": 11,
+      "U": 17,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 11,
+      "upper_numerator": 28,
+      "lower_pct": 39.285714285714285,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "N": 28,
+      "C_direct": 5,
+      "C_derived": 0,
+      "C": 5,
+      "U": 23,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 5,
+      "upper_numerator": 28,
+      "lower_pct": 17.857142857142858,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "N": 28,
+      "C_direct": 1,
+      "C_derived": 0,
+      "C": 1,
+      "U": 27,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 1,
+      "upper_numerator": 28,
+      "lower_pct": 3.5714285714285716,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "modality": "all_cause_mortality_derivation",
+      "N": 0,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 0,
+      "B": 0,
+      "NA": 28,
+      "lower_numerator": 0,
+      "upper_numerator": 0,
+      "lower_pct": null,
+      "upper_pct": null
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "N": 28,
+      "C_direct": 3,
+      "C_derived": 3,
+      "C": 6,
+      "U": 22,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 6,
+      "upper_numerator": 28,
+      "lower_pct": 21.428571428571427,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "N": 28,
+      "C_direct": 1,
+      "C_derived": 0,
+      "C": 1,
+      "U": 27,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 1,
+      "upper_numerator": 28,
+      "lower_pct": 3.5714285714285716,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "modality": "all_cause_mortality_derivation",
+      "N": 0,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 0,
+      "B": 0,
+      "NA": 28,
+      "lower_numerator": 0,
+      "upper_numerator": 0,
+      "lower_pct": null,
+      "upper_pct": null
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "N": 28,
+      "C_direct": 1,
+      "C_derived": 20,
+      "C": 21,
+      "U": 7,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 21,
+      "upper_numerator": 28,
+      "lower_pct": 75.0,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 28,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 0,
+      "upper_numerator": 28,
+      "lower_pct": 0.0,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "modality": "all_cause_mortality_derivation",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 20,
+      "C": 20,
+      "U": 8,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 20,
+      "upper_numerator": 28,
+      "lower_pct": 71.42857142857143,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "N": 28,
+      "C_direct": 2,
+      "C_derived": 3,
+      "C": 5,
+      "U": 23,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 5,
+      "upper_numerator": 28,
+      "lower_pct": 17.857142857142858,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 28,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 0,
+      "upper_numerator": 28,
+      "lower_pct": 0.0,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "modality": "all_cause_mortality_derivation",
+      "N": 0,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 0,
+      "B": 0,
+      "NA": 28,
+      "lower_numerator": 0,
+      "upper_numerator": 0,
+      "lower_pct": null,
+      "upper_pct": null
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "N": 28,
+      "C_direct": 1,
+      "C_derived": 5,
+      "C": 6,
+      "U": 22,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 6,
+      "upper_numerator": 28,
+      "lower_pct": 21.428571428571427,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 28,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 0,
+      "upper_numerator": 28,
+      "lower_pct": 0.0,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "modality": "all_cause_mortality_derivation",
+      "N": 0,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 0,
+      "B": 0,
+      "NA": 28,
+      "lower_numerator": 0,
+      "upper_numerator": 0,
+      "lower_pct": null,
+      "upper_pct": null
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 21,
+      "C": 21,
+      "U": 7,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 21,
+      "upper_numerator": 28,
+      "lower_pct": 75.0,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 0,
+      "C": 0,
+      "U": 28,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 0,
+      "upper_numerator": 28,
+      "lower_pct": 0.0,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "modality": "all_cause_mortality_derivation",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 19,
+      "C": 19,
+      "U": 9,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 19,
+      "upper_numerator": 28,
+      "lower_pct": 67.85714285714286,
+      "upper_pct": 100.0
+    }
+  ],
+  "secondary_union": [
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "N": 28,
+      "C_direct": 3,
+      "C_derived": 0,
+      "C": 3,
+      "U": 25,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 3,
+      "upper_numerator": 28,
+      "lower_pct": 10.714285714285714,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "N": 28,
+      "C_direct": 2,
+      "C_derived": 3,
+      "C": 5,
+      "U": 23,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 5,
+      "upper_numerator": 28,
+      "lower_pct": 17.857142857142858,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "N": 28,
+      "C_direct": 1,
+      "C_derived": 19,
+      "C": 20,
+      "U": 8,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 20,
+      "upper_numerator": 28,
+      "lower_pct": 71.42857142857143,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicidal_ideation",
+      "N": 28,
+      "C_direct": 1,
+      "C_derived": 1,
+      "C": 2,
+      "U": 26,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 2,
+      "upper_numerator": 28,
+      "lower_pct": 7.142857142857143,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicide_attempt",
+      "N": 28,
+      "C_direct": 1,
+      "C_derived": 4,
+      "C": 5,
+      "U": 23,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 5,
+      "upper_numerator": 28,
+      "lower_pct": 17.857142857142858,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicide_death",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 13,
+      "C": 13,
+      "U": 15,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 13,
+      "upper_numerator": 28,
+      "lower_pct": 46.42857142857143,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "N": 28,
+      "C_direct": 5,
+      "C_derived": 0,
+      "C": 5,
+      "U": 23,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 5,
+      "upper_numerator": 28,
+      "lower_pct": 17.857142857142858,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "N": 28,
+      "C_direct": 3,
+      "C_derived": 3,
+      "C": 6,
+      "U": 22,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 6,
+      "upper_numerator": 28,
+      "lower_pct": 21.428571428571427,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "N": 28,
+      "C_direct": 1,
+      "C_derived": 21,
+      "C": 22,
+      "U": 6,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 22,
+      "upper_numerator": 28,
+      "lower_pct": 78.57142857142857,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "N": 28,
+      "C_direct": 2,
+      "C_derived": 3,
+      "C": 5,
+      "U": 23,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 5,
+      "upper_numerator": 28,
+      "lower_pct": 17.857142857142858,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "N": 28,
+      "C_direct": 1,
+      "C_derived": 5,
+      "C": 6,
+      "U": 22,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 6,
+      "upper_numerator": 28,
+      "lower_pct": 21.428571428571427,
+      "upper_pct": 100.0
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "N": 28,
+      "C_direct": 0,
+      "C_derived": 21,
+      "C": 21,
+      "U": 7,
+      "B": 0,
+      "NA": 0,
+      "lower_numerator": 21,
+      "upper_numerator": 28,
+      "lower_pct": 75.0,
+      "upper_pct": 100.0
+    }
+  ],
+  "secondary_union_cells": [
+    {
+      "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+      "trial": "SCALE Maintenance",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "trial": "SCALE Obesity and Prediabetes",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+      "trial": "SCALE Diabetes",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+      "trial": "SCALE Sleep Apnoea",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+      "trial": "SCALE Insulin",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+      "trial": "SCALE IBT",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "trial": "STEP 1",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "trial": "STEP 2",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+      "trial": "STEP 3",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "trial": "STEP 5",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+      "trial": "STEP 6",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04074161:CANDIDATE_BLOCK",
+      "trial": "STEP 8",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-1",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "trial": "STEP 7",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-2",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-3",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04788511:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04844918:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-J",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04916470:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF DM",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+      "trial": "STEP 11",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-CN",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+      "trial": "STEP 10",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+      "trial": "STEP 9",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "trial": "STEP UP",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05649137:CANDIDATE_BLOCK",
+      "trial": "STEP UP T2D",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT06041217:CANDIDATE_BLOCK",
+      "trial": "STEP 12",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+      "trial": "SCALE Maintenance",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "trial": "SCALE Obesity and Prediabetes",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+      "trial": "SCALE Diabetes",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+      "trial": "SCALE Sleep Apnoea",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+      "trial": "SCALE Insulin",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+      "trial": "SCALE IBT",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "trial": "STEP 1",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "trial": "STEP 2",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+      "trial": "STEP 3",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "trial": "STEP 5",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+      "trial": "STEP 6",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04074161:CANDIDATE_BLOCK",
+      "trial": "STEP 8",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-1",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "trial": "STEP 7",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-2",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-3",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04788511:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04844918:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-J",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04916470:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF DM",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+      "trial": "STEP 11",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-CN",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+      "trial": "STEP 10",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+      "trial": "STEP 9",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "trial": "STEP UP",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05649137:CANDIDATE_BLOCK",
+      "trial": "STEP UP T2D",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT06041217:CANDIDATE_BLOCK",
+      "trial": "STEP 12",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+      "trial": "SCALE Maintenance",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "trial": "SCALE Obesity and Prediabetes",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+      "trial": "SCALE Diabetes",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+      "trial": "SCALE Sleep Apnoea",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+      "trial": "SCALE Insulin",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+      "trial": "SCALE IBT",
+      "program": "SCALE",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "trial": "STEP 1",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "trial": "STEP 2",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+      "trial": "STEP 3",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "trial": "STEP 5",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+      "trial": "STEP 6",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04074161:CANDIDATE_BLOCK",
+      "trial": "STEP 8",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-1",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "trial": "STEP 7",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-2",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-3",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04788511:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04844918:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-J",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04916470:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF DM",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+      "trial": "STEP 11",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-CN",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+      "trial": "STEP 10",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+      "trial": "STEP 9",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "trial": "STEP UP",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05649137:CANDIDATE_BLOCK",
+      "trial": "STEP UP T2D",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT06041217:CANDIDATE_BLOCK",
+      "trial": "STEP 12",
+      "program": "STEP",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+      "trial": "SCALE Maintenance",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "trial": "SCALE Obesity and Prediabetes",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+      "trial": "SCALE Diabetes",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+      "trial": "SCALE Sleep Apnoea",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+      "trial": "SCALE Insulin",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+      "trial": "SCALE IBT",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "trial": "STEP 1",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "trial": "STEP 2",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+      "trial": "STEP 3",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "trial": "STEP 5",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+      "trial": "STEP 6",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04074161:CANDIDATE_BLOCK",
+      "trial": "STEP 8",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-1",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "trial": "STEP 7",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-2",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-3",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04788511:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04844918:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-J",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04916470:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF DM",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+      "trial": "STEP 11",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-CN",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+      "trial": "STEP 10",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+      "trial": "STEP 9",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "trial": "STEP UP",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05649137:CANDIDATE_BLOCK",
+      "trial": "STEP UP T2D",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT06041217:CANDIDATE_BLOCK",
+      "trial": "STEP 12",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+      "trial": "SCALE Maintenance",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "trial": "SCALE Obesity and Prediabetes",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+      "trial": "SCALE Diabetes",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+      "trial": "SCALE Sleep Apnoea",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+      "trial": "SCALE Insulin",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+      "trial": "SCALE IBT",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "trial": "STEP 1",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "trial": "STEP 2",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+      "trial": "STEP 3",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "trial": "STEP 5",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+      "trial": "STEP 6",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04074161:CANDIDATE_BLOCK",
+      "trial": "STEP 8",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-1",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "trial": "STEP 7",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-2",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-3",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04788511:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04844918:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-J",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04916470:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF DM",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+      "trial": "STEP 11",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-CN",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+      "trial": "STEP 10",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+      "trial": "STEP 9",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "trial": "STEP UP",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05649137:CANDIDATE_BLOCK",
+      "trial": "STEP UP T2D",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT06041217:CANDIDATE_BLOCK",
+      "trial": "STEP 12",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+      "trial": "SCALE Maintenance",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "trial": "SCALE Obesity and Prediabetes",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+      "trial": "SCALE Diabetes",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+      "trial": "SCALE Sleep Apnoea",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+      "trial": "SCALE Insulin",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+      "trial": "SCALE IBT",
+      "program": "SCALE",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "trial": "STEP 1",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "trial": "STEP 2",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+      "trial": "STEP 3",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "trial": "STEP 5",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+      "trial": "STEP 6",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04074161:CANDIDATE_BLOCK",
+      "trial": "STEP 8",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-1",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "trial": "STEP 7",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-2",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-3",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04788511:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04844918:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-J",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04916470:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF DM",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+      "trial": "STEP 11",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-CN",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+      "trial": "STEP 10",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+      "trial": "STEP 9",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "trial": "STEP UP",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05649137:CANDIDATE_BLOCK",
+      "trial": "STEP UP T2D",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT06041217:CANDIDATE_BLOCK",
+      "trial": "STEP 12",
+      "program": "STEP",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+      "trial": "SCALE Maintenance",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "trial": "SCALE Obesity and Prediabetes",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+      "trial": "SCALE Diabetes",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+      "trial": "SCALE Sleep Apnoea",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+      "trial": "SCALE Insulin",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+      "trial": "SCALE IBT",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "trial": "STEP 1",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "trial": "STEP 2",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+      "trial": "STEP 3",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "trial": "STEP 5",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+      "trial": "STEP 6",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04074161:CANDIDATE_BLOCK",
+      "trial": "STEP 8",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-1",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "trial": "STEP 7",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-2",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-3",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04788511:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04844918:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-J",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04916470:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF DM",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+      "trial": "STEP 11",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-CN",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+      "trial": "STEP 10",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+      "trial": "STEP 9",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "trial": "STEP UP",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05649137:CANDIDATE_BLOCK",
+      "trial": "STEP UP T2D",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT06041217:CANDIDATE_BLOCK",
+      "trial": "STEP 12",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+      "trial": "SCALE Maintenance",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "trial": "SCALE Obesity and Prediabetes",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+      "trial": "SCALE Diabetes",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+      "trial": "SCALE Sleep Apnoea",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+      "trial": "SCALE Insulin",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+      "trial": "SCALE IBT",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "trial": "STEP 1",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "trial": "STEP 2",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+      "trial": "STEP 3",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "trial": "STEP 5",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+      "trial": "STEP 6",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04074161:CANDIDATE_BLOCK",
+      "trial": "STEP 8",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-1",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "trial": "STEP 7",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-2",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-3",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04788511:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04844918:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-J",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04916470:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF DM",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+      "trial": "STEP 11",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-CN",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+      "trial": "STEP 10",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+      "trial": "STEP 9",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "trial": "STEP UP",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05649137:CANDIDATE_BLOCK",
+      "trial": "STEP UP T2D",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT06041217:CANDIDATE_BLOCK",
+      "trial": "STEP 12",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+      "trial": "SCALE Maintenance",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "trial": "SCALE Obesity and Prediabetes",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+      "trial": "SCALE Diabetes",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+      "trial": "SCALE Sleep Apnoea",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+      "trial": "SCALE Insulin",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+      "trial": "SCALE IBT",
+      "program": "SCALE",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "trial": "STEP 1",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "trial": "STEP 2",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+      "trial": "STEP 3",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "trial": "STEP 5",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+      "trial": "STEP 6",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04074161:CANDIDATE_BLOCK",
+      "trial": "STEP 8",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-1",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "trial": "STEP 7",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-2",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-3",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04788511:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04844918:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-J",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04916470:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF DM",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+      "trial": "STEP 11",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-CN",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+      "trial": "STEP 10",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+      "trial": "STEP 9",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "trial": "STEP UP",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05649137:CANDIDATE_BLOCK",
+      "trial": "STEP UP T2D",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT06041217:CANDIDATE_BLOCK",
+      "trial": "STEP 12",
+      "program": "STEP",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+      "trial": "SCALE Maintenance",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "trial": "SCALE Obesity and Prediabetes",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+      "trial": "SCALE Diabetes",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+      "trial": "SCALE Sleep Apnoea",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+      "trial": "SCALE Insulin",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+      "trial": "SCALE IBT",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "trial": "STEP 1",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "trial": "STEP 2",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+      "trial": "STEP 3",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "trial": "STEP 5",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+      "trial": "STEP 6",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04074161:CANDIDATE_BLOCK",
+      "trial": "STEP 8",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-1",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "trial": "STEP 7",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-2",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-3",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04788511:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04844918:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-J",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04916470:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF DM",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+      "trial": "STEP 11",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-CN",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+      "trial": "STEP 10",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+      "trial": "STEP 9",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "trial": "STEP UP",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05649137:CANDIDATE_BLOCK",
+      "trial": "STEP UP T2D",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT06041217:CANDIDATE_BLOCK",
+      "trial": "STEP 12",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+      "trial": "SCALE Maintenance",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "trial": "SCALE Obesity and Prediabetes",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+      "trial": "SCALE Diabetes",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+      "trial": "SCALE Sleep Apnoea",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+      "trial": "SCALE Insulin",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+      "trial": "SCALE IBT",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "trial": "STEP 1",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_direct"
+    },
+    {
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "trial": "STEP 2",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+      "trial": "STEP 3",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "trial": "STEP 5",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+      "trial": "STEP 6",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04074161:CANDIDATE_BLOCK",
+      "trial": "STEP 8",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-1",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "trial": "STEP 7",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-2",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-3",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04788511:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04844918:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-J",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04916470:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF DM",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+      "trial": "STEP 11",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-CN",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+      "trial": "STEP 10",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+      "trial": "STEP 9",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "trial": "STEP UP",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05649137:CANDIDATE_BLOCK",
+      "trial": "STEP UP T2D",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT06041217:CANDIDATE_BLOCK",
+      "trial": "STEP 12",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+      "trial": "SCALE Maintenance",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT01272219:CANDIDATE_BLOCK",
+      "trial": "SCALE Obesity and Prediabetes",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+      "trial": "SCALE Diabetes",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+      "trial": "SCALE Sleep Apnoea",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+      "trial": "SCALE Insulin",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+      "trial": "SCALE IBT",
+      "program": "SCALE",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+      "trial": "STEP 1",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+      "trial": "STEP 2",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+      "trial": "STEP 3",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+      "trial": "STEP 5",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT03811574:CANDIDATE_BLOCK",
+      "trial": "STEP 6",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04074161:CANDIDATE_BLOCK",
+      "trial": "STEP 8",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-1",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+      "trial": "STEP 7",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-2",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-3",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04788511:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04844918:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-J",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT04916470:CANDIDATE_BLOCK",
+      "trial": "STEP HFpEF DM",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+      "trial": "STEP 11",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+      "trial": "SURMOUNT-CN",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+      "trial": "STEP 10",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+      "trial": "STEP 9",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+      "trial": "STEP UP",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05649137:CANDIDATE_BLOCK",
+      "trial": "STEP UP T2D",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT06041217:CANDIDATE_BLOCK",
+      "trial": "STEP 12",
+      "program": "STEP",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    }
+  ],
+  "positive_membership": [
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_direct"
+        },
+        {
+          "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+          "trial": "SCALE Diabetes",
+          "status": "complete_direct"
+        },
+        {
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "trial": "STEP 5",
+          "status": "complete_direct"
+        }
+      ]
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "modality": "all_cause_mortality_derivation",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_direct"
+        },
+        {
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "trial": "STEP 5",
+          "status": "complete_direct"
+        },
+        {
+          "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-1",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-2",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-3",
+          "status": "complete_derived"
+        }
+      ]
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "modality": "all_cause_mortality_derivation",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_direct"
+        },
+        {
+          "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+          "trial": "SCALE Sleep Apnoea",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+          "trial": "STEP 1",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+          "trial": "STEP 2",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+          "trial": "STEP 3",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "trial": "STEP 5",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+          "trial": "STEP 7",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+          "trial": "STEP UP",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-1",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-2",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-3",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-CN",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05412004:GPI1",
+          "trial": "SURMOUNT-OSA",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05412004:GPI2",
+          "trial": "SURMOUNT-OSA",
+          "status": "complete_derived"
+        }
+      ]
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "modality": "all_cause_mortality_derivation",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+          "trial": "SCALE Diabetes",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+          "trial": "SCALE Sleep Apnoea",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+          "trial": "SCALE Insulin",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+          "trial": "SCALE IBT",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+          "trial": "STEP 1",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+          "trial": "STEP 2",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+          "trial": "STEP 3",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "trial": "STEP 5",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+          "trial": "STEP 7",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+          "trial": "STEP 9",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+          "trial": "STEP 10",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+          "trial": "STEP 11",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+          "trial": "STEP UP",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-3",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-CN",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05412004:GPI1",
+          "trial": "SURMOUNT-OSA",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05412004:GPI2",
+          "trial": "SURMOUNT-OSA",
+          "status": "complete_derived"
+        }
+      ]
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "trial": "STEP 5",
+          "status": "complete_direct"
+        }
+      ]
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicidal_ideation",
+      "modality": "all_cause_mortality_derivation",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "trial": "STEP 5",
+          "status": "complete_direct"
+        },
+        {
+          "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-1",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-2",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-3",
+          "status": "complete_derived"
+        }
+      ]
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicide_attempt",
+      "modality": "all_cause_mortality_derivation",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+          "trial": "STEP 1",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "trial": "STEP 5",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+          "trial": "STEP 7",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-1",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-2",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-3",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-CN",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05412004:GPI1",
+          "trial": "SURMOUNT-OSA",
+          "status": "complete_derived"
+        }
+      ]
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_ITT",
+      "component": "suicide_death",
+      "modality": "all_cause_mortality_derivation",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+          "trial": "SCALE IBT",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+          "trial": "STEP 1",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "trial": "STEP 5",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+          "trial": "STEP 7",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+          "trial": "STEP 10",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+          "trial": "STEP 11",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+          "trial": "STEP UP",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-3",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-CN",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05412004:GPI1",
+          "trial": "SURMOUNT-OSA",
+          "status": "complete_derived"
+        }
+      ]
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_direct"
+        },
+        {
+          "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+          "trial": "SCALE Diabetes",
+          "status": "complete_direct"
+        },
+        {
+          "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+          "trial": "STEP 1",
+          "status": "complete_direct"
+        },
+        {
+          "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+          "trial": "STEP 2",
+          "status": "complete_direct"
+        },
+        {
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "trial": "STEP 5",
+          "status": "complete_direct"
+        }
+      ]
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_direct"
+        }
+      ]
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "modality": "all_cause_mortality_derivation",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_direct"
+        },
+        {
+          "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+          "trial": "STEP 1",
+          "status": "complete_direct"
+        },
+        {
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "trial": "STEP 5",
+          "status": "complete_direct"
+        },
+        {
+          "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-1",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-2",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-3",
+          "status": "complete_derived"
+        }
+      ]
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_direct"
+        }
+      ]
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "modality": "all_cause_mortality_derivation",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_direct"
+        },
+        {
+          "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+          "trial": "SCALE Diabetes",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+          "trial": "SCALE Sleep Apnoea",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+          "trial": "SCALE Insulin",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+          "trial": "SCALE IBT",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+          "trial": "STEP 1",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+          "trial": "STEP 2",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+          "trial": "STEP 3",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "trial": "STEP 5",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+          "trial": "STEP 7",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+          "trial": "STEP 9",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+          "trial": "STEP 10",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+          "trial": "STEP 11",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+          "trial": "STEP UP",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-1",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-2",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-3",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-CN",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04844918:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-J",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05412004:GPI1",
+          "trial": "SURMOUNT-OSA",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05412004:GPI2",
+          "trial": "SURMOUNT-OSA",
+          "status": "complete_derived"
+        }
+      ]
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "modality": "all_cause_mortality_derivation",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+          "trial": "SCALE Diabetes",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+          "trial": "SCALE Sleep Apnoea",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+          "trial": "SCALE Insulin",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+          "trial": "SCALE IBT",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+          "trial": "STEP 1",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+          "trial": "STEP 2",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+          "trial": "STEP 3",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "trial": "STEP 5",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+          "trial": "STEP 7",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+          "trial": "STEP 9",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+          "trial": "STEP 10",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+          "trial": "STEP 11",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT06041217:CANDIDATE_BLOCK",
+          "trial": "STEP 12",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+          "trial": "STEP UP",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-3",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-CN",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04844918:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-J",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05412004:GPI1",
+          "trial": "SURMOUNT-OSA",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05412004:GPI2",
+          "trial": "SURMOUNT-OSA",
+          "status": "complete_derived"
+        }
+      ]
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "modality": "adverse_event_reports",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+          "trial": "SCALE Diabetes",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+          "trial": "STEP 1",
+          "status": "complete_direct"
+        },
+        {
+          "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+          "trial": "STEP 2",
+          "status": "complete_direct"
+        },
+        {
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "trial": "STEP 5",
+          "status": "complete_derived"
+        }
+      ]
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "modality": "suicidality_specific_structured_assessment",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "modality": "all_cause_mortality_derivation",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "modality": "adverse_event_reports",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+          "trial": "STEP 1",
+          "status": "complete_direct"
+        },
+        {
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "trial": "STEP 5",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-1",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-2",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-3",
+          "status": "complete_derived"
+        }
+      ]
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "modality": "suicidality_specific_structured_assessment",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "modality": "all_cause_mortality_derivation",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "modality": "adverse_event_reports",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+          "trial": "SCALE Diabetes",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+          "trial": "SCALE Sleep Apnoea",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+          "trial": "SCALE Insulin",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+          "trial": "SCALE IBT",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+          "trial": "STEP 1",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+          "trial": "STEP 2",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+          "trial": "STEP 3",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "trial": "STEP 5",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+          "trial": "STEP 7",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+          "trial": "STEP 9",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+          "trial": "STEP 10",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+          "trial": "STEP 11",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+          "trial": "STEP UP",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04184622:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-1",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657003:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-2",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-3",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-CN",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04844918:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-J",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05412004:GPI1",
+          "trial": "SURMOUNT-OSA",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05412004:GPI2",
+          "trial": "SURMOUNT-OSA",
+          "status": "complete_derived"
+        }
+      ]
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "modality": "suicidality_specific_structured_assessment",
+      "complete_units": []
+    },
+    {
+      "reference": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "modality": "all_cause_mortality_derivation",
+      "complete_units": [
+        {
+          "unit_id": "NCT00781937:CANDIDATE_BLOCK",
+          "trial": "SCALE Maintenance",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT01272232:CANDIDATE_BLOCK",
+          "trial": "SCALE Diabetes",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT01557166:CANDIDATE_BLOCK",
+          "trial": "SCALE Sleep Apnoea",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT02963922:CANDIDATE_BLOCK",
+          "trial": "SCALE Insulin",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT02963935:CANDIDATE_BLOCK",
+          "trial": "SCALE IBT",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03548935:CANDIDATE_BLOCK",
+          "trial": "STEP 1",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03552757:CANDIDATE_BLOCK",
+          "trial": "STEP 2",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03611582:CANDIDATE_BLOCK",
+          "trial": "STEP 3",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT03693430:CANDIDATE_BLOCK",
+          "trial": "STEP 5",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04251156:CANDIDATE_BLOCK",
+          "trial": "STEP 7",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05064735:CANDIDATE_BLOCK",
+          "trial": "STEP 9",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05040971:CANDIDATE_BLOCK",
+          "trial": "STEP 10",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04998136:CANDIDATE_BLOCK",
+          "trial": "STEP 11",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05646706:CANDIDATE_BLOCK",
+          "trial": "STEP UP",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04657016:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-3",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05024032:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-CN",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT04844918:CANDIDATE_BLOCK",
+          "trial": "SURMOUNT-J",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05412004:GPI1",
+          "trial": "SURMOUNT-OSA",
+          "status": "complete_derived"
+        },
+        {
+          "unit_id": "NCT05412004:GPI2",
+          "trial": "SURMOUNT-OSA",
+          "status": "complete_derived"
+        }
+      ]
+    }
+  ],
+  "osa_population_ids": [
+    "NCT05412004:GPI1",
+    "NCT05412004:GPI2"
+  ],
+  "osa_union_cells": [
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_HISTORICAL_TREATED",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "analytical_state": "unknown",
+      "source_scoped_status": "unknown"
+    },
+    {
+      "unit_id": "NCT05412004:GPI1",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    },
+    {
+      "unit_id": "NCT05412004:GPI2",
+      "trial": "SURMOUNT-OSA",
+      "program": "SURMOUNT",
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "analytical_state": "complete",
+      "source_scoped_status": "complete_derived"
+    }
+  ]
+}

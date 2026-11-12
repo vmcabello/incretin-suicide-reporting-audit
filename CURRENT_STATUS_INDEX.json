@@ -1,77 +1,155 @@
 {
-  "agreement_not_accuracy": true,
-  "approval_and_procedure_record": "negative117/AUTHOR_PROCEDURE_AND_APPROVAL_EN.json",
-  "clinical_effect_analysis": false,
-  "current_B3_whole_population_union": [
+  "schema": "current-versus-historical-status-index-v3",
+  "working_version": "v2.0.0",
+  "date": "2026-11-11",
+  "current_analysis_path": "core28/",
+  "trial_populations": 28,
+  "registry_ids": 27,
+  "references": 4,
+  "current_secondary_unions": [
     {
-      "N": 159,
+      "reference_id": "REF_HISTORICAL_TREATED",
       "component": "suicidal_ideation",
-      "confirmed_total": 1,
-      "corpus_conditional_identification_interval": [
-        0.006289308176100629,
-        0.37735849056603776
-      ],
-      "derived_confirmed": 0,
-      "direct_confirmed": 1,
-      "unknown": 59
+      "N": 28,
+      "complete": 3,
+      "complete_direct_supported": 3,
+      "complete_requires_derivation": 0,
+      "unknown": 25,
+      "identification_lower": 0.10714285714285714,
+      "identification_upper": 1.0
     },
     {
-      "N": 159,
+      "reference_id": "REF_HISTORICAL_TREATED",
       "component": "suicide_attempt",
-      "confirmed_total": 2,
-      "corpus_conditional_identification_interval": [
-        0.012578616352201259,
-        0.3018867924528302
-      ],
-      "derived_confirmed": 1,
-      "direct_confirmed": 1,
-      "unknown": 46
+      "N": 28,
+      "complete": 5,
+      "complete_direct_supported": 2,
+      "complete_requires_derivation": 3,
+      "unknown": 23,
+      "identification_lower": 0.17857142857142858,
+      "identification_upper": 1.0
     },
     {
-      "N": 159,
+      "reference_id": "REF_HISTORICAL_TREATED",
       "component": "suicide_death",
-      "confirmed_total": 17,
-      "corpus_conditional_identification_interval": [
-        0.1069182389937107,
-        0.5849056603773585
-      ],
-      "derived_confirmed": 17,
-      "direct_confirmed": 0,
-      "unknown": 76
+      "N": 28,
+      "complete": 20,
+      "complete_direct_supported": 1,
+      "complete_requires_derivation": 19,
+      "unknown": 8,
+      "identification_lower": 0.7142857142857143,
+      "identification_upper": 1.0
+    },
+    {
+      "reference_id": "REF_ITT",
+      "component": "suicidal_ideation",
+      "N": 28,
+      "complete": 2,
+      "complete_direct_supported": 1,
+      "complete_requires_derivation": 1,
+      "unknown": 26,
+      "identification_lower": 0.07142857142857142,
+      "identification_upper": 1.0
+    },
+    {
+      "reference_id": "REF_ITT",
+      "component": "suicide_attempt",
+      "N": 28,
+      "complete": 5,
+      "complete_direct_supported": 1,
+      "complete_requires_derivation": 4,
+      "unknown": 23,
+      "identification_lower": 0.17857142857142858,
+      "identification_upper": 1.0
+    },
+    {
+      "reference_id": "REF_ITT",
+      "component": "suicide_death",
+      "N": 28,
+      "complete": 13,
+      "complete_direct_supported": 0,
+      "complete_requires_derivation": 13,
+      "unknown": 15,
+      "identification_lower": 0.4642857142857143,
+      "identification_upper": 1.0
+    },
+    {
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicidal_ideation",
+      "N": 28,
+      "complete": 5,
+      "complete_direct_supported": 2,
+      "complete_requires_derivation": 3,
+      "unknown": 23,
+      "identification_lower": 0.17857142857142858,
+      "identification_upper": 1.0
+    },
+    {
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_attempt",
+      "N": 28,
+      "complete": 6,
+      "complete_direct_supported": 1,
+      "complete_requires_derivation": 5,
+      "unknown": 22,
+      "identification_lower": 0.21428571428571427,
+      "identification_upper": 1.0
+    },
+    {
+      "reference_id": "REF_ON_TREATMENT",
+      "component": "suicide_death",
+      "N": 28,
+      "complete": 21,
+      "complete_direct_supported": 0,
+      "complete_requires_derivation": 21,
+      "unknown": 7,
+      "identification_lower": 0.75,
+      "identification_upper": 1.0
+    },
+    {
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicidal_ideation",
+      "N": 28,
+      "complete": 5,
+      "complete_direct_supported": 5,
+      "complete_requires_derivation": 0,
+      "unknown": 23,
+      "identification_lower": 0.17857142857142858,
+      "identification_upper": 1.0
+    },
+    {
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_attempt",
+      "N": 28,
+      "complete": 6,
+      "complete_direct_supported": 3,
+      "complete_requires_derivation": 3,
+      "unknown": 22,
+      "identification_lower": 0.21428571428571427,
+      "identification_upper": 1.0
+    },
+    {
+      "reference_id": "REF_SAFETY_SOURCE",
+      "component": "suicide_death",
+      "N": 28,
+      "complete": 22,
+      "complete_direct_supported": 1,
+      "complete_requires_derivation": 21,
+      "unknown": 6,
+      "identification_lower": 0.7857142857142857,
+      "identification_upper": 1.0
     }
   ],
-  "current_analysis_path": "negative117/",
-  "current_author_approval": "Both authors approved the recalculated6November manuscript and submission, as reported by the corresponding author.",
-  "current_chronology": "negative117/CHRONOLOGY_CURRENT_EN.json",
-  "current_round": {
-    "closed_negative_positions": 275,
-    "component_contexts": 194,
-    "dossiers_per_assessor": 117,
-    "new_complete_positions": 0,
-    "new_exact_B3_positions": 456,
-    "new_reviewer_disagreements": 0,
-    "unknown_positions": 181
-  },
-  "date": "2026-11-06",
-  "full_fresh_source_validation_completed": false,
-  "full_positions": 5096,
-  "historical_directories": {
-    "corpus/PROTOCOL_AMENDMENT_CHRONOLOGY_EN.json": "Frozen v1.5 chronology; current NEG117 continuation is separate to preserve exact historical replay.",
-    "current_analysis/": "Older historical analysis; current in its original version only.",
-    "current_input/": "Older historical source snapshot; current in its original version only.",
-    "source_review109/": "Frozenv1.4 export and integration.",
-    "source_review109_reconciled/": "Frozenv1.5 corrected-R2 reconciliation; its pending-author labels describe5November creation-time status."
-  },
-  "journal_submission_sent": false,
-  "local_source_routes_raw_personal_returns_primary_fulltexts_included": false,
-  "maintenance_record": "minor161/MAINTENANCE_SCOPE_EN.json",
-  "release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.6.1",
-  "schema": "current-versus-historical-status-index-v2",
-  "unit_rosters": [
-    159,
-    170,
-    182
-  ],
-  "unknowns_not_clinical_zeros": true,
-  "working_version": "v1.6.1"
+  "primary_tables": "core28/RESULTADOS_COMPLETOS.json#primary_modality_tables",
+  "public_projection": "core28/PUBLIC_RELEASE.json",
+  "release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v2.0.0",
+  "direct_zip_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/download/v2.0.0/ESM_2.zip",
+  "historical_status_index": "history/v1.6.1/CURRENT_STATUS_INDEX.json",
+  "historical_dataset": "Different 182/159-unit corpus; preserved unchanged in historical modules and earlier tags.",
+  "author_approval_scope": "Both authors confirmed approval of the current adapted manuscript, supplement and submission. This repository update creates no new human review.",
+  "clinical_effect_analysis": false,
+  "unknowns_are_not_clinical_zeros": true,
+  "source_ratings_modified": false,
+  "new_statistical_analysis": false,
+  "journal_submission_sent_by_release": false
 }

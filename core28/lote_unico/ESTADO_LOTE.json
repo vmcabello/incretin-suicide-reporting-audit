@@ -1,0 +1,135 @@
+{
+  "previous_batch_file": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\julgamentos_nucleo28_referencias_modalidades_2026-11-11\\lote_unico\\ESTADO_LOTE.json",
+  "previous_state": {
+    "date": "2026-11-11",
+    "existing_batch_continued": true,
+    "prior_batch_state_preserved": {
+      "date": "2026-11-11",
+      "single_batch_continued": true,
+      "prior_methodological_case": {
+        "case_id": "CORE-POPULATION-AMENDMENT-01",
+        "status": "CLOSED_INTEGRATED",
+        "decision_items": 2,
+        "completed_reviewers": [
+          "R1",
+          "R2"
+        ],
+        "open_review_cases": [],
+        "new_review_requested": false,
+        "future_issue_policy": "Add only novel substantive unresolved source/reference questions, after reuse and technical source checks; never recreate this closed amendment for a new date."
+      },
+      "new_open_review_cases": [],
+      "new_review_requested": false,
+      "technical_source_limitations_file": "../conferencia/QUESTOES_TECNICAS_DAS_FONTES.json",
+      "technical_review": {
+        "date": "2026-11-11",
+        "reviewed_by_integrator": true,
+        "review_actor": "AI technical source reconciliation; not a new human vote or independent human validation",
+        "new_human_cases": [],
+        "reason_no_new_reviewer_case": "The remaining limitations are source coverage, non-interchangeable populations, measurement units and source-specific windows. They can be recorded without asking authors to invent unavailable information or repeat ratified population decisions. No new aggregate outcome classifications are being approved in this delivery.",
+        "resolved_in_this_round": [
+          "Literal population, arm and window extraction for 28 frozen trial populations and their four reference dossiers.",
+          "100 exact previous paired keys retained with their historical integrated record and proof provenance.",
+          "SCALE Maintenance, Obesity and Prediabetes, and Diabetes full clinical reports supply phase-specific structured-assessment observations; people and recurrent episodes remain separate.",
+          "STEP HFpEF DM primary article supplies actual randomized/exposed populations despite the selected old registry version lacking results.",
+          "STEP 1 C-SSRS attempt explicitly attributed to one semaglutide participant is added as a source fact, without borrowing a pooled or SAS assessed denominator.",
+          "SURMOUNT-3 and CN source TEAE definitions were recovered from locally archived original SAPs/protocols outside the previous paired-source catalog.",
+          "SURMOUNT-J safety-site exclusion, OSA population split and undosed participants, pooled controls and extension periods are retained explicitly."
+        ],
+        "documentary_limitations_retained": [
+          {
+            "scope": "Structured suicidality assessments",
+            "limitation": "A nominal table/SAS denominator is not the number of distinct participants actually assessed. Where completion coverage is unavailable, retain both fields separately; do not infer assessed counts or component completeness.",
+            "examples": "SCALE clinical reports; individual STEP 1/2/3 and SURMOUNT 1/2/3 populations within pooled psychiatric publications.",
+            "action": "Preserve source-specific observations and unknown coverage. No new author attestation requested."
+          },
+          {
+            "scope": "Observation windows",
+            "limitation": "Initial-phase follow-up, source safety, TEAE and strictly current exposure are not interchangeable. STEP HFpEF article and registry have different interruption rules; SCALE and long extensions also retain source-specific definitions.",
+            "action": "Keep exact source/window combinations separate. Any later completeness judgment must demonstrate its own compatibility."
+          },
+          {
+            "scope": "SCALE Sleep Apnoea, Insulin and IBT",
+            "limitation": "Available reports do not necessarily provide the trial/arm-specific component breakdown and assessment coverage needed for every target. The per-unit document_gaps field distinguishes unavailable detailed evidence from articles and supplements already present.",
+            "action": "No repeated document request. Maintain unknowns when a component cannot be separated or its coverage cannot be established."
+          },
+          {
+            "scope": "Prior judgments and new references",
+            "limitation": "An old paired classification does not supply an ITT, safety or TEAE numerator and denominator automatically. Matching N values alone does not prove population identity, assignment or coverage.",
+            "action": "Reuse historical source facts and exact proof only within compatible source, arm, population, modality and window scope."
+          }
+        ],
+        "user_action_needed_to_finish_this_extraction": false,
+        "human_original_source_reading_inferred": false,
+        "statistical_analysis_started": false,
+        "next_step": "Close reference- and modality-specific documentary judgments using these explicit source-compatibility gates. Notify authors before calculating any new aggregate statistics or sensitivity analyses."
+      },
+      "missing_sources_or_coverage_are_not_solved_by_author_attestation": true,
+      "previous_approvals_not_requested_again": true
+    },
+    "new_open_review_cases": [],
+    "new_review_requested": false,
+    "integrator_review": {
+      "date": "2026-11-11",
+      "reviewed_by_integrator": true,
+      "review_actor": "AI technical source reconciliation with targeted cross-checks; not a new human vote or independent human validation",
+      "new_human_cases": [],
+      "why_no_new_author_case": "All newly identified issues can be resolved by the ratified scope rules and original content, or remain explicit documentary unknowns. Missing respondent data, unavailable arm allocation bridges, pooled controls and uncertain death causes are not questions that author ratification can turn into facts.",
+      "resolved_technical_issues": [
+        {
+          "issue": "Historical pooled-control witness versus the exact original-arm target",
+          "disposition": "The STEP6 historical complete mortality label is preserved as historical, while its underlying three-group pooled-placebo proof is retained as supporting information. The primary report explicitly describes four randomized arms and the SAP explicitly prespecifies pooling the two placebo arms. That proof does not supply each original placebo denominator; the current exact original-arm cell therefore remains unknown. This is a source-scope correction under the retained arm-specific rule, not a new human vote or erasure of the earlier source-group result.",
+          "provenance": "STEP6 primary PDF1 describes allocation4:1:2:1; SAP PDF15/printed13 explicitly describes two randomized placebo arms pooled in analyses. Root checked both against the historical R0/B3 proof record."
+        },
+        {
+          "issue": "Nominal versus actual C-SSRS denominators",
+          "disposition": "Detailed end-of-trial tables distinguish item respondents and phase-specific subsets. Maintenance initial-phase ideation and actual attempt have an all-SAS witness; its completed-suicide placebo item has one missing respondent. Diabetes and Obesity respondent subsets are not relabeled as their full nominal SAS. Follow-up subsets are not extended to the original full population.",
+          "provenance": "SCALE CSR Maintenance PDF989-990; Diabetes PDF1701/1703; Obesity PDF3525; targeted cross-check QA_SCALE_JUDGMENTS.json."
+        },
+        {
+          "issue": "An originally unknown cause assigned cardiovascular by charter",
+          "disposition": "The Obesity report's explicit uncertainty is preserved. A charter cardiovascular classification is not substituted for proof that the unresolved death was nonsuicidal.",
+          "provenance": "SCALE Obesity CSR PDF340-341 and its mortality table note."
+        },
+        {
+          "issue": "In-trial and on-treatment AE counts differ",
+          "disposition": "STEP1 CSR source-defined in-trial and on-treatment witnesses remain distinct. Actual treatment attribution is retained for source-defined safety/TEAE; nonzero counts are not silently transported to original-allocation targets. Universal zero derivations require their own proved cohort and window relations.",
+          "provenance": "STEP1 CSR methods PDF58/62/66, AE tables PDF175/563; QA_STEP_JUDGMENTS.json."
+        },
+        {
+          "issue": "Fatal-event counts versus deceased participants",
+          "disposition": "STEP1 CSR explicitly identifies two deceased participants, one per arm, and four fatal events, with adjudicated reported causes. This current proof is kept separate from the older article discrepancy and from AE-versus-mortality modality claims.",
+          "provenance": "STEP1 CSR PDF133-134; root visually read PDF133, which identifies the two causes and event/person partition."
+        },
+        {
+          "issue": "Regulatory pooled AE witnesses versus trial and extension identity",
+          "disposition": "The SURMOUNT FDA case set is linked to the psychiatric report's own trial/dose identities. Initial-phase proofs are independent of the later week193 registry aggregate. AE-completed-suicide absence does not resolve undetermined intent in an all-cause cause list.",
+          "provenance": "FDA NDA217806 clinical review PDF195-197; Wadden2026 Table6 and Results3.2.5; root read both contexts."
+        },
+        {
+          "issue": "Negative label without adequately closed source examination",
+          "disposition": "A missing term in a selected table or text search does not close a relevant source union. Such cells preserve unknown rather than acquiring a false negative-examination flag. Exact prior historical records remain unchanged.",
+          "provenance": "Central cell/proof validator identified this issue before final STEP delivery; source-scoped rationale and unresolved dimensions were corrected."
+        },
+        {
+          "issue": "Older preparation fields inside current dossiers",
+          "disposition": "Earlier extraction observations are explicitly marked historical when detailed current EOT data resolve their respondent denominators. The old files themselves remain preserved.",
+          "provenance": "Final SCALE metadata harmonization and its post-harmonization QA hash check."
+        }
+      ],
+      "scope_limits": [
+        "The current closure uses the cumulative archived source scope at11Nov2026; historical source layers are not silently recalculated or backdated.",
+        "The new reference populations and source-defined windows may differ. Any future comparison must report those differences rather than attribute a change solely to source availability.",
+        "Complete means documentary reconstruction within a stated source target, not perfect clinical ascertainment, a risk estimate or an external validation claim.",
+        "Remaining unknowns are closed scientific dispositions and do not imply missing author forms."
+      ],
+      "human_ratings_rewritten": false,
+      "new_statistics_started": false,
+      "next_step_notice": "The next stage is documentary statistical analysis and sensitivity analyses of this technically frozen input. Notify the authors before starting."
+    },
+    "new_human_votes_added": 0
+  },
+  "new_cases": [],
+  "new_human_votes": 0,
+  "interpretation": "Unknowns are preserved dispositions, not newly generated blank human forms."
+}

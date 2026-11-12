@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-11",
+  "review_type": "AI methodological cross-check; not human validation or an independent source-extraction round",
+  "authoritative_input": "outputs/julgamentos_nucleo28_referencias_modalidades_2026-11-11/JULGAMENTOS_FECHADOS_28_QUATRO_REFERENCIAS.json",
+  "authoritative_input_sha256": "9214d5de3565b49c127c4c414e02edecc88a9f15588112344a573871dbb431f7",
+  "reference_protocol": "outputs/integracao_nucleo28_2026-11-11/plano/PROTOCOLO_NUCLEO_V2_RATIFICADO.json",
+  "methodological_disposition": "The proposed descriptive analysis is consistent with the ratified core if the conditions below are retained. No new population decision or human adjudication is required for these arithmetic operations.",
+  "primary_estimand": {
+    "unit": "One independently randomized trial population; N=28 for each applicable reference/component/modality combination.",
+    "groups": "Four reference definitions multiplied by seven applicable component/modality combinations = 28 separately presented primary rows. The 224 mortality-derivation/ideation-or-attempt cells are inapplicable and excluded, not unknown.",
+    "complete_categories": "Direct complete and derived complete are mutually exclusive source-scoped cell classifications. Report both, together with bounded not-complete and unknown, so C_direct+C_derived+B+U=N.",
+    "conditional_identification_interval": "[C/N, (C+U)/N], conditional on this explicitly enumerated core, the archived current source scope, the reference and classifications. It is not a confidence interval or a probability of clinical suicide. It does not incorporate misclassification, unidentified studies or perfect clinical ascertainment.",
+    "rounding": "Compute with integer counts before rounding percentages for display. Preserve exact count numerators and denominator.",
+    "no_sampling_inference": "No p-values, binomial confidence intervals, programme superiority claims or random-effects meta-analysis are justified by this finite retrospectively delimited documentary census."
+  },
+  "critical_input_observation": {
+    "applicable_positions": 784,
+    "complete_direct_positions": 22,
+    "complete_derived_positions": 150,
+    "bounded_not_complete_positions": 0,
+    "unknown_positions": 612,
+    "interpretation": "All applicable cells are complete or unknown. Accordingly, every primary identification interval and the proposed union/subset/withdrawal sensitivity intervals have an upper endpoint of 100%. This is a substantive result of conservative documentary coding, not a numerical error. Confirmed counts establish lower bounds only; these data do not demonstrate that most trials are non-reconstructible. These position totals are QA diagnostics, not independent trial totals or a pooled scientific percentage."
+  },
+  "secondary_union": {
+    "rule": "Within one unit, reference and component: complete if any applicable modality is complete; otherwise unknown if any is unknown; otherwise bounded not-complete only if all applicable modalities are bounded not-complete.",
+    "proof_type": "A union with at least one direct complete witness can be labeled direct-supported. A union with no direct complete witness but at least one derived witness is derived-only. Report any overlap separately if desired; never sum modality counts as unique trials.",
+    "scope_limit": "For source-defined safety and on-treatment references, the union means a complete witness exists in at least one admissible explicitly stated source population/window. It does not establish completeness of all source variants, a common time horizon across modalities or clinical interchangeability of the modalities."
+  },
+  "sensitivities": [
+    {
+      "id": "WITHDRAW_DERIVED_PROOFS",
+      "status": "Defensible evidence-restriction sensitivity",
+      "rule": "In a separate scenario copy, replace a complete-derived cell with unknown/withheld-derived-proof, leaving all original direct, unknown and bounded not-complete cells untouched. Then apply the normal union rule.",
+      "interpretation": "This measures how much confirmation relies on derivation. It is not a new source classification or a demonstrated absence of direct reporting. Keep original unknowns distinguishable from scenario-withheld positives in audit tables."
+    },
+    {
+      "id": "UNION_WITHOUT_ALL_CAUSE_MORTALITY",
+      "status": "Defensible secondary modality sensitivity",
+      "rule": "Recompute unions using adverse-event reports and structured assessments only. Derived AE witnesses remain admitted unless a separately named derivation-withdrawal scenario is applied.",
+      "interpretation": "Do not describe this as excluding all derivations. No death-to-ideation/attempt conversion or denominator change is permitted."
+    },
+    {
+      "id": "SUBSET24_UNCHANGED_MEMBERSHIP",
+      "status": "Defensible compositional sensitivity, explicitly post-hoc operationalization",
+      "excluded_trial_labels": ["SCALE Maintenance", "STEP 12", "SURMOUNT-3", "SURMOUNT-CN"],
+      "rule": "Select the 24 records without membership_amendment in the frozen core; retain their current 11-Nov classifications. Do not recode any outcome or revive an older source version.",
+      "interpretation": "This is a subset analysis omitting the four author-ratified population amendments, not a finding that they are ineligible and not a reconstruction of an original pre-results analysis. The four remain included in the ratified primary N=28 core."
+    },
+    {
+      "id": "PROGRAMME_STRATA_AND_LEAVE_ONE_OUT",
+      "status": "Defensible descriptive dependency analysis",
+      "programme_denominators": {"SCALE": 6, "STEP": 15, "SURMOUNT": 7},
+      "leave_out_denominators": {"SCALE": 22, "STEP": 13, "SURMOUNT": 21},
+      "rule": "Repeat the same counts and conditional intervals within strata or after omitting one programme, never weighting by participants or pooling effects.",
+      "interpretation": "Differences can reflect source windows, trial era, ascertainment, document availability and review intensity. They do not estimate drug safety differences or comparative reporting quality uncontaminated by those factors."
+    },
+    {
+      "id": "REGISTRY27_CONJUNCTION",
+      "status": "Defensible secondary change of counting unit, not the primary estimand",
+      "rule": "Map the 28 populations to their 27 NCTs using the frozen core. Within one NCT/reference/component/modality require every independently randomized population to be complete. All complete gives complete; any bounded not-complete gives bounded not-complete; otherwise an unknown gives unknown. Retain the GPI1/GPI2 individual records.",
+      "secondary_union_order": "For a secondary registry-level any-modality result, first obtain each population's any-modality union, then require all populations in the NCT complete. Label this explicitly: the two populations may have complete witnesses from different modalities. This is not equivalent to requiring one common modality to be complete across both populations.",
+      "proof_type": "A fully complete registry is entirely direct-supported only if each required population has a direct witness. If any necessary population relies only on derivation, label the registry derivation-dependent; do not call mixed provenance purely derived.",
+      "interpretation": "Only SURMOUNT-OSA has two populations under one NCT. Requiring both is stricter than an any-population rule. Do not merge arm participant counts or pretend there are 27 independently randomized populations."
+    }
+  ],
+  "source_and_reference_limits": [
+    "The current dataset is one cumulative source scope at 11 November 2026. Do not reconstruct historical A-B3 layers by inferring admissibility from source type or an undated file.",
+    "Do not aggregate the four reference profiles as 112 independent trials; their differences are population/window changes within the same 28 trial populations.",
+    "Reference contrasts may include changes in treatment attribution, assessed versus nominal denominator, window and source. Any transition matrices are descriptive and not causal gains from extra sources.",
+    "Retain participant counts, recurrent event counts, positive visits and patient-years separately. The documentary statistics count trial populations, not patients, events or risk estimates.",
+    "Historical 182/159 analyses remain separate dated comparators; differences from the new core cannot be attributed to one factor without a dedicated matched decomposition.",
+    "The current technical judgments were AI-assisted and reuse earlier human decisions within their actual scope. Computational replication does not establish new independent human extraction or validate all source interpretations."
+  ],
+  "recommended_tests": [
+    "All expected 28x4x3x3 keys occur once, including exactly 224 NA keys; reject duplicate/missing keys and inconsistent status/indicator mappings.",
+    "Per applicable row C_direct+C_derived+B+U=N; percentages are based on N, including unknowns.",
+    "Union truth table covers C+U => C, B+U => U, B+B => B, and NA never enters an applicable denominator.",
+    "Derived-withdrawal preserves base input bytes and replaces derived positives by scenario unknowns, not negatives.",
+    "An unknown-only synthetic set has interval [0,1]; all complete [1,1]; all bounded not-complete [0,0].",
+    "Registry conjunction covers C+U => U, B+U => B, C+C => C; verify secondary any-modality union order explicitly.",
+    "Frozen memberships generate 28 populations, 27 registry IDs, 24 unchanged memberships and correct programme denominators without selection based on completeness.",
+    "Independent arithmetic implementation and result-by-result comparison reproduce all primary and secondary rows; preserve frozen input hash."
+  ],
+  "new_human_cases_required_for_this_plan": [],
+  "unresolved_methodological_blockers": [],
+  "authoritative_inputs_modified": false
+}

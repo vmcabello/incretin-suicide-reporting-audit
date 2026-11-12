@@ -1,0 +1,3097 @@
+{
+  "main": [
+    {
+      "table_id": "1",
+      "columns": [
+        "Reference",
+        "Operational target",
+        "Scope guard"
+      ],
+      "rows": [
+        [
+          "Historical treated reference",
+          "Original initial parallel arms among eligible participants receiving at least one dose, including applicable planned observation after withdrawal",
+          "Historical reference is retained only when exact arms, population and window are supported"
+        ],
+        [
+          "Intention to treat",
+          "All randomized participants in their assigned original arms during the source defined randomized follow up",
+          "Equal total numbers do not establish per arm assignment or equivalence to a safety set"
+        ],
+        [
+          "Source defined safety population",
+          "Safety population expressly defined in the exact source",
+          "Treatment received attribution, excluded participants and actual respondent subsets remain distinct"
+        ],
+        [
+          "Source defined on treatment window",
+          "Expressly defined on treatment or treatment emergent adverse event risk window",
+          "The source rule can include lag periods and observation after treatment cessation"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "1",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "2",
+      "columns": [
+        "Component and modality",
+        "Direct",
+        "Derived",
+        "Unknown",
+        "Conditional interval %"
+      ],
+      "rows": [
+        [
+          "Ideation | Adverse events",
+          3,
+          0,
+          25,
+          "10.71-100.00"
+        ],
+        [
+          "Ideation | Structured assessment",
+          0,
+          0,
+          28,
+          "0.00-100.00"
+        ],
+        [
+          "Attempt | Adverse events",
+          2,
+          3,
+          23,
+          "17.86-100.00"
+        ],
+        [
+          "Attempt | Structured assessment",
+          0,
+          0,
+          28,
+          "0.00-100.00"
+        ],
+        [
+          "Death by suicide | Adverse events",
+          1,
+          13,
+          14,
+          "50.00-100.00"
+        ],
+        [
+          "Death by suicide | Structured assessment",
+          0,
+          0,
+          28,
+          "0.00-100.00"
+        ],
+        [
+          "Death by suicide | Mortality derivation",
+          0,
+          18,
+          10,
+          "64.29-100.00"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "2a",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "3",
+      "columns": [
+        "Component and modality",
+        "Direct",
+        "Derived",
+        "Unknown",
+        "Conditional interval %"
+      ],
+      "rows": [
+        [
+          "Ideation | Adverse events",
+          1,
+          1,
+          26,
+          "7.14-100.00"
+        ],
+        [
+          "Ideation | Structured assessment",
+          0,
+          0,
+          28,
+          "0.00-100.00"
+        ],
+        [
+          "Attempt | Adverse events",
+          1,
+          4,
+          23,
+          "17.86-100.00"
+        ],
+        [
+          "Attempt | Structured assessment",
+          0,
+          0,
+          28,
+          "0.00-100.00"
+        ],
+        [
+          "Death by suicide | Adverse events",
+          0,
+          9,
+          19,
+          "32.14-100.00"
+        ],
+        [
+          "Death by suicide | Structured assessment",
+          0,
+          0,
+          28,
+          "0.00-100.00"
+        ],
+        [
+          "Death by suicide | Mortality derivation",
+          0,
+          11,
+          17,
+          "39.29-100.00"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "2b",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "4",
+      "columns": [
+        "Component and modality",
+        "Direct",
+        "Derived",
+        "Unknown",
+        "Conditional interval %"
+      ],
+      "rows": [
+        [
+          "Ideation | Adverse events",
+          5,
+          0,
+          23,
+          "17.86-100.00"
+        ],
+        [
+          "Ideation | Structured assessment",
+          1,
+          0,
+          27,
+          "3.57-100.00"
+        ],
+        [
+          "Attempt | Adverse events",
+          3,
+          3,
+          22,
+          "21.43-100.00"
+        ],
+        [
+          "Attempt | Structured assessment",
+          1,
+          0,
+          27,
+          "3.57-100.00"
+        ],
+        [
+          "Death by suicide | Adverse events",
+          1,
+          20,
+          7,
+          "75.00-100.00"
+        ],
+        [
+          "Death by suicide | Structured assessment",
+          0,
+          0,
+          28,
+          "0.00-100.00"
+        ],
+        [
+          "Death by suicide | Mortality derivation",
+          0,
+          20,
+          8,
+          "71.43-100.00"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "2c",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "5",
+      "columns": [
+        "Component and modality",
+        "Direct",
+        "Derived",
+        "Unknown",
+        "Conditional interval %"
+      ],
+      "rows": [
+        [
+          "Ideation | Adverse events",
+          2,
+          3,
+          23,
+          "17.86-100.00"
+        ],
+        [
+          "Ideation | Structured assessment",
+          0,
+          0,
+          28,
+          "0.00-100.00"
+        ],
+        [
+          "Attempt | Adverse events",
+          1,
+          5,
+          22,
+          "21.43-100.00"
+        ],
+        [
+          "Attempt | Structured assessment",
+          0,
+          0,
+          28,
+          "0.00-100.00"
+        ],
+        [
+          "Death by suicide | Adverse events",
+          0,
+          21,
+          7,
+          "75.00-100.00"
+        ],
+        [
+          "Death by suicide | Structured assessment",
+          0,
+          0,
+          28,
+          "0.00-100.00"
+        ],
+        [
+          "Death by suicide | Mortality derivation",
+          0,
+          19,
+          9,
+          "67.86-100.00"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "2d",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "6",
+      "columns": [
+        "Reference",
+        "Component",
+        "Complete (D; R)",
+        "Unknown",
+        "Conditional interval %"
+      ],
+      "rows": [
+        [
+          "Historical treated",
+          "Ideation",
+          "3 (3; 0)",
+          25,
+          "10.71-100.00"
+        ],
+        [
+          "Historical treated",
+          "Attempt",
+          "5 (2; 3)",
+          23,
+          "17.86-100.00"
+        ],
+        [
+          "Historical treated",
+          "Death by suicide",
+          "20 (1; 19)",
+          8,
+          "71.43-100.00"
+        ],
+        [
+          "Intention to treat",
+          "Ideation",
+          "2 (1; 1)",
+          26,
+          "7.14-100.00"
+        ],
+        [
+          "Intention to treat",
+          "Attempt",
+          "5 (1; 4)",
+          23,
+          "17.86-100.00"
+        ],
+        [
+          "Intention to treat",
+          "Death by suicide",
+          "13 (0; 13)",
+          15,
+          "46.43-100.00"
+        ],
+        [
+          "Source defined safety",
+          "Ideation",
+          "5 (5; 0)",
+          23,
+          "17.86-100.00"
+        ],
+        [
+          "Source defined safety",
+          "Attempt",
+          "6 (3; 3)",
+          22,
+          "21.43-100.00"
+        ],
+        [
+          "Source defined safety",
+          "Death by suicide",
+          "22 (1; 21)",
+          6,
+          "78.57-100.00"
+        ],
+        [
+          "On treatment",
+          "Ideation",
+          "5 (2; 3)",
+          23,
+          "17.86-100.00"
+        ],
+        [
+          "On treatment",
+          "Attempt",
+          "6 (1; 5)",
+          22,
+          "21.43-100.00"
+        ],
+        [
+          "On treatment",
+          "Death by suicide",
+          "21 (0; 21)",
+          7,
+          "75.00-100.00"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "3",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    }
+  ],
+  "supplement": [
+    {
+      "table_id": "S1",
+      "columns": [
+        "Code",
+        "Trial population",
+        "Registry identifier",
+        "Programme",
+        "Primary completion",
+        "Membership amendment"
+      ],
+      "rows": [
+        [
+          "P01",
+          "SCALE Maintenance",
+          "NCT00781937",
+          "SCALE",
+          "2010-09-01",
+          "M1"
+        ],
+        [
+          "P02",
+          "SCALE Obesity and Prediabetes",
+          "NCT01272219",
+          "SCALE",
+          "2013-03-18",
+          "None"
+        ],
+        [
+          "P03",
+          "SCALE Diabetes",
+          "NCT01272232",
+          "SCALE",
+          "2013-01-01",
+          "None"
+        ],
+        [
+          "P04",
+          "SCALE Sleep Apnoea",
+          "NCT01557166",
+          "SCALE",
+          "2013-06-01",
+          "None"
+        ],
+        [
+          "P05",
+          "SCALE Insulin",
+          "NCT02963922",
+          "SCALE",
+          "2018-09-10",
+          "None"
+        ],
+        [
+          "P06",
+          "SCALE IBT",
+          "NCT02963935",
+          "SCALE",
+          "2018-05-23",
+          "None"
+        ],
+        [
+          "P07",
+          "STEP 1",
+          "NCT03548935",
+          "STEP",
+          "2020-03-30",
+          "None"
+        ],
+        [
+          "P08",
+          "STEP 2",
+          "NCT03552757",
+          "STEP",
+          "2020-03-24",
+          "None"
+        ],
+        [
+          "P09",
+          "STEP 3",
+          "NCT03611582",
+          "STEP",
+          "2020-03-18",
+          "None"
+        ],
+        [
+          "P10",
+          "STEP 5",
+          "NCT03693430",
+          "STEP",
+          "2021-01-29",
+          "None"
+        ],
+        [
+          "P11",
+          "STEP 6",
+          "NCT03811574",
+          "STEP",
+          "2020-11-20",
+          "None"
+        ],
+        [
+          "P12",
+          "STEP 7",
+          "NCT04251156",
+          "STEP",
+          "2022-08-23",
+          "None"
+        ],
+        [
+          "P13",
+          "STEP 8",
+          "NCT04074161",
+          "STEP",
+          "2021-03-27",
+          "None"
+        ],
+        [
+          "P14",
+          "STEP 9",
+          "NCT05064735",
+          "STEP",
+          "2023-07-24",
+          "None"
+        ],
+        [
+          "P15",
+          "STEP 10",
+          "NCT05040971",
+          "STEP",
+          "2023-01-06",
+          "None"
+        ],
+        [
+          "P16",
+          "STEP 11",
+          "NCT04998136",
+          "STEP",
+          "2023-10-16",
+          "None"
+        ],
+        [
+          "P17",
+          "STEP 12",
+          "NCT06041217",
+          "STEP",
+          "2025-04-02",
+          "M2"
+        ],
+        [
+          "P18",
+          "STEP UP",
+          "NCT05646706",
+          "STEP",
+          "2024-10-30",
+          "None"
+        ],
+        [
+          "P19",
+          "STEP UP T2D",
+          "NCT05649137",
+          "STEP",
+          "2024-10-28",
+          "None"
+        ],
+        [
+          "P20",
+          "STEP HFpEF",
+          "NCT04788511",
+          "STEP",
+          "2023-04-18",
+          "None"
+        ],
+        [
+          "P21",
+          "STEP HFpEF DM",
+          "NCT04916470",
+          "STEP",
+          "2023-10-11",
+          "None"
+        ],
+        [
+          "P22",
+          "SURMOUNT-1",
+          "NCT04184622",
+          "SURMOUNT",
+          "2022-04-01",
+          "None"
+        ],
+        [
+          "P23",
+          "SURMOUNT-2",
+          "NCT04657003",
+          "SURMOUNT",
+          "2023-03-16",
+          "None"
+        ],
+        [
+          "P24",
+          "SURMOUNT-3",
+          "NCT04657016",
+          "SURMOUNT",
+          "2023-04-20",
+          "M1"
+        ],
+        [
+          "P25",
+          "SURMOUNT-CN",
+          "NCT05024032",
+          "SURMOUNT",
+          "2022-12-27",
+          "M3"
+        ],
+        [
+          "P26",
+          "SURMOUNT-J",
+          "NCT04844918",
+          "SURMOUNT",
+          "2023-06-24",
+          "None"
+        ],
+        [
+          "P27",
+          "SURMOUNT-OSA GPI1",
+          "NCT05412004",
+          "SURMOUNT",
+          "2024-03-12",
+          "None"
+        ],
+        [
+          "P28",
+          "SURMOUNT-OSA GPI2",
+          "NCT05412004",
+          "SURMOUNT",
+          "2024-03-12",
+          "None"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "S1",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "S2",
+      "columns": [
+        "Reference",
+        "Operational target",
+        "Scope guard"
+      ],
+      "rows": [
+        [
+          "Historical treated reference",
+          "Original initial parallel arms among eligible participants receiving at least one dose, including applicable planned observation after withdrawal",
+          "Historical reference is retained only when exact arms, population and window are supported"
+        ],
+        [
+          "Intention to treat",
+          "All randomized participants in their assigned original arms during the source defined randomized follow up",
+          "Equal total numbers do not establish per arm assignment or equivalence to a safety set"
+        ],
+        [
+          "Source defined safety population",
+          "Safety population expressly defined in the exact source",
+          "Treatment received attribution, excluded participants and actual respondent subsets remain distinct"
+        ],
+        [
+          "Source defined on treatment window",
+          "Expressly defined on treatment or treatment emergent adverse event risk window",
+          "The source rule can include lag periods and observation after treatment cessation"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "S2",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "S3",
+      "columns": [
+        "Code",
+        "SI AE",
+        "SI structured",
+        "Attempt AE",
+        "Attempt structured",
+        "Death AE",
+        "Death structured",
+        "Death mortality"
+      ],
+      "rows": [
+        [
+          "P01",
+          "D",
+          "?",
+          "D",
+          "?",
+          "D",
+          "?",
+          "R"
+        ],
+        [
+          "P02",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P03",
+          "D",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R"
+        ],
+        [
+          "P04",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P05",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R"
+        ],
+        [
+          "P06",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R"
+        ],
+        [
+          "P07",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P08",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P09",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P10",
+          "D",
+          "?",
+          "D",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P11",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P12",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P13",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P14",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R"
+        ],
+        [
+          "P15",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R"
+        ],
+        [
+          "P16",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R"
+        ],
+        [
+          "P17",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P18",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P19",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P20",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P21",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P22",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R",
+          "?",
+          "?"
+        ],
+        [
+          "P23",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R",
+          "?",
+          "?"
+        ],
+        [
+          "P24",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P25",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P26",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P27",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P28",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "S3a",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "S4",
+      "columns": [
+        "Code",
+        "SI AE",
+        "SI structured",
+        "Attempt AE",
+        "Attempt structured",
+        "Death AE",
+        "Death structured",
+        "Death mortality"
+      ],
+      "rows": [
+        [
+          "P01",
+          "R",
+          "?",
+          "R",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P02",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P03",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P04",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P05",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P06",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R"
+        ],
+        [
+          "P07",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P08",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P09",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P10",
+          "D",
+          "?",
+          "D",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P11",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P12",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P13",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P14",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P15",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R"
+        ],
+        [
+          "P16",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R"
+        ],
+        [
+          "P17",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P18",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R"
+        ],
+        [
+          "P19",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P20",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P21",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P22",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R",
+          "?",
+          "?"
+        ],
+        [
+          "P23",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R",
+          "?",
+          "?"
+        ],
+        [
+          "P24",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P25",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P26",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P27",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P28",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "S3b",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "S5",
+      "columns": [
+        "Code",
+        "SI AE",
+        "SI structured",
+        "Attempt AE",
+        "Attempt structured",
+        "Death AE",
+        "Death structured",
+        "Death mortality"
+      ],
+      "rows": [
+        [
+          "P01",
+          "D",
+          "D",
+          "D",
+          "D",
+          "D",
+          "?",
+          "R"
+        ],
+        [
+          "P02",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P03",
+          "D",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P04",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P05",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P06",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P07",
+          "D",
+          "?",
+          "D",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P08",
+          "D",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P09",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P10",
+          "D",
+          "?",
+          "D",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P11",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P12",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P13",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P14",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P15",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P16",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P17",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R"
+        ],
+        [
+          "P18",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P19",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P20",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P21",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P22",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R",
+          "?",
+          "?"
+        ],
+        [
+          "P23",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R",
+          "?",
+          "?"
+        ],
+        [
+          "P24",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P25",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P26",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P27",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P28",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "S3c",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "S6",
+      "columns": [
+        "Code",
+        "SI AE",
+        "SI structured",
+        "Attempt AE",
+        "Attempt structured",
+        "Death AE",
+        "Death structured",
+        "Death mortality"
+      ],
+      "rows": [
+        [
+          "P01",
+          "R",
+          "?",
+          "R",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P02",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P03",
+          "R",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P04",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P05",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P06",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P07",
+          "D",
+          "?",
+          "D",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P08",
+          "D",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P09",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P10",
+          "R",
+          "?",
+          "R",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P11",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P12",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P13",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P14",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P15",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P16",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P17",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P18",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P19",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P20",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P21",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "P22",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R",
+          "?",
+          "?"
+        ],
+        [
+          "P23",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R",
+          "?",
+          "?"
+        ],
+        [
+          "P24",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P25",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P26",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P27",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ],
+        [
+          "P28",
+          "?",
+          "?",
+          "?",
+          "?",
+          "R",
+          "?",
+          "R"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "S3d",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "S7",
+      "columns": [
+        "Reference",
+        "Component",
+        "N",
+        "Direct supported",
+        "Derivation required",
+        "Unknown",
+        "Conditional interval %"
+      ],
+      "rows": [
+        [
+          "Historical treated",
+          "Suicidal ideation",
+          28,
+          3,
+          0,
+          25,
+          "10.71 to 100.00"
+        ],
+        [
+          "Historical treated",
+          "Suicide attempt",
+          28,
+          2,
+          0,
+          26,
+          "7.14 to 100.00"
+        ],
+        [
+          "Historical treated",
+          "Suicide death",
+          28,
+          1,
+          0,
+          27,
+          "3.57 to 100.00"
+        ],
+        [
+          "ITT",
+          "Suicidal ideation",
+          28,
+          1,
+          0,
+          27,
+          "3.57 to 100.00"
+        ],
+        [
+          "ITT",
+          "Suicide attempt",
+          28,
+          1,
+          0,
+          27,
+          "3.57 to 100.00"
+        ],
+        [
+          "ITT",
+          "Suicide death",
+          28,
+          0,
+          0,
+          28,
+          "0.00 to 100.00"
+        ],
+        [
+          "Source defined safety population",
+          "Suicidal ideation",
+          28,
+          5,
+          0,
+          23,
+          "17.86 to 100.00"
+        ],
+        [
+          "Source defined safety population",
+          "Suicide attempt",
+          28,
+          3,
+          0,
+          25,
+          "10.71 to 100.00"
+        ],
+        [
+          "Source defined safety population",
+          "Suicide death",
+          28,
+          1,
+          0,
+          27,
+          "3.57 to 100.00"
+        ],
+        [
+          "Source defined on treatment window",
+          "Suicidal ideation",
+          28,
+          2,
+          0,
+          26,
+          "7.14 to 100.00"
+        ],
+        [
+          "Source defined on treatment window",
+          "Suicide attempt",
+          28,
+          1,
+          0,
+          27,
+          "3.57 to 100.00"
+        ],
+        [
+          "Source defined on treatment window",
+          "Suicide death",
+          28,
+          0,
+          0,
+          28,
+          "0.00 to 100.00"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "S4a",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "S8",
+      "columns": [
+        "Reference",
+        "Component",
+        "N",
+        "Direct supported",
+        "Derivation required",
+        "Unknown",
+        "Conditional interval %"
+      ],
+      "rows": [
+        [
+          "Historical treated",
+          "Suicidal ideation",
+          28,
+          3,
+          0,
+          25,
+          "10.71 to 100.00"
+        ],
+        [
+          "Historical treated",
+          "Suicide attempt",
+          28,
+          2,
+          3,
+          23,
+          "17.86 to 100.00"
+        ],
+        [
+          "Historical treated",
+          "Suicide death",
+          28,
+          1,
+          13,
+          14,
+          "50.00 to 100.00"
+        ],
+        [
+          "ITT",
+          "Suicidal ideation",
+          28,
+          1,
+          1,
+          26,
+          "7.14 to 100.00"
+        ],
+        [
+          "ITT",
+          "Suicide attempt",
+          28,
+          1,
+          4,
+          23,
+          "17.86 to 100.00"
+        ],
+        [
+          "ITT",
+          "Suicide death",
+          28,
+          0,
+          9,
+          19,
+          "32.14 to 100.00"
+        ],
+        [
+          "Source defined safety population",
+          "Suicidal ideation",
+          28,
+          5,
+          0,
+          23,
+          "17.86 to 100.00"
+        ],
+        [
+          "Source defined safety population",
+          "Suicide attempt",
+          28,
+          3,
+          3,
+          22,
+          "21.43 to 100.00"
+        ],
+        [
+          "Source defined safety population",
+          "Suicide death",
+          28,
+          1,
+          20,
+          7,
+          "75.00 to 100.00"
+        ],
+        [
+          "Source defined on treatment window",
+          "Suicidal ideation",
+          28,
+          2,
+          3,
+          23,
+          "17.86 to 100.00"
+        ],
+        [
+          "Source defined on treatment window",
+          "Suicide attempt",
+          28,
+          1,
+          5,
+          22,
+          "21.43 to 100.00"
+        ],
+        [
+          "Source defined on treatment window",
+          "Suicide death",
+          28,
+          0,
+          21,
+          7,
+          "75.00 to 100.00"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "S4b",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "S9",
+      "columns": [
+        "Reference",
+        "Component",
+        "N",
+        "Direct supported",
+        "Derivation required",
+        "Unknown",
+        "Conditional interval %"
+      ],
+      "rows": [
+        [
+          "Historical treated",
+          "Suicidal ideation",
+          24,
+          2,
+          0,
+          22,
+          "8.33 to 100.00"
+        ],
+        [
+          "Historical treated",
+          "Suicide attempt",
+          24,
+          1,
+          2,
+          21,
+          "12.50 to 100.00"
+        ],
+        [
+          "Historical treated",
+          "Suicide death",
+          24,
+          0,
+          17,
+          7,
+          "70.83 to 100.00"
+        ],
+        [
+          "ITT",
+          "Suicidal ideation",
+          24,
+          1,
+          0,
+          23,
+          "4.17 to 100.00"
+        ],
+        [
+          "ITT",
+          "Suicide attempt",
+          24,
+          1,
+          2,
+          21,
+          "12.50 to 100.00"
+        ],
+        [
+          "ITT",
+          "Suicide death",
+          24,
+          0,
+          10,
+          14,
+          "41.67 to 100.00"
+        ],
+        [
+          "Source defined safety population",
+          "Suicidal ideation",
+          24,
+          4,
+          0,
+          20,
+          "16.67 to 100.00"
+        ],
+        [
+          "Source defined safety population",
+          "Suicide attempt",
+          24,
+          2,
+          2,
+          20,
+          "16.67 to 100.00"
+        ],
+        [
+          "Source defined safety population",
+          "Suicide death",
+          24,
+          0,
+          18,
+          6,
+          "75.00 to 100.00"
+        ],
+        [
+          "Source defined on treatment window",
+          "Suicidal ideation",
+          24,
+          2,
+          2,
+          20,
+          "16.67 to 100.00"
+        ],
+        [
+          "Source defined on treatment window",
+          "Suicide attempt",
+          24,
+          1,
+          3,
+          20,
+          "16.67 to 100.00"
+        ],
+        [
+          "Source defined on treatment window",
+          "Suicide death",
+          24,
+          0,
+          18,
+          6,
+          "75.00 to 100.00"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "S4c",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "S10",
+      "columns": [
+        "Reference",
+        "Component",
+        "N",
+        "Direct supported",
+        "Derivation required",
+        "Unknown",
+        "Conditional interval %"
+      ],
+      "rows": [
+        [
+          "Historical treated",
+          "Suicidal ideation",
+          27,
+          3,
+          0,
+          24,
+          "11.11 to 100.00"
+        ],
+        [
+          "Historical treated",
+          "Suicide attempt",
+          27,
+          2,
+          3,
+          22,
+          "18.52 to 100.00"
+        ],
+        [
+          "Historical treated",
+          "Suicide death",
+          27,
+          1,
+          18,
+          8,
+          "70.37 to 100.00"
+        ],
+        [
+          "ITT",
+          "Suicidal ideation",
+          27,
+          1,
+          1,
+          25,
+          "7.41 to 100.00"
+        ],
+        [
+          "ITT",
+          "Suicide attempt",
+          27,
+          1,
+          4,
+          22,
+          "18.52 to 100.00"
+        ],
+        [
+          "ITT",
+          "Suicide death",
+          27,
+          0,
+          12,
+          15,
+          "44.44 to 100.00"
+        ],
+        [
+          "Source defined safety population",
+          "Suicidal ideation",
+          27,
+          5,
+          0,
+          22,
+          "18.52 to 100.00"
+        ],
+        [
+          "Source defined safety population",
+          "Suicide attempt",
+          27,
+          3,
+          3,
+          21,
+          "22.22 to 100.00"
+        ],
+        [
+          "Source defined safety population",
+          "Suicide death",
+          27,
+          1,
+          20,
+          6,
+          "77.78 to 100.00"
+        ],
+        [
+          "Source defined on treatment window",
+          "Suicidal ideation",
+          27,
+          2,
+          3,
+          22,
+          "18.52 to 100.00"
+        ],
+        [
+          "Source defined on treatment window",
+          "Suicide attempt",
+          27,
+          1,
+          5,
+          21,
+          "22.22 to 100.00"
+        ],
+        [
+          "Source defined on treatment window",
+          "Suicide death",
+          27,
+          0,
+          20,
+          7,
+          "74.07 to 100.00"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "S4d",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "S11",
+      "columns": [
+        "Composition",
+        "Component",
+        "N",
+        "Direct supported",
+        "Requires derivation",
+        "Unknown",
+        "Conditional interval percent"
+      ],
+      "rows": [
+        [
+          "Only SCALE",
+          "Suicidal ideation",
+          6,
+          2,
+          0,
+          4,
+          "33.33 to 100.00"
+        ],
+        [
+          "Only SCALE",
+          "Suicide attempt",
+          6,
+          1,
+          0,
+          5,
+          "16.67 to 100.00"
+        ],
+        [
+          "Only SCALE",
+          "Suicide death",
+          6,
+          1,
+          4,
+          1,
+          "83.33 to 100.00"
+        ],
+        [
+          "Without SCALE",
+          "Suicidal ideation",
+          22,
+          1,
+          0,
+          21,
+          "4.55 to 100.00"
+        ],
+        [
+          "Without SCALE",
+          "Suicide attempt",
+          22,
+          1,
+          3,
+          18,
+          "18.18 to 100.00"
+        ],
+        [
+          "Without SCALE",
+          "Suicide death",
+          22,
+          0,
+          15,
+          7,
+          "68.18 to 100.00"
+        ],
+        [
+          "Only STEP",
+          "Suicidal ideation",
+          15,
+          1,
+          0,
+          14,
+          "6.67 to 100.00"
+        ],
+        [
+          "Only STEP",
+          "Suicide attempt",
+          15,
+          1,
+          0,
+          14,
+          "6.67 to 100.00"
+        ],
+        [
+          "Only STEP",
+          "Suicide death",
+          15,
+          0,
+          9,
+          6,
+          "60.00 to 100.00"
+        ],
+        [
+          "Without STEP",
+          "Suicidal ideation",
+          13,
+          2,
+          0,
+          11,
+          "15.38 to 100.00"
+        ],
+        [
+          "Without STEP",
+          "Suicide attempt",
+          13,
+          1,
+          3,
+          9,
+          "30.77 to 100.00"
+        ],
+        [
+          "Without STEP",
+          "Suicide death",
+          13,
+          1,
+          10,
+          2,
+          "84.62 to 100.00"
+        ],
+        [
+          "Only SURMOUNT",
+          "Suicidal ideation",
+          7,
+          0,
+          0,
+          7,
+          "0.00 to 100.00"
+        ],
+        [
+          "Only SURMOUNT",
+          "Suicide attempt",
+          7,
+          0,
+          3,
+          4,
+          "42.86 to 100.00"
+        ],
+        [
+          "Only SURMOUNT",
+          "Suicide death",
+          7,
+          0,
+          6,
+          1,
+          "85.71 to 100.00"
+        ],
+        [
+          "Without SURMOUNT",
+          "Suicidal ideation",
+          21,
+          3,
+          0,
+          18,
+          "14.29 to 100.00"
+        ],
+        [
+          "Without SURMOUNT",
+          "Suicide attempt",
+          21,
+          2,
+          0,
+          19,
+          "9.52 to 100.00"
+        ],
+        [
+          "Without SURMOUNT",
+          "Suicide death",
+          21,
+          1,
+          13,
+          7,
+          "66.67 to 100.00"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "S5a",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "S12",
+      "columns": [
+        "Composition",
+        "Component",
+        "N",
+        "Direct supported",
+        "Requires derivation",
+        "Unknown",
+        "Conditional interval percent"
+      ],
+      "rows": [
+        [
+          "Only SCALE",
+          "Suicidal ideation",
+          6,
+          0,
+          1,
+          5,
+          "16.67 to 100.00"
+        ],
+        [
+          "Only SCALE",
+          "Suicide attempt",
+          6,
+          0,
+          1,
+          5,
+          "16.67 to 100.00"
+        ],
+        [
+          "Only SCALE",
+          "Suicide death",
+          6,
+          0,
+          2,
+          4,
+          "33.33 to 100.00"
+        ],
+        [
+          "Without SCALE",
+          "Suicidal ideation",
+          22,
+          1,
+          0,
+          21,
+          "4.55 to 100.00"
+        ],
+        [
+          "Without SCALE",
+          "Suicide attempt",
+          22,
+          1,
+          3,
+          18,
+          "18.18 to 100.00"
+        ],
+        [
+          "Without SCALE",
+          "Suicide death",
+          22,
+          0,
+          11,
+          11,
+          "50.00 to 100.00"
+        ],
+        [
+          "Only STEP",
+          "Suicidal ideation",
+          15,
+          1,
+          0,
+          14,
+          "6.67 to 100.00"
+        ],
+        [
+          "Only STEP",
+          "Suicide attempt",
+          15,
+          1,
+          0,
+          14,
+          "6.67 to 100.00"
+        ],
+        [
+          "Only STEP",
+          "Suicide death",
+          15,
+          0,
+          6,
+          9,
+          "40.00 to 100.00"
+        ],
+        [
+          "Without STEP",
+          "Suicidal ideation",
+          13,
+          0,
+          1,
+          12,
+          "7.69 to 100.00"
+        ],
+        [
+          "Without STEP",
+          "Suicide attempt",
+          13,
+          0,
+          4,
+          9,
+          "30.77 to 100.00"
+        ],
+        [
+          "Without STEP",
+          "Suicide death",
+          13,
+          0,
+          7,
+          6,
+          "53.85 to 100.00"
+        ],
+        [
+          "Only SURMOUNT",
+          "Suicidal ideation",
+          7,
+          0,
+          0,
+          7,
+          "0.00 to 100.00"
+        ],
+        [
+          "Only SURMOUNT",
+          "Suicide attempt",
+          7,
+          0,
+          3,
+          4,
+          "42.86 to 100.00"
+        ],
+        [
+          "Only SURMOUNT",
+          "Suicide death",
+          7,
+          0,
+          5,
+          2,
+          "71.43 to 100.00"
+        ],
+        [
+          "Without SURMOUNT",
+          "Suicidal ideation",
+          21,
+          1,
+          1,
+          19,
+          "9.52 to 100.00"
+        ],
+        [
+          "Without SURMOUNT",
+          "Suicide attempt",
+          21,
+          1,
+          1,
+          19,
+          "9.52 to 100.00"
+        ],
+        [
+          "Without SURMOUNT",
+          "Suicide death",
+          21,
+          0,
+          8,
+          13,
+          "38.10 to 100.00"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "S5b",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "S13",
+      "columns": [
+        "Composition",
+        "Component",
+        "N",
+        "Direct supported",
+        "Requires derivation",
+        "Unknown",
+        "Conditional interval percent"
+      ],
+      "rows": [
+        [
+          "Only SCALE",
+          "Suicidal ideation",
+          6,
+          2,
+          0,
+          4,
+          "33.33 to 100.00"
+        ],
+        [
+          "Only SCALE",
+          "Suicide attempt",
+          6,
+          1,
+          0,
+          5,
+          "16.67 to 100.00"
+        ],
+        [
+          "Only SCALE",
+          "Suicide death",
+          6,
+          1,
+          4,
+          1,
+          "83.33 to 100.00"
+        ],
+        [
+          "Without SCALE",
+          "Suicidal ideation",
+          22,
+          3,
+          0,
+          19,
+          "13.64 to 100.00"
+        ],
+        [
+          "Without SCALE",
+          "Suicide attempt",
+          22,
+          2,
+          3,
+          17,
+          "22.73 to 100.00"
+        ],
+        [
+          "Without SCALE",
+          "Suicide death",
+          22,
+          0,
+          17,
+          5,
+          "77.27 to 100.00"
+        ],
+        [
+          "Only STEP",
+          "Suicidal ideation",
+          15,
+          3,
+          0,
+          12,
+          "20.00 to 100.00"
+        ],
+        [
+          "Only STEP",
+          "Suicide attempt",
+          15,
+          2,
+          0,
+          13,
+          "13.33 to 100.00"
+        ],
+        [
+          "Only STEP",
+          "Suicide death",
+          15,
+          0,
+          10,
+          5,
+          "66.67 to 100.00"
+        ],
+        [
+          "Without STEP",
+          "Suicidal ideation",
+          13,
+          2,
+          0,
+          11,
+          "15.38 to 100.00"
+        ],
+        [
+          "Without STEP",
+          "Suicide attempt",
+          13,
+          1,
+          3,
+          9,
+          "30.77 to 100.00"
+        ],
+        [
+          "Without STEP",
+          "Suicide death",
+          13,
+          1,
+          11,
+          1,
+          "92.31 to 100.00"
+        ],
+        [
+          "Only SURMOUNT",
+          "Suicidal ideation",
+          7,
+          0,
+          0,
+          7,
+          "0.00 to 100.00"
+        ],
+        [
+          "Only SURMOUNT",
+          "Suicide attempt",
+          7,
+          0,
+          3,
+          4,
+          "42.86 to 100.00"
+        ],
+        [
+          "Only SURMOUNT",
+          "Suicide death",
+          7,
+          0,
+          7,
+          0,
+          "100.00 to 100.00"
+        ],
+        [
+          "Without SURMOUNT",
+          "Suicidal ideation",
+          21,
+          5,
+          0,
+          16,
+          "23.81 to 100.00"
+        ],
+        [
+          "Without SURMOUNT",
+          "Suicide attempt",
+          21,
+          3,
+          0,
+          18,
+          "14.29 to 100.00"
+        ],
+        [
+          "Without SURMOUNT",
+          "Suicide death",
+          21,
+          1,
+          14,
+          6,
+          "71.43 to 100.00"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "S5c",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    },
+    {
+      "table_id": "S14",
+      "columns": [
+        "Composition",
+        "Component",
+        "N",
+        "Direct supported",
+        "Requires derivation",
+        "Unknown",
+        "Conditional interval percent"
+      ],
+      "rows": [
+        [
+          "Only SCALE",
+          "Suicidal ideation",
+          6,
+          0,
+          2,
+          4,
+          "33.33 to 100.00"
+        ],
+        [
+          "Only SCALE",
+          "Suicide attempt",
+          6,
+          0,
+          1,
+          5,
+          "16.67 to 100.00"
+        ],
+        [
+          "Only SCALE",
+          "Suicide death",
+          6,
+          0,
+          5,
+          1,
+          "83.33 to 100.00"
+        ],
+        [
+          "Without SCALE",
+          "Suicidal ideation",
+          22,
+          2,
+          1,
+          19,
+          "13.64 to 100.00"
+        ],
+        [
+          "Without SCALE",
+          "Suicide attempt",
+          22,
+          1,
+          4,
+          17,
+          "22.73 to 100.00"
+        ],
+        [
+          "Without SCALE",
+          "Suicide death",
+          22,
+          0,
+          16,
+          6,
+          "72.73 to 100.00"
+        ],
+        [
+          "Only STEP",
+          "Suicidal ideation",
+          15,
+          2,
+          1,
+          12,
+          "20.00 to 100.00"
+        ],
+        [
+          "Only STEP",
+          "Suicide attempt",
+          15,
+          1,
+          1,
+          13,
+          "13.33 to 100.00"
+        ],
+        [
+          "Only STEP",
+          "Suicide death",
+          15,
+          0,
+          9,
+          6,
+          "60.00 to 100.00"
+        ],
+        [
+          "Without STEP",
+          "Suicidal ideation",
+          13,
+          0,
+          2,
+          11,
+          "15.38 to 100.00"
+        ],
+        [
+          "Without STEP",
+          "Suicide attempt",
+          13,
+          0,
+          4,
+          9,
+          "30.77 to 100.00"
+        ],
+        [
+          "Without STEP",
+          "Suicide death",
+          13,
+          0,
+          12,
+          1,
+          "92.31 to 100.00"
+        ],
+        [
+          "Only SURMOUNT",
+          "Suicidal ideation",
+          7,
+          0,
+          0,
+          7,
+          "0.00 to 100.00"
+        ],
+        [
+          "Only SURMOUNT",
+          "Suicide attempt",
+          7,
+          0,
+          3,
+          4,
+          "42.86 to 100.00"
+        ],
+        [
+          "Only SURMOUNT",
+          "Suicide death",
+          7,
+          0,
+          7,
+          0,
+          "100.00 to 100.00"
+        ],
+        [
+          "Without SURMOUNT",
+          "Suicidal ideation",
+          21,
+          2,
+          3,
+          16,
+          "23.81 to 100.00"
+        ],
+        [
+          "Without SURMOUNT",
+          "Suicide attempt",
+          21,
+          1,
+          2,
+          18,
+          "14.29 to 100.00"
+        ],
+        [
+          "Without SURMOUNT",
+          "Suicide death",
+          21,
+          0,
+          14,
+          7,
+          "66.67 to 100.00"
+        ]
+      ],
+      "provenance": {
+        "neutral_table_id": "S5d",
+        "source_results_sha256": "5bde0e6119498a8181922aa55f9bc9763e085128db4ab469cc6f8cf9e73b8bc3"
+      }
+    }
+  ],
+  "source_neutral_bindings_sha256": "591477048f34b0414876166fc1041319b1937314bf35e3fb8fee09d380022693",
+  "numeric_cells_changed": false
+}

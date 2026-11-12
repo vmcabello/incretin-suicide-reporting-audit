@@ -1,0 +1,1847 @@
+{
+  "records": [
+    {
+      "source_id": "SRC-4d6de3cf9621b5559e63e9fa",
+      "sha256": "4d6de3cf9621b5559e63e9fa68296b82d33058e8a3d728d8a98a3dc59fabb4bc",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\4d\\4d6de3cf9621b5559e63e9fa68296b82d33058e8a3d728d8a98a3dc59fabb4bc.json",
+      "title": "NCT01272219.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT01272219"
+      ],
+      "unit_ids": [
+        "NCT01272219:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-52ac9a1348abd6606de4adfa",
+      "sha256": "52ac9a1348abd6606de4adfa425fd8ea28e3c0557e8b29ec7c35edc470173f91",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\52\\52ac9a1348abd6606de4adfa425fd8ea28e3c0557e8b29ec7c35edc470173f91.pdf",
+      "title": "pi-sunyer2015.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT01272219:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-2beda1e5ae1e8b0a65b108e9",
+      "sha256": "2beda1e5ae1e8b0a65b108e9b5cf7e53dec6b100b97e22535e5fdde63d9ad8e8",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\2b\\2beda1e5ae1e8b0a65b108e9b5cf7e53dec6b100b97e22535e5fdde63d9ad8e8.pdf",
+      "title": "2beda1e5ae1e8b0a65b108e9b5cf7e53dec6b100b97e22535e5fdde63d9ad8e8.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04184622:CANDIDATE_BLOCK",
+        "NCT04657003:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-7f36800d69255768fa2e500d",
+      "sha256": "7f36800d69255768fa2e500df497a216f434181b13f688a9771e64be54688e46",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\7f\\7f36800d69255768fa2e500df497a216f434181b13f688a9771e64be54688e46.pdf",
+      "title": "S7f36800d69255768.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04184622:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-89affea5b5e992e4bc555a2c",
+      "sha256": "89affea5b5e992e4bc555a2c69e12e213429a9ebc4777aaebfa76185c972ee88",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\89\\89affea5b5e992e4bc555a2c69e12e213429a9ebc4777aaebfa76185c972ee88.pdf",
+      "title": "nejmoa2206038_appendix.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04184622:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-9a78d99174b75f7504cb7313",
+      "sha256": "9a78d99174b75f7504cb7313234921bb1ad456fb97329e2707a212f54976aede",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\9a\\9a78d99174b75f7504cb7313234921bb1ad456fb97329e2707a212f54976aede.pdf",
+      "title": "9a78d99174b75f7504cb7313234921bb1ad456fb97329e2707a212f54976aede.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04184622:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-23e891d47a17c21baa1211bf",
+      "sha256": "23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\23\\23e891d47a17c21baa1211bf9b6be180cd1aa2372650548602a4db3846e5f23c.pdf",
+      "title": "S23e891d47a17c21b.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT03552757:CANDIDATE_BLOCK",
+        "NCT03611582:CANDIDATE_BLOCK",
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-4715d6e6be70bf9015ab4907",
+      "sha256": "4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\47\\4715d6e6be70bf9015ab490782d38cae99d1776e2e92d05f9f6c6ffcc01a47d9.xml",
+      "title": "Psychiatric Safety of Semaglutide for Weight Management in People Without Known Major Psychopathology",
+      "public_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11372653/"
+      ],
+      "unit_ids": [
+        "NCT03548935:CANDIDATE_BLOCK",
+        "NCT03552757:CANDIDATE_BLOCK",
+        "NCT03611582:CANDIDATE_BLOCK",
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-91655aff8d1f877f945cd1ac",
+      "sha256": "91655aff8d1f877f945cd1ac5997d5b312fb3bd6a1b28d2c54e9240a324fe1f8",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\91\\91655aff8d1f877f945cd1ac5997d5b312fb3bd6a1b28d2c54e9240a324fe1f8.pdf",
+      "title": "Semaglutide-2-4-mg-once-a-week-in-adults-with-overweight-or-obesity-and-type-2-diabetes-STEP.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03552757:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-20d6884193e51b7fed4cb649",
+      "sha256": "20d6884193e51b7fed4cb649907f332a34d0de6e549176b26f9cadcd71816ae6",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\20\\20d6884193e51b7fed4cb649907f332a34d0de6e549176b26f9cadcd71816ae6.pdf",
+      "title": "nejmoa2403664_appendix.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05064735:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-4ebb5b9183d93d644418e019",
+      "sha256": "4ebb5b9183d93d644418e019ba43c54314363508d2bd460b8317b599635f3658",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\4e\\4ebb5b9183d93d644418e019ba43c54314363508d2bd460b8317b599635f3658.pdf",
+      "title": "NEJMoa2403664.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05064735:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-814ac34e6d7213fa5b79cf58",
+      "sha256": "814ac34e6d7213fa5b79cf58af1c17af010ac0c29db3ca20c0ab91c349f64320",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\81\\814ac34e6d7213fa5b79cf58af1c17af010ac0c29db3ca20c0ab91c349f64320.xml",
+      "title": "Effect of liraglutide 3.0 mg in individuals with obesity and moderate or severe obstructive sleep apnea: the SCALE Sleep Apnea randomized clinical trial",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT01557166:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-0a16d146000a107993cb580a",
+      "sha256": "0a16d146000a107993cb580a48a928f5d28f4e176b288b171236a8985c81327e",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\0a\\0a16d146000a107993cb580a48a928f5d28f4e176b288b171236a8985c81327e.json",
+      "title": "NCT05412004.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT05412004"
+      ],
+      "unit_ids": [
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-122339be835cbfe890898b1b",
+      "sha256": "122339be835cbfe890898b1b3999e9df3f1d8954d54d50a5654ac74d37b06856",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\12\\122339be835cbfe890898b1b3999e9df3f1d8954d54d50a5654ac74d37b06856.xml",
+      "title": "Patients’ Experiences of Obstructive Sleep Apnea and Tirzepatide Treatment: An Exit Interview Study",
+      "public_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13287229/"
+      ],
+      "unit_ids": [
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-68ecab0a0f2947fb3c6fefaf",
+      "sha256": "68ecab0a0f2947fb3c6fefaf0946cc3a60d0df85fb0ec30c63e60157ce5bdf6d",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\68\\68ecab0a0f2947fb3c6fefaf0946cc3a60d0df85fb0ec30c63e60157ce5bdf6d.xml",
+      "title": "Association between early body weight reduction and treatment outcomes in participants with obstructive sleep apnoea and obesity: a post hoc analysis of SURMOUNT-OSA trials",
+      "public_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13595002/"
+      ],
+      "unit_ids": [
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-77354cd3cdae013fb2521e01",
+      "sha256": "77354cd3cdae013fb2521e01dfdee9e3082ca453aafb41ebc8288f9f08454a41",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\77\\77354cd3cdae013fb2521e01dfdee9e3082ca453aafb41ebc8288f9f08454a41.pdf",
+      "title": "nejmoa2404881_protocol.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-7964eba1c9d00ee0b31b5153",
+      "sha256": "7964eba1c9d00ee0b31b5153abb65c35534fd333b19e8df97c0e0abc3db04932",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\79\\7964eba1c9d00ee0b31b5153abb65c35534fd333b19e8df97c0e0abc3db04932.json",
+      "title": "REFERENCIAS_COMPLETAS_REAPROVEITADAS_8C.json",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04657003:CANDIDATE_BLOCK",
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2",
+        "NCT05646706:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-b940ecca52e358709dc68a6c",
+      "sha256": "b940ecca52e358709dc68a6c00405dce5b240e6258b491c137dc55500fe5a945",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\b9\\b940ecca52e358709dc68a6c00405dce5b240e6258b491c137dc55500fe5a945.pdf",
+      "title": "SURMOUNT_OSA_main.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-d187537213ad745e3c4457ae",
+      "sha256": "d187537213ad745e3c4457aea7cd542e0b413da2904dde78abba14fd960581ae",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\d1\\d187537213ad745e3c4457aea7cd542e0b413da2904dde78abba14fd960581ae.pdf",
+      "title": "nejmoa2404881_appendix.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-da66639a0cbfddd4866a7870",
+      "sha256": "da66639a0cbfddd4866a787023686f558d1fbe55a1651abb308d2a629bc37b39",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\da\\da66639a0cbfddd4866a787023686f558d1fbe55a1651abb308d2a629bc37b39.xml",
+      "title": "Effect of tirzepatide treatment on patient-reported outcomes among SURMOUNT-OSA participants with obstructive sleep apnea and obesity",
+      "public_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12720398/"
+      ],
+      "unit_ids": [
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-daef4e4dbd31ff0d687ac151",
+      "sha256": "daef4e4dbd31ff0d687ac15127e61e88204f52bf88a18ee592fc00dd3733b678",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\da\\daef4e4dbd31ff0d687ac15127e61e88204f52bf88a18ee592fc00dd3733b678.xml",
+      "title": "Tirzepatide on obstructive sleep apnea-related cardiometabolic risk: secondary outcomes of the SURMOUNT-OSA randomized trial",
+      "public_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12920140/"
+      ],
+      "unit_ids": [
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-e463a648f46c2e780d3e1224",
+      "sha256": "e463a648f46c2e780d3e1224c8e391b26b85b128d5089e215aad1253554ccfd8",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\e4\\e463a648f46c2e780d3e1224c8e391b26b85b128d5089e215aad1253554ccfd8.xml",
+      "title": "Association of tirzepatide with changes in OSA-related measures based on baseline characteristics – post hoc analyses of SURMOUNT-OSA",
+      "public_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13530102/"
+      ],
+      "unit_ids": [
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-4fcca9c7b0d755f72cc9bddf",
+      "sha256": "4fcca9c7b0d755f72cc9bddfaee37326f81ac8df10251ee9b222a2430e5ea0e4",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\4f\\4fcca9c7b0d755f72cc9bddfaee37326f81ac8df10251ee9b222a2430e5ea0e4.pdf",
+      "title": "Prot_002.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03552757:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-c30ec7689ba50519bdd6de3d",
+      "sha256": "c30ec7689ba50519bdd6de3d5cdec401f289233dec4f570e4ff6e84809c4aa8a",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\c3\\c30ec7689ba50519bdd6de3d5cdec401f289233dec4f570e4ff6e84809c4aa8a.pdf",
+      "title": "SAP_003.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03552757:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-eda2a390e2af89ae45e3c440",
+      "sha256": "eda2a390e2af89ae45e3c4406e74a04c933d36cc789c2d3869593675426173af",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\ed\\eda2a390e2af89ae45e3c4406e74a04c933d36cc789c2d3869593675426173af.json",
+      "title": "NCT03552757.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT03552757"
+      ],
+      "unit_ids": [
+        "NCT03552757:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": [
+        "CTG-FROZEN-NCT03552757"
+      ]
+    },
+    {
+      "source_id": "SRC-19a137115bb9bb1c00ec67b5",
+      "sha256": "19a137115bb9bb1c00ec67b578ee486bb315fa3698e8384371bf1c040648e6e2",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\19\\19a137115bb9bb1c00ec67b578ee486bb315fa3698e8384371bf1c040648e6e2.pdf",
+      "title": "Prot_000.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04657003:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-309815fc7ea758643ff59e8f",
+      "sha256": "309815fc7ea758643ff59e8f6a71c933f700c2f148626d18c071f12353647582",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\30\\309815fc7ea758643ff59e8f6a71c933f700c2f148626d18c071f12353647582.pdf",
+      "title": "SURMOUNT2_artigo_principal.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04657003:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-4ffc5bea39958298693d4c7c",
+      "sha256": "4ffc5bea39958298693d4c7c340173b79647651c940c95b7cf4b4233e7ddda4e",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\4f\\4ffc5bea39958298693d4c7c340173b79647651c940c95b7cf4b4233e7ddda4e.pdf",
+      "title": "S4ffc5bea39958298.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04184622:CANDIDATE_BLOCK",
+        "NCT04657003:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-5eaa07a62f45e2a8cafd403a",
+      "sha256": "5eaa07a62f45e2a8cafd403ad4553bb58ba88a324859b2f616724384fc643f65",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\5e\\5eaa07a62f45e2a8cafd403ad4553bb58ba88a324859b2f616724384fc643f65.pdf",
+      "title": "suplemento.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04657003:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-8a2b43ea6c74c69348014483",
+      "sha256": "8a2b43ea6c74c69348014483d6b46fc3e451104d89fb7cfe084cc0cdce304e46",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\8a\\8a2b43ea6c74c69348014483d6b46fc3e451104d89fb7cfe084cc0cdce304e46.pdf",
+      "title": "SAP_001.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04657003:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-928e5d0e0d010ed5308d0840",
+      "sha256": "928e5d0e0d010ed5308d084087859cb7ca3cef707ad7a948a643aef81b529f36",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\92\\928e5d0e0d010ed5308d084087859cb7ca3cef707ad7a948a643aef81b529f36.json",
+      "title": "NCT04657003.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT04657003"
+      ],
+      "unit_ids": [
+        "NCT04657003:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-0667c9806fb6800fc4421bd3",
+      "sha256": "0667c9806fb6800fc4421bd342d6fd9f304ed0a5bc463673d7f50ff217e218f6",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\06\\0667c9806fb6800fc4421bd342d6fd9f304ed0a5bc463673d7f50ff217e218f6.html",
+      "title": "STEP8_PMC.html",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04074161:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-09ace8ca382e4d8970252c70",
+      "sha256": "09ace8ca382e4d8970252c707f63513042e5c10a98d4ea705a19b820cc3dce3b",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\09\\09ace8ca382e4d8970252c707f63513042e5c10a98d4ea705a19b820cc3dce3b.docx",
+      "title": "DOM-24-2273-s001.docx",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04074161:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-3f32151617cbf8dd2e050031",
+      "sha256": "3f32151617cbf8dd2e0500317c62f9cc93eeab995bb5c23751e8e870a99fe52a",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\3f\\3f32151617cbf8dd2e0500317c62f9cc93eeab995bb5c23751e8e870a99fe52a.pdf",
+      "title": "Prot_000.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04074161:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-4124546b3c288dcd15561e63",
+      "sha256": "4124546b3c288dcd15561e63dce7e1a2d8536e82ff49e6f256c7f62eef8e3854",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\41\\4124546b3c288dcd15561e63dce7e1a2d8536e82ff49e6f256c7f62eef8e3854.xml",
+      "title": "Ease‐of‐use and acceptability of the novel semaglutide 2.4 mg single‐dose pen‐injector in people with overweight or obesity in the STEP 8 phase III trial",
+      "public_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9805145/"
+      ],
+      "unit_ids": [
+        "NCT04074161:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-bb6ca9bc2fc0d1bae8fb8509",
+      "sha256": "bb6ca9bc2fc0d1bae8fb8509710a95c854e83190917438f57fb90d8e649d420a",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\bb\\bb6ca9bc2fc0d1bae8fb8509710a95c854e83190917438f57fb90d8e649d420a.pdf",
+      "title": "SAP_001.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04074161:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-bf00aca16f3db1c2923654c4",
+      "sha256": "bf00aca16f3db1c2923654c483481c731da16bc7c065ff1dea898b3997450cab",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\bf\\bf00aca16f3db1c2923654c483481c731da16bc7c065ff1dea898b3997450cab.json",
+      "title": "NCT04074161.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT04074161"
+      ],
+      "unit_ids": [
+        "NCT04074161:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": [
+        "CTG-FROZEN-NCT04074161"
+      ]
+    },
+    {
+      "source_id": "SRC-fea46a13a023ffb22f40281c",
+      "sha256": "fea46a13a023ffb22f40281c7719e2ecc712acc108a342e2be630a7bf3c5f949",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\fe\\fea46a13a023ffb22f40281c7719e2ecc712acc108a342e2be630a7bf3c5f949.pdf",
+      "title": "fea46a13a023ffb22f40281c7719e2ecc712acc108a342e2be630a7bf3c5f949.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05024032:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-3b27e4cd1f36de2a8bf58883",
+      "sha256": "3b27e4cd1f36de2a8bf588832ee385c4891d67406613d3f34f3c85377769528d",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\3b\\3b27e4cd1f36de2a8bf588832ee385c4891d67406613d3f34f3c85377769528d.pdf",
+      "title": "STEPUP_supp.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05646706:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-8004a55f9a5aa9132d286876",
+      "sha256": "8004a55f9a5aa9132d2868764899e526fd55e0518b8c6ccbb19354f48d7d0daa",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\80\\8004a55f9a5aa9132d2868764899e526fd55e0518b8c6ccbb19354f48d7d0daa.pdf",
+      "title": "NCT05646706_main.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05646706:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-7302e60759ea4158ea20aca8",
+      "sha256": "7302e60759ea4158ea20aca83c5caa5a6da0b674ab707a6d408e9065e1fd8174",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\73\\7302e60759ea4158ea20aca83c5caa5a6da0b674ab707a6d408e9065e1fd8174.pdf",
+      "title": "Prot_000.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03611582:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-762e47e62c9e7e3632d33d05",
+      "sha256": "762e47e62c9e7e3632d33d053c118dcfcbd13a36d99e4b9414b88dbe7297ef02",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\76\\762e47e62c9e7e3632d33d053c118dcfcbd13a36d99e4b9414b88dbe7297ef02.pdf",
+      "title": "joi210014supp1_prod_1618250237.05292.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03611582:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-a675818f68d2f81df84a3773",
+      "sha256": "a675818f68d2f81df84a37734ad0c63125f0ed8b82ed39efebec3231a8cfa6ba",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\a6\\a675818f68d2f81df84a37734ad0c63125f0ed8b82ed39efebec3231a8cfa6ba.pdf",
+      "title": "SAP_001.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03611582:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-bdaf55236501d463907e8f73",
+      "sha256": "bdaf55236501d463907e8f73be80d324093d2602dba7f8ec565cc5fb69092e5c",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\bd\\bdaf55236501d463907e8f73be80d324093d2602dba7f8ec565cc5fb69092e5c.json",
+      "title": "NCT03611582.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT03611582"
+      ],
+      "unit_ids": [
+        "NCT03611582:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": [
+        "CTG-FROZEN-NCT03611582"
+      ]
+    },
+    {
+      "source_id": "SRC-e2360c46f4213ad0beddf217",
+      "sha256": "e2360c46f4213ad0beddf217f10a7b895f70290618d54bd0ebfaef9f11a28649",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\e2\\e2360c46f4213ad0beddf217f10a7b895f70290618d54bd0ebfaef9f11a28649.pdf",
+      "title": "joi210014supp3_prod_1618250237.06296.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03611582:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-aaa58e71bb0107b5228b487c",
+      "sha256": "aaa58e71bb0107b5228b487c03b7bb508bd5369937d6a62e403d9c3859aff12d",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\aa\\aaa58e71bb0107b5228b487c03b7bb508bd5369937d6a62e403d9c3859aff12d.pdf",
+      "title": "STEP7_supp.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04251156:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-c72f731e42388b6c487227da",
+      "sha256": "c72f731e42388b6c487227dad81361bf2b56f64ac8875063ae06dab8d9c2ce7c",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\c7\\c72f731e42388b6c487227dad81361bf2b56f64ac8875063ae06dab8d9c2ce7c.pdf",
+      "title": "NCT04251156_main.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04251156:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-761ed5f7baa578ebf3f1e6cc",
+      "sha256": "761ed5f7baa578ebf3f1e6cceffe3542353b9a3ecb3b8c5d711c7c79b47c79f2",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\76\\761ed5f7baa578ebf3f1e6cceffe3542353b9a3ecb3b8c5d711c7c79b47c79f2.pdf",
+      "title": "S761ed5f7baa578eb.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT00781937:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-a4fba2ea7e502f6512dac9eb",
+      "sha256": "a4fba2ea7e502f6512dac9eb0e73411f992a1635ac2cb6b55e21d15cac84103c",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\a4\\a4fba2ea7e502f6512dac9eb0e73411f992a1635ac2cb6b55e21d15cac84103c.pdf",
+      "title": "Prot_000.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04251156:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-eb7bd2e8152a8a33b8c6177f",
+      "sha256": "eb7bd2e8152a8a33b8c6177f0427522999a316adfde0082ae52269b4be9765f0",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\eb\\eb7bd2e8152a8a33b8c6177f0427522999a316adfde0082ae52269b4be9765f0.json",
+      "title": "NCT04251156.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT04251156"
+      ],
+      "unit_ids": [
+        "NCT04251156:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": [
+        "CTG-FROZEN-NCT04251156"
+      ]
+    },
+    {
+      "source_id": "SRC-f3a644e2be812d1308bf22a0",
+      "sha256": "f3a644e2be812d1308bf22a0f65bb5c209f3985501898e6a8719fe4894a67f8e",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\f3\\f3a644e2be812d1308bf22a0f65bb5c209f3985501898e6a8719fe4894a67f8e.pdf",
+      "title": "SAP_001.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04251156:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-caa8a6775bacc0cd91dfe876",
+      "sha256": "caa8a6775bacc0cd91dfe8766622bb68a027d600427d5331bfcb041ce2c83601",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\ca\\caa8a6775bacc0cd91dfe8766622bb68a027d600427d5331bfcb041ce2c83601.json",
+      "title": "NCT05646706.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT05646706"
+      ],
+      "unit_ids": [
+        "NCT05646706:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": [
+        "CTG-FROZEN-NCT05646706"
+      ]
+    },
+    {
+      "source_id": "SRC-161a136b604674a6a3bf1157",
+      "sha256": "161a136b604674a6a3bf11571bfb12928f1bd3de79540350cd5ac7781ae58355",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\16\\161a136b604674a6a3bf11571bfb12928f1bd3de79540350cd5ac7781ae58355.pdf",
+      "title": "S161a136b604674a6.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT01272232:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-1e09dc2a545d683feacd0535",
+      "sha256": "1e09dc2a545d683feacd0535e8a2fdadcff0bf31e7e645c419f2df31e7434c42",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\1e\\1e09dc2a545d683feacd0535e8a2fdadcff0bf31e7e645c419f2df31e7434c42.pdf",
+      "title": "S1e09dc2a545d683f.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT01272232:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-357d6ea14e3f7cd7f368c344",
+      "sha256": "357d6ea14e3f7cd7f368c344031642fb028c08e95b657181ef2b4674a30f65e4",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\35\\357d6ea14e3f7cd7f368c344031642fb028c08e95b657181ef2b4674a30f65e4.pdf",
+      "title": "EMA_Saxenda_current.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT01272232:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-5a65471ae1879060cdb6accc",
+      "sha256": "5a65471ae1879060cdb6accc181c9adff43eda0a32a7b8a019c46de0e1b63c67",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\5a\\5a65471ae1879060cdb6accc181c9adff43eda0a32a7b8a019c46de0e1b63c67.pdf",
+      "title": "FDA_Saxenda_summary2014_lookup.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT01272232:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-6eec09871120f9875d695ad4",
+      "sha256": "6eec09871120f9875d695ad452d1ff087cc79a994102adfbd736ab8ea1593ebd",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\6e\\6eec09871120f9875d695ad452d1ff087cc79a994102adfbd736ab8ea1593ebd.png",
+      "title": "oneil_S2_p3.png",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT00781937:CANDIDATE_BLOCK",
+        "NCT01272232:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-832d3787401577fc9a3d361b",
+      "sha256": "832d3787401577fc9a3d361b631486983faba1335146702c8a536b6ded86e234",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\83\\832d3787401577fc9a3d361b631486983faba1335146702c8a536b6ded86e234.pdf",
+      "title": "S832d3787401577fc.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT00781937:CANDIDATE_BLOCK",
+        "NCT01272232:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-985cc062e3f607b0466f8f29",
+      "sha256": "985cc062e3f607b0466f8f2900178cc1ff129bfaaaca5099138f94d32afe104e",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\98\\985cc062e3f607b0466f8f2900178cc1ff129bfaaaca5099138f94d32afe104e.json",
+      "title": "NCT01272232.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT01272232"
+      ],
+      "unit_ids": [
+        "NCT01272232:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-b8da239ce1a48940238ae6b4",
+      "sha256": "b8da239ce1a48940238ae6b4f23e591b1e276e5d59ddbff345f35588e487a006",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\b8\\b8da239ce1a48940238ae6b4f23e591b1e276e5d59ddbff345f35588e487a006.png",
+      "title": "oneil_S2_p4.png",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT00781937:CANDIDATE_BLOCK",
+        "NCT01272232:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-c0622c3d1c810fde08cfbd42",
+      "sha256": "c0622c3d1c810fde08cfbd42e6792f3d9b3bbe0b846361c0bf065b5116fd8dc4",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\c0\\c0622c3d1c810fde08cfbd42e6792f3d9b3bbe0b846361c0bf065b5116fd8dc4.pdf",
+      "title": "davies2015.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT01272232:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-c920b99e3ff0a008efefe776",
+      "sha256": "c920b99e3ff0a008efefe776dc91fd7cc503ab7d167909b8c788ea1e75b4da9c",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\c9\\c920b99e3ff0a008efefe776dc91fd7cc503ab7d167909b8c788ea1e75b4da9c.png",
+      "title": "oneil_S3_p5.png",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT00781937:CANDIDATE_BLOCK",
+        "NCT01272232:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-fdeeee0c45a7c6e11b05aedf",
+      "sha256": "fdeeee0c45a7c6e11b05aedffcd7d10b3227e7c66376515e6a80ad364f747bdd",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\fd\\fdeeee0c45a7c6e11b05aedffcd7d10b3227e7c66376515e6a80ad364f747bdd.png",
+      "title": "oneil_S1.png",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT00781937:CANDIDATE_BLOCK",
+        "NCT01272232:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-2fd4c89647b2c995ab852042",
+      "sha256": "2fd4c89647b2c995ab852042a64348a96ae5b7de067180a83ed91ad4c7fde95f",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\2f\\2fd4c89647b2c995ab852042a64348a96ae5b7de067180a83ed91ad4c7fde95f.pdf",
+      "title": "SAP_003.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03548935:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-5758661dfc0a9fe8ae03fda3",
+      "sha256": "5758661dfc0a9fe8ae03fda3ddb733a6955464d96d5583ebd04c7ed2ad4fe709",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\57\\5758661dfc0a9fe8ae03fda3ddb733a6955464d96d5583ebd04c7ed2ad4fe709.pdf",
+      "title": "nejmoa2032183_appendix.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03548935:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-6f9b733543eda61db264d37c",
+      "sha256": "6f9b733543eda61db264d37c580940b060ae1f7440c708e6670671b8d3eec3f0",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\6f\\6f9b733543eda61db264d37c580940b060ae1f7440c708e6670671b8d3eec3f0.pdf",
+      "title": "editora_repository.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03548935:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-742a7445824c605fae1e16f7",
+      "sha256": "742a7445824c605fae1e16f7069f12d44a3c2037414215782adcf90af931b7c9",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\74\\742a7445824c605fae1e16f7069f12d44a3c2037414215782adcf90af931b7c9.pdf",
+      "title": "Prot_002.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03548935:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-7c231d3c278b40e3e354625b",
+      "sha256": "7c231d3c278b40e3e354625b0502e8ca77ecdb82368efda2cbf357f2ed50ceed",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\7c\\7c231d3c278b40e3e354625b0502e8ca77ecdb82368efda2cbf357f2ed50ceed.pdf",
+      "title": "S7c231d3c278b40e3.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03548935:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-eea955ece75b54d3172087a5",
+      "sha256": "eea955ece75b54d3172087a5eb3d078a432800daf4ade5c4bf08b7823fc461e5",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\ee\\eea955ece75b54d3172087a5eb3d078a432800daf4ade5c4bf08b7823fc461e5.json",
+      "title": "NCT03548935.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT03548935"
+      ],
+      "unit_ids": [
+        "NCT03548935:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": [
+        "CTG-FROZEN-NCT03548935"
+      ]
+    },
+    {
+      "source_id": "SRC-611ae22e0f3c94e9b990bcfb",
+      "sha256": "611ae22e0f3c94e9b990bcfb6abbc9e53747cb280a0e2f768a8d85d06c206ed9",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\61\\611ae22e0f3c94e9b990bcfb6abbc9e53747cb280a0e2f768a8d85d06c206ed9.pdf",
+      "title": "S611ae22e0f3c94e9.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT01272219:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-a2a9e4ccc938c9bb913552c7",
+      "sha256": "a2a9e4ccc938c9bb913552c7017b0eca64961c34d42cd5326e1d2e6e7be31736",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\a2\\a2a9e4ccc938c9bb913552c7017b0eca64961c34d42cd5326e1d2e6e7be31736.pdf",
+      "title": "Sa2a9e4ccc938c9bb.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT01272219:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-a97a86aebf8255ab3a69407c",
+      "sha256": "a97a86aebf8255ab3a69407c66a7cc50586211ee3f0e971593b6220a0139de05",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\a9\\a97a86aebf8255ab3a69407c66a7cc50586211ee3f0e971593b6220a0139de05.pdf",
+      "title": "DC191745SupplementaryData.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT02963922:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-f478ed090cf748c793792de0",
+      "sha256": "f478ed090cf748c793792de08f06046980d06f025bfe0f38c090cedccb6a83c5",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\f4\\f478ed090cf748c793792de08f06046980d06f025bfe0f38c090cedccb6a83c5.xml",
+      "title": "Efficacy and Safety of Liraglutide 3.0 mg in Individuals With Overweight or Obesity and Type 2 Diabetes Treated With Basal Insulin: The SCALE Insulin Randomized Controlled Trial",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT02963922:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-72806f12307e19c01ad6c3f7",
+      "sha256": "72806f12307e19c01ad6c3f741c3960090bde30f1ce4eb5c3aa9b2b0105d9e04",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\72\\72806f12307e19c01ad6c3f741c3960090bde30f1ce4eb5c3aa9b2b0105d9e04.pdf",
+      "title": "Prot_000.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04184622:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-a52afc983946e5a33d8ec427",
+      "sha256": "a52afc983946e5a33d8ec4273f0cb2fce17ea9b078e989291d5daab5b68193fa",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\a5\\a52afc983946e5a33d8ec4273f0cb2fce17ea9b078e989291d5daab5b68193fa.pdf",
+      "title": "SAP_001.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04184622:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-d950bdc421e488550d5f2642",
+      "sha256": "d950bdc421e488550d5f2642d3660311a726114cf377969c858f3767df10b0e3",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\d9\\d950bdc421e488550d5f2642d3660311a726114cf377969c858f3767df10b0e3.json",
+      "title": "NCT04184622.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT04184622"
+      ],
+      "unit_ids": [
+        "NCT04184622:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-e85fb032a377c6e1a23d95ee",
+      "sha256": "e85fb032a377c6e1a23d95eed0856d90645fb210680e66611eb5294a051576f3",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\e8\\e85fb032a377c6e1a23d95eed0856d90645fb210680e66611eb5294a051576f3.json",
+      "title": "NCT01557166.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT01557166"
+      ],
+      "unit_ids": [
+        "NCT01557166:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-72a3a10985a571fa25d0629b",
+      "sha256": "72a3a10985a571fa25d0629bcd09d97c428ac4c495eb0655ef53bfc6d807b372",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\72\\72a3a10985a571fa25d0629bcd09d97c428ac4c495eb0655ef53bfc6d807b372.json",
+      "title": "NCT01557166.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT01557166"
+      ],
+      "unit_ids": [
+        "NCT01557166:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-bdd95b098c037f19dadaa93c",
+      "sha256": "bdd95b098c037f19dadaa93c6a5870d7a531927c1ebe2476ae60fe4398f2bd38",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\bd\\bdd95b098c037f19dadaa93c6a5870d7a531927c1ebe2476ae60fe4398f2bd38.json",
+      "title": "NCT02963922.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT02963922"
+      ],
+      "unit_ids": [
+        "NCT02963922:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-b952ba809e71fbfda359dfd4",
+      "sha256": "b952ba809e71fbfda359dfd40d53b05fa31a4533248417b422340afc9c95ed95",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\b9\\b952ba809e71fbfda359dfd40d53b05fa31a4533248417b422340afc9c95ed95.pdf",
+      "title": "b952ba809e71fbfda359dfd40d53b05fa31a4533248417b422340afc9c95ed95.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT02963922:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-adbdf4908fedd9f0191ff9d3",
+      "sha256": "adbdf4908fedd9f0191ff9d380eb6ebbadf2aaaf13dbb7338ddccfac46f272eb",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\ad\\adbdf4908fedd9f0191ff9d380eb6ebbadf2aaaf13dbb7338ddccfac46f272eb.pdf",
+      "title": "SAP_001.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT02963922:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-efddb11ec3161e8295aa8245",
+      "sha256": "efddb11ec3161e8295aa8245d9b2fd43abca5c0e49c7797b3dd93ae1fecf4f65",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\ef\\efddb11ec3161e8295aa8245d9b2fd43abca5c0e49c7797b3dd93ae1fecf4f65.json",
+      "title": "NCT03693430.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT03693430"
+      ],
+      "unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": [
+        "CTG-FROZEN-NCT03693430"
+      ]
+    },
+    {
+      "source_id": "SRC-004c57415274e43ef0c1e0f3",
+      "sha256": "004c57415274e43ef0c1e0f33774c44afa1b2bab74826ab94e3c29dd6e06c778",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\00\\004c57415274e43ef0c1e0f33774c44afa1b2bab74826ab94e3c29dd6e06c778.xml",
+      "title": "Two-year effects of semaglutide in adults with overweight or obesity: the STEP 5 trial",
+      "public_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9556320/"
+      ],
+      "unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-a3ea1a6185b448ae6d60a809",
+      "sha256": "a3ea1a6185b448ae6d60a8090e84cdf5e982a6e0287e86261e202cbd21521567",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\a3\\a3ea1a6185b448ae6d60a8090e84cdf5e982a6e0287e86261e202cbd21521567.pdf",
+      "title": "41591_2022_2026_MOESM1_ESM1.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-dbd7d4f5a66853be6e906577",
+      "sha256": "dbd7d4f5a66853be6e906577ec649615c6e069a76268d7b499f3f49281c11ee6",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\db\\dbd7d4f5a66853be6e906577ec649615c6e069a76268d7b499f3f49281c11ee6.pdf",
+      "title": "41591_2022_2026_MOESM3_ESM.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-7e8b89568cd512d3647cbc8f",
+      "sha256": "7e8b89568cd512d3647cbc8f19beb2112ec374373eb6ae35004d0ab67bd41faf",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\7e\\7e8b89568cd512d3647cbc8f19beb2112ec374373eb6ae35004d0ab67bd41faf.pdf",
+      "title": "paper.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-943e538e2505e2a4ffc42122",
+      "sha256": "943e538e2505e2a4ffc42122febcffcaa5dca229a7440107977a73a2db0138d1",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\94\\943e538e2505e2a4ffc42122febcffcaa5dca229a7440107977a73a2db0138d1.pdf",
+      "title": "Prot_000.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-defe8ca426006bce14004f63",
+      "sha256": "defe8ca426006bce14004f638b8fe353214bd23453a6a94c9aa51a96e2491ce4",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\de\\defe8ca426006bce14004f638b8fe353214bd23453a6a94c9aa51a96e2491ce4.pdf",
+      "title": "SAP_001.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03693430:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-83454861d9e647855c84cfcf",
+      "sha256": "83454861d9e647855c84cfcf4ded090d698c1c85dfc8c4570c032378631beba2",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\83\\83454861d9e647855c84cfcf4ded090d698c1c85dfc8c4570c032378631beba2.json",
+      "title": "NCT03811574.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT03811574"
+      ],
+      "unit_ids": [
+        "NCT03811574:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": [
+        "CTG-FROZEN-NCT03811574"
+      ]
+    },
+    {
+      "source_id": "SRC-dd8591da03ad8a8c53fb59e4",
+      "sha256": "dd8591da03ad8a8c53fb59e478c344590f0ed69a61374637eed7de293c882c75",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\dd\\dd8591da03ad8a8c53fb59e478c344590f0ed69a61374637eed7de293c882c75.pdf",
+      "title": "NCT03811574_main.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03811574:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-db8e145207776b1dd76d401d",
+      "sha256": "db8e145207776b1dd76d401d7e3a750c19134b2bd88d3b232a8eb1192a0b75c0",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\db\\db8e145207776b1dd76d401d7e3a750c19134b2bd88d3b232a8eb1192a0b75c0.pdf",
+      "title": "STEP6_supp.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03811574:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-0148463428215f3e6a9cd489",
+      "sha256": "0148463428215f3e6a9cd489588948d08f3a865c96a11610b3c762125923a7af",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\01\\0148463428215f3e6a9cd489588948d08f3a865c96a11610b3c762125923a7af.pdf",
+      "title": "Prot_000.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03811574:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-664f1db0cf88e01e3ec529a6",
+      "sha256": "664f1db0cf88e01e3ec529a62a3602854b4d9f7cfd136c59a57f80e6003090c6",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\66\\664f1db0cf88e01e3ec529a62a3602854b4d9f7cfd136c59a57f80e6003090c6.pdf",
+      "title": "SAP_001.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT03811574:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-42a8b2182f58100df3538465",
+      "sha256": "42a8b2182f58100df35384657e9f16c8cf9c9afff18c0f6fe2665cc651e8e8ba",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\42\\42a8b2182f58100df35384657e9f16c8cf9c9afff18c0f6fe2665cc651e8e8ba.json",
+      "title": "NCT04788511.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT04788511"
+      ],
+      "unit_ids": [
+        "NCT04788511:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": [
+        "CTG-FROZEN-NCT04788511"
+      ]
+    },
+    {
+      "source_id": "SRC-9c929f0cd1ac76f5352c4b40",
+      "sha256": "9c929f0cd1ac76f5352c4b4040c471a21b367f1df021ad0d1af20d3bf9614b6e",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\9c\\9c929f0cd1ac76f5352c4b4040c471a21b367f1df021ad0d1af20d3bf9614b6e.xml",
+      "title": "Effects of Semaglutide on Symptoms, Function, and Quality of Life in Patients With Heart Failure With Preserved Ejection Fraction and Obesity: A Prespecified Analysis of the STEP-HFpEF Trial",
+      "public_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10782938/"
+      ],
+      "unit_ids": [
+        "NCT04788511:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-8159f9c538a07085de8c3068",
+      "sha256": "8159f9c538a07085de8c3068a932f6f9d20b22ec37507d41fc957fe2d4c9e96f",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\81\\8159f9c538a07085de8c3068a932f6f9d20b22ec37507d41fc957fe2d4c9e96f.pdf",
+      "title": "cir-149-204-s001.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04788511:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-757d22dc7da0308369c9ca3b",
+      "sha256": "757d22dc7da0308369c9ca3b0333c57ed66b8dae21c561f1e50b406a440a9bcc",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\75\\757d22dc7da0308369c9ca3b0333c57ed66b8dae21c561f1e50b406a440a9bcc.xml",
+      "title": "Semaglutide and diuretic use in obesity-related heart failure with preserved ejection fraction: a pooled analysis of the STEP-HFpEF and STEP-HFpEF-DM trials",
+      "public_urls": [
+        "https://doi.org/10.1093/eurheartj/ehae322",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11400859/",
+        "https://pubmed.ncbi.nlm.nih.gov/38739118/"
+      ],
+      "unit_ids": [
+        "NCT04788511:CANDIDATE_BLOCK",
+        "NCT04916470:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-2377a82ec9c21458539cc3ad",
+      "sha256": "2377a82ec9c21458539cc3ad0ac4113afc3a02084252514f379e76fc3472f14d",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\23\\2377a82ec9c21458539cc3ad0ac4113afc3a02084252514f379e76fc3472f14d.docx",
+      "title": "Semaglutide and diuretic use in obesity-related heart failure with preserved ejection fraction: a pooled analysis of the STEP-HFpEF and STEP-HFpEF-DM trials. — linked supplement ehae322_supplementary_data.docx",
+      "public_urls": [
+        "https://doi.org/10.1093/eurheartj/ehae322",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11400859/",
+        "https://pubmed.ncbi.nlm.nih.gov/38739118/"
+      ],
+      "unit_ids": [
+        "NCT04788511:CANDIDATE_BLOCK",
+        "NCT04916470:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-013b84a4bcb9cd990f80e240",
+      "sha256": "013b84a4bcb9cd990f80e240d6796997a7d342b94ad6a1f97f194e33d9a1ca01",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\01\\013b84a4bcb9cd990f80e240d6796997a7d342b94ad6a1f97f194e33d9a1ca01.pdf",
+      "title": "STEP_HFpEF_main.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04788511:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-033f996a9a96086050d1beb2",
+      "sha256": "033f996a9a96086050d1beb2cbc088e188d7fb0cd2a3e0a4d1ff919dc32a8ee0",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\03\\033f996a9a96086050d1beb2cbc088e188d7fb0cd2a3e0a4d1ff919dc32a8ee0.pdf",
+      "title": "Prot_002.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04788511:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-87a2e4986ee6b51fd60c429f",
+      "sha256": "87a2e4986ee6b51fd60c429fe472afaca85738884823c731149db3d88688d4ca",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\87\\87a2e4986ee6b51fd60c429fe472afaca85738884823c731149db3d88688d4ca.pdf",
+      "title": "SAP_003.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04788511:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-90b24e8288f8b26f7199d114",
+      "sha256": "90b24e8288f8b26f7199d114924704bd172b61319a7cd5f1c6760e6e2cd3a59e",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\90\\90b24e8288f8b26f7199d114924704bd172b61319a7cd5f1c6760e6e2cd3a59e.json",
+      "title": "NCT04844918.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT04844918"
+      ],
+      "unit_ids": [
+        "NCT04844918:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-c42430d9f50c5a41d3169075",
+      "sha256": "c42430d9f50c5a41d31690753af262574abf082e10eb1c3b0dd04fc6633b86f7",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\c4\\c42430d9f50c5a41d31690753af262574abf082e10eb1c3b0dd04fc6633b86f7.pdf",
+      "title": "Sc42430d9f50c5a41.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04844918:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-b2e785354d8798db263d5f71",
+      "sha256": "b2e785354d8798db263d5f71d00b5a87e706838b16f94cef45f822ad52a162e9",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\b2\\b2e785354d8798db263d5f71d00b5a87e706838b16f94cef45f822ad52a162e9.pdf",
+      "title": "SAP_001.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04844918:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-196dc9164a16e7a00d4880b1",
+      "sha256": "196dc9164a16e7a00d4880b185724c568f0e9eb784657057c868068a13b5e432",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\19\\196dc9164a16e7a00d4880b185724c568f0e9eb784657057c868068a13b5e432.pdf",
+      "title": "Prot_000.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04844918:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-355b3bf8a9a38c3214d371ae",
+      "sha256": "355b3bf8a9a38c3214d371aea201cc1b283b04b0a80666cef541da33a0db53c6",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\reconciliacao_unificada_2026-10-16\\fontes\\355b3bf8a9a38c3214d371aea201cc1b283b04b0a80666cef541da33a0db53c6.json",
+      "title": "Effect of Semaglutide 2.4 mg Once-weekly on Function and Symptoms in Subjects With Obesity-related Heart Failure With Preserved Ejection Fraction, and Type 2 Diabetes",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT04916470"
+      ],
+      "unit_ids": [
+        "NCT04916470:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": [
+        "CTG-FROZEN-NCT04916470"
+      ]
+    },
+    {
+      "source_id": "SRC-aa56a1e39c5a108075f47899",
+      "sha256": "aa56a1e39c5a108075f478994b7d2a25277bc483b59a64deaf556d56ece60c88",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\integracao_documentos_3_2026-10-17\\fontes\\NCT04916470\\NEJMoa2313917.pdf",
+      "title": "NEJMoa2313917.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04916470:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-19c553c58225b20d7b2777c6",
+      "sha256": "19c553c58225b20d7b2777c6987c230417d6cd9c6e59898a3401f4f3d4d94fc6",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\reconciliacao_unificada_2026-10-16\\fontes\\19c553c58225b20d7b2777c6987c230417d6cd9c6e59898a3401f4f3d4d94fc6.xml",
+      "title": "Atrial Fibrillation and Semaglutide Effects in Obesity-Related Heart Failure With Preserved Ejection Fraction",
+      "public_urls": [
+        "https://doi.org/10.1016/j.jacc.2024.08.023",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11486552/",
+        "https://pubmed.ncbi.nlm.nih.gov/39217565/"
+      ],
+      "unit_ids": [
+        "NCT04916470:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-7edc6671f287f120da31b022",
+      "sha256": "7edc6671f287f120da31b022facc2ce9cb61526a5d8dce854335c3ad8cdecb9a",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\integracao_documentos_3_2026-10-17\\fontes\\NCT04916470\\nejmoa2313917_protocol.pdf",
+      "title": "nejmoa2313917_protocol.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04916470:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-114b4e2b8c315c787ac5920b",
+      "sha256": "114b4e2b8c315c787ac5920b21a2d9ee4cc72d91946cf95387b14715356d291e",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\integracao_documentos_3_2026-10-17\\fontes\\NCT04916470\\nejmoa2313917_appendix.pdf",
+      "title": "nejmoa2313917_appendix.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04916470:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-eacdf475e6708d17670f8c19",
+      "sha256": "eacdf475e6708d17670f8c1986ac3954518dd5784a4b3a9e1f8b0fd905658b50",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\ea\\eacdf475e6708d17670f8c1986ac3954518dd5784a4b3a9e1f8b0fd905658b50.json",
+      "title": "NCT04998136.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT04998136"
+      ],
+      "unit_ids": [
+        "NCT04998136:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": [
+        "CTG-FROZEN-NCT04998136"
+      ]
+    },
+    {
+      "source_id": "SRC-d5facc202fabc2be4e9a964c",
+      "sha256": "d5facc202fabc2be4e9a964c0358c226f324445ef9b29a7acc910a4971de2e0f",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\d5\\d5facc202fabc2be4e9a964c0358c226f324445ef9b29a7acc910a4971de2e0f.pdf",
+      "title": "NCT04998136_main.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04998136:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-fde0f0b063b047504ddcd8a2",
+      "sha256": "fde0f0b063b047504ddcd8a2b50b5c4542b2305a883c643f8c97d6fde064d02c",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\fd\\fde0f0b063b047504ddcd8a2b50b5c4542b2305a883c643f8c97d6fde064d02c.pdf",
+      "title": "STEP11_supp3.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04998136:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-0c3cef2cfa71639dfc36d99a",
+      "sha256": "0c3cef2cfa71639dfc36d99a2c61194db01a7aa36ec7f6ffa2229b7ae326f299",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\0c\\0c3cef2cfa71639dfc36d99a2c61194db01a7aa36ec7f6ffa2229b7ae326f299.pdf",
+      "title": "STEP11_supp4.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04998136:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-44be00368fb6f44cf2f4b332",
+      "sha256": "44be00368fb6f44cf2f4b33274d566da86732944be8f7e161ca38eb952e9a56d",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\44\\44be00368fb6f44cf2f4b33274d566da86732944be8f7e161ca38eb952e9a56d.pdf",
+      "title": "Prot_000.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04998136:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-b077dea832ecd689ae5746d7",
+      "sha256": "b077dea832ecd689ae5746d7ba807528ec4d91b2230eade8f8bc62873dab3321",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\b0\\b077dea832ecd689ae5746d7ba807528ec4d91b2230eade8f8bc62873dab3321.pdf",
+      "title": "SAP_001.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT04998136:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-36d0f9218985e2e9248c1d07",
+      "sha256": "36d0f9218985e2e9248c1d0749abf1457dc62b23847e401942ae33cef790f274",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\36\\36d0f9218985e2e9248c1d0749abf1457dc62b23847e401942ae33cef790f274.json",
+      "title": "NCT05040971.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT05040971"
+      ],
+      "unit_ids": [
+        "NCT05040971:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": [
+        "CTG-FROZEN-NCT05040971"
+      ]
+    },
+    {
+      "source_id": "SRC-4cef1dc21732701f2aa7bd92",
+      "sha256": "4cef1dc21732701f2aa7bd928a08323cf075fb6666cfb98758c44e3b70c6aeb3",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\4c\\4cef1dc21732701f2aa7bd928a08323cf075fb6666cfb98758c44e3b70c6aeb3.pdf",
+      "title": "STEP10_supp.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05040971:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-630445699587d67d49e9f708",
+      "sha256": "630445699587d67d49e9f708519d72acdd9a906982dab9bb76b1cecfcc18bff4",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\63\\630445699587d67d49e9f708519d72acdd9a906982dab9bb76b1cecfcc18bff4.pdf",
+      "title": "NCT05040971_main.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05040971:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-0e74a08f2f530a5ec18ff294",
+      "sha256": "0e74a08f2f530a5ec18ff294bd8fefb9fbec83428cb931b1b380c97667c1192b",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\0e\\0e74a08f2f530a5ec18ff294bd8fefb9fbec83428cb931b1b380c97667c1192b.pdf",
+      "title": "Prot_000.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05040971:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-b170f5e4cd9500f802453ef7",
+      "sha256": "b170f5e4cd9500f802453ef79f5d8e4e5d142d4bb217f06d353503b64261ffff",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\b1\\b170f5e4cd9500f802453ef79f5d8e4e5d142d4bb217f06d353503b64261ffff.pdf",
+      "title": "SAP_001.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05040971:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-fe1c41b90f27a4591cfc2a6e",
+      "sha256": "fe1c41b90f27a4591cfc2a6e1f36ba0b686074d2c3a73d33bdc68f00bea90d94",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\fe\\fe1c41b90f27a4591cfc2a6e1f36ba0b686074d2c3a73d33bdc68f00bea90d94.pdf",
+      "title": "SAP_001.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-7d43af56ae2a8c3c53f63000",
+      "sha256": "7d43af56ae2a8c3c53f63000f6c530a8cd4954416fe8ec5d0a9394963466b14c",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\7d\\7d43af56ae2a8c3c53f63000f6c530a8cd4954416fe8ec5d0a9394963466b14c.pdf",
+      "title": "Prot_000.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05412004:GPI1",
+        "NCT05412004:GPI2"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-f71e5e34a21e7b7f9c37b4b7",
+      "sha256": "f71e5e34a21e7b7f9c37b4b7cd337cee35bde558e5db5bef4f5c6b75fcefe9fb",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\f7\\f71e5e34a21e7b7f9c37b4b7cd337cee35bde558e5db5bef4f5c6b75fcefe9fb.pdf",
+      "title": "Prot_000.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05646706:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-fc33420620f6d4b2a15963f3",
+      "sha256": "fc33420620f6d4b2a15963f3a6980d255c2ce317bf87cb2f10043674c53c3251",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\fc\\fc33420620f6d4b2a15963f3a6980d255c2ce317bf87cb2f10043674c53c3251.pdf",
+      "title": "SAP_001.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05646706:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-79d6c6731d5eaec2bf7f13c9",
+      "sha256": "79d6c6731d5eaec2bf7f13c96046028e83a25b1bc5f2128148833ecbe6e4a8e2",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\79\\79d6c6731d5eaec2bf7f13c96046028e83a25b1bc5f2128148833ecbe6e4a8e2.json",
+      "title": "NCT05649137.json",
+      "public_urls": [
+        "https://clinicaltrials.gov/study/NCT05649137"
+      ],
+      "unit_ids": [
+        "NCT05649137:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": [
+        "CTG-FROZEN-NCT05649137"
+      ]
+    },
+    {
+      "source_id": "SRC-934033efe5a3c90c2c849172",
+      "sha256": "934033efe5a3c90c2c849172861efb05a73ed19ed1da767d03104bfc5f36b386",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\93\\934033efe5a3c90c2c849172861efb05a73ed19ed1da767d03104bfc5f36b386.pdf",
+      "title": "NCT05649137_main.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05649137:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-419d62daf0ca28df8496b60d",
+      "sha256": "419d62daf0ca28df8496b60d7321dd462a986b4275e964aceb4d27cba937c465",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\41\\419d62daf0ca28df8496b60d7321dd462a986b4275e964aceb4d27cba937c465.pdf",
+      "title": "STEPUPT2D_supp.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05649137:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-4a09a225bb661a0dc33c2c84",
+      "sha256": "4a09a225bb661a0dc33c2c8498a0924d8544b47f866e89e5096b6a6f3640f615",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\4a\\4a09a225bb661a0dc33c2c8498a0924d8544b47f866e89e5096b6a6f3640f615.pdf",
+      "title": "Prot_000.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05649137:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-a9c1e254b9b3e4b3310a22e7",
+      "sha256": "a9c1e254b9b3e4b3310a22e7e606f00914fc1d1dafa1e57aa997e1e681548832",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\a9\\a9c1e254b9b3e4b3310a22e7e606f00914fc1d1dafa1e57aa997e1e681548832.pdf",
+      "title": "SAP_001.pdf",
+      "public_urls": [],
+      "unit_ids": [
+        "NCT05649137:CANDIDATE_BLOCK"
+      ],
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-5817951f41f0add966e0823e",
+      "sha256": "5817951f41f0add966e0823e3ca94697e68659cfae95996b7ad1089d86085ebf",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\58\\5817951f41f0add966e0823e3ca94697e68659cfae95996b7ad1089d86085ebf.json",
+      "title": null,
+      "public_urls": [],
+      "unit_ids": [],
+      "additional_to_prior_paired_catalog": true,
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-28e001e7898d9b238821cffe",
+      "sha256": "28e001e7898d9b238821cffe3b4e2e419ebad20a1ff49c1befb6e7f157f5597b",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\28\\28e001e7898d9b238821cffe3b4e2e419ebad20a1ff49c1befb6e7f157f5597b.pdf",
+      "title": null,
+      "public_urls": [],
+      "unit_ids": [],
+      "additional_to_prior_paired_catalog": true,
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-ae94535eee89507e13ed6fdf",
+      "sha256": "ae94535eee89507e13ed6fdf7381cfe4a447f37a7427d9723387d331e83dfc2e",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\ae\\ae94535eee89507e13ed6fdf7381cfe4a447f37a7427d9723387d331e83dfc2e.json",
+      "title": null,
+      "public_urls": [],
+      "unit_ids": [],
+      "additional_to_prior_paired_catalog": true,
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-68b26133b0758559170e49d1",
+      "sha256": "68b26133b0758559170e49d1e6e166851487cdc6efc21402fa1eaaaa70da3270",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\68\\68b26133b0758559170e49d1e6e166851487cdc6efc21402fa1eaaaa70da3270.xml",
+      "title": null,
+      "public_urls": [],
+      "unit_ids": [],
+      "additional_to_prior_paired_catalog": true,
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "CTG-FROZEN-NCT05064735",
+      "sha256": "8ba4dfe92c259c42aa473be30da9607d7ddbc9e9d8c69cb241604b2f9fb4975d",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\work\\integracao_harmonizacao_20_2026-10-04\\registros_atuais\\NCT05064735.json",
+      "title": null,
+      "public_urls": [],
+      "unit_ids": [],
+      "additional_to_prior_paired_catalog": true,
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "CTG-FROZEN-NCT06041217",
+      "sha256": "aafd713f68393479d28f4887bd06c64ef3e9636589f27306a10453008bf5ece2",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\integracao_elegibilidade_151_2026-10-05\\fontes_registros\\NCT06041217.json",
+      "title": null,
+      "public_urls": [],
+      "unit_ids": [],
+      "additional_to_prior_paired_catalog": true,
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-ebfd128bebb56a6ad5dbd996",
+      "sha256": "ebfd128bebb56a6ad5dbd996489e30619827adb6739cf700b5885a8c29afcfbe",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\extracao_inicial_28_2026-10-01\\registros\\NCT04657016.json",
+      "title": "ClinicalTrials.gov NCT04657016, Efficacy and Safety of Tirzepatide Once Weekly Versus Placebo After an Intensive Lifestyle Program in Participants Without Type 2 Diabetes Who Have Obesity or Are Overweight With Weight-Related Comorbidities: A Randomized, Double Blind, Placebo-Controlled Trial (SURMOUNT-3)",
+      "public_urls": [],
+      "unit_ids": [],
+      "additional_to_prior_paired_catalog": true,
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-df873650eb6978ed4e78bf20",
+      "sha256": "df873650eb6978ed4e78bf20397525724893131e521f4a39cdf78f15ef6efb87",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\work\\integracao_harmonizacao_20_2026-10-04\\registros_atuais\\NCT05024032.json",
+      "title": "ClinicalTrials.gov NCT05024032, Efficacy and Safety of Tirzepatide Once Weekly in Chinese Participants Without Type 2 Diabetes Who Have Obesity or Are Overweight With Weight-Related Comorbidities: A Randomized, Double-Blind, Placebo-Controlled Trial (SURMOUNT-CN)",
+      "public_urls": [],
+      "unit_ids": [],
+      "additional_to_prior_paired_catalog": true,
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-0d930dd43d8b297debc0d096",
+      "sha256": "0d930dd43d8b297debc0d0969a3860773f084a89e9614e57f2c82dc9f340d881",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\revisao_completa_2026-09-24\\protocolos\\arquivos\\NCT04657016\\SAP_001.pdf",
+      "title": "Lilly. GPHM SAP version3; approved 2023-02-03. NCT04657016.",
+      "public_urls": [
+        "https://cdn.clinicaltrials.gov/large-docs/16/NCT04657016/SAP_001.pdf"
+      ],
+      "unit_ids": [],
+      "additional_to_prior_paired_catalog": true,
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-d1337bf02803fc62c84c7221",
+      "sha256": "d1337bf02803fc62c84c72216e566275f67f559d37b341e6bdc457d02a51d1b1",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\revisao_completa_2026-09-24\\protocolos\\arquivos\\NCT04657016\\Prot_000.pdf",
+      "title": "Lilly. GPHM protocol; approved 2020-11-19. NCT04657016.",
+      "public_urls": [
+        "https://cdn.clinicaltrials.gov/large-docs/16/NCT04657016/Prot_000.pdf"
+      ],
+      "unit_ids": [],
+      "additional_to_prior_paired_catalog": true,
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-c274583efd82596d47e6118b",
+      "sha256": "c274583efd82596d47e6118b73e6470a088644ff540ca5d3c7456d48243e4816",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\revisao_completa_2026-09-24\\protocolos\\arquivos\\NCT05024032\\SAP_001.pdf",
+      "title": "Lilly. GPIA SAP version1; approved 2023-01-04. NCT05024032.",
+      "public_urls": [
+        "https://cdn.clinicaltrials.gov/large-docs/32/NCT05024032/SAP_001.pdf"
+      ],
+      "unit_ids": [],
+      "additional_to_prior_paired_catalog": true,
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-fe0b5e18bdd21cda878ead4e",
+      "sha256": "fe0b5e18bdd21cda878ead4e7603830c0bf1d1b3aa5d115b6b82d39a4d4bfdb6",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\revisao_completa_2026-09-24\\protocolos\\arquivos\\NCT05024032\\Prot_000.pdf",
+      "title": "Lilly. GPIA(a) protocol; approved 2021-08-25. NCT05024032.",
+      "public_urls": [
+        "https://cdn.clinicaltrials.gov/large-docs/32/NCT05024032/Prot_000.pdf"
+      ],
+      "unit_ids": [],
+      "additional_to_prior_paired_catalog": true,
+      "earlier_source_access_claims_not_extended": true
+    },
+    {
+      "source_id": "SRC-9d114b4c454f554f31f65f7d",
+      "sha256": "9d114b4c454f554f31f65f7d336e1136dd02c02afddf7f3e20c4604159e468ab",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\elegibilidade_textos_2026-10-01\\fontes\\164\\PMC10667099.xml",
+      "title": "Wadden TA et al. Tirzepatide after intensive lifestyle intervention in adults with overweight or obesity: the SURMOUNT-3 phase3 trial. Nat Med. 2023;29:2909-2918. doi:10.1038/s41591-023-02597-w.",
+      "public_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10667099/"
+      ],
+      "unit_ids": [],
+      "additional_to_prior_paired_catalog": true,
+      "earlier_source_access_claims_not_extended": true,
+      "source_id_aliases": []
+    },
+    {
+      "source_id": "SRC-5044f3b461e694abfc8513a0",
+      "sha256": "5044f3b461e694abfc8513a09e6144849b3175950212e3971e20209bfb4e7317",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\50\\5044f3b461e694abfc8513a09e6144849b3175950212e3971e20209bfb4e7317.pdf",
+      "title": null,
+      "version": "Exact archived version identified by SHA-256; CSR dates/version visible in cited page header",
+      "public_urls": [],
+      "additional_source_for_judgment_closure": true
+    },
+    {
+      "source_id": "SRC-ee96bc49494062b4ca419967",
+      "sha256": "ee96bc49494062b4ca4199674aaa7ad95f6eb2623e4f75f08dd7775a3773a026",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\ee\\ee96bc49494062b4ca4199674aaa7ad95f6eb2623e4f75f08dd7775a3773a026.docx",
+      "title": null,
+      "version": "Exact archived version identified by SHA-256; CSR dates/version visible in cited page header",
+      "public_urls": [],
+      "additional_source_for_judgment_closure": true
+    },
+    {
+      "source_id": "SRC-684d06493ee453b1683e2eeb",
+      "sha256": "684d06493ee453b1683e2eebb235572584ade095979dffa2ebab1e5a7c3e0981",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\outputs\\congelamento_base_documental_2026-10-28\\fontes_por_conteudo\\68\\684d06493ee453b1683e2eebb235572584ade095979dffa2ebab1e5a7c3e0981.pdf",
+      "title": null,
+      "version": "Exact archived version identified by SHA-256; CSR dates/version visible in cited page header",
+      "public_urls": [],
+      "additional_source_for_judgment_closure": true
+    },
+    {
+      "source_id": "SRC-2064967361ef9100ad738d8a",
+      "sha256": "2064967361ef9100ad738d8abc04b11192de4ae5e5319bf0eb381cc839a609f8",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\work\\fechamento_julgamentos28_20261111\\SCALE_SLEEP_FIG1_ORIGINAL.jpg",
+      "title": null,
+      "version": "Original Figure1 linked by the archived PMC4973216 XML; downloaded11Nov2026. Source describes the original2016 trial, not newly collected outcomes.",
+      "public_urls": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5dc3/4973216/fe39d773f2b3/ijo201652f1.jpg"
+      ],
+      "additional_source_for_judgment_closure": true
+    },
+    {
+      "source_id": "SRC-acdbe377e5b800cfe896d16a",
+      "sha256": "acdbe377e5b800cfe896d16a3ea90e72bb03d9c38b6100a644be0f2de612d925",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\work\\continuacao_2026-09-24\\step\\STEP2_sponsor_CSR.pdf",
+      "title": null,
+      "version": null,
+      "public_urls": [
+        "https://www.novonordisk-trials.com/content/dam/nntrials/global/en/studies/csr/4374-ctr-nn-trials-redacted.pdf"
+      ],
+      "additional_source_for_judgment_closure": true
+    },
+    {
+      "source_id": "SRC-c13a9abba373faf6a1ab50e0",
+      "sha256": "c13a9abba373faf6a1ab50e0b97fadfd66a71d3cb2931879545c989c9b11d59f",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\work\\fechamento_2026-09-24\\step\\K104.pdf",
+      "title": null,
+      "version": null,
+      "public_urls": [
+        "https://www.pmda.go.jp/drugs/2023/P20230303002/620023000_30500AMX00105_K104_1.pdf"
+      ],
+      "additional_source_for_judgment_closure": true
+    },
+    {
+      "source_id": "SRC-7d215018928f6020c0f426c5",
+      "sha256": "7d215018928f6020c0f426c58ab692d54a8c85fc57708045ad273a77186c6d2b",
+      "path": "C:\\Users\\cabel\\Documents\\Codex\\2026-09-20\\pesquise-quais-os-tipos-de-estudos\\work\\fechamento_2026-09-24\\step\\K104_retry_manifest.json",
+      "title": null,
+      "version": null,
+      "public_urls": [],
+      "additional_source_for_judgment_closure": true
+    }
+  ],
+  "source_originals_rehashed": true,
+  "public_source_files_not_redistributed": true
+}

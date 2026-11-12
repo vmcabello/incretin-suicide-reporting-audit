@@ -1,0 +1,68 @@
+{
+  "approval": "Both authors approved the recalculated6November version and submission, as reported by corresponding author.",
+  "approval_record": "negative117/AUTHOR_PROCEDURE_AND_APPROVAL_EN.json",
+  "clinical_effect_analysis": false,
+  "competing_interests": "None",
+  "current_B3_whole_population_union": [
+    {
+      "N": 159,
+      "component": "suicidal_ideation",
+      "confirmed_total": 1,
+      "corpus_conditional_identification_interval": [
+        0.006289308176100629,
+        0.37735849056603776
+      ],
+      "derived_confirmed": 0,
+      "direct_confirmed": 1,
+      "unknown": 59
+    },
+    {
+      "N": 159,
+      "component": "suicide_attempt",
+      "confirmed_total": 2,
+      "corpus_conditional_identification_interval": [
+        0.012578616352201259,
+        0.3018867924528302
+      ],
+      "derived_confirmed": 1,
+      "direct_confirmed": 1,
+      "unknown": 46
+    },
+    {
+      "N": 159,
+      "component": "suicide_death",
+      "confirmed_total": 17,
+      "corpus_conditional_identification_interval": [
+        0.1069182389937107,
+        0.5849056603773585
+      ],
+      "derived_confirmed": 17,
+      "direct_confirmed": 0,
+      "unknown": 76
+    }
+  ],
+  "current_analysis_path": "negative117/",
+  "current_manuscript_submission_status": "BOTH_AUTHORS_APPROVED_SUBMISSION_NOT_SENT",
+  "doi": null,
+  "full_source_revalidation_completed": false,
+  "funding": "None",
+  "historical_snapshot_bytes_changed": false,
+  "kind": "Research data and analysis code",
+  "last_published_release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.6.1",
+  "last_published_version": "v1.6.1",
+  "licenses": {
+    "author_owned_classifications_and_documentation": "CC-BY-4.0",
+    "software": "MIT"
+  },
+  "maintenance_scope": "Source locators, bibliographic citations and layer-comparison interpretation only; unchanged scientific results.",
+  "manuscript_preprint_included": false,
+  "new_human_votes_created": false,
+  "prepared": "2026-11-06",
+  "prior_version": "v1.6.0",
+  "release_status": "VERSIONED_AUTHOR_APPROVED_SUPPORT",
+  "release_url": "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.6.1",
+  "repository": "https://github.com/vmcabello/incretin-suicide-reporting-audit",
+  "source_scope": "Fixed historical exploratory corpus; no exhaustive trial-universe claim",
+  "submission_ready": true,
+  "version": "v1.6.1"
+}

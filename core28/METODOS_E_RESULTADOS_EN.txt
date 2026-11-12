@@ -1,0 +1,63 @@
+DRAFT METHODS AND RESULTS FOR THE NEW CORE — 11 NOVEMBER 2026
+This is an analytical writing aid, not an approved/submitted manuscript. No previous author approval is extended automatically.
+
+METHODS
+We conducted a retrospective documentary audit of an explicitly enumerated, non-exhaustive core of 28 independently randomized trial populations (27 registry identifiers): 6 SCALE, 15 STEP and 7 SURMOUNT populations. The two SURMOUNT-OSA populations were retained separately. Core amendments were ratified after earlier results were known; this is not a prospectively registered or blinded selection. The source set comprises individually archived versions available to this audit by 11 November 2026. The 19 October 2026 registry-first-posting and primary-completion cutoffs do not establish historical availability of every documentary source.
+
+The frozen analysis file (SHA-256 9214d5de3565b49c127c4c414e02edecc88a9f15588112344a573871dbb431f7) contains 1,008 positions: 28 populations × 4 references × 3 components × 3 modalities. All-cause mortality derivation is inapplicable to ideation and attempt, leaving 784 applicable positions. The current analysis applies the frozen technical judgments, reusing prior decisions only within their documented scope. This does not constitute a new independent human assessment. Technical AI assistance and separate computational cross-checks are distinct from human source validation; exact model/version metadata are unavailable in the execution record.
+
+Primary tables separate each reference (historical treated, intention-to-treat, source-defined safety and source-defined on-treatment/TEAE), component and modality (adverse-event reports, structured suicidality assessments, and all-cause mortality derivation). Original-arm attribution, counting unit, population and source-defined window remain attached to each witness. Safety populations, nominal denominators, actual respondent subsets, randomized assignments and treatment-received assignments are not assumed equivalent. Source-defined TEAE windows can include off-treatment follow-up. A complete reconstruction describes the specified public documentary target, not perfect clinical ascertainment.
+
+We report absolute counts of complete direct, complete derived, bounded not-complete and unknown judgments. With C complete, U unknown and N=C+U+B applicable populations, [C/N,(C+U)/N] is a conditional identification interval. These are not confidence intervals and do not describe clinical suicide risk. Unknowns remain in N; no complete-case or patient-weighted analysis is used. The interval assumes the known judgments, target compatibility and enumerated membership are correct; it does not encompass missed trials or selection/classification errors.
+
+Secondary any-modality unions count a population once: a compatible complete witness is sufficient; absent one, any unknown keeps the union unknown. Direct-supported unions require at least one direct witness; derivation-dependent unions contain only derived complete witnesses. Modalities and their source windows are not thereby treated as clinically equivalent. Sensitivities withdraw recorded derived proofs by making those positions scenario-unknown, omit the mortality modality while retaining within-AE derivations, remove four ratified membership-amendment populations as a 24 population composition scenario, describe programme strata and leave-one-programme-out sets, and change the denominator to 27 registry identifiers while requiring every nested population complete. For the registry secondary outcome, modalities are unioned within populations before conjunction across populations. All scenarios preserve original source judgments. Reference transitions are descriptive; no causal, significance, clinical-effect, new human agreement or GRADE analysis was performed.
+
+RESULTS
+All 784 applicable frozen positions were either complete or unknown; none was a bounded not-complete judgment. Consequently, every applicable identification interval in the main analysis and specified sensitivities had an upper endpoint of 100%. This is not evidence that all populations are reconstructible, or that unknown populations are non-reconstructible.
+
+Primary counts below are complete-direct / complete-derived / unknown out of 28 (bounded not-complete=0):
+
+REF_HISTORICAL_TREATED
+suicidal_ideation | adverse_event_reports: 3 / 0 / 25; conditional interval 10.71%–100%.
+suicidal_ideation | suicidality_specific_structured_assessment: 0 / 0 / 28; conditional interval 0.00%–100%.
+suicide_attempt | adverse_event_reports: 2 / 3 / 23; conditional interval 17.86%–100%.
+suicide_attempt | suicidality_specific_structured_assessment: 0 / 0 / 28; conditional interval 0.00%–100%.
+suicide_death | adverse_event_reports: 1 / 13 / 14; conditional interval 50.00%–100%.
+suicide_death | suicidality_specific_structured_assessment: 0 / 0 / 28; conditional interval 0.00%–100%.
+suicide_death | all_cause_mortality_derivation: 0 / 18 / 10; conditional interval 64.29%–100%.
+
+REF_ITT
+suicidal_ideation | adverse_event_reports: 1 / 1 / 26; conditional interval 7.14%–100%.
+suicidal_ideation | suicidality_specific_structured_assessment: 0 / 0 / 28; conditional interval 0.00%–100%.
+suicide_attempt | adverse_event_reports: 1 / 4 / 23; conditional interval 17.86%–100%.
+suicide_attempt | suicidality_specific_structured_assessment: 0 / 0 / 28; conditional interval 0.00%–100%.
+suicide_death | adverse_event_reports: 0 / 9 / 19; conditional interval 32.14%–100%.
+suicide_death | suicidality_specific_structured_assessment: 0 / 0 / 28; conditional interval 0.00%–100%.
+suicide_death | all_cause_mortality_derivation: 0 / 11 / 17; conditional interval 39.29%–100%.
+
+REF_SAFETY_SOURCE
+suicidal_ideation | adverse_event_reports: 5 / 0 / 23; conditional interval 17.86%–100%.
+suicidal_ideation | suicidality_specific_structured_assessment: 1 / 0 / 27; conditional interval 3.57%–100%.
+suicide_attempt | adverse_event_reports: 3 / 3 / 22; conditional interval 21.43%–100%.
+suicide_attempt | suicidality_specific_structured_assessment: 1 / 0 / 27; conditional interval 3.57%–100%.
+suicide_death | adverse_event_reports: 1 / 20 / 7; conditional interval 75.00%–100%.
+suicide_death | suicidality_specific_structured_assessment: 0 / 0 / 28; conditional interval 0.00%–100%.
+suicide_death | all_cause_mortality_derivation: 0 / 20 / 8; conditional interval 71.43%–100%.
+
+REF_ON_TREATMENT
+suicidal_ideation | adverse_event_reports: 2 / 3 / 23; conditional interval 17.86%–100%.
+suicidal_ideation | suicidality_specific_structured_assessment: 0 / 0 / 28; conditional interval 0.00%–100%.
+suicide_attempt | adverse_event_reports: 1 / 5 / 22; conditional interval 21.43%–100%.
+suicide_attempt | suicidality_specific_structured_assessment: 0 / 0 / 28; conditional interval 0.00%–100%.
+suicide_death | adverse_event_reports: 0 / 21 / 7; conditional interval 75.00%–100%.
+suicide_death | suicidality_specific_structured_assessment: 0 / 0 / 28; conditional interval 0.00%–100%.
+suicide_death | all_cause_mortality_derivation: 0 / 19 / 9; conditional interval 67.86%–100%.
+
+Structured assessments supported complete ideation and attempt reconstruction only for SCALE Maintenance under the source-defined safety reference. No structured death reconstruction was confirmed; other structured targets remain unknown rather than proven non-reconstructible.
+
+Secondary unions (complete/unknown) were 3/25,5/23 and 20/8 for ideation, attempt and death under the historical treated reference;2/26,5/23 and 13/15 under ITT;5/23,6/22 and 22/6 under source-defined safety; and 5/23,6/22 and 21/7 under on-treatment. For historical death,14 AE and 18 mortality complete positions overlapped, yielding 20 unique populations, not 32.
+
+With recorded derived proofs withheld, the historical secondary confirmations became 3,2 and 1 for ideation, attempt and death; the remaining populations were scenario-unknown. Direct-supported death confirmations were 0 for ITT,1 for source-defined safety and 0 for on-treatment. Removing only mortality derivation left 14 historical death confirmations through AE, demonstrating that AE reports themselves can require derivation. The 24 population scenario yielded 2,3 and 17 historical confirmations; the 27 registry all-populations scenario yielded 3,5 and 19. Neither scenario changes the ratified membership or pools clinical observations.
+
+INTERPRETATION
+The enumerated core supports confirmed original-arm documentary reconstructions for several populations, particularly death through derivation. Confirmations of ideation and attempt are less frequent and structured confirmations are limited to a specific population/window. The audit cannot establish that most of this core is non-reconstructible: its unresolved positions are unknown and all upper identification endpoints remain 100%. Reference differences reflect source populations, arm attribution, windows, available witnesses and review scope, not causal differences or comparative drug safety. Earlier 182/159 analyses remain dated historical comparators and are not directly comparable to this new core. Computational reproduction verifies calculation from the coded file; it does not independently validate all source interpretations.

@@ -1,0 +1,43 @@
+{
+  "version": "CORE28-REFERENCE-MODALITY-CLOSURE-20261111",
+  "scope": "AI technical documentary judgments for the frozen 28 populations, four ratified references, three components and three modalities. This is not a new human rating round or statistical analysis.",
+  "core_sha256": "c6632aaca797c46a540552e56be239afb2ac1b3725dad42cae728df8e44bc36f",
+  "references": ["REF_HISTORICAL_TREATED", "REF_ITT", "REF_SAFETY_SOURCE", "REF_ON_TREATMENT"],
+  "components": ["suicidal_ideation", "suicide_attempt", "suicide_death"],
+  "modalities": ["adverse_event_reports", "suicidality_specific_structured_assessment", "all_cause_mortality_derivation"],
+  "current_source_scope": "Current cumulative archived own-trial source set at 11 November 2026. Historical A/B1/B2/B3 judgments are retained separately; no earlier-layer promotion is inferred merely from a source type or an undated file.",
+  "basis": [
+    "outputs/integracao_nucleo28_2026-11-11/plano/PROTOCOLO_NUCLEO_V2_RATIFICADO.json",
+    "outputs/revisao_menor_liper2_gravitas_2026-11-06/repositorio_publico/DATA_DICTIONARY.md",
+    "outputs/revisao_menor_liper2_gravitas_2026-11-06/repositorio_publico/source_review109_reconciled/TECHNICAL_PROOF_RULES.json"
+  ],
+  "classification_rules": {
+    "complete_direct": "Explicit component-specific arm counts, denominators, counting unit, source population/assignment and source window reconstruct the exact target in all required arms. Explicit compatible universal component absence may supply zero. Reported counts are documentary facts, not proof of perfect clinical ascertainment.",
+    "complete_derived": "The same target dimensions are established and a documented valid operation establishes every required count. Examples: all-cause death zero or exhaustive known non-suicide death causes, within the matching source window; a pooled universal zero with proven own-trial membership; an exhaustive uniquely attributable case list with matching denominators. Retain direct versus derived and each operation. A fatal-AE zero is a derivation within AE, not automatically an all-cause-mortality derivation.",
+    "partial_reference": "Retain bounded available facts but do not claim a complete target. The analytical state is unknown when a pertinent source/target dimension or examined scope remains unresolved; a bounded not-complete state requires affirmative evidence of a sufficiently examined relevant source union, not silence or access to bytes alone.",
+    "not_reconstructible_in_examined_corpus": "Only for a demonstrably bounded sufficiently examined relevant source scope lacking a complete reconstruction. It means documentary not-completeness in that finite scope, never absence of clinical events. Do not use it for an unavailable relevant report, unexamined local material, uncertain window or uncertain target assignment.",
+    "reference_unverifiable": "Unknown target population, denominator, assignment or exact risk window prevents transport of a source fact to the target.",
+    "public_source_unavailable": "Pertinent missing source without another sufficient compatible complete witness: unknown.",
+    "not_applicable": "All-cause mortality derivation is inapplicable to suicidal ideation and suicide attempt. These combinations do not become analytical unknowns."
+  },
+  "indicator_semantics": {"complete_direct": 1, "complete_derived": 1, "unknown": null, "bounded_not_complete": 0, "not_applicable": null},
+  "gates": [
+    "Exact frozen trial population and required original arm set; no duplicate OSA populations or pooled controls.",
+    "Actual reported denominators, not planned enrollment or STARTED relabeled as ITT without a source definition.",
+    "Correct counting unit: participants, recurrent events, positive visits and person-years are distinct.",
+    "Component and modality are separate: PHQ-9 item9, C-SSRS, AE terms and mortality are not interchangeable.",
+    "Explicit target population, original allocation/treatment-received attribution and source-defined window.",
+    "No zero from a missing term, reporting threshold, protocol-only assessment or an unreviewed source.",
+    "A reported nominal table/SAS denominator must be recorded as such. An actually assessed respondent denominator, when available, remains separate. Do not invent assessed N from SAS; do not discard an explicitly reported nominal denominator. If the numerator only describes an identified evaluated subset, do not silently extend it to all randomized/exposed participants.",
+    "Do not invent a requirement for perfect vital-status follow-up beyond the reported/planned source window; document ascertainment limits separately.",
+    "A source-defined TEAE window may include off-drug follow-up. Record the exact rule and interruption criteria; it need not mean strictly current exposure.",
+    "For REF_SAFETY_SOURCE and REF_ON_TREATMENT, identify every witness source population/window explicitly. Alternative source-defined populations are not additive or implicitly equivalent; a complete witness must state exactly which admissible source-defined target it establishes.",
+    "A sufficient exact complete witness is existential. Other missing sources do not negate it unless a material contradiction changes the proof. Without a sufficient witness, pertinent unresolved gaps remain unknown.",
+    "Historical positive witnesses and final dispositions are reused with their actual source/version, population and window. No lower-layer promotion or cross-reference transfer follows from equal N or a retained classification alone."
+  ],
+  "judgment_record_fields": [
+    "judgment_id", "unit_id", "trial", "program", "reference_id", "component", "modality", "source_scope_id", "source_scoped_status", "analytical_state", "documentary_indicator", "rationale", "required_arm_set", "target_population", "target_window", "arm_facts", "counting_unit", "evidence_ids", "evidence_locators", "compatibility_gates", "derivation", "ascertainment_limits", "prior_exact_keys_reused", "reuse_disposition", "unresolved_dimensions", "novel_human_case_candidate", "technical_judgment_not_human_vote"
+  ],
+  "workflow": "Close every cell, including explicit unknowns and inapplicable pairs; no blank pending placeholder. Review only novel substantive ambiguity that cannot be resolved by the sources or existing ratified rules. Preserve old human returns byte-for-byte. Consolidate genuine candidates into one batch; missing information alone does not require author adjudication.",
+  "analysis_gate": "Do not compute per-component complete/unknown totals, proportions, identification intervals, agreement or clinical effect estimates. Administrative counts of records and provenance checks are permitted. Notify authors before the next statistical stage."
+}

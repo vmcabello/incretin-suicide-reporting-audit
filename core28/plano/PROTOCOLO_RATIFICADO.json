@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-11",
+  "design": "Retrospective documentary audit of an explicitly enumerated programme-defined core; amended after earlier results were known. Not blinded selection, prospective registration or an exhaustive GLP-1 census.",
+  "primary_question": "Within the enumerated adult treatment-initiation trial population, can the public material reconstruct each suicide-related component by original randomized arm and source-defined population/window?",
+  "selection_frozen_sha256": "c6632aaca797c46a540552e56be239afb2ac1b3725dad42cae728df8e44bc36f",
+  "record_snapshot_date": "2026-11-11",
+  "clinical_primary_completion_cutoff": "2026-10-19",
+  "record_first_posted_cutoff": "2026-10-19",
+  "historical_source_availability_not_backdated": true,
+  "programme_registers": 30,
+  "candidate_trials": 31,
+  "unchanged_membership_units": 24,
+  "active_withdrawal_complementary_trials": 3,
+  "prior_exclusions_of_withdrawal_trials_preserved": true,
+  "unit_definition": "One independently randomized trial population, with dose/active/control contrasts nested; SURMOUNT-OSA GPI1/GPI2 are separate populations under one registry. Never double-count pooled controls.",
+  "source_policy": "Public registry, primary report, exact relevant supplement/correction, protocol/SAP and compatible regulatory source. Store citation, URL, version, hash and page/section. Distinguish auxiliary records and planned versus observed assessment.",
+  "reference_grids": {
+    "REF_HISTORICAL_TREATED": {
+      "former_protocol_label": "R0",
+      "definition": "Reference retained in the historical input; reuse requires exact arms, source version, population and window. Population amendment is not an event re-review."
+    },
+    "REF_ITT": {
+      "former_protocol_label": "R1",
+      "definition": "All randomized participants and assigned arms within the source-defined randomized follow-up."
+    },
+    "REF_SAFETY_SOURCE": {
+      "former_protocol_label": "R2",
+      "definition": "Population explicitly defined for safety in the exact source. Do not equate dosed, exposed and randomized by assumption."
+    },
+    "REF_ON_TREATMENT": {
+      "former_protocol_label": "R3",
+      "definition": "Source-defined treatment-emergent/on-treatment window with its explicit risk period."
+    }
+  },
+  "components": [
+    "suicidal_ideation",
+    "suicide_attempt",
+    "suicide_death"
+  ],
+  "modalities_separate": [
+    "adverse_event_reports",
+    "suicidality_specific_structured_assessment",
+    "all_cause_mortality_derivation"
+  ],
+  "classification_gate": "A historical negative enters a new analytical cell only if exact source/version, arm set, population, reference/window and examined scope are supported. Otherwise preserve unknown; neither missing review nor unavailable source becomes a negative.",
+  "source_layers": "A-B3 retained only with exact source version chronology; later intensive review is not interpreted as a causal effect of a source category.",
+  "no_source_access_selection": true,
+  "human_review_policy": "Only novel substantive scope decisions/conflicts without applicable prior adjudication; source curation and already ratified decisions do not generate repeat forms.",
+  "analysis_status": "NOT STARTED. Next: exact source/arm/population/window extraction and compatibility checks; notify author before new documentary statistics and sensitivity analyses.",
+  "planned_results": "Absolute trial counts and source/reference-specific classifications; primary modalities separate, direct versus derived separate; any union secondary; do not impute missing numerator/window or pool alternative references.",
+  "clinical_effect_meta_analysis_planned": false,
+  "historical_dataset_policy": "182/159 analyses remain dated historical comparators and will not be overwritten.",
+  "documentary_source_version_cutoff": "2026-11-11",
+  "source_date_policy": "Use individually dated versions archived by this documentary cutoff. This is not proof that each was public on 19Oct2026. Later versions require a dated amendment and are not silently merged.",
+  "programme_enumeration_limit": "Explicit bounded named-trial roster cross-checked against registry search and cited programme publications; do not claim an exhaustive census of all trials within the three programmes or of all GLP-1 trials.",
+  "source_update_phase": "Current registry metadata only; no newly observed clinical outcome extracted.",
+  "version": "CORE-V2-RATIFIED-20261111",
+  "source_proposal_selection_sha256": "3a05952a079f4e3aedc32d76dd7de0a0723f5ea9c6c5f99c26c881b947d7071a",
+  "primary_core_trials": 28,
+  "registry_identifiers_in_primary_core": 27,
+  "population_amendment_status": "R1_AND_R2_AUTHOR_CONFIRMED_AND_INTEGRATED",
+  "membership_pending": 0,
+  "population_rules": {
+    "screening_after_dietary_runin": "Screening eligibility and selection after response to a dietary intervention are recorded separately. Analyze the actually randomized population; do not treat all screened participants as randomized.",
+    "regional_thresholds": "Use exact locally specified protocol intervals. STEP12 has a BMI upper bound <30; SURMOUNT-CN has different local intervals and excludes diabetes.",
+    "active_withdrawal": "STEP4, SURMOUNT4 and SURMOUNT-MAINTAIN remain outside the primary initiation core; previous exclusions stay unchanged."
+  },
+  "reference_labels_are_not_reviewer_ids": true,
+  "outcome_review_scope_of_ratification": "NONE. Population membership only."
+}

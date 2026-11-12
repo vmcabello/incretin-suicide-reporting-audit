@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "summary_rows_checked": 96,
+  "input_hash": "9214d5de3565b49c127c4c414e02edecc88a9f15588112344a573871dbb431f7",
+  "kind": "Separate AI computational implementation; not independent human source validation",
+  "primary_and_secondary_counts_agree": true,
+  "positive_membership_and_secondary_states_agree": true,
+  "four_sensitivity_union_families_agree": true
+}

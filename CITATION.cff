@@ -1,17 +1,17 @@
 cff-version: 1.2.0
-message: "Cite this versioned public data and analysis-code support release; this is not a manuscript or preprint."
+message: "Cite this versioned 28-population dataset and analysis code; this is not a manuscript preprint."
 type: dataset
-title: "Incretin therapy suicide-related outcome reporting audit: data and code"
-version: 1.6.1
-date-released: 2026-11-06
+title: "Public reconstructibility of suicide-related outcomes in 28 liraglutide, semaglutide and tirzepatide trial populations: data and code"
+version: 2.0.0
+date-released: 2026-11-11
 authors:
-  - family-names: "Santos"
-    given-names: "Vitor Motta Cabello dos"
+  - family-names: "Motta Cabello dos Santos"
+    given-names: "Vitor"
     orcid: "https://orcid.org/0000-0002-0667-7288"
-  - family-names: "Keltke"
+  - family-names: "Keltke Santos Felippe"
     given-names: "Guilherme"
     orcid: "https://orcid.org/0009-0007-5415-0572"
 repository-code: "https://github.com/vmcabello/incretin-suicide-reporting-audit"
-url: "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v1.6.1"
+url: "https://github.com/vmcabello/incretin-suicide-reporting-audit/releases/tag/v2.0.0"
 license: "CC-BY-4.0"
-abstract: "Author-approved current documentary analysis after targeted117-dossier source checking and exact456-position B3 integration. Earlier versions and differing internal review procedures remain identified. Substantive AI preparation and author-declared source checking are disclosed. Few reconstructions are confirmed, with broad conditional uncertainty. This fixed historical corpus does not estimate clinical suicide risk or validate every historical negative."
+abstract: "Bounded retrospective documentary audit of 28 randomized populations from 27 trial registry identifiers. Four population/window references and ascertainment modalities are analyzed separately. Direct and derived proofs remain distinct and unknowns remain in denominators. The current data and code are separate from the historical 182/159-unit corpus and do not estimate clinical suicide risk or treatment effects."

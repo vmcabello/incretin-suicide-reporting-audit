@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-11",
+  "type": "Technical application of the ratified arm-specific target; not a population amendment or human vote",
+  "items": [
+    {
+      "id": "ORIGINAL_ARMS_WITH_SOURCE_DEFINED_SAFETY",
+      "basis": "The ratified primary question requires original randomized arms; the source-safety alternative changes the population definition, not the original arm identity.",
+      "rule": "A source that pools original placebo arms may supply a fully described source-group-level witness. It does not establish a complete original-arm reconstruction if arm-specific denominators or counts are unavailable. Retain the pooled witness separately and preserve unknowns in the exact original-arm cell.",
+      "examples": ["STEP 6", "STEP 8"],
+      "zero_subset_limit": "An explicit pooled zero may establish zero in each known subset, but it does not invent the missing denominator of each original arm.",
+      "new_methodological_choice_required": false
+    },
+    {
+      "id": "NOMINAL_TABLE_VERSUS_ASSESSED_POPULATION",
+      "basis": "Documentary reconstructibility concerns counts within a stated reported population/window; it does not certify complete ascertainment of all clinical events.",
+      "rule": "Retain an explicitly reported table/SAS denominator as nominal when that is the source's reporting target. Keep actual respondent counts separate. If the source explicitly restricts an outcome to an assessed subset, that subset cannot silently be relabeled as the full randomized/exposed population. Do not require perfect clinical follow-up beyond the documented reporting target.",
+      "new_methodological_choice_required": false
+    },
+    {
+      "id": "PROVEN_POPULATION_SET_EQUIVALENCE",
+      "basis": "The no-automatic-transfer rule excludes inference from equal N alone, not a documented proof of population identity or a valid universal subset derivation.",
+      "rule": "Explicit set definitions, exhaustive participant flow and original assignment may prove exposed/safety equals randomized. For a universal zero, an explicitly exhaustive zero over all participants also implies zero in identified original-arm subsets with independently established denominators. For nonzero arm counts, arm attribution must itself be established. Record every step; do not infer identity solely from equal arm totals.",
+      "new_methodological_choice_required": false
+    }
+  ],
+  "statistical_analysis": false,
+  "human_ratings_modified": false
+}

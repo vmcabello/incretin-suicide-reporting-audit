@@ -1,0 +1,29 @@
+{
+  "date_accessed": "2026-11-11",
+  "role": "Methodological field interpretation; not a trial result or proof that a registry submission complied perfectly",
+  "official_sources": [
+    {
+      "title": "ClinicalTrials.gov: How to Read Study Results",
+      "url": "https://www.clinicaltrials.gov/study-basics/how-to-read-study-results",
+      "relevant_section": "Adverse Events section"
+    },
+    {
+      "title": "ClinicalTrials.gov: Frequently Asked Questions",
+      "url": "https://clinicaltrials.gov/policy/faq",
+      "relevant_section": "Which deaths must I submit in the all-cause mortality table as part of clinical trial results information?"
+    },
+    {
+      "title": "ClinicalTrials.gov: Adverse Event Data Preparation Checklist",
+      "url": "https://cdn.clinicaltrials.gov/documents/data-prep-checklist-ae.pdf",
+      "relevant_section": "Information to have available for All-Cause Mortality Table"
+    }
+  ],
+  "application": [
+    "The adverse-event module contains distinct all-cause mortality, serious-event and other-event tables. Their affected-person and at-risk counts must be interpreted separately.",
+    "Use the actual trial record's time frame, collection description, group definitions and at-risk counts together. An on-treatment AE definition is not automatically the definition of a separate all-cause mortality table.",
+    "A zero explicitly recorded in an applicable all-cause table may establish a subset zero in the same population/window. Absence of a suicide term or a reporting-threshold omission cannot.",
+    "A general reporting requirement is not evidence of a particular trial's source examination, exact population coverage, compliance or perfect vital-status ascertainment."
+  ],
+  "clinical_numerators_added_by_this_note": false,
+  "statistical_analysis": false
+}

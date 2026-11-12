@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-11",
+  "provider": "OpenAI",
+  "application": "Codex desktop",
+  "drafting_model": "gpt-6.1-sol",
+  "task": "Adapt the frozen 28-population documentary manuscript and supplements to Pharmaceutical Medicine subscription publication; preserve classifications and outcomes, verify author identity, journal-specific formatting and source requirements.",
+  "human_approval_recorded": true,
+  "earlier_analysis_model_versions_not_inferred": true,
+  "statistical_analysis_code_location": "codigo/",
+  "no_new_outcome_ratings": true
+}

@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "synthetic_tests_passed": 28,
+  "input_hash_verified": true,
+  "core_hash_verified": true,
+  "grid_records": 1008,
+  "applicable_positions": 784,
+  "independent_implementation_summary_rows_checked": 96,
+  "portable_reproduction_byte_identical": true,
+  "all_denominator_partitions_pass": true,
+  "all_interval_invariants_pass": true,
+  "transition_and_overlap_partitions_pass": true,
+  "frozen_and_historical_inputs_unchanged": true,
+  "new_human_cases": 0,
+  "clinical_meta_analysis_performed": false,
+  "human_validation_not_inferred": true,
+  "local_html_links_checked": 801,
+  "local_render_filter_anchor_passed": true,
+  "source_ratings_and_membership_unchanged": true,
+  "package_reproduction_entrypoint": "codigo/run_analysis.py"
+}

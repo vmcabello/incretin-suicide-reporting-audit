@@ -1,0 +1,12 @@
+{
+  "version": "CORE28-JUDGMENTS-20261111-v1",
+  "date": "2026-11-11",
+  "judgments_file": "JULGAMENTOS_FECHADOS_28_QUATRO_REFERENCIAS.json",
+  "sha256": "9214d5de3565b49c127c4c414e02edecc88a9f15588112344a573871dbb431f7",
+  "core_sha256": "c6632aaca797c46a540552e56be239afb2ac1b3725dad42cae728df8e44bc36f",
+  "previous_extraction_sha256": "abed6ca5363e701c66967907b65a1c3ac243e83eb006bcf67ba9c1597a979d62",
+  "historical_input_sha256": "dc17141cabaa2502b8d25b7f3f0d03bc832566130c5b9fe1381ea82059eecd5e",
+  "technical_closure_includes_explicit_unknowns": true,
+  "author_approval_of_future_manuscript_not_inferred": true,
+  "statistical_analysis_started": false
+}
